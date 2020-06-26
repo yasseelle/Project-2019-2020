@@ -1,0 +1,71 @@
+.card {
+    border-radius: 15px 50px;
+}
+.card-img-top {
+    border-radius: 15px 50px;
+    max-height: 350px;
+}
+
+.shadowx {
+    box-shadow: 0rem 0.2rem 0.2rem 0.2rem rgb(73, 216, 97);
+}
+.shadowx:hover {
+    box-shadow: 0rem 0.5rem 0.5rem 0.5rem rgb(27, 134, 54);
+}
+.btn {
+    border-radius: 20px 60px;
+}
+
+.btn:hover {
+    text-decoration: none;
+    box-shadow: 0 0.5rem 0.5rem rgb(61, 134, 116);
+    transform: rotatey(180deg) 4s;
+    color: darkmagenta;
+}
+
+.btn-colorx {
+    background-color: rgb(77, 204, 119);
+    background-image: linear-gradient(
+        90deg,
+        rgb(30, 189, 218) 0%,
+        rgb(26, 218, 100) 100%
+    );
+    color: white;
+}
+.btn-colorx2 {
+    background-color: rgb(147, 35, 238);
+    background-image: linear-gradient(
+        90deg,
+        rgb(110, 233, 110) 0%,
+        #069370 100%
+    );
+    color: white;
+}
+
+.btn-colorx3 {
+    background-color: rgb(247, 8, 20);
+    background-image: linear-gradient(
+        90deg,
+        rgb(211, 22, 38) 0%,
+        rgb(22, 211, 85) 100%
+    );
+    color: white;
+}
+.btn-colorx4 {
+    background-color: rgb(183, 16, 216);
+    background-image: linear-gradient(
+        90deg,
+        rgb(16, 35, 119) 0%,
+        rgb(22, 211, 85) 100%
+    );
+    color: white;
+}
+.btn-colorx5 {
+    background-color: rgb(205, 133, 219);
+    background-image: linear-gradient(
+        90deg,
+        rgb(208, 228, 171) 0%,
+        rgb(6, 236, 83) 100%
+    );
+    color: white;
+}
