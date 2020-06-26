@@ -1,0 +1,164 @@
+/* 
+        Write your Custom CSS Changes here 
+*/
+/*========================================================================================*/
+/*  CUSTOM FONTs PACKED IN THE CHILD THEME
+/*========================================================================================*/
+
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('font/BebasNeue-webfont.eot');
+    src: url('font/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/BebasNeue-webfont.woff') format('woff'),
+         url('font/BebasNeue-webfont.ttf') format('truetype'),
+         url('font/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'WebServeroffRegular';
+    src: url('font/Web_Serveroff-webfont.eot');
+    src: url('font/Web_Serveroff-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Web_Serveroff-webfont.woff') format('woff'),
+         url('font/Web_Serveroff-webfont.ttf') format('truetype'),
+         url('font/Web_Serveroff-webfont.svg#WebServeroffRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'WebServeroffItalic';
+    src: url('font/Web_Serveroff-Italic-webfont.eot');
+    src: url('font/Web_Serveroff-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Web_Serveroff-Italic-webfont.woff') format('woff'),
+         url('font/Web_Serveroff-Italic-webfont.ttf') format('truetype'),
+         url('font/Web_Serveroff-Italic-webfont.svg#WebServeroffItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('font/leaguegothic-regular-webfont.eot');
+    src: url('font/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/leaguegothic-regular-webfont.woff') format('woff'),
+         url('font/leaguegothic-regular-webfont.ttf') format('truetype'),
+         url('font/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Web_Serveroff';
+    src: url('font/Web_Serveroff-webfont.eot');
+    src: url('font/Web_Serveroff-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Web_Serveroff-webfont.woff') format('woff'),
+         url('font/Web_Serveroff-webfont.ttf') format('truetype'),
+         url('font/Web_Serveroff-webfont.svg#Web_Serveroff_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotothin';
+    src: url('font/Roboto-Thin-webfont.eot');
+    src: url('font/Roboto-Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Thin-webfont.woff') format('woff'),
+         url('font/Roboto-Thin-webfont.ttf') format('truetype'),
+         url('font/Roboto-Thin-webfont.svg#robotothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'robotoregular';
+    src: url('font/Roboto-Regular-webfont.eot');
+    src: url('font/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Regular-webfont.woff') format('woff'),
+         url('font/Roboto-Regular-webfont.ttf') format('truetype'),
+         url('font/Roboto-Regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotomedium';
+    src: url('font/Roboto-Medium-webfont.eot');
+    src: url('font/Roboto-Medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Medium-webfont.woff') format('woff'),
+         url('font/Roboto-Medium-webfont.ttf') format('truetype'),
+         url('font/Roboto-Medium-webfont.svg#robotomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotolight';
+    src: url('font/Roboto-Light-webfont.eot');
+    src: url('font/Roboto-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Light-webfont.woff') format('woff'),
+         url('font/Roboto-Light-webfont.ttf') format('truetype'),
+         url('font/Roboto-Light-webfont.svg#robotolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotocondensed';
+    src: url('font/Roboto-Condensed-webfont.eot');
+    src: url('font/Roboto-Condensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Condensed-webfont.woff') format('woff'),
+         url('font/Roboto-Condensed-webfont.ttf') format('truetype'),
+         url('font/Roboto-Condensed-webfont.svg#robotocondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotobold_condensed';
+    src: url('font/Roboto-BoldCondensed-webfont.eot');
+    src: url('font/Roboto-BoldCondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-BoldCondensed-webfont.woff') format('woff'),
+         url('font/Roboto-BoldCondensed-webfont.ttf') format('truetype'),
+         url('font/Roboto-BoldCondensed-webfont.svg#robotobold_condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotobold';
+    src: url('font/Roboto-Bold-webfont.eot');
+    src: url('font/Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Bold-webfont.woff') format('woff'),
+         url('font/Roboto-Bold-webfont.ttf') format('truetype'),
+         url('font/Roboto-Bold-webfont.svg#robotobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'robotoblack';
+    src: url('font/Roboto-Black-webfont.eot');
+    src: url('font/Roboto-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/Roboto-Black-webfont.woff') format('woff'),
+         url('font/Roboto-Black-webfont.ttf') format('truetype'),
+         url('font/Roboto-Black-webfont.svg#robotoblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+

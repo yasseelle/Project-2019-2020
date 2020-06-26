@@ -1,0 +1,3184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:43+0530\n"
+"PO-Revision-Date: 2017-02-01 14:43+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "Kime:"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "İleti dizisini görüntüle"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View"
+msgstr "Görüntüle"
+
+# @ vibe
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Commenter <span>%s</span>"
+
+# @ vibe
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "Favorim"
+
+# @ vibe
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "Favorilerimden kaldır"
+
+# @ vibe
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "Gönder"
+
+# @ vibe
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "iptal etmek için esc bas"
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "Tüm site üyelerine ait etkinlikler"
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Tous les Membres <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "Arkadaşlarımın etkinlikleri"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Mes Amis <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "Üye olduğum grupların etkinlikleri"
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Mes Groupes <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "Favori etkinliklerim"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Mes Favoris <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "İsmimin geçtiği etkinlikler"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "Mentionlar"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "RSS Dizisi"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "RSS"
+
+# @ vibe
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "Görüntüle:"
+
+# @ vibe
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "Hepsi"
+
+# @ vibe
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "Güncellemeler"
+
+# @ vibe
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "İletiler"
+
+# @ vibe
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "Yorumlar"
+
+# @ vibe
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "Forum Konuları"
+
+# @ vibe
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "Forum Yanıtları"
+
+# @ vibe
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "Yeni Gruplar"
+
+# @ vibe
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "Grup Üyelikleri"
+
+# @ vibe
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "Arkadaşlıklar"
+
+# @ vibe
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "Yeni Talebe"
+
+# @ vibe
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "Öğreticinin diğer dersleri "
+
+# @ vibe
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr ""
+
+# @ vibe
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ vibe
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ default
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "Voir toutes les publications dans %s "
+
+# @ vibe
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "Daha Fazla"
+
+# @ vibe
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "Site bulunamadı"
+
+# @ vibe
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr ""
+
+# @ vibe
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "Şu anda kayıt yapılamamaktadır"
+
+# @ vibe
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Tous les sites <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Mes Sites <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "Site Oluştur"
+
+# @ vibe
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "Sırala:"
+
+# @ vibe
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "Son Görüntülenme"
+
+# @ vibe
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "En Yeni"
+
+# @ vibe
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "Alfabetik sırada"
+
+# @ default
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ vibe
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "BİTİRME SERTİFİKASI"
+
+# @ vibe
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "Verilen"
+
+# @ vibe
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr ""
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ vibe
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "Ad Soyad"
+
+# @ vibe
+# @ pmpro
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "E-posta "
+
+# @ vibe
+#: comments.php:29
+msgid "Comment"
+msgstr "Yorum Yap"
+
+# @ vibe
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "Web Sitesi"
+
+# @ vibe
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "Gönder"
+
+# @ vibe
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "Yorum Yap"
+
+# @ vibe
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "Ders Yorumları"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ vibe
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "Bu derse henüz yorum yapılmadı. İlk yorum yapan siz olabilirsiniz."
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ vibe
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "DAHA FAZLA"
+
+# @ vibe
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "AZALT"
+
+# @ vibe
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr "KAYITLI TALEBE"
+
+# @ vibe
+#: footer.php:19
+msgid "top"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "Konu"
+
+# @ vibe
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "başladı %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "de %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+# @ vibe
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "Yeni Konu"
+
+# @ vibe
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Tüm başlıklar <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Konu başlıklarım <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "Yanıtsız"
+
+# @ vibe
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "Yeni konu oluştur"
+
+# @ vibe
+#: forums/index.php:107
+msgid "Title:"
+msgstr "Başlık:"
+
+# @ vibe
+#: forums/index.php:110
+msgid "Content:"
+msgstr "İçerik:"
+
+# @ vibe
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "Etiketler:"
+
+# @ vibe
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "Yorum Yap"
+
+# @ vibe
+#: forums/index.php:119
+msgid "----"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "Konu Gönder"
+
+# @ vibe
+# @ pmpro
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "İptal Et"
+
+# @ vibe
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Non puoi pubblicare nel forum del gruppo perché non sei iscritto a nessun "
+"gruppo. Per iniziare a pubblicare in primo luogo trova un gruppo attinente "
+"ai tuoi interessi. Se questo gruppo non esiste, perché non <a href='%s'> "
+"creare un nuovo gruppo </ a>? Dopo aver aderito o creato il gruppo puoi "
+"pubblicare i tuoi argomenti nel forum di quel gruppo."
+
+# @ vibe
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "Grup Adı (zorunlu)"
+
+# @ vibe
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "Grup Açıklaması (zorunlu)"
+
+# @ vibe
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "Gizlilik Ayarları"
+
+# @ vibe
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "Bu herkese açık bir grup"
+
+# @ vibe
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "Her üye bu siteye katılabilir"
+
+# @ vibe
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Bu grup tüm gruplar listesinde görüntülenebilecektir"
+
+# @ vibe
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr "Grup içerikleri ve aktiviteleri herkese açıktır"
+
+# @ vibe
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "Bu özel gruptur"
+
+# @ vibe
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Bu gruba katılmak için üyelik teklif etmeniz gerekiyor"
+
+# @ vibe
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "Grup içerik ve aktiviteleri sadece grup üyelerine açıktır"
+
+# @ vibe
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "Bu gizli gruptur"
+
+# @ vibe
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "Sadece davet edilen kullanıcılar gruba üye olabilir"
+
+# @ vibe
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "Bu grup tüm gruplar listesinde görüntülenemez"
+
+# @ vibe
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "Grup Davetleri"
+
+# @ vibe
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Hangi grup üyerleri yeni üye davet edebilir?"
+
+# @ vibe
+#: groups/create.php:107
+msgid "All group members"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "Yalnız grup admin ve mod"
+
+# @ vibe
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "Yalnız grup adminleri"
+
+# @ vibe
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "Grup Forumları"
+
+# @ vibe
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "Bu grubun forumu olmalı mı?"
+
+# @ vibe
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "Etkisiz Yap"
+
+# @ vibe
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong> Attenzione Admin: </ strong> I Forum del Gruppo richiedono una <a "
+"href=\"%s\"> corretta installazione e configurazione </ a> di un impianto "
+"bbPress."
+
+# @ vibe
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "Resmi yükle"
+
+# @ vibe
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "Profil resmi yüklemeden devametmek için\"Sonraki\" tuşuna tıklayınız"
+
+# @ vibe
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "Değiştir"
+
+# @ vibe
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "Önizleme"
+
+# @ vibe
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "Düzenle"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "Seç"
+
+# @ vibe
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "Daveti kaldır"
+
+# @ vibe
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr "Arkadaş ağı oluşturduktan sonra, grubunuz için davet yollayabilirsiniz"
+
+# @ vibe
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "Geri"
+
+# @ vibe
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "Sonraki"
+
+# @ vibe
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "Grup Oluştur ve Devam Et"
+
+# @ vibe
+#: groups/create.php:329
+msgid "Finish"
+msgstr "Bitti"
+
+# @ vibe
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "connecté %s"
+
+# @ vibe
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr ""
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ vibe
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "Ara"
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ vibe
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Votre compte a été activé avec succès! Vous pouvez maintenant <a href=\"%s"
+"\">log in</a>avec le nom d'utilisateur et le mot de passe que vous avez "
+"fourni lors de votre inscription."
+
+# @ vibe
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr ""
+
+# @ tgmpa
+# @ vibe
+#: registration/activate.php:41
+msgid "Activate"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:88
+msgid "Account Details"
+msgstr ""
+
+# @ vibe
+# @ pmpro
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+# @ vibe
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:102
+msgid "Email Address"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr ""
+
+# @ pmpro
+# @ vibe
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr ""
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:211
+msgid "Close"
+msgstr "Kapat"
+
+# @ vibe
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:303
+msgid "Site Title"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:324
+msgid "Yes"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:325
+msgid "No"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+# @ vibe
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr ""
+
+# @ vibe
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ vibe
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr ""
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ vibe
+#: single-course.php:38
+msgid "Home"
+msgstr "Ana Sayfa"
+
+# @ vibe
+#: single-course.php:39
+msgid "Curriculum"
+msgstr ""
+
+# @ vibe
+# @ buddypress
+#: single-course.php:40
+msgid "Members"
+msgstr "Talebeler"
+
+# @ vibe
+#: single-course.php:48
+msgid "Group"
+msgstr ""
+
+# @ vibe
+#: single-course.php:55
+msgid "Forum"
+msgstr ""
+
+# @ vibe
+#: single-course.php:60
+msgid "Admin"
+msgstr "Admin"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ vibe
+#: single-post.php:104
+msgid "Courses"
+msgstr ""
+
+# @ vibe
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr ""
+
+# @ vibe
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr ""
+
+# @ vibe
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr ""
+
+# @ vibe
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr ""
+
+# @ vibe
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:112
+msgid "Attachments"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "Cevap Ver"
+
+# @ vibe
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "Kaldır"
+
+# @ vibe
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ vibe
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "Tüm Ödev Teslimatı"
+
+# @ vibe
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "En Fazla Puan"
+
+# @ vibe
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr ""
+
+# @ vibe
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+# @ vibe
+#: start.php:76
+msgid " Hours"
+msgstr ""
+
+# @ vibe
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ vibe
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr ""
+
+# @ vibe
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr ""
+
+# @ vibe
+#: start.php:137
+msgid "Start Course"
+msgstr "Derse Başla"
+
+# @ vibe
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:157
+msgid "Previous Unit"
+msgstr "Önceki Bölüm"
+
+# @ vibe
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+# @ vibe
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "Bu Bölümü Bitir"
+
+# @ vibe
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "Bir Sonraki Bölüm"
+
+# @ vibe
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ vibe
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "DERSE DÖN"
+
+# @ vibe
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "DERSE YORUM YAP "
+
+# @ vibe
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "DERSİ BİTİR"
+
+#  include the HTML <span>%s</span>
+# @ vibe
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Tüm Dersler <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Derslerim <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Yönetilen Dersler <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr "Sırala"
+
+# @ vibe
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "Yeni Yayınlandı"
+
+# @ vibe
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "En çok üye "
+
+# @ vibe
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "En çok beğenilen"
+
+# @ vibe
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Tous les groupes <span>%s</span>"
+
+# @ vibe
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "Yeni grup oluştur"
+
+# @ vibe
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "Yeni"
+
+# @ vibe
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "Giriş Yap "
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ vibe
+# @ pmpro
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "Şifre"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ vibe
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Risultati di Ricerca: &ldquo;%s&rdquo;"
+
+# @ vibe
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; pagina %s"
+
+# @ vibe
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr ""
+
+# @ vibe
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "Yeni kullanıcı"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "isafir kullanıcı olarak devam et"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "Aşağıdaki bilgileri girerek hesap açın"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "Ürün"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "Sepet Toplamı"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "Kupon:"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "Sipariş Toplamı"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Özür dileriz, bölgenize uygun ödeme şekli bulunmamaktadır. Lütfen bizimle "
+"iletişime geçin."
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "Siparişi öde"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Başka adrese yolla"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Ödeme şekillerini görüntülemek için detaylarınızı girin"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Özür dileriz, bölgenize uygun ödeme şekli bulunmamaktadır. Lütfen bizimle "
+"iletişime geçin."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"JavaScript desteklemediği için, siparişi ödemeden önce<em>güncelle </em>  "
+"düğmesine basın. Toplam fiyat görüntülenenden farklı olabilir."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "Güncelle"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "Sipariş Ver"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "Okudum ve kabul ediyorum"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "DERS"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "DERSİ BAŞLAT"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr ""
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ vibe
+#~ msgid "Save Answer"
+#~ msgstr "Cevabı Kaydet"
+
+# @ vibe
+#~ msgid "Answer"
+#~ msgstr "Yanıtla"
+
+# @ vibe
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "Önceki Yanıtlar"
+
+# @ vibe
+#~ msgid "Clear saved Answer"
+#~ msgstr "Kaydedilmiş Cevapları Temizle"
+
+# @ vibe
+#~ msgid "All Events in "
+#~ msgstr "Tüm aktiviteler "
+
+# @ vibe
+#~ msgid "Answer Assignment"
+#~ msgstr "Ödevi Yap"
+
+# @ vibe
+#~ msgid "Upload Assignment"
+#~ msgstr "Ödevi Yükle"
+
+# @ vibe
+#~ msgid "%s profile"
+#~ msgstr "%s'nin Profili"
+
+# @ vibe
+#~ msgid " Responses on "
+#~ msgstr "Hakkında"
+
+# @ vibe
+#~ msgid "Leave a Message"
+#~ msgstr "Mesaj At"
+
+# @ vibe
+#~ msgid "EDIT COURSE"
+#~ msgstr "DERSİ DÜZENLE"
+
+# @ vibe
+#~ msgid "CREATE COURSE"
+#~ msgstr "YENİ DERS AÇIN"
+
+# @ vibe
+#~ msgid "Start building a course"
+#~ msgstr "Dersinizi Oluşturmaya Başlayın"
+
+# @ vibe
+#~ msgid "SETTINGS"
+#~ msgstr "AYARLAR"
+
+# @ vibe
+#~ msgid "Course settings"
+#~ msgstr "Ders Ayarları"
+
+# @ vibe
+#~ msgid "SET CURRICULUM"
+#~ msgstr "KONULARI DÜZENLE"
+
+# @ vibe
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "Konu veya Test Giriniz"
+
+# @ vibe
+#~ msgid "PRICING"
+#~ msgstr "FİYATLANDIRMA"
+
+# @ vibe
+#~ msgid "Set Price for Course"
+#~ msgstr "Ders Fiyatı Belirleyin"
+
+# @ vibe
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "DERSİ YAYINLA"
+
+# @ vibe
+#~ msgid "Go Live !"
+#~ msgstr "Dersi Aç !"
+
+# @ vibe
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "Admin kısmında düzenleyin."
+
+# @ vibe
+#~ msgid "COURSE TITLE"
+#~ msgstr "DERS BAŞLIĞI"
+
+# @ vibe
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "DERS BAŞLIĞI GİRİNİZ"
+
+# @ vibe
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "DERS KATEGORİSİ"
+
+# @ vibe
+#~ msgid "Select a Course Category"
+#~ msgstr "Ders Kategorisi Seç"
+
+# @ vibe
+#~ msgid "Add new category"
+#~ msgstr "Yeni Kategori Girin"
+
+# @ vibe
+#~ msgid "Enter a new Course Category"
+#~ msgstr "Yeni Ders Kategorisi Gir"
+
+# @ vibe
+#~ msgid "COURSE IMAGE"
+#~ msgstr "DERS FOTOĞRAFI"
+
+# @ vibe
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "DERSİN TANIMI"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "30 kelimeyi geçmeyecek şekilde dersinizin tanımını giriniz. Dersle "
+#~ "alakalı daha fazla bilgi sonraki aşamada girilecektir."
+
+# @ vibe
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "DERS İRTİBATI"
+
+# @ vibe
+#~ msgid "Change Course Status"
+#~ msgstr "Dersin Statüsünü Değiştirin"
+
+# @ vibe
+#~ msgid "Online"
+#~ msgstr "Açık"
+
+# @ vibe
+#~ msgid "Offline"
+#~ msgstr "Kapalı"
+
+# @ vibe
+#~ msgid "SAVE COURSE"
+#~ msgstr "DERSİ KAYDEDİN"
+
+# @ vibe
+#~ msgid "Course Settings"
+#~ msgstr "Ders Ayarları"
+
+# @ vibe
+#~ msgid "Course Duration"
+#~ msgstr "Dersin Zamanı"
+
+# @ vibe
+#~ msgid "Maximum Course Duration"
+#~ msgstr "Dersin en fazla Müddeti"
+
+# @ vibe
+#~ msgid "Course Evaluation"
+#~ msgstr "Ders Değerlendirmesi"
+
+# @ vibe
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "Ders Değerlendirme Modu"
+
+# @ vibe
+#~ msgid "Manual"
+#~ msgstr "Elle"
+
+# @ vibe
+#~ msgid "Automatic"
+#~ msgstr "Otomatik"
+
+# @ vibe
+#~ msgid "Pre-required Course"
+#~ msgstr "Alınması Gerekli olan Ders"
+
+# @ vibe
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "Alınması Gerekli olan Dersi ayarla"
+
+# @ vibe
+#~ msgid "None"
+#~ msgstr "Yok"
+
+# @ vibe
+#~ msgid "Disable"
+#~ msgstr "Devre Dışı Bırak"
+
+# @ vibe
+#~ msgid "Enable"
+#~ msgstr "Etkinleştir"
+
+# @ vibe
+#~ msgid "Course Certificate"
+#~ msgstr "Ders Sertifikası"
+
+# @ vibe
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "Sertifika Yüzdesini Ayarla"
+
+# @ vibe
+#~ msgid "out of 100"
+#~ msgstr "100 Üzerinden"
+
+# @ vibe
+#~ msgid "Set Certificate Template"
+#~ msgstr "Sertifika Şablonunu Ayarla"
+
+# @ vibe
+#~ msgid "Default Template"
+#~ msgstr "Ana Şablon"
+
+# @ vibe
+#~ msgid "Course Badge"
+#~ msgstr "PUANLAMA"
+
+# @ vibe
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "AYARLARI KAYDET"
+
+# @ vibe
+#~ msgid "Course Curriculum"
+#~ msgstr "Ders Konuları"
+
+# @ vibe
+#~ msgid "ADD SECTION"
+#~ msgstr "BÖLÜM EKLE"
+
+# @ vibe
+#~ msgid "ADD UNIT"
+#~ msgstr "KONU EKLE"
+
+# @ vibe
+#~ msgid "ADD QUIZ"
+#~ msgstr "TEST EKLE"
+
+# @ vibe
+#~ msgid "Delete"
+#~ msgstr "Sil"
+
+# @ vibe
+#~ msgid "Publish"
+#~ msgstr "Yayınla"
+
+# @ vibe
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "BİR TEST SEÇİNİZ"
+
+# @ vibe
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "KONULARI KAYDET"
+
+# @ vibe
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "Bu bölümde daha önce kategorize ettiğiniz ve bölümlerini "
+#~ "isimlendirdiğiniz konu veya testlerin listesi gelecektir. "
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+
+# @ vibe
+#~ msgid "Sign Up"
+#~ msgstr "Kayıt Ol"
+
+# @ vibe
+#~ msgid "This Page is only accessible to Instructors"
+#~ msgstr "Bu Sayfayı sadece öğretmenler görebilir."
+
+# @ vibe
+#~ msgid "Instructors only page"
+#~ msgstr "Öğretmenlere özel sayfa"
+
+# @ vibe
+#~ msgid "Members only"
+#~ msgstr "Sadece Üyeler"
+
+# @ vibe
+#~ msgid "Connect Edit Course Page"
+#~ msgstr "Ders Düzenleme Sayfasına Bağla"
+
+# @ vibe
+#~ msgid "No, allow publish"
+#~ msgstr "Hayır, Yayına izin Ver"
+
+# @ vibe
+#~ msgid "Students"
+#~ msgstr "Talebe"
+
+# @ vibe
+#~ msgid "All Instructors"
+#~ msgstr "Hocalar"
+
+# @ vibe
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "Fallback Certificate Page"
+
+# @ vibe
+#~ msgid "Seconds"
+#~ msgstr "Saniye"
+
+# @ vibe
+#~ msgid "Minutes"
+#~ msgstr "Dakika"
+
+# @ vibe
+#~ msgid "Hours"
+#~ msgstr "Saat"
+
+# @ vibe
+#~ msgid "Days"
+#~ msgstr "Gün"
+
+# @ vibe
+#~ msgid "Weeks"
+#~ msgstr "Hafta"
+
+# @ vibe
+#~ msgid "Months"
+#~ msgstr "Ay"
+
+# @ vibe
+#~ msgid "Years"
+#~ msgstr "Yıl"
+
+# @ vibe
+#~ msgid "Finished Course Access"
+#~ msgstr "Bitmiş Derse Giriş"
+
+# @ vibe
+#~ msgid "Display News"
+#~ msgstr "Haberleri Göster"
+
+# @ vibe
+#~ msgid "Please enter some content to post."
+#~ msgstr "Lütfen içerik girin"
+
+# @ vibe
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "İletinizi yayınlarken hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "Lütfen bu alanı boş bırakmayın"
+
+# @ vibe
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr "İletinizi yayınlarken hata oluştu, lüften tekrar deneyin"
+
+# @ vibe
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "Hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+
+# @ vibe
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "Arkadaşlık durumu iptal edilemedi"
+
+# @ vibe
+#~ msgid "Add Friend"
+#~ msgstr "Arkadaşlarıma ekle"
+
+# @ vibe
+#~ msgid " Friendship could not be requested."
+#~ msgstr "Arkadaşlık talebi gönderilemedi"
+
+# @ vibe
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "Arkadaşlık talebini iptal et"
+
+# @ vibe
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "Arkadaşlık talebi iptal edilemedi"
+
+# @ vibe
+#~ msgid "Request Pending"
+#~ msgstr "Arkadaşlık teklifi beklemede"
+
+# @ vibe
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Error joining group"
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Leave Group"
+#~ msgstr "Gruptan ayrıl"
+
+# @ vibe
+#~ msgid "Error requesting membership"
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Membership Requested"
+#~ msgstr "Üyelik teklifi yollandı"
+
+# @ vibe
+#~ msgid "Error leaving group"
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Join Group"
+#~ msgstr "Gruba Katıl"
+
+# @ vibe
+#~ msgid "Request Membership"
+#~ msgstr "Üyelik teklif et"
+
+# @ vibe
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Sent %s"
+#~ msgstr "İletildi %s"
+
+# @ vibe
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyin"
+
+# @ vibe
+#~ msgid "Messages deleted."
+#~ msgstr "Mesajlar silindi"
+
+# @ vibe
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr "Etkinlik bulunamadı. Bir daha deneyin"
+
+# @ vibe
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> cevap verdi <a href=\"%3$s\" class=\"activity-"
+#~ "time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+# @ vibe
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "Quoi de neuf dans %s, %s?"
+
+# @ vibe
+#~ msgid "What's new, %s?"
+#~ msgstr "Quoi de neuf, %s?"
+
+# @ vibe
+#~ msgid "Post Update"
+#~ msgstr "Güncelleme Yolla"
+
+# @ vibe
+#~ msgid "My Profile"
+#~ msgstr "Profilim"
+
+# @ vibe
+#~ msgid "You have not created any Course."
+#~ msgstr "Henüz ders oluşturmadınız"
+
+# @ vibe
+#~ msgid "Submissions"
+#~ msgstr "Teslim Edilenler"
+
+# @ vibe
+#~ msgid "Activity"
+#~ msgstr "Etkinlik"
+
+# @ vibe
+#~ msgid "Stats"
+#~ msgstr "Durum"
+
+# @ vibe
+#~ msgid "Total number of Students in course"
+#~ msgstr "Bu dersi alan toplam kişi"
+
+# @ vibe
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Bu dersi şu anda alan kişi sayısı"
+
+# @ vibe
+#~ msgid "Reset Course for User"
+#~ msgstr "Talebe İçin Dersi Yenile"
+
+# @ vibe
+#~ msgid "See Course stats for User"
+#~ msgstr "Talebenin Durumunu göster"
+
+# @ vibe
+#~ msgid "Remove User from this Course"
+#~ msgstr "Kullanıcıyı bu dersten çıkar"
+
+# @ vibe
+#~ msgid "BULK ACTIONS"
+#~ msgstr "TOPLU HAREKETLER"
+
+# @ vibe
+#~ msgid "FREE"
+#~ msgstr "ÜCRETSİZ"
+
+# @ vibe
+#~ msgid "minutes"
+#~ msgstr "dakika"
+
+# @ vibe
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "Bu dersi tamamlayan toplam kişi"
+
+# @ vibe
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "Kullanıcıların ortalama puanı"
+
+# @ vibe
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "Rozet Kananan toplam kişi"
+
+# @ vibe
+#~ msgid "Number of Passed Students"
+#~ msgstr "Dersi geçen Talebe sayısı"
+
+# @ vibe
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "Talebeler Tarafından alınan Ortalama Puan"
+
+# @ vibe
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "Ortalama Test Puanı "
+
+# @ vibe
+#~ msgid "Calculate :"
+#~ msgstr "Hesapla:"
+
+# @ vibe
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "TESLİM EDİLEN ÖDEVLER"
+
+# @ vibe
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "Ödevi Değerlendir: "
+
+# @ vibe
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "SINAV TESLİMİ"
+
+# @ vibe
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Talebe için Sınavı yenile"
+
+# @ vibe
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Talebenin Sınavını Değerlendir"
+
+# @ vibe
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "DERS TESLİMİ"
+
+# @ vibe
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Talebenin Dersini Değerlendir"
+
+# @ vibe
+#~ msgid "There were no groups found."
+#~ msgstr "Grup bulunamadı"
+
+# @ vibe
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "Değişiklikleri Grup üyelerine e-posta ile haber ver"
+
+# @ vibe
+#~ msgid "Save Changes"
+#~ msgstr "Değişiklikleri kaydet"
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Yeni bir resim eklemeden, resminizi kaldırmak istiyorsanız resim sil "
+#~ "tuşuna bas"
+
+# @ vibe
+#~ msgid "Delete Avatar"
+#~ msgstr "Resim Sil"
+
+# @ vibe
+#~ msgid "Crop Avatar"
+#~ msgstr "Resmi editle"
+
+# @ vibe
+#~ msgid "Administrators"
+#~ msgstr "Admin"
+
+# @ vibe
+#~ msgid "Profile picture of %s"
+#~ msgstr "Photo du profil de %s"
+
+# @ vibe
+#~ msgid "Demote to Member"
+#~ msgstr "Üyeye indirge "
+
+# @ vibe
+#~ msgid "Accept"
+#~ msgstr "Kabul et"
+
+# @ vibe
+#~ msgid "Reject"
+#~ msgstr "Reddet"
+
+# @ vibe
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr "Yeni bir konu açtığınızda bu gruba otomatik dahil olacaksınız"
+
+# @ vibe
+#~ msgid "Post a New Topic:"
+#~ msgstr "Yeni Konu Aç:"
+
+# @ buddypress
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "You are requesting to become a member of the group '%s'."
+
+# @ vibe
+#~ msgid "Comments (optional)"
+#~ msgstr "Yorumlar"
+
+# @ vibe
+#~ msgid "Send Request"
+#~ msgstr "Teklif Et"
+
+# @ vibe
+#~ msgid "Send Invites"
+#~ msgstr "Davet Et "
+
+# @ vibe
+#~ msgid "Edit:"
+#~ msgstr "Düzenle:"
+
+# @ vibe
+#~ msgid "This topic does not exist."
+#~ msgstr "Bu konu mevcut değil"
+
+# @ vibe
+#~ msgid "New Reply"
+#~ msgstr "Yeni Yanıt "
+
+# @ vibe
+#~ msgid "Topic tags:"
+#~ msgstr "Konu Etiketleri"
+
+# @ vibe
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s a dit %2$s:"
+
+# @ vibe
+#~ msgid "There are no posts for this topic."
+#~ msgstr "Bu konuda içerik bulunamadı"
+
+# @ vibe
+#~ msgid "Add a reply:"
+#~ msgstr "Yanıt ekle"
+
+# @ vibe
+#~ msgid "Post Reply"
+#~ msgstr "Yanıt yaz"
+
+# @ vibe
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "Bu konu kapatılmıştır"
+
+# @ vibe
+#~ msgid "Enter URL for social icon."
+#~ msgstr "URL ekle"
+
+# @ vibe
+#~ msgid "Share on "
+#~ msgstr "Paylaş"
+
+# @ vibe
+#~ msgid "Course Category"
+#~ msgstr "Ders Kategorisi"
+
+# @ vibe
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr ""
+#~ "Dersi Tamamladı olarak işaretlemek için Video/Ses dosyasını dinlemeniz "
+#~ "gerekir."
+
+# @ vibe
+#~ msgid "Page"
+#~ msgstr "Sayfa"
+
+# @ vibe
+#~ msgid "Attachment"
+#~ msgstr "Ek"
+
+# @ vibe
+#~ msgid " REGISTER NOW"
+#~ msgstr "KAYIT OL"
+
+# @ vibe
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "Bu derse kayıt olmak için giriş yapmanız gerekmektedir"
+
+# @ vibe
+#~ msgid "Course Marks"
+#~ msgstr "Ders Puanı"
+
+# @ vibe
+#~ msgid "All students"
+#~ msgstr "Tüm Talebeler"
+
+# @ vibe
+#~ msgid "Page %s"
+#~ msgstr "Page %s"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Install Required Plugins"
+#~ msgstr "Gerekli eklentileri indir"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Install Plugins"
+#~ msgstr "Eklentileri İndir"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installation du Plugin: %s"
+
+# @ vibe
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Bir hata oluştu, lütfen tekrar deneyiniz"
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Tous les plugins ont été installés et activés avec succès. %s"
+
+# @ tgmpa
+#~ msgid "Something went wrong."
+#~ msgstr "Bir hata oluştu"
+
+# @ tgmpa
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Tous les plugins ont été installés et activés avec succès. %1$s"
+
+# @ tgmpa
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "Aucun plugin à installer ou à activer. <a href=\"%1$s\" title=\"Return to "
+#~ "the Dashboard\">Return to the Dashboard</a>"
+
+# @ tgmpa
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Télécharger le pack d'installation de <span class=\"code\">%s</"
+#~ "span>&#8230;"
+
+# @ tgmpa
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s installé et activité avec succès."
+
+# @ tgmpa
+#~ msgid "Show Details"
+#~ msgstr "Detay göster"
+
+# @ tgmpa
+#~ msgid "Hide Details"
+#~ msgstr "Detay gizle"
+
+# @ tgmpa
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Tamamlandı"
+
+# @ tgmpa
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation et Activation du plugin %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Une erreur est survenue lors de l'installation %1$s: <strong>%2$s</"
+#~ "strong>."
+
+# @ tgmpa
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "L'installation de %1$s a échoué."
+
+# @ tgmpa
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s installé avec succès."
+
+# @ tgmpa
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installation du plugin %1$s (%2$d/%3$d)"
+
+# @ vibe
+#~ msgid "Review Title"
+#~ msgstr "Yorum Başlığınız"
+
+# @ vibe
+#~ msgid "Review Rating"
+#~ msgstr "Puan"
+
+# @ vibe
+#~ msgid "Student"
+#~ msgstr "Talebe"
+
+# @ vibe
+#~ msgid "Instructor"
+#~ msgstr "Öğretmen"
+
+# @ vibe
+#~ msgid "Accepted"
+#~ msgstr "Kabul Edildi"
+
+# @ vibe
+#~ msgid "comments"
+#~ msgstr "Yorum"
+
+# @ vibe
+#~ msgid "Show all %d comments"
+#~ msgstr "Show all %d comments"
+
+# @ vibe
+#~ msgid "Student "
+#~ msgstr "Katılımcı "
+
+# @ vibe
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (Invalide)"
+
+# @ vibe
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (Onay Bekliyor)"
+
+# @ vibe
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Yeni sayfada aç "
+
+# @ vibe
+#~ msgid "Description"
+#~ msgstr "Açıklama"
+
+# @ vibe
+#~ msgid "Original: %s"
+#~ msgstr "Original: %s"
+
+# @ vibe
+#~ msgid "AND"
+#~ msgstr "VE"
+
+# @ vibe
+#~ msgid "OR"
+#~ msgstr "VEYA"
+
+# @ vibe
+#~ msgid "Inbox"
+#~ msgstr "Gelen Kutusu"
+
+# @ vibe
+#~ msgid "Notifications"
+#~ msgstr "Bildirimler"
+
+# @ vibe
+#~ msgid "Groups"
+#~ msgstr "Gruplar"
+
+# @ vibe
+#~ msgid "Remember Me"
+#~ msgstr "Beni Hatırla"
+
+# @ vibe
+#~ msgid "Log In"
+#~ msgstr "Giriş Yap"
+
+# @ vibe
+#~ msgid "View all Courses in %s"
+#~ msgstr "Voir tous les cours en %s"
+
+# @ vibe
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "Vibe Certificate Code validator"
+
+# @ vibe
+#~ msgid "%s ago"
+#~ msgstr "%s depuis"
+
+# @ vibe
+#~ msgid "My Submission"
+#~ msgstr "Benim dosyam"
+
+# @ vibe
+#~ msgid "Download Attachment"
+#~ msgstr "Ek İndir"
+
+# @ vibe
+#~ msgid "Marks Obtained"
+#~ msgstr "Kazanılan Puan"
+
+# @ vibe
+#~ msgid "Marked Answer :"
+#~ msgstr "İşaretlenen"
+
+# @ vibe
+#~ msgid "FALSE"
+#~ msgstr "YANLIŞ"
+
+# @ vibe
+#~ msgid "TRUE"
+#~ msgstr "DOĞRU"
+
+# @ vibe
+#~ msgid "Correct Answer :"
+#~ msgstr "Doğru yanıt"
+
+# @ vibe
+#~ msgid "Total Marks :"
+#~ msgstr "Toplam Puan:"
+
+# @ vibe
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "Alınan Puan"
+
+# @ vibe
+#~ msgid "Total Marks"
+#~ msgstr "Toplam Puan"
+
+# @ vibe
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "Tekrar"
+
+# @ vibe
+#~ msgid " out of "
+#~ msgstr "içinden "
+
+# @ vibe
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "Bir önceki Sonuç "
+
+# @ vibe
+#~ msgid "Results not Available"
+#~ msgstr "Bir hata oluştu"
+
+# @ vibe
+#~ msgid "Quiz Results"
+#~ msgstr "Test Sonuçları"
+
+# @ vibe
+#~ msgid "Submitted "
+#~ msgstr "Teslim Edildi "
+
+# @ vibe
+#~ msgid "My Marks"
+#~ msgstr "Puanım"
+
+# @ vibe
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "Onay bekleyen arkadaşlık teklifiniz bulunmamaktadır"
+
+# @ vibe
+#~ msgid "Subject"
+#~ msgstr "Konu"
+
+# @ vibe
+#~ msgid "Message"
+#~ msgstr "Mesaj"
+
+# @ vibe
+#~ msgid "Send Message"
+#~ msgstr "Mesaj At "
+
+# @ vibe
+#~ msgid "From:"
+#~ msgstr "Kimden:"
+
+# @ vibe
+#~ msgid "To:"
+#~ msgstr "Kime:"
+
+# @ buddypress
+#~ msgid "View Message"
+#~ msgstr "Görüntüle"
+
+# @ buddypress
+#~ msgid "Delete Message"
+#~ msgstr "Sil"
+
+# @ vibe
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Mesaj bulunamadı"
+
+# @ vibe
+#~ msgid "Sent:"
+#~ msgstr "Gönderilen"
+
+# @ vibe
+#~ msgid "Conversation between %s and you."
+#~ msgstr "Conversation entre %s et vous"
+
+# @ vibe
+#~ msgid "Send a Reply"
+#~ msgstr "Yanıt yolla"
+
+# @ vibe
+#~ msgid "Send Reply"
+#~ msgstr "Yanıt Yolla "
+
+# @ vibe
+#~ msgid "You have no unread notifications."
+#~ msgstr "Okunmamış bildiriminiz yok"
+
+# @ vibe
+#~ msgid "You have no notifications."
+#~ msgstr "Hiç bildiriminiz yok"
+
+# @ vibe
+#~ msgid "Notification"
+#~ msgstr "Bildirim"
+
+# @ vibe
+#~ msgid "Date Received"
+#~ msgstr "Gelen"
+
+# @ vibe
+#~ msgid "Change Avatar"
+#~ msgstr "Profil Resmi Değiştir"
+
+# @ vibe
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "Modifie le profil du groupe  '%s' "
+
+# @ vibe
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr "Visibile a: <span class=\"current-visibility-level\">%s</span>"
+
+# @ vibe
+#~ msgid "%s's Profile"
+#~ msgstr "%s'nin Profili"
+
+# @ vibe
+#~ msgid "About Me"
+#~ msgstr "Hakkımda"
+
+# @ vibe
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ vibe
+#~ msgid "Save"
+#~ msgstr "Kaydet"
+
+# @ vibe
+#~ msgid "Delete Account"
+#~ msgstr "Sil"
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Hesabınızı sildiğinizde, tüm verileriniz de silinecektir. Bu bilgileri "
+#~ "geri alamazsınız."
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Hesabı sildiğinizde, tüm verileri de silinecektir. Bu bilgileri geri "
+#~ "alamazsınız."
+
+# @ vibe
+#~ msgid "I understand the consequences."
+#~ msgstr "Anladım"
+
+# @ vibe
+#~ msgid "General Settings"
+#~ msgstr "Genel Ayarlar"
+
+# @ vibe
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "Mevcut Şifreniz <span>(e-posta ve şifre değişikliği için gerekli)</span>"
+
+# @ vibe
+#~ msgid "Password Lost and Found"
+#~ msgstr "Şifreni Bul"
+
+# @ vibe
+#~ msgid "Lost your password?"
+#~ msgstr "Şifrenizi mi unuttunuz?"
+
+# @ vibe
+#~ msgid "Account Email"
+#~ msgstr "E-posta"
+
+# @ vibe
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr ""
+#~ "Şifre Değiştir <span>(değiştirmek istemiyorsanız boş bırakın)</span>"
+
+# @ vibe
+#~ msgid "New Password"
+#~ msgstr "Yeni Şifre"
+
+# @ vibe
+#~ msgid "Repeat New Password"
+#~ msgstr "Yeni Şifre Tekrarı"
+
+# @ vibe
+#~ msgid "Email Notification"
+#~ msgstr "E-posta Bildirimi"
+
+# @ vibe
+#~ msgid "Send an email notice when:"
+#~ msgstr "E-posta yolla:"
+
+# @ vibe
+#~ msgid "Options"
+#~ msgstr "Seçenekler"
+
+# @ vibe
+#~ msgid "Import / Export"
+#~ msgstr "Ekle / Farklı Kaydet"
+
+# @ vibe
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "Yeniden başlatırsanız verilerinizi kaybedersiniz"
+
+# @ vibe
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>Eklendi</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>Kaydedildi</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>Ayarlar değişti, lütfen kaydedin</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> hata bulundu</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> uyarı!</strong>"
+
+# @ vibe
+#~ msgid " To:"
+#~ msgstr "Kime:"
+
+# @ vibe
+#~ msgid "Add New List Field"
+#~ msgstr "Ekle"
+
+# @ vibe
+#~ msgid "Add More"
+#~ msgstr "Daha Fazla"
+
+# @ vibe
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "Ekle"
+
+# @ vibe
+#~ msgid "Upload Font"
+#~ msgstr "Yazı biçimi ekle"
+
+# @ vibe
+#~ msgid "Font Preview"
+#~ msgstr "Önizleme"
+
+# @ vibe
+#~ msgid "Browse"
+#~ msgstr "Gezinti Yap"
+
+# @ vibe
+#~ msgid "Remove Upload"
+#~ msgstr "Kaldır"
+
+# @ vibe
+#~ msgid "Add Custom Posts"
+#~ msgstr "Ekle"
+
+# @ vibe
+#~ msgid "Add Social Icons"
+#~ msgstr "Sosyal Medya ikonu ekle"
+
+# @ vibe
+#~ msgid " Plugin is Inactive"
+#~ msgstr "Eklenti çalışmıyor"
+
+# @ pmpro
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "Votre premier paiement coûtera %s."
+
+# @ pmpro
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "Votre premier %d paiment coûtera %s."
+
+# @ pmpro
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "Connecté en tant que <strong>%s</strong>."
+
+# @ pmpro
+#~ msgid "We accept %s"
+#~ msgstr "Nous acceptons %s"
+
+# @ pmpro
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "Vous êtes connecté en tant que <strong>%s</strong>. Si vous souhaitez "
+#~ "utiliser un compte différent pour cet abonnement,  <a href=\"%s"
+#~ "\">déconnectez vous maintenant</a>."
+
+# @ pmpro
+#~ msgid "We Accept %s"
+#~ msgstr "Nous acceptons %s"
+
+# @ pmpro
+#~ msgid "I agree to the %s"
+#~ msgstr "J'accepte %s"
+
+# @ pmpro
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr ""
+#~ "Nous vous remercions de votre abonnement à %s. Votre %s abonnement est "
+#~ "maintenant actif."
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "Voici les détails de votre compte d'abonné ainsi qu'une facture de votre "
+#~ "abonnement initial. Un e-mail de bienvenue avec une copie de votre "
+#~ "facture d'abonnement a été envoyé à %s."
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "Voici les détails de votre compte d'abonné. Un e-mail de bienvenue "
+#~ "comprenant ces détails a bien été envoyé à  %s."
+
+# @ vibe
+#~ msgid "Welcome to WPLMS %s"
+#~ msgstr "Welcome to WPLMS %s"
+
+# @ vibe
+#~ msgid "Import Complete !"
+#~ msgstr "Tamamlandı!"
+
+# @ wordpress-importer
+#~ msgid "- Select -"
+#~ msgstr "- Seç -"

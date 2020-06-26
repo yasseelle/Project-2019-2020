@@ -1,0 +1,89 @@
+* 2.3
+* domain path added
+* translation bug fixes
+* translation update
+* certificate and question fix
+* css fixes
+* Instructing courses page fix
+* author courses fix
+* css fixes
+* Instructor coruses fix
+* breadcrumbs on directory pages
+* breadcrumbs added on archive pages
+* styling fixes
+* styling fixes
+* 2.1
+* style fixes
+* redirect to taxonomy page fix
+* woocommerce and other templates fixes
+* remove title
+* Missing title and breadcrumbs
+* 2.0.7
+* Modern theme bug fixes
+* Styling bug fixes
+* remove do_action bug
+* Related courses filter for hide courses
+* ID as title
+* 2.0.6.1
+* Related courses bug fix
+* breadcrumbs in course header
+* Read more bug fix
+* group layout bug fixes
+* styling corrections
+* Hero image bug fix
+* Related courses bug fix
+* header fix
+* style fixes
+* woocommerce fixes
+* Styling fixes
+* create content template
+* Styling fixes
+* fix header
+* Sleek/Standard header fix
+* styling fixes
+* Modern Theme fixes
+* bug Fixes
+* extra qutoe in author
+* dashicons force enqueue
+* Footer
+* Group templates
+* subnav CSS and changes
+* Compatibility with 2.x versions
+* 2.0.2
+* NA in course reviews
+* Supporting header layouts
+* Style fixes
+* version2.0.1
+* course review reviews on home page.
+* register.php site lock fix
+* homesearch fix in modern theme
+* SINGLE TESTIMONIALS
+* 2.0
+* curriculum fix
+* woocommerce templates in modern
+* bbpress theme changes support with 2.0
+* login popup fixes and css dependency fixes with 2.0
+* groups and course issue in modern theme fixes with 2.0
+* product page fix with 2.0
+* 2.0 css dependency added
+* notes & discussions template added
+* styling changes
+* notes and discussions template added
+* post category title issue on category page
+* instructor message tip fix in single course page
+* mobile menu icon z-index issue
+* profile page sidebar issue fix
+* login popup modal fix on mobile
+* social sharing on posts
+* translation text domain issues fix
+* Issues and fixes
+* v1.2
+* translation files
+* several small bug fixes
+* comment status fixes
+* forgot password fix
+* background image fixes
+* unlimited fix
+* background image
+* v1.1
+* 1.0

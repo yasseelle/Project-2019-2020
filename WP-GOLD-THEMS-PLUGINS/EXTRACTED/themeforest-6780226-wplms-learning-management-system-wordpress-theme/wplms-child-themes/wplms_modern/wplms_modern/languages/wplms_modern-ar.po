@@ -1,0 +1,5947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:37+0530\n"
+"PO-Revision-Date: 2017-02-01 14:37+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "بالرد على:"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "View Thread / Permalink"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View"
+msgstr "اظهر"
+
+# @ vibe
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "تعليق <span>%s</span>"
+
+# @ vibe
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "تفضيل"
+
+# @ vibe
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "خذف اضافة"
+
+# @ vibe
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "انشر"
+
+# @ vibe
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "او اضفط esc للالغاء"
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr ""
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "مجموعاتي <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "مفضلاتي <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "تفاعل تم ذكري به"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "تفاعل له علاقة بي"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr ""
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr ""
+
+# @ vibe
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "اظهر:"
+
+# @ vibe
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "كل شيئ"
+
+# @ vibe
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "تحديثات"
+
+# @ vibe
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "منشورات"
+
+# @ vibe
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "تعليقات"
+
+# @ vibe
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "مواضيع المجتمع"
+
+# @ vibe
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "ردود المجتمع"
+
+# @ vibe
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "مجموعات جديدة"
+
+# @ vibe
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "عضويات المجموعة"
+
+# @ vibe
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "صداقات"
+
+# @ vibe
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "اعضاء جدد"
+
+# @ vibe
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "دورات بواسطة مدرب"
+
+# @ vibe
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr ""
+
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+# @ vibe
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+# @ vibe
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ vibe
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ default
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+# @ vibe
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+# @ vibe
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+# @ vibe
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr ""
+
+# @ vibe
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr ""
+
+# @ vibe
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "عمل موقع"
+
+# @ vibe
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "طلب بواسطة:"
+
+# @ vibe
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr ""
+
+# @ vibe
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "الاحدث"
+
+# @ vibe
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "أبجدي"
+
+# @ vibe
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ vibe
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "شهادة الاكمال"
+
+# @ vibe
+#: certificate.php:64
+msgid "Awarded to"
+msgstr ""
+
+# @ vibe
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr ""
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ vibe
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "الاسم"
+
+# @ vibe
+# @ pmpro
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+# @ vibe
+#: comments.php:29
+msgid "Comment"
+msgstr "تعليق"
+
+# @ vibe
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "الموقع الالكتروني"
+
+# @ vibe
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "نشر التقييم"
+
+# @ vibe
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "كتابة تقييم"
+
+# @ vibe
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "تقييم الدورة"
+
+# @ vibe
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ vibe
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "لا توجد تقييمات لهذه الدورة"
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ vibe
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "اقرأ المزيد"
+
+# @ vibe
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "اقل"
+
+# @ vibe
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr "  طلاب مسجل     "
+
+# @ vibe
+#: footer.php:19
+msgid "top"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+# @ vibe
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+# @ vibe
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "موضوع جديد"
+
+# @ vibe
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "مواضيعي <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "غير مردود عليه"
+
+# @ vibe
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "عمل موضوع جديد:"
+
+# @ vibe
+#: forums/index.php:107
+msgid "Title:"
+msgstr "العنوان:"
+
+# @ vibe
+#: forums/index.php:110
+msgid "Content:"
+msgstr "المحتوى:"
+
+# @ vibe
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr ""
+
+# @ vibe
+#: forums/index.php:119
+msgid "----"
+msgstr "----"
+
+# @ vibe
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "انشر موضوع"
+
+# @ vibe
+# @ pmpro
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "الغاء"
+
+# @ vibe
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you can "
+"post in. To start posting, first find a group that matches the topic subject "
+"you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "فقط المدربين يمكنهم عمل مجموعات"
+
+# @ vibe
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "فقط المدراء يمكنهم عمل مجموعات"
+
+# @ vibe
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "اسم المجموعة (متطلب)"
+
+# @ vibe
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "تفاصيل المجموعة (متطلب)"
+
+# @ vibe
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "خيارات الخصوصية"
+
+# @ vibe
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "هذه مجموعة عامة"
+
+# @ vibe
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:76 groups/create.php:85
+msgid "This group will be listed in the groups directory and in search results."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:86 groups/create.php:95
+msgid "Group content and activity will only be visible to members of the group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:94
+msgid "This group will not be listed in the groups directory or search results."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "دعوات المجموعة"
+
+# @ vibe
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:107
+msgid "All group members"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "مجموعة المدراء فقط"
+
+# @ vibe
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "منتديات المجموعة"
+
+# @ vibe
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "تفعيل مجتمع المناقشة"
+
+# @ vibe
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "رفع صورة"
+
+# @ vibe
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "اقتصاص الصورة"
+
+# @ vibe
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "اقتصاص صورة"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "حذف اضافة"
+
+# @ vibe
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "العودة للخطوة السابقة"
+
+# @ vibe
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "الخطول التالية"
+
+# @ vibe
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr ""
+
+# @ vibe
+#: groups/create.php:329
+msgid "Finish"
+msgstr "انهاء"
+
+# @ vibe
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "نشيط %s"
+
+# @ vibe
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "المسهلين"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ vibe
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr ""
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ vibe
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "تم تفعيل الحساب"
+
+# @ vibe
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "تفعيل حسابك"
+
+# @ vibe
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"لقد تم تفعيل حسابك بنجاح! الان تستطيع <a href=\"%s\">log in</a> يمكنك الدخول "
+"باسم المستخدم وكلمة السر التي سجلت بهم."
+
+# @ vibe
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "مفتاح التفعيل:"
+
+# @ tgmpa
+# @ vibe
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "تفعيل"
+
+# @ vibe
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "تفاصيل الحساب"
+
+# @ vibe
+# @ pmpro
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "اسم المستخدم"
+
+# @ vibe
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(متطلب)"
+
+# @ vibe
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "عنوان البريد الالكتروني"
+
+# @ vibe
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "اختار كلمة سر"
+
+# @ pmpro
+# @ vibe
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "تأكيد كلمة السر"
+
+# @ vibe
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "تفاصيل الملف الشخصي"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "من يستطيع رؤية هذا الحقل؟"
+
+# @ vibe
+#: registration/register.php:211
+msgid "Close"
+msgstr "اغلاق"
+
+# @ vibe
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "تفاصيل المدونة"
+
+# @ vibe
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "نعم، أود عمل موقع جديد"
+
+# @ vibe
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "رابط المدونة"
+
+# @ vibe
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "عنوان موقع"
+
+# @ vibe
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr "أود لموقعي أن يظهر في محركات البحث، وفي قوائم عامة حول هذه الشبكة"
+
+# @ vibe
+#: registration/register.php:324
+msgid "Yes"
+msgstr "نعم"
+
+# @ vibe
+#: registration/register.php:325
+msgid "No"
+msgstr "لا"
+
+# @ vibe
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you will "
+"need to activate your account via the email we have just sent to your address."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"لقد قمت بعمل حسابك بنجاح! الرجاء سجل دخولك باسم المستخدم وكلمة السر التي سجلت "
+"بهم."
+
+# @ vibe
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "بحث نتائج لـ \""
+
+# @ vibe
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ vibe
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "نعتذر، لا يتم ايجاد نتائج"
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ vibe
+#: single-course.php:38
+msgid "Home"
+msgstr "الرئيسية"
+
+# @ vibe
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "منهج"
+
+# @ vibe
+# @ buddypress
+#: single-course.php:40
+msgid "Members"
+msgstr "الأعضاء"
+
+# @ vibe
+#: single-course.php:48
+msgid "Group"
+msgstr "المجموعة"
+
+# @ vibe
+#: single-course.php:55
+msgid "Forum"
+msgstr "المجتمع"
+
+# @ vibe
+#: single-course.php:60
+msgid "Admin"
+msgstr "مدير"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ vibe
+#: single-post.php:104
+msgid "Courses"
+msgstr "الدورات"
+
+# @ vibe
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "أكمل الاختبار"
+
+# @ vibe
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "افحص نتيجة الاختبار"
+
+# @ vibe
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "الرجوع الى صفحة الدورة"
+
+# @ vibe
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "بدء الاختبار"
+
+# @ vibe
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "خذ الدرس لتبدأ الاختبار"
+
+# @ vibe
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "مرفقات"
+
+# @ vibe
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "هل لديك استفسارات أو تعليقات؟ شارك معنا في مجتمع الدورة. "
+
+# @ wplms_modern
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "رد"
+
+# @ vibe
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "حذف"
+
+# @ vibe
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ default
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr ""
+
+# @ vibe
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "أقصى الدرجات"
+
+# @ vibe
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "قيمة درس غير صحيح. تواصل مع المدير"
+
+# @ vibe
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+# @ vibe
+#: start.php:76
+msgid " Hours"
+msgstr "ساعات"
+
+# @ vibe
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ vibe
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "منهج الدرس لم يتم وضعه بعد."
+
+# @ vibe
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "منهج الدورة لم يتم وضعه"
+
+# @ vibe
+#: start.php:137
+msgid "Start Course"
+msgstr "ابدأ الدرس"
+
+# @ vibe
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:157
+msgid "Previous Unit"
+msgstr "الدرس السابق"
+
+# @ vibe
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+# @ vibe
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "جعل هذه الدرس مكتملة"
+
+# @ vibe
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "الدرس القادم"
+
+# @ vibe
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ vibe
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "الرجوع للدرس"
+
+# @ vibe
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "تقييم الدورة"
+
+# @ vibe
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "لقد أنهيت هذه الدورة"
+
+#  include the HTML <span>%s</span>
+# @ vibe
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr ""
+
+# @ vibe
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr ""
+
+# @ vibe
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "تم نشره حديثا"
+
+# @ vibe
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr ""
+
+# @ vibe
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr ""
+
+# @ vibe
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "كل المجموعات <span>%s</span>"
+
+# @ vibe
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "عمل مجموعة"
+
+# @ vibe
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr ""
+
+# @ vibe
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "تسجيل دخول"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ vibe
+# @ pmpro
+#: views/login_modal.php:75
+msgid "Password"
+msgstr ""
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ vibe
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "نتائج البحث: &ldquo;%s&rdquo;"
+
+# @ vibe
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+# @ vibe
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr ""
+
+# @ vibe
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "دروس مضمنة"
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "دفع &amp; شحن"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "عنوان الدفع"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "يتوجب عليك ان تكون مسجل الدخول لانهاء عملية الشراء"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "أكمل"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "طلبك"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "اضغط للاستمرار"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "اضغط هنا لتسجيل الخروج وتسجيل الدخول لمستخدم اخر"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "زبون راجع؟"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "اضغط هنا لتسجيل الدخول"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "زبون راجع"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "الاستمرار كضيف"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "ادخل المعلومات بالاسفل لعمل حساب"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "منتج"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "مجموع"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "مجموع السلة"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "كوبون خصم:"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "طلب مجموع"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"نعتذر، على ما يبدو أنه ليس هناك وسائل دفع متاحة لمنطقتك، الرجاء التواصل معنا "
+"اذا احتجت مساعدة او تريد عمل ترتيبات بديلة."
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "دفع للطلب"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "شحن لعنوان مختلف"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "معلومات اضافية"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "تحديث مجموع"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "عمل طلب"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "قرأت وقبلت"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "قوانين &amp; شروط"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/merchant "
+"has declined your transaction."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "الرجاء اوقف عملية شرائك مرة أخرى."
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "ادفع"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "حسابي "
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "شكراً لك. لقد تم استلام طلبك"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "الطلب:"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "التاريخ:"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "المجموع:"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "وسيلة الدفع:"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "اشتراك الدرس لـ"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "دورات مشترك بها"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "الدورة"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "الاشتراك"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "بدء الدرس"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "الانتظار لطلب التأكيد لبدأ الدورة"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "الانتظار لموافقة المدير"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ vibe
+#~ msgid "Please enter some content to post."
+#~ msgstr "الرجاء اضف محتوى لنشره."
+
+# @ vibe
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "هناك مشكلة بالنشر، الرجاء حاول مرة اخرى."
+
+# @ vibe
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "الرجاء لا تترك مساحة التعليق فارغة."
+
+# @ vibe
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr "هناك مشكلة في نشر الرد، الرجاء المحاولة مرة اخرى."
+
+# @ vibe
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "هناك مشكلة في الحذف، الرجاء المحاولة مرة اخرى."
+
+# @ vibe
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "لا يمكن الغاء الصداقة"
+
+# @ vibe
+#~ msgid "Add Friend"
+#~ msgstr "اضف صديق"
+
+# @ vibe
+#~ msgid " Friendship could not be requested."
+#~ msgstr "لا يمكن طلب الصداقة"
+
+# @ vibe
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "الغاء طلب الصداقة"
+
+# @ vibe
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "لا يمكن الغاء الصداقة"
+
+# @ vibe
+#~ msgid "Request Pending"
+#~ msgstr "طلب معلق"
+
+# @ vibe
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr "حدث خطأ أثناء محاولة قبول الطلب، الرجاء المحاولة مرة اخرى."
+
+# @ vibe
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr "هناك مشكلة في رفض هذا الطلب، الرجاء المحاولة مرة اخرى."
+
+# @ vibe
+#~ msgid "Error joining group"
+#~ msgstr "خطأ في اشتراك للمجموعة"
+
+# @ vibe
+#~ msgid "Leave Group"
+#~ msgstr "ترك المجموعة"
+
+# @ vibe
+#~ msgid "Error requesting membership"
+#~ msgstr "خطأ في طلب عضوية"
+
+# @ vibe
+#~ msgid "Membership Requested"
+#~ msgstr "طلبات العضويات"
+
+# @ vibe
+#~ msgid "Error leaving group"
+#~ msgstr "خطأ في محاولة ترك المجموعة"
+
+# @ vibe
+#~ msgid "Join Group"
+#~ msgstr "اشترك بالمجموعة"
+
+# @ vibe
+#~ msgid "Request Membership"
+#~ msgstr "طلب عضوية"
+
+# @ vibe
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "هناك مشكلة في اغلاق الملاحظة"
+
+# @ vibe
+#~ msgid "Sent %s"
+#~ msgstr "تم الارسال %s"
+
+# @ vibe
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr "هناك مشكلة في ارسال الرد، الرجاء المحاولة مرة اخرى."
+
+# @ vibe
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "هناك مشكلة في في عمل الرسائل كأنها غير مقروءة"
+
+# @ vibe
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "هناك مشكلة في في عمل الرسائل كأنها مقروءة"
+
+# @ vibe
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "هناك مشكلة في حذف الرسائل"
+
+# @ vibe
+#~ msgid "Messages deleted."
+#~ msgstr "تم حذف الرسالة."
+
+# @ vibe
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+# @ vibe
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "ما الجديد في   %s, %s? ؟"
+
+# @ vibe
+#~ msgid "What's new, %s?"
+#~ msgstr "ما الجديد , %s? "
+
+# @ vibe
+#~ msgid "My Profile"
+#~ msgstr "ملفي الشخصي"
+
+# @ vibe
+#~ msgid "Save Answer"
+#~ msgstr "حفظ الإجابة"
+
+# @ vibe
+#~ msgid "Answer"
+#~ msgstr "أجب"
+
+# @ vibe
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "اجابات سابقة لهذا السؤال"
+
+# @ vibe
+#~ msgid "Course"
+#~ msgstr "الدورة"
+
+# @ vibe
+#~ msgid "Total Marks"
+#~ msgstr "مجموع العلامات:"
+
+# @ default
+#~ msgid "Answer Assignment"
+#~ msgstr "أجب التعيين"
+
+# @ default
+# @ vibe
+#~ msgid "Upload Assignment"
+#~ msgstr "رفع تعيين"
+
+# @ vibe
+#~ msgid "Leave a Message"
+#~ msgstr "اترك رسالة"
+
+# @ vibe
+#~ msgid "You have not created any Course."
+#~ msgstr "لم تنشئ أي دورة"
+
+# @ vibe
+#~ msgid "Remove User from this Course"
+#~ msgstr "حذف المستخدم من هذه الدورة"
+
+# @ vibe
+#~ msgid "Instructors"
+#~ msgstr "المدربين"
+
+# @ vibe
+#~ msgid "Course Curriculum"
+#~ msgstr "منهج الدورة"
+
+# @ vibe
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "معدل العلامات المحصل بواسطة الطلاب"
+
+# @ vibe
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "معدل العلامات في الاختبار"
+
+# @ vibe
+#~ msgid "Calculate :"
+#~ msgstr "احسب:"
+
+# @ vibe
+#~ msgid "There were no groups found."
+#~ msgstr "لا يوجد مجموعات"
+
+# @ vibe
+#~ msgid "Save Changes"
+#~ msgstr "حفظ التغييرات"
+
+# @ vibe
+#~ msgid "Delete Avatar"
+#~ msgstr "حذف صورة"
+
+# @ vibe
+#~ msgid "Crop Avatar"
+#~ msgstr "اقتصاص صورة"
+
+# @ vibe
+#~ msgid "Administrators"
+#~ msgstr "المدراء"
+
+# @ vibe
+#~ msgid "Remove this member"
+#~ msgstr "حذف هذا العضو"
+
+# @ vibe
+#~ msgid "Remove from group"
+#~ msgstr "حذف هذه المجموعة"
+
+# @ vibe
+#~ msgid "This group has no members."
+#~ msgstr "لا تحتوي هذه المجموعة على اعضاء"
+
+# @ vibe
+#~ msgid "Accept"
+#~ msgstr "قبول"
+
+# @ vibe
+#~ msgid "Reject"
+#~ msgstr "رفض"
+
+# @ vibe
+#~ msgid "Delete Group"
+#~ msgstr "حذف المجموعة"
+
+# @ vibe
+#~ msgid "New Reply"
+#~ msgstr "رد جديد"
+
+# @ vibe
+#~ msgid "Add a reply:"
+#~ msgstr "اضف رد:"
+
+# @ vibe
+#~ msgid "Post Reply"
+#~ msgstr "انشر رد"
+
+# @ vibe
+#~ msgid "Description"
+#~ msgstr "توصيف"
+
+# @ vibe
+#~ msgid "Send Invites"
+#~ msgstr "ارسال دعوات"
+
+# @ vibe
+#~ msgid "Become an Instructor"
+#~ msgstr "كن مدرباً"
+
+# @ vibe
+#~ msgid "Badges"
+#~ msgstr "وسام"
+
+# @ vibe
+#~ msgid "Course "
+#~ msgstr "الدورة"
+
+# @ vibe
+#~ msgid "Link"
+#~ msgstr "رابط"
+
+# @ tgmpa
+#~ msgid "Type"
+#~ msgstr "نوع"
+
+# @ vibe
+#~ msgid "Boxed"
+#~ msgstr "صندوقي"
+
+# @ vibe
+#~ msgid "Footer Bottom"
+#~ msgstr "أسفل التذييل"
+
+# @ tgmpa
+#~ msgid "Status"
+#~ msgstr "حالة"
+
+# @ vibe
+#~ msgid "Online"
+#~ msgstr "على النت"
+
+# @ vibe
+#~ msgid "Offline"
+#~ msgstr "ليس على الن"
+
+# @ vibe
+# @ pmpro
+#~ msgid "Level"
+#~ msgstr "مرحلة"
+
+# @ vibe
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "وصول لا محدود"
+
+# @ vibe
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr "أكمل الدرس لإضافة علامة هذه الوحدة منجزة"
+
+# @ vibe
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr "انهاء فيديو/صوت لعمل هذا الدرس كامل"
+
+# @ vibe
+#~ msgid "Setup Menus"
+#~ msgstr "قوائم الإعداد"
+
+# @ vibe
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr "هناك مشكلة خلال محاولة حذف طالب من الدروس"
+
+# @ vibe
+#~ msgid "Page"
+#~ msgstr "صفحة"
+
+# @ vibe
+#~ msgid "of"
+#~ msgstr "من "
+
+# @ vibe
+#~ msgid "Attachment"
+#~ msgstr "مرفق"
+
+# @ vibe
+#~ msgid "Seconds"
+#~ msgstr "ثواني"
+
+# @ vibe
+#~ msgid "Days"
+#~ msgstr "أيام"
+
+# @ vibe
+#~ msgid "Weeks"
+#~ msgstr "أسابيع"
+
+# @ vibe
+#~ msgid "Months"
+#~ msgstr "أشهر"
+
+# @ vibe
+#~ msgid "Years"
+#~ msgstr "سنو"
+
+# @ vibe
+#~ msgid "Requires completion of course : "
+#~ msgstr "يتطلب اكتمال الدورة:"
+
+# @ vibe
+#~ msgid "All seats in course are full "
+#~ msgstr "جميع المقاعد في الوقت مليئة "
+
+# @ vibe
+#~ msgid " LOGIN"
+#~ msgstr " الدخول"
+
+# @ vibe
+#~ msgid " REGISTER NOW"
+#~ msgstr "سجل الان"
+
+# @ vibe
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "يتوجب عليك تسجيل الدخول لأخذ هذه الدورة"
+
+# @ vibe
+#~ msgid "Assign Badges/Certificates to Students"
+#~ msgstr "تعيين الشارات / شهادات للطلاب"
+
+# @ vibe
+#~ msgid "Change Course Status"
+#~ msgstr "تغيير وضع الدورة"
+
+# @ vibe
+#~ msgid "Page %s"
+#~ msgstr "صفحة %s"
+
+# @ vibe
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+
+# @ vibe
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "الاضافات المنزلة -> اضافات -> الذهاب إلى دبليو أدمن   "
+
+# @ vibe
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "Deactivate Vibe Custom Types"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "Deactivate Vibe Course Module"
+
+# @ pmpro
+#~ msgid "Update"
+#~ msgstr "تحديث"
+
+# @ vibe
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "تعديل القوائم في لوحة المدير"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Install Required Plugins"
+#~ msgstr "تنزيل اضافات مطلوبة"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Install Plugins"
+#~ msgstr "تنزيل الاضافات"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "تنزيل اضافة:  %s"
+
+# @ vibe
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "حصل خطأ ما في الواجهة البرمجية للإضافة"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "رجوع لمنزل الاضافات الضرورية"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Plugin activated successfully."
+#~ msgstr "تم تفعيل الاضافة بنجاح"
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "كل الاضافات تم تنزيلها وتفعيلها بنجاح.  %s"
+
+# @ vibe
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (غير مقبول)"
+
+# @ vibe
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (معلق)"
+
+# @ default
+# @ vibe
+#~ msgid "Edit Menu Item"
+#~ msgstr "تعديل عنصر قائمة"
+
+# @ vibe
+#~ msgid "URL"
+#~ msgstr "رابط"
+
+# @ vibe
+#~ msgid "Navigation Label"
+#~ msgstr "تسمية التنقل"
+
+# @ vibe
+#~ msgid "Title Attribute"
+#~ msgstr "خاصية عنوان"
+
+# @ vibe
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "فتح الرابط في لسان /نافذة جديدة"
+
+# @ default
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr "سيتم عرض الوصف في القائمة إذا كان القالب الحالي يدعم ذلك."
+
+# @ vibe
+#~ msgid "Select Sidebar"
+#~ msgstr "تحديد جهة جانبية"
+
+# @ vibe
+#~ msgid "Original: %s"
+#~ msgstr "الاصلي:  %s"
+
+# @ tgmpa
+#~ msgid "Something went wrong."
+#~ msgstr "شيئ ماء حدث خطأ."
+
+# @ tgmpa
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "جميع الإضافات مثبتة وتم تفعيلها بنجاح. %1$s"
+
+# @ tgmpa
+#~ msgid "Dismiss this notice"
+#~ msgstr "ترك هذه الملاحظة"
+
+# @ tgmpa
+#~ msgid "Return to the Dashboard"
+#~ msgstr "العودة للوحة التحكم"
+
+# @ tgmpa
+#~ msgid "Pre-Packaged"
+#~ msgstr "المعلبة"
+
+# @ tgmpa
+#~ msgid "WordPress Repository"
+#~ msgstr "مستودع ووردبريس"
+
+# @ tgmpa
+#~ msgid "Required"
+#~ msgstr "متطلب"
+
+# @ tgmpa
+#~ msgid "Recommended"
+#~ msgstr "ينصح به"
+
+# @ tgmpa
+#~ msgid "Not Installed"
+#~ msgstr "ليس منزل"
+
+# @ tgmpa
+#~ msgid "Installed But Not Activated"
+#~ msgstr "الاضافة المنزلة غير مفعلة"
+
+# @ tgmpa
+#~ msgid "Install"
+#~ msgstr "تنزيل"
+
+# @ tgmpa
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "لا الإضافات مثبتة أو مفعلة. <أ أ href =  \" %1$s  \"عنوان = \" العودة "
+#~ "لوحة  \"> عودة إلى لوحة التحكم الرئيسية </ A>"
+
+# @ tgmpa
+#~ msgid "Plugin"
+#~ msgstr "اضافة"
+
+# @ tgmpa
+#~ msgid "Source"
+#~ msgstr "مصدر"
+
+# @ tgmpa
+#~ msgid "Install package not available."
+#~ msgstr "تنزيل الاضافة غير متاح"
+
+# @ tgmpa
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr "تحميل باكج من <span class=\"code\">%s</span>&#8230;"
+
+# @ tgmpa
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "فك ضغط الحزمة ..."
+
+# @ tgmpa
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "تنزيل اضافة &#8230;"
+
+# @ tgmpa
+#~ msgid "Plugin install failed."
+#~ msgstr "فشل تنزيل الاضافة."
+
+# @ tgmpa
+#~ msgid "Plugin installed successfully."
+#~ msgstr "نجحت تنزيل الاضافة."
+
+# @ tgmpa
+#~ msgid "Plugin activation failed."
+#~ msgstr "تفعيل الاضافة فشل"
+
+# @ tgmpa
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "حدث خطأ خلال التنزيل %1$s: <strong>%2$s</strong>."
+
+# @ tgmpa
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "عملية التنزيل فشلت  %1$s"
+
+# @ tgmpa
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may take "
+#~ "a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "عملية التثبيت والتفعيل بدأت. قد تستغرق هذه العملية بعض الوقت على بعض "
+#~ "الجنود، لذا يرجى التحلي بالصبر."
+
+# @ tgmpa
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s تم التثبيت و التفعيل بنجاح."
+
+# @ tgmpa
+#~ msgid "Show Details"
+#~ msgstr "اظهر تفاصيل"
+
+# @ tgmpa
+#~ msgid "Hide Details"
+#~ msgstr "اخفاء التفاصيل"
+
+# @ tgmpa
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "تم الإنتهاء من كل التثبيت و التفعيل."
+
+# @ tgmpa
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "تثبيت وتفعيل الإضافة%1$s ( %2$d / %3$d )"
+
+# @ tgmpa
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "عملية التثبيت هو بداية. قد تستغرق هذه العملية بعض الوقت على بعض الجنود، "
+#~ "لذا يرجى التحلي بالصبر."
+
+# @ tgmpa
+#~ msgid "All installations have been completed."
+#~ msgstr "وقد تم الانتهاء من التنصيب."
+
+# @ tgmpa
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "تثبيت الإضافة%1$s ( %2$d / %3$d )"
+
+# @ vibe
+#~ msgid "Review Title"
+#~ msgstr "عنوان التقييم"
+
+# @ vibe
+#~ msgid "Review Rating"
+#~ msgstr "عدد النجوم"
+
+# @ vibe
+#~ msgid "Review Details"
+#~ msgstr "مراجعة التفاصيل"
+
+# @ vibe
+#~ msgid "Rating "
+#~ msgstr "ترتيب"
+
+# @ vibe
+#~ msgid "Student"
+#~ msgstr "طالب"
+
+# @ vibe
+#~ msgid "Instructor"
+#~ msgstr "مدرب"
+
+# @ vibe
+#~ msgid "Show all comments for this thread"
+#~ msgstr "عرض جميع تعليقات على هذا الموضوع"
+
+# @ vibe
+#~ msgid "Show all %d comments"
+#~ msgstr "عرض كل %d تعليقات"
+
+# @ vibe
+#~ msgid ""
+#~ "Your profile has unsaved changes. If you leave the page, the changes will "
+#~ "be lost."
+#~ msgstr ""
+#~ "ملفك الشخصي على تغييرات غير محفوظة. إذا تركت الصفحة، سيتم فقد التغييرات."
+
+# @ vibe
+#~ msgid "Please fill in all the required fields (indicated by *)"
+#~ msgstr "يرجى تعبئة جميع الحقول المطلوبة (المشار إليها *)"
+
+# @ vibe
+#~ msgid "Top Menu"
+#~ msgstr "العلوية"
+
+# @ vibe
+#~ msgid "Main Menu"
+#~ msgstr "القائمة الرئيسية"
+
+# @ vibe
+#~ msgid "Mobile Menu"
+#~ msgstr "قائمة الموبايل"
+
+# @ vibe
+#~ msgid "Footer Menu"
+#~ msgstr "القائمة السفلى"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr ""
+#~ "هذه هي القطعة الافتراضي / منطقة الشريط الجانبي العالمي لصفحات، وظائف، "
+#~ "فئات، والعلامات وصفحات الأرشيف"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr ""
+#~ "هذه هي القطعة الافتراضي / منطقة الشريط الجانبي هو مبين في صفحات بالطبع "
+#~ "وحدات خالية"
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr "هذه هي منطقة القطعة / الشريط الجانبي هو مبين في صفحة نتائج البحث."
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "هذه هي منطقة القطعة / الشريط الجانبي هو مبين في صفحة متجر "
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr ""
+#~ "هذه هي القطعة الافتراضي / منطقة الشريط الجانبي هو مبين في صفحة واحدة "
+#~ "المنتج وفئات المنتجات"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "هذه هي القطعة الافتراضي / منطقة الشريط الجانبي هو مبين في صفحات buddypress "
+#~ "أحب: كافة الأنشطة والمجموعات، جميع الاعضاء، جميع الدورات، جميع بلوق"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr ""
+#~ "هذه هي القطعة الافتراضي / منطقة الشريط الجانبي هو مبين في صفحات المحاسبه "
+#~ "أدناه القسائم."
+
+# @ vibe
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "منطقة القطعة رأس تذييل / الشريط الجانبي"
+
+# @ vibe
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "أسفل منطقة القطعة تذييل / الشريط الجانبي"
+
+# @ vibe
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "الشريط الجانبي مخصص، التي تم إنشاؤها من الشريط الجانبي مدير"
+
+# @ vibe
+#~ msgid "Student "
+#~ msgstr "طالب"
+
+# @ vibe
+#~ msgid " in "
+#~ msgstr " في "
+
+# @ vibe
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "يظهر سمة مخصصة في القطعة التي تمكنك من تضييق قائمة المنتجات عند عرض فئات "
+#~ "المنتجات."
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "فيبي المتقدم الطبقات ناف"
+
+# @ vibe
+#~ msgid "Attribute:"
+#~ msgstr "خاصية"
+
+# @ vibe
+#~ msgid "Query Type:"
+#~ msgstr "نوع الاستعلام:"
+
+# @ vibe
+#~ msgid "AND"
+#~ msgstr "و"
+
+# @ vibe
+#~ msgid "OR"
+#~ msgstr "أو"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr "معارض يشتغل الملاحة الطبقات بحيث يمكن للمستخدمين رؤية وتعطيلهم."
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "فيبي المتقدم الطبقات ناف الفلاتر"
+
+# @ vibe
+#~ msgid "Active filters"
+#~ msgstr "تفعيل الفلاتر"
+
+# @ vibe
+#~ msgid "Remove filter"
+#~ msgstr "حذاف فلتر"
+
+# @ vibe
+#~ msgid "Greater than"
+#~ msgstr "أكبر من"
+
+# @ vibe
+#~ msgid "Less than"
+#~ msgstr "اقل من"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels "
+#~ msgstr "فيبي WooCommerce دوارات "
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels"
+#~ msgstr "فيبي WooCommerce دوارات"
+
+# @ vibe
+#~ msgid "WooCommerce Function "
+#~ msgstr "WooCommerce وظيفة "
+
+# @ vibe
+#~ msgid "Product Columns"
+#~ msgstr "أعمدة المنتج"
+
+# @ vibe
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "عدد المنتجات في كاروسيل:"
+
+# @ vibe
+#~ msgid "Carousel Controls"
+#~ msgstr "ضوابط كاروسيل"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel "
+#~ msgstr "فيبي WooCommerce ميجا كاروسيل "
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel"
+#~ msgstr "فيبي WooCommerce ميجا كاروسيل"
+
+# @ vibe
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "فوق WooCommerce اختيار العناوين وظائف (فاصلة مفصولة)"
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "فيبي BuddyPress الدخول القطعة"
+
+# @ vibe
+#~ msgid "View profile"
+#~ msgstr "عرض الملف الشخصي"
+
+# @ vibe
+#~ msgid "Log Out"
+#~ msgstr "تسجيل الخروج"
+
+# @ vibe
+#~ msgid "LOGOUT"
+#~ msgstr "تسجيل الخروج"
+
+# @ vibe
+#~ msgid "Access admin panel"
+#~ msgstr "وصول لوحة تحكم المدير"
+
+# @ vibe
+#~ msgid "Stats"
+#~ msgstr "احصاءات"
+
+# @ vibe
+#~ msgid "Inbox"
+#~ msgstr "الوارد"
+
+# @ vibe
+#~ msgid "Notifications"
+#~ msgstr "التنبيهات"
+
+# @ vibe
+#~ msgid "Groups"
+#~ msgstr "المجموعات"
+
+# @ vibe
+#~ msgid "Order by"
+#~ msgstr "ترتيب كـ"
+
+# @ vibe
+#~ msgid "Slug"
+#~ msgstr "اسم الرسالة"
+
+# @ vibe
+#~ msgid "Ascending"
+#~ msgstr "تصاعدي"
+
+# @ vibe
+#~ msgid "Descending"
+#~ msgstr "تنازلي"
+
+# @ vibe
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "فيبي كود شهادة مدقق"
+
+# @ vibe
+#~ msgid "Validate"
+#~ msgstr "تأكيد"
+
+# @ vibe
+#~ msgid "Vibe Tabs"
+#~ msgstr "فيبي علامات التبويب"
+
+# @ vibe
+#~ msgid "Recent Posts"
+#~ msgstr "منشورات حديثة"
+
+# @ vibe
+#~ msgid "thumbnail"
+#~ msgstr "عنصر "
+
+# @ vibe
+#~ msgid "Theme:"
+#~ msgstr "مظهر:"
+
+# @ vibe
+#~ msgid "Light"
+#~ msgstr "مضيئ"
+
+# @ vibe
+#~ msgid "Dark"
+#~ msgstr "مظلم"
+
+# @ vibe
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+# @ vibe
+#~ msgid "Number of items"
+#~ msgstr "عدد العناصر"
+
+# @ vibe
+#~ msgid "Vibe Carousel"
+#~ msgstr "فيبي كاروسيل"
+
+# @ vibe
+#~ msgid "Theme"
+#~ msgstr "مظهر"
+
+# @ vibe
+#~ msgid "Post Type"
+#~ msgstr "نوع المنشور"
+
+# @ vibe
+#~ msgid "Recent"
+#~ msgstr "حديثا"
+
+# @ vibe
+#~ msgid "Popular"
+#~ msgstr "مشاع"
+
+# @ vibe
+#~ msgid "Style"
+#~ msgstr "تنسيق"
+
+# @ vibe
+#~ msgid "Excerpt length"
+#~ msgstr "طول المقتطف "
+
+# @ vibe
+#~ msgid "Auto Start"
+#~ msgstr "بداية تلقائية"
+
+# @ vibe
+#~ msgid "Loop back, after completion"
+#~ msgstr "حلقة مرة أخرى، بعد الانتهاء"
+
+# @ vibe
+#~ msgid "Number of Posts"
+#~ msgstr "عدد المنشورات"
+
+# @ vibe
+#~ msgid " Title"
+#~ msgstr "عنوان"
+
+# @ vibe
+#~ msgid "All"
+#~ msgstr "الكل"
+
+# @ vibe
+#~ msgid "Sort"
+#~ msgstr "ترتيب"
+
+# @ vibe
+#~ msgid " Image Size"
+#~ msgstr "حجم الصورة"
+
+# @ vibe
+#~ msgid "Big"
+#~ msgstr "كبير"
+
+# @ vibe
+#~ msgid "Small"
+#~ msgstr "صغير"
+
+# @ vibe
+#~ msgid "Image with Title"
+#~ msgstr "صورة مع عنوان"
+
+# @ vibe
+#~ msgid "Image Only"
+#~ msgstr "صور فقط"
+
+# @ vibe
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "عدد الأحرف في مقتطفات [مشاركة ونمط]"
+
+# @ vibe
+#~ msgid "Vibe Gallery"
+#~ msgstr "البوم فايب"
+
+# @ vibe
+#~ msgid "Size "
+#~ msgstr "حجم"
+
+# @ vibe
+#~ msgid "Medium"
+#~ msgstr "وسط"
+
+# @ vibe
+#~ msgid " Small"
+#~ msgstr "صغير"
+
+# @ vibe
+#~ msgid "Mini"
+#~ msgstr "صغير جداً"
+
+# @ vibe
+#~ msgid "Vibe Testimonials "
+#~ msgstr "فيبي الشهادات "
+
+# @ vibe
+#~ msgid "Vibe Testimonials"
+#~ msgstr "فيبي الشهادات"
+
+# @ vibe
+#~ msgid "Testimonial Id "
+#~ msgstr "شهادة معرف "
+
+# @ vibe
+#~ msgid "Random"
+#~ msgstr "عشوائية"
+
+# @ vibe
+#~ msgid "Length of excerpt:"
+#~ msgstr "طول المقتطف:"
+
+# @ vibe
+#~ msgid "Username or RSS:"
+#~ msgstr "اسم المستخدم أو RSS:"
+
+# @ vibe
+#~ msgid "Tags:"
+#~ msgstr "وسوم"
+
+# @ vibe
+#~ msgid "Count:"
+#~ msgstr "عد:"
+
+# @ vibe
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "إينستاجرام AccessToken:"
+
+# @ vibe
+#~ msgid "Instagram Client ID:"
+#~ msgstr "إينستاجرام معرف العميل:"
+
+# @ vibe
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "إينستاجرام اسم المستخدم (<صغير> إذا وتظهر ثم إينستاجرام صور شعبية فارغة </ "
+#~ "الصغيرة>):"
+
+# @ vibe
+#~ msgid "Size:"
+#~ msgstr "الحجم:"
+
+# @ vibe
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "اربط بالاعلى عنوان مع مستخدم التويتر"
+
+# @ vibe
+#~ msgid "Create your Twitter Application"
+#~ msgstr "اصنع تطبيقك للتويتر"
+
+# @ vibe
+#~ msgid "here"
+#~ msgstr "هنا"
+
+# @ vibe
+#~ msgid "Consumer Secret"
+#~ msgstr "سر المستهلك"
+
+# @ vibe
+#~ msgid "Create links on new window / tab"
+#~ msgstr "إنشاء روابط جديدة على نافذة / علامة التبويب"
+
+# @ vibe
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "لم يكتمل توافق البيانات مع تويتر"
+
+# @ default
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "تمكين الخيار محو البيانات المخزنة مؤقتا"
+
+# @ vibe
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "حد الخطأ معدل استرداد تويتر"
+
+# @ default
+#~ msgid "API calls left"
+#~ msgstr "مكالمات API تركت"
+
+# @ default
+#~ msgid "Using cached Twitter data"
+#~ msgstr "استخدام بيانات تويتر من الكاش"
+
+# @ vibe
+#~ msgid "M d"
+#~ msgstr "M d"
+
+# @ vibe
+#~ msgid "Y/m/d H:i"
+#~ msgstr "Y/m/d H:i"
+
+# @ vibe
+#~ msgid "Last Tweets"
+#~ msgstr "التغريدات الاخيرة"
+
+# @ vibe
+#~ msgid "student"
+#~ msgstr "طالب"
+
+# @ vibe
+#~ msgid "instructor"
+#~ msgstr "مدرب"
+
+# @ vibe
+#~ msgid "administrator"
+#~ msgstr "مدير"
+
+# @ vibe
+#~ msgid "Sorry, no members were found."
+#~ msgstr "نعتذر، لا يوجد اعضاء هنا"
+
+# @ vibe
+#~ msgid "Invalid Results"
+#~ msgstr "نتائج غير متاحة"
+
+# @ vibe
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "نسبة المعدل:"
+
+# @ vibe
+#~ msgid " out of "
+#~ msgstr "خارج عن"
+
+# @ vibe
+#~ msgid "TAKING"
+#~ msgstr "مأخوذ"
+
+# @ vibe
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "ليس لديك اي طلبات صداقة معلقة"
+
+# @ vibe
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "ارسال الى (اسم مستخدم او اسم صديق)"
+
+# @ vibe
+#~ msgid "This is a notice to all users."
+#~ msgstr "هذه ملاحظة لكل المستخدمين"
+
+# @ vibe
+#~ msgid "Subject"
+#~ msgstr "عنوان"
+
+# @ vibe
+#~ msgid "Message"
+#~ msgstr "رسالة"
+
+# @ vibe
+#~ msgid "Send Message"
+#~ msgstr "ارسال رسالة"
+
+# @ buddypress
+#~ msgid "Actions"
+#~ msgstr "الأحداث"
+
+# @ vibe
+#~ msgid "From:"
+#~ msgstr "من:"
+
+# @ vibe
+#~ msgid "To:"
+#~ msgstr "إلى:"
+
+# @ buddypress
+#~ msgid "View Message"
+#~ msgstr "عرض الرسالة"
+
+# @ buddypress
+#~ msgid "Delete Message"
+#~ msgstr "حذف رسالة"
+
+# @ vibe
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "نعتذر، لا يوجد رسائل"
+
+# @ vibe
+#~ msgid "Sent:"
+#~ msgstr "ارسال:"
+
+# @ vibe
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "نعتذر، لا يوجد ملاحظات"
+
+# @ vibe
+#~ msgid "You are alone in this conversation."
+#~ msgstr "أنت لوحدك في هذه المحادثة"
+
+# @ vibe
+#~ msgid "Conversation between %s and you."
+#~ msgstr "المحادثة بينك انت و  %s"
+
+# @ vibe
+#~ msgid "Send a Reply"
+#~ msgstr "ارسال رد"
+
+# @ vibe
+#~ msgid "Send Reply"
+#~ msgstr "ارسال رد"
+
+# @ vibe
+#~ msgid "You have no unread notifications."
+#~ msgstr "العضو ليس لديه أي تنبيهات غير مقروءة"
+
+# @ vibe
+#~ msgid "This member has no unread notifications."
+#~ msgstr "العضو ليس لديه أي تنبيهات غير مقروءة"
+
+# @ vibe
+#~ msgid "You have no notifications."
+#~ msgstr "نعتذر، لا يوجد تنبهات"
+
+# @ vibe
+#~ msgid "This member has no notifications."
+#~ msgstr "العضو ليس لديه أي تنبيهات"
+
+# @ vibe
+#~ msgid "Notification"
+#~ msgstr "تنبيه"
+
+# @ vibe
+#~ msgid "Date Received"
+#~ msgstr "تاريخ استلام"
+
+# @ vibe
+#~ msgid "Change Avatar"
+#~ msgstr "تغيير الصورة"
+
+# @ vibe
+#~ msgid "Delete My Avatar"
+#~ msgstr "احذف صورتي"
+
+# @ vibe
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "اقتصاص الصورة الجديدة"
+
+# @ vibe
+#~ msgid "Change"
+#~ msgstr "تغيير"
+
+# @ vibe
+#~ msgid "%s's Profile"
+#~ msgstr "ملف %s's"
+
+# @ vibe
+#~ msgid "About Me"
+#~ msgstr "عني"
+
+# @ vibe
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ vibe
+#~ msgid "AOL Messenger"
+#~ msgstr "ماسنجر AOL"
+
+# @ vibe
+#~ msgid "Yahoo Messenger"
+#~ msgstr "ماسنجر ياهو"
+
+# @ vibe
+#~ msgid "Capabilities"
+#~ msgstr "مقدورات"
+
+# @ vibe
+#~ msgid "Save"
+#~ msgstr "حفظ"
+
+# @ vibe
+#~ msgid "Delete Account"
+#~ msgstr "حذف حساب"
+
+# @ vibe
+#~ msgid "I understand the consequences."
+#~ msgstr "انا اتفهم العواقب"
+
+# @ vibe
+#~ msgid "General Settings"
+#~ msgstr "اعدادات عامة"
+
+# @ vibe
+#~ msgid "Lost your password?"
+#~ msgstr "هل فقدت كلمة السر الخاصة بك؟"
+
+# @ vibe
+#~ msgid "Account Email"
+#~ msgstr "ايميل الحساب"
+
+# @ vibe
+#~ msgid "New Password"
+#~ msgstr "كلمة سر جديدة"
+
+# @ vibe
+#~ msgid "Repeat New Password"
+#~ msgstr "اعادة كتابة كلمة السر الجديدة"
+
+# @ vibe
+#~ msgid "Email Notification"
+#~ msgstr "تنبيهات البريد الالكتروني"
+
+# @ buddypress
+#~ msgid "Visibility"
+#~ msgstr "الرؤية"
+
+# @ vibe
+#~ msgid " To:"
+#~ msgstr "إلى:"
+
+# @ vibe
+#~ msgid "Add New List Field"
+#~ msgstr "اضف حقل قائمة جديد"
+
+# @ vibe
+#~ msgid "Add More"
+#~ msgstr "اضف المزيد"
+
+# @ vibe
+#~ msgid "Upload Font"
+#~ msgstr "رفع خط"
+
+# @ vibe
+#~ msgid ""
+#~ "(Copy export code and paste it in import area of other WordPress "
+#~ "isntallation)"
+#~ msgstr ""
+#~ "(انسخ كود التصدير والصقه في حقل الاستيراد في تسطيب موقع ووردبريس اخر)"
+
+# @ vibe
+#~ msgid "Browse"
+#~ msgstr "تصفح"
+
+# @ vibe
+#~ msgid "Remove Upload"
+#~ msgstr "حذف الرفع"
+
+# @ vibe
+#~ msgid "Add Custom Posts"
+#~ msgstr "اضافة مقالات مخصصة"
+
+# @ vibe
+#~ msgid "None"
+#~ msgstr "لا شيء "
+
+# @ vibe
+#~ msgid "Options"
+#~ msgstr "خيارات"
+
+# @ vibe
+#~ msgid "Options Panel created using"
+#~ msgstr "خيارات اللوحة تم عملها بواسطة"
+
+# @ vibe
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "هل أنت متأكد؟ الإعادة سوف تضيع لك كل القيم المخصصة"
+
+# @ vibe
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>تم استيراد الإعدادات!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>تم حفظ الإعدادات!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>تم تغيير الاعدادات!!، يجب عليك حفظها!</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> خطأ (أخطاء) تم ايجادها!</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> تحذير (تحذيرات) تم إيجادها!</strong>"
+
+# @ vibe
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "إدخال ملف النسخة الاحتياطية أدناه واضغط استيراد لاستعادة تعيين الاعدادات "
+#~ "من الملف الاحتياطي."
+
+# @ vibe
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "أدخل رابط تعيين الاعدادات لموقع اخر ثم اضغط استيراد لتحميل الاعدادات من "
+#~ "ذاك الموقع."
+
+# @ vibe
+#~ msgid "Import"
+#~ msgstr "استيراد"
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr "تحذير! هذا سوف يستبدل الخيارات الموجودة، الرجاء الاستمرار مع الحذر!"
+
+# @ vibe
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You also "
+#~ "have the handy option to copy the link to yours sites settings. Which you "
+#~ "can then use to duplicate on another site"
+#~ msgstr ""
+#~ "هنا يمكنك نسخ/تحميل اعدادات القالب الحالية، ابقيه في مكان امن حتى تستطيع "
+#~ "استخدامه كنسخة احتياطية في حال حدثت أي مشكلة، أو يمكنك استخدامه لاستعادة "
+#~ "الإعدادات على هذا الموقع (أو لموقع اخر)، عليك ايضا القيام بنسخ الرابط "
+#~ "يدويا الى اعدادات مواقعك، بالتالي يمكنك عمل نسخة من الموقع بموقع اخر."
+
+# @ vibe
+#~ msgid "Download"
+#~ msgstr "تحميل"
+
+# @ vibe
+#~ msgid "This field must be a valid color value."
+#~ msgstr "هذا الحقل لقيمة حقيقة لونية"
+
+# @ vibe
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr "يجب اضافة فاصلة للفصل بين القيم الرقمية لقائمة الخيارات."
+
+# @ vibe
+#~ msgid "This field must be a valid date."
+#~ msgstr "هذا الحقل يجب أن يكون تاريخ حقيقي"
+
+# @ vibe
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "يجب عليك اضافة ايميل حقيقي لهذا الخيار"
+
+# @ vibe
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "يجب عليك اضافة برمجية حقيقية لهذا الخيار"
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been removed."
+#~ msgstr ""
+#~ "يجب عدم إدخال أية اكواد HTML في هذا الحقل، تمت ازالة جميع اكواد HTML."
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "لا يسمح بادخال اي حروف خاصة في هذا الحقل، جميع الحروف الخاصة تمت ازالتها."
+
+# @ vibe
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "يتوجب عليك وضع قيمة رقمية لهذا الخيار"
+
+# @ envato
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "الرجاء إدخال اسم المستخدم لسوق Envato."
+
+# @ envato
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "الرجاء ادخال مفتاح API لـ Envato Marketplace ."
+
+# @ envato
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr "ال API \"set\" مطلوب."
+
+# @ envato
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "ال \"item ID\" الخاص بـEnvato Marketplace مطلوب."
+
+# @ vibe
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "يتوجب عليك اضافة رابط لهذا الخيار"
+
+# @ vibe
+#~ msgid ""
+#~ "The page is only accessible to site Users with Instructor or above "
+#~ "capabilites."
+#~ msgstr "الصفحة متاحة فقط لمستخدمي الموقع مع الأستاذ أو capabilites أعلاه."
+
+# @ pmpro
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "عضويتك <strong>مفعلة</strong>."
+
+# @ pmpro
+#~ msgid "Membership Fee"
+#~ msgstr "تكلفة العضوية"
+
+# @ pmpro
+#~ msgid "Duration"
+#~ msgstr "مدة"
+
+# @ pmpro
+#~ msgid "Membership Expires"
+#~ msgstr "انتهاء صلاحية العضوية"
+
+# @ pmpro
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "عملية الدفع الاولى لك سوف تكلفك %s."
+
+# @ pmpro
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "Your first %d payments will cost %s."
+
+# @ pmpro
+#~ msgid "Billing Information"
+#~ msgstr "معلومات الدفع"
+
+# @ pmpro
+#~ msgid "Payment Method"
+#~ msgstr "وسيلة الدفع"
+
+# @ pmpro
+#~ msgid "Edit Billing Information"
+#~ msgstr "تعديل وسيلة الدفع"
+
+# @ pmpro
+#~ msgid "Past Invoices"
+#~ msgstr "فواتير سابقة"
+
+# @ pmpro
+#~ msgid "View All Invoices"
+#~ msgstr "عرض كل الفواتير"
+
+# @ pmpro
+#~ msgid "Member Links"
+#~ msgstr "روابط العضو"
+
+# @ pmpro
+#~ msgid "Update Billing Information"
+#~ msgstr "تعديل معلومات الدفع"
+
+# @ pmpro
+#~ msgid "Change Membership Level"
+#~ msgstr "تغيير مرحلة العضوية"
+
+# @ pmpro
+#~ msgid "Cancel Membership"
+#~ msgstr "الغاء العضوية"
+
+# @ pmpro
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "مسجل الدخول كـ <strong>%s</strong>."
+
+# @ pmpro
+#~ msgid "logout"
+#~ msgstr "تسجيل الخروج"
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "وتدير الاكتتاب الدفع بواسطة باي بال. يرجى <a href=\"http://www.paypal.com"
+#~ "\"> login إلى PayPal هنا </a> لتحديث معلومات الفواتير الخاصة بك."
+
+# @ pmpro
+#~ msgid "First Name"
+#~ msgstr "الاسم الاول"
+
+# @ pmpro
+#~ msgid "Last Name"
+#~ msgstr "الاسم الاخير"
+
+# @ pmpro
+#~ msgid "Address 1"
+#~ msgstr "العنوان ١"
+
+# @ pmpro
+#~ msgid "Address 2"
+#~ msgstr "العنوان ٢"
+
+# @ pmpro
+#~ msgid "optional"
+#~ msgstr "اختياري"
+
+# @ pmpro
+#~ msgid "City"
+#~ msgstr "المدينة"
+
+# @ pmpro
+#~ msgid "State"
+#~ msgstr "الولاية"
+
+# @ pmpro
+#~ msgid "Postal Code"
+#~ msgstr "كود البريد"
+
+# @ pmpro
+#~ msgid "City, State Zip"
+#~ msgstr "المدينة، مفتاح المدينة"
+
+# @ pmpro
+#~ msgid "Country"
+#~ msgstr "البلد"
+
+# @ pmpro
+#~ msgid "Phone"
+#~ msgstr "الهاتف"
+
+# @ pmpro
+#~ msgid "E-mail Address"
+#~ msgstr "البريد الالكتروني"
+
+# @ pmpro
+#~ msgid "Confirm E-mail"
+#~ msgstr "تأكيد البريد الالكتروني"
+
+# @ pmpro
+#~ msgid "We accept %s"
+#~ msgstr "نحن نقبل  %s"
+
+# @ pmpro
+#~ msgid "Credit Card Information"
+#~ msgstr "بيانات بطاقة الائتمان"
+
+# @ pmpro
+#~ msgid "Card Type"
+#~ msgstr "نوع البطاقة"
+
+# @ pmpro
+#~ msgid "Card Number"
+#~ msgstr "رقم البطاقة"
+
+# @ pmpro
+#~ msgid "Expiration Date"
+#~ msgstr "تاريخ الانتهاء"
+
+# @ pmpro
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr ""
+#~ "هذا الاشتراك ليس متكرر. لذلك لا تحتاج لتحديث المعلومات الخاصة بالفاتورة."
+
+# @ pmpro
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "هل أنت متأكد بأنك تريد إلغاء عضويتك؟"
+
+# @ pmpro
+#~ msgid "Yes, cancel my account"
+#~ msgstr "نعم، الغي حسابي"
+
+# @ pmpro
+#~ msgid "No, keep my account"
+#~ msgstr "لا، ابقى حسابي"
+
+# @ pmpro
+#~ msgid "Click here to go to the home page."
+#~ msgstr "اضغط هنا للذهاب للصفحة الرئيسية"
+
+# @ pmpro
+#~ msgid ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+#~ msgstr ""
+#~ "فعلت تقريبا. مراجعة المعلومات عضوية والتسعير أدناه ثم على <strong> انقر "
+#~ "على زر  \"الدفع الكامل \" </ strong> لإنهاء طلبك."
+
+# @ pmpro
+#~ msgid "Membership Level"
+#~ msgstr "مرحلة العضوية"
+
+# @ pmpro
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "لقد حددت <strong>%s</strong> عضوية المستوى"
+
+# @ pmpro
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code has "
+#~ "been applied to your order.</p>"
+#~ msgstr ""
+#~ "<ع الطبقة =  \"pmpro_level_discount_applied \"> وعلى <strong> %s </ قوي> "
+#~ "تم تطبيق كود لطلبك. </ P>"
+
+# @ pmpro
+#~ msgid "Click here to change your discount code"
+#~ msgstr "اضغط هنا لتغيير كود الخصم"
+
+# @ pmpro
+#~ msgid "Do you have a discount code?"
+#~ msgstr "هل لديك كود خصم؟"
+
+# @ pmpro
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "اضغط هنا لإدخال كود الخصم"
+
+# @ pmpro
+#~ msgid "Discount Code"
+#~ msgstr "كود الخصم"
+
+# @ pmpro
+#~ msgid "Apply"
+#~ msgstr "قبول"
+
+# @ pmpro
+#~ msgid "Already have an account?"
+#~ msgstr "هل لديك حساب؟"
+
+# @ pmpro
+#~ msgid "Log in here"
+#~ msgstr "سجل دخولك هنا"
+
+# @ pmpro
+#~ msgid "Account Information"
+#~ msgstr "معلومات الحساب"
+
+# @ pmpro
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "تأكيد عنوان البريد"
+
+# @ pmpro
+#~ msgid "Full Name"
+#~ msgstr "الاسم بالكامل"
+
+# @ pmpro
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "اتركها فارغة"
+
+# @ pmpro
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "أنت مسجل دخولك باسم على <strong> %s </ قوي>. إذا كنت ترغب في استخدام حساب "
+#~ "مختلف لهذه العضوية، <أ href = على  \" %s  \"> تسجيل الخروج الآن </A>."
+
+# @ pmpro
+#~ msgid "Choose your Payment Method"
+#~ msgstr "اختار عملية الدفع "
+
+# @ pmpro
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "الدفع بواسطة بطاقة الائتمان هنا"
+
+# @ pmpro
+#~ msgid "Check Out with PayPal"
+#~ msgstr "ادفع بواسطة الباي بال"
+
+# @ pmpro
+#~ msgid "We Accept %s"
+#~ msgstr "نحن نقبل  %s"
+
+# @ pmpro
+#~ msgid "Payment Information"
+#~ msgstr "معلومات الدفع"
+
+# @ pmpro
+#~ msgid "I agree to the %s"
+#~ msgstr "اوافق لـ  %s"
+
+# @ pmpro
+#~ msgid "Complete Payment"
+#~ msgstr "انهاء الدفع"
+
+# @ pmpro
+#~ msgid "Processing..."
+#~ msgstr "جاري العمل..."
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated shortly."
+#~ msgstr "وقد قدمت لكم السداد. سيتم تفعيل عضويتك قريبا."
+
+# @ pmpro
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr "شكرا لعضوية ل %s . ك %s عضوية نشطة الآن."
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "وفيما يلي تفاصيل عن حساب عضويتك وإيصال الخاص فاتورة عضوية الأولية. تم "
+#~ "إرسال البريد الإلكتروني ترحيب بنسخة من الفاتورة الخاصة بك عضوية أولية ل "
+#~ "%s ."
+
+# @ pmpro
+#~ msgid "Print"
+#~ msgstr "طباعة"
+
+# @ pmpro
+#~ msgid "Account"
+#~ msgstr "حساب"
+
+# @ pmpro
+#~ msgid "Expiration"
+#~ msgstr "انهاء الصلاحية"
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "وفيما يلي تفاصيل عن حساب عضويتك. تم إرسال البريد الإلكتروني ترحيب مع ل %s ."
+
+# @ pmpro
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "عرض عضوية حسابك &rarr;"
+
+# @ pmpro
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr "إذا لم يتم تنشيط حسابك في غضون بضع دقائق، يرجى الاتصال بمالك الموقع."
+
+# @ pmpro
+#~ msgid "Tax"
+#~ msgstr "ضريبة"
+
+# @ pmpro
+#~ msgid "Coupon"
+#~ msgstr "خصم"
+
+# @ pmpro
+#~ msgid "Date"
+#~ msgstr "تاريخ"
+
+# @ pmpro
+#~ msgid "Invoice #"
+#~ msgstr "فاتورة #"
+
+# @ pmpro
+#~ msgid "View Invoice"
+#~ msgstr "اظهر فاتورة"
+
+# @ pmpro
+#~ msgid "No invoices found."
+#~ msgstr "لا توجد فواتير"
+
+# @ pmpro
+#~ msgid "Price"
+#~ msgstr "السعر"
+
+# @ pmpro
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "الخاصة بك &nbsp;Level"
+
+# @ wordpress-importer
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "كان هناك خطأ عند قراءة ملف ال WXR"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr "التفاصيل فى الأعلى . المستورد سيحاول مرة أخرى مع قارىء مختلف ..."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr "هذا لا يبدو أنه ملف WXR ، نسخة WXR  مفقودة/ غيرصالحة "
+
+# @ vibe
+#~ msgid "Import Complete !"
+#~ msgstr "انتهى الاستيراد!"
+
+# @ vibe
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "غير قادر على تحديد ملف البيانات للعينة"
+
+# @ vibe
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the WP_Import "
+#~ "class."
+#~ msgstr ""
+#~ "Couldn't install the test demo data as we were unable to use the WP_Import "
+#~ "class."
+
+# @ wordpress-importer
+#~ msgid "All done."
+#~ msgstr "تمت كل الخطوات."
+
+# @ wordpress-importer
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "تذكر تحديث كلمات المرور وأدوار المستخدمين المستوردة"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "تعذر العثور على ملف التصدير في <كود> %s </ القانون>. فمن المرجح أن هذا كان "
+#~ "بسبب مشكلة أذونات."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "ملف WXR (الإصدار %s)  قد لا يكون مدعوم من قبل هذا الإصدار من المستورد. "
+#~ "يرجى النظر في تحديثه."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr "فشل في استيراد مؤلف %s . مقالاتهم ستضاف للمستخدم الحالي."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "لتجعل من السهل تحرير وحفظ المحتويات المستوردة، قد تحتاج إلى إعادة تعيين "
+#~ "مؤلف العناصر المستوردة لمستخدم موجود في هذا الموقع. على سبيل المثال، قد "
+#~ "ترغب في استيراد كافة الإدخالات <code>كمدير </ code> مقالات ك."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "إذا تم إنشاء مستخدم جديد ، سيتم إنشاء كلمة مرور جديدة عشوائيا، وسيتم تعيين "
+#~ "دور المستخدم الجديد ك %s . وسوف تغيير تفاصيل المستخدم الجديد يدويا يكون "
+#~ "ضروريا."
+
+# @ wordpress-importer
+#~ msgid "or create new user with login name:"
+#~ msgstr "أو إنشاء مستخدم جديد بإسم المستخدم:"
+
+# @ wordpress-importer
+#~ msgid "as a new user:"
+#~ msgstr "كمستخدم جديد:"
+
+# @ wordpress-importer
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "تعيين مقالات إلى مستخدم موجود:"
+
+# @ wordpress-importer
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "أو تعيين مقالات إلى مستخدم موجود:"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "فشل في إنشاء مستخدم جديد ل %s . ويمكن أن تضاف مقالتهم إلى المستخدم الحالي."
+
+# @ wordpress-importer
+#~ msgid "Failed to import category %s"
+#~ msgstr "فشل في استيراد التصنيف %s"
+
+# @ wordpress-importer
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "فشل آخر لاستيراد وسم المقال  %s"
+
+# @ wordpress-importer
+#~ msgid "Failed to import %s %s"
+#~ msgstr "فشل في استيراد %s %s"
+
+# @ wordpress-importer
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "فشل في استيراد \" %s \": مقال غير صالح %s"
+
+# @ wordpress-importer
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s & # 8220؛ %s & # 8221؛ موجود بالفعل."
+
+# @ wordpress-importer
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "فشل في استيراد %s & # 8220؛ %s & # 8221؛"
+
+# @ wordpress-importer
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "عنصر القائمة تم تخطية لأن الإسم اللطيف للقائمة مفقود "
+
+# @ wordpress-importer
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "عنصر القائمة تم تخطية لأن الإسم اللطيف للقائمة غير صالح: %s"
+
+# @ wordpress-importer
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "جلب المرفقات غير مفعل"
+
+# @ wordpress-importer
+#~ msgid "Remote server did not respond"
+#~ msgstr "الخادم البعيد لا يستجيب"
+
+# @ wordpress-importer
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "الخادم البعيد أعاد خطأ استجابة %1$d %2$s"
+
+# @ wordpress-importer
+#~ msgid "Zero size file downloaded"
+#~ msgstr "حجم الملف المحمل صفر"
+
+# @ wordpress-importer
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "الملف البعيد كبير جدا، والحد الأقصى هو %s"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "نسخة جديدة من هذا المستورد متاحة. يرجى تحديث إلى الإصدار %s لضمان التوافق "
+#~ "مع الملفات الجديدة للتصدير."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "مرحبا! تحميل RSS (WXR) الموسعة ملف وسنقوم باستيراد مقال ، صفحات، تعليقات، "
+#~ "الحقول المخصصة، و التصنيفات ، والعلامات في هذا الموقع."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr "اختيار ملف  WXR (. XML) للتحميل، ثم انقر على تحميل ملف والاستيراد."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "استيراد <strong> المقالات والصفحات والتعليقات، والحقول، والفئات، والوسوم "
+#~ "</ strong> من ملف التصدير ."
+
+# @ vibe
+#~ msgid "Thanks, all done!"
+#~ msgstr "شكرا، فعلت كل شيء!"
+
+# @ vibe
+#~ msgid "Thank you for updating to the latest version!"
+#~ msgstr "أشكركم على تحديث إلى أحدث إصدار! "
+
+# @ vibe
+#~ msgid "Thanks for installing!"
+#~ msgstr "الشكر لتثبيت!"
+
+# @ vibe
+#~ msgid ""
+#~ "%s WPLMS is the best Learning Management platform for WordPress. The "
+#~ "latest version %s now contains following features."
+#~ msgstr ""
+#~ "%s WPLMS هو أفضل منصة لإدارة التعلم لورد. أحدث نسخة %s يحتوي على الميزات "
+#~ "التالية الآن."
+
+# @ vibe
+#~ msgid "FAQs"
+#~ msgstr "الأسئلة الشائعة"
+
+# @ vibe
+#~ msgid "Docs"
+#~ msgstr "مستندات"
+
+# @ vibe
+#~ msgid "Customization Tips"
+#~ msgstr "التخصيص نصائح"
+
+# @ vibe
+#~ msgid "Installation and Setup"
+#~ msgstr "التركيب والإعداد"
+
+# @ vibe
+#~ msgid "One Click installation and Setup"
+#~ msgstr "نقرة واحدة التركيب والإعداد"
+
+# @ vibe
+#~ msgid ""
+#~ "You can now install WPLMS in one single click, select the setup procedure "
+#~ "from the options given in the right. You just need to Click the button "
+#~ "once and everything would be automatically installed and setup, after "
+#~ "which your WPLMS Site would be ready to use and configure."
+#~ msgstr ""
+#~ "يمكنك الآن تثبيت WPLMS في نقرة واحدة واحدة، حدد الإجراء الإعداد من "
+#~ "الخيارات الواردة في اليمين. تحتاج فقط إلى انقر على الزر مرة واحدة وسيكون "
+#~ "كل شيء يتم تثبيتها تلقائيا والإعداد، وبعد ذلك WPLMS الموقع الخاص بك ستكون "
+#~ "جاهزة للاستخدام، وتكوينه."
+
+# @ vibe
+#~ msgid ""
+#~ "Please deactivate WordPress importer plugin to avoid conflicts with Vibe "
+#~ "one click installer."
+#~ msgstr ""
+#~ "يرجى تعطيل وورد البرنامج المساعد المستورد لتجنب النزاعات مع ضغطة واحدة "
+#~ "فيبي المثبت."
+
+# @ vibe
+#~ msgid "Setup Theme without Sample Data"
+#~ msgstr "الإعداد لقضاء وقت الفراغ بدون بيانات عينة"
+
+# @ vibe
+#~ msgid "Please enable all the plugins"
+#~ msgstr "يرجى تمكين جميع الإضافات"
+
+# @ vibe
+#~ msgid "Please activate all/required plugins bundled with the theme."
+#~ msgstr "يرجى تفعيلها للجميع الإضافات / مطلوب واحدة مع هذا الموضوع."
+
+# @ vibe
+#~ msgid "Video Tutorial of Installing theme"
+#~ msgstr "فيديو تعليمي لتثبيت الموضوع"
+
+# @ vibe
+#~ msgid "Facing issues while setting up? Try out suggested links below."
+#~ msgstr "القضايا التي تواجه أثناء إعداد؟ جرب الروابط المقترحة أدناه."
+
+# @ vibe
+#~ msgid "WPLMS manual installation & setup"
+#~ msgstr "WPLMS دليل التثبيت والإعداد"
+
+# @ vibe
+#~ msgid "WPLMS FAQs"
+#~ msgstr "WPLMS أسئلة وأجوبة"
+
+# @ vibe
+#~ msgid "Popular Setup issues"
+#~ msgstr "مشكلات إعداد الشعبية"
+
+# @ vibe
+#~ msgid "Following is the list of most frequent setup issues faced by users"
+#~ msgstr ""
+#~ "وفيما يلي قائمة من معظم القضايا الإعداد المتكررة التي يواجهها المستخدمين"
+
+# @ vibe
+#~ msgid "White screen when installed"
+#~ msgstr "شاشة بيضاء عند تركيبها"
+
+# @ vibe
+#~ msgid "Other popular issues"
+#~ msgstr "القضايا الأخرى الشعبية"
+
+# @ vibe
+#~ msgid "Following is the list of most frequent issues faced by users"
+#~ msgstr "وفيما يلي قائمة القضايا الأكثر شيوعا التي يواجهها المستخدمين"
+
+# @ vibe
+#~ msgid "Quizzes not saving answers"
+#~ msgstr "الاختبارات لا إنقاذ إجابات"
+
+# @ vibe
+#~ msgid "Visual composer not updating"
+#~ msgstr "الملحن البصري لا تحديث"
+
+# @ vibe
+#~ msgid "Getting 404 page on editing course"
+#~ msgstr "الحصول على 404 صفحة على تحرير بالطبع"
+
+# @ vibe
+#~ msgid "Unable to setup ? Get help on our Support forums."
+#~ msgstr "غير قادر على الإعداد؟ الحصول على مساعدة على المنتديات دعم العملاء."
+
+# @ vibe
+#~ msgid "Check update log "
+#~ msgstr "تحقق من تحديث السجل "
+
+# @ vibe
+#~ msgid "Translation Collaboration"
+#~ msgstr "التعاون الترجمة"
+
+# @ vibe
+#~ msgid "Go to WPLMS Options panel"
+#~ msgstr "الذهاب إلى لوحة خيارات WPLMS"
+
+# @ vibe
+#~ msgid "Environment"
+#~ msgstr "الصعيد البيئي"
+
+# @ vibe
+#~ msgid "Site URL"
+#~ msgstr "عنوان الموقع"
+
+# @ vibe
+#~ msgid "WP Version"
+#~ msgstr "الفسفور الابيض النسخة"
+
+# @ vibe
+#~ msgid "WP Multisite Enabled"
+#~ msgstr "الفسفور الابيض تمكين متعددة المواقع"
+
+# @ vibe
+#~ msgid "Web Server Info"
+#~ msgstr "شبكة معلومات الخادم"
+
+# @ vibe
+#~ msgid "PHP Version"
+#~ msgstr "نسخة PHP "
+
+# @ vibe
+#~ msgid "MySQL Version"
+#~ msgstr "إصدار ال MySQL"
+
+# @ vibe
+#~ msgid "WP Active Plugins"
+#~ msgstr "الفسفور الابيض النشطة الإضافات"
+
+# @ vibe
+#~ msgid "WP Memory Limit"
+#~ msgstr "الفسفور الابيض الذاكرة الحد"
+
+# @ vibe
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 128MB. See: <a href=\"%s"
+#~ "\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "%s - نوصي وضع الذاكرة إلى ما لا يقل عن 128MB. راجع: <أ href = على  \" %s  "
+#~ "\"> زيادة الذاكرة المخصصة للPHP </A>"
+
+# @ vibe
+#~ msgid "WP Debug Mode"
+#~ msgstr "الفسفور الابيض وضع التصحيح"
+
+# @ vibe
+#~ msgid "WP Language"
+#~ msgstr "الفسفور الابيض اللغة"
+
+# @ vibe
+#~ msgid "WP Max Upload Size"
+#~ msgstr "الفسفور الابيض ماكس تحميل الحجم"
+
+# @ vibe
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP مشاركة وماكس الحجم"
+
+# @ vibe
+#~ msgid "PHP Time Limit"
+#~ msgstr "PHP المهلة"
+
+# @ vibe
+#~ msgid "PHP Max Input Vars"
+#~ msgstr "فار PHP ماكس الإدخال"
+
+# @ vibe
+#~ msgid "Default Timezone"
+#~ msgstr "المنطقة الزمنية الافتراضية"
+
+# @ vibe
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "التوقيت الافتراضي هو %s - ينبغي أن يكون يونايتد تكنولوجيز"
+
+# @ vibe
+#~ msgid "Default timezone is %s"
+#~ msgstr "التوقيت الافتراضي هو %s"
+
+# @ vibe
+#~ msgid "WPLMS Pages"
+#~ msgstr "WPLMS الصفحات"
+
+# @ vibe
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "<كود> %s </ القانون> نسخة <أسلوب قوي =  \"اللون:  أحمر\"> %s </ قوي> هو "
+#~ "خارج التاريخ. النسخة الأساسية هي %s"
+
+# @ vibe
+#~ msgid "Template Overrides"
+#~ msgstr "قالب تجاوزات"
+
+# @ vibe
+#~ msgid "No overrides present in theme."
+#~ msgstr "لا يتجاوز تقدم في الموضوع."
+
+# @ vibe
+#~ msgid "Full Changelog of WPLMS Theme"
+#~ msgstr "التغيير الكامل للWPLMS الموضوع"
+
+# @ vibe
+#~ msgid "Visit Premium Customer Support Forum"
+#~ msgstr "زيارة بريميوم دعم العملاء في المنتدى"
+
+# @ vibe
+#~ msgid "(Unnamed Slider)"
+#~ msgstr "(المتزلج لم يذكر اسمه)"
+
+# @ vibe
+#~ msgid "INSTRUCTORS"
+#~ msgstr "ملاحظات"
+
+# @ vibe
+#~ msgid "Course Info"
+#~ msgstr "معلومات الدرس"
+
+# @ vibe
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "اعادة دعوة الطلاب"
+
+# @ vibe
+#~ msgid "SEND INVITATION"
+#~ msgstr "ارسال دعوة"
+
+# @ vibe
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "ارسل ايميل تنبيه"
+
+# @ vibe
+#~ msgid "SUBJECT"
+#~ msgstr "موضوع"
+
+# @ vibe
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "رسالة دعوة"
+
+# @ vibe
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "ارسال دعوات"
+
+# @ vibe
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "رسالة تنبيه"
+
+# @ vibe
+#~ msgid "SEND REMINDER"
+#~ msgstr "ارسل تنبيه"
+
+# @ vibe
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "قبول دعوة"
+
+# @ vibe
+#~ msgid "REJECT INVITE"
+#~ msgstr "رفض دعوة"
+
+# @ vibe
+#~ msgid "Event Location"
+#~ msgstr "موقع الحدث"
+
+# @ vibe
+#~ msgid "A Section added by hook"
+#~ msgstr "قسم تمت اضافته من خلال الhook"
+
+# @ vibe
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr ""
+#~ "هذا عبارة عن قسم تم عمله من خلال إضافة فلتر الى مصفوفة الاقسام، مناسبة "
+#~ "للسماح بالقوالب الابن، لاضافة/حذف الاقسام من الخيارات."
+
+# @ vibe
+#~ msgid "Folow me on Twitter"
+#~ msgstr "تابعنا على تويتر"
+
+# @ vibe
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "كن معجبا على فيس بوك"
+
+# @ vibe
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "تابعنا على جوجل بلس"
+
+# @ vibe
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "اخر الاخبار من قوالب فايب"
+
+# @ vibe
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr " v 2.0 خيارات لوحة فايب "
+
+# @ vibe
+#~ msgid "Support"
+#~ msgstr "دعم"
+
+# @ vibe
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "نحن نقدم الدعم عبر ثلاث وسائل (في الأولوية)"
+
+# @ vibe
+#~ msgid "Documentation & Links"
+#~ msgstr "التوثيق والروابط"
+
+# @ vibe
+#~ msgid "Or email us at"
+#~ msgstr "ابعت لنا ايميل"
+
+# @ vibe
+#~ msgid "Getting Started"
+#~ msgstr "ابدأ"
+
+# @ vibe
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "كيف التحديث؟ أتواجه مشاكل خلال التحديث؟"
+
+# @ vibe
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr " ادخل مفتاح تيم فورست الاضافة البرمجية الخاصة بك"
+
+# @ vibe
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr "للتطويرات التلقائية Key.Required الرجاء ادخال الاضافة البرمجية  "
+
+# @ vibe
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "ما هي الاضافة البرمجية؟ واين يمكن ايجاد واحدة؟"
+
+# @ vibe
+#~ msgid "Header"
+#~ msgstr "رأس الصفحة"
+
+# @ vibe
+#~ msgid "Upload Logo"
+#~ msgstr " رفع شعار"
+
+# @ vibe
+#~ msgid "Upload your logo"
+#~ msgstr "رفع شعارك"
+
+# @ vibe
+#~ msgid "Upload Favicon"
+#~ msgstr "رفع ايقونه"
+
+# @ vibe
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "تثبيت اعلى راس الصفحة خلال التدوير"
+
+# @ vibe
+#~ msgid "Fix header on top of screen"
+#~ msgstr "تثبيت رأس الصفحة على قمة الشاشة"
+
+# @ vibe
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr "راس الصفحة ثابت للاعلى عندما المستخدم يدور الصفحة للأسفل"
+
+# @ vibe
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "جعل شريط البحث العلوي يبحث في الدورات فقط"
+
+# @ vibe
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr ""
+#~ "عمل المزيد من الاشرطة الجانبية ديناميكياً واستخدامها في التخطيطات المختلفة"
+
+# @ vibe
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "عمل اشرطة جانبية ديناميكياً"
+
+# @ vibe
+#~ msgid ""
+#~ "Use these sidebars in various layouts. DO NOT ADD ANY SPECIAL CHARACTERS "
+#~ "in Sidebar name"
+#~ msgstr ""
+#~ "استخدام هذه الجانبية في مختلف التصاميم. لا تضيف أي أحرف خاصة في اسم الشريط "
+#~ "الجانبي"
+
+# @ vibe
+#~ msgid "Select All events page sidebar"
+#~ msgstr "حدد كافة الصفحات أحداث الشريط الجانبي"
+
+# @ vibe
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "اختر الشريط الجانبي لصفحة جميع الأحداث"
+
+# @ vibe
+#~ msgid "Buddypress"
+#~ msgstr "Buddypress"
+
+# @ vibe
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "صورة أعضاء Buddypress الرمزية الافتراضية"
+
+# @ vibe
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "عدد عناصر Buddypress لكل صفحة"
+
+# @ vibe
+#~ msgid "number of items shown per page"
+#~ msgstr "عدد العناصر المعروضة في كل صفحة"
+
+# @ vibe
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr ""
+#~ "عدد عناصر Buddypress (دورات، أعضاء، مجموعات، منتديات، مدونات، الخ ..)"
+
+# @ vibe
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "صفحة قائمة جميع الأعضاء يمكن رؤيتها من قبل:"
+
+# @ vibe
+#~ msgid "Teachers only"
+#~ msgstr "المعلمين فقط"
+
+# @ vibe
+#~ msgid "Single members profile can be viewed by:"
+#~ msgstr "الملف الشخصي للأعضاء يمكن رؤيته من قبل:"
+
+# @ vibe
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "صفحة اعادة التوجيه عند عدم وجود صلاحية للوصول لجميع الأعضاء"
+
+# @ vibe
+#~ msgid "User is redirected to this page on error."
+#~ msgstr "يتم توجيه المستخدم إلى هذه الصفحة في حال حدوث خطأ."
+
+# @ vibe
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "في حال لم يكن للمستخدم صلاحية رؤية الأعضاء، يتم توجيه المستخدم الى هذه "
+#~ "الصفحة."
+
+# @ vibe
+#~ msgid "Restrict Student activity view"
+#~ msgstr "تقييد رؤية الطالب للنشاطات"
+
+# @ vibe
+#~ msgid "Restrict student view of activity"
+#~ msgstr "تقييد رؤية الطالب للنشاطات"
+
+# @ vibe
+#~ msgid "Student can view only her activity"
+#~ msgstr "السماح للطالب بعرض نشاطاته فقط"
+
+# @ vibe
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "صفحة اعادة التوجيه عند عدم وجود صلاحية للوصول للنشاطات"
+
+# @ vibe
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "في حال لم يكن للمستخدم صلاحية رؤية النشاطات، يتم تحويل المستخدم الى هذه "
+#~ "الصفحة."
+
+# @ vibe
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "يمكن رؤية نشاطات الملف الشخصي من قبل:"
+
+# @ vibe
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "ملف المجموعة يمكن رؤيته من قبل:"
+
+# @ vibe
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},Teachers "
+#~ "{Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "إمكانية رؤية المجموعة: الجميع{حتى غير المسجلين للدخول}، الأعضاء{فقط "
+#~ "الأعضاء المسجلين للدخول}، المعلمين{المعلمين، الادارة، المحررين}"
+
+# @ vibe
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "ملفات المنتديات الفردية يمكن مشاهدتها من قبل:"
+
+# @ vibe
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr "يتم توجيه المستخدم إلى هذه الصفحة بعد تفعيل حسابه."
+
+# @ vibe
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr "بعد التسجيل وتفعيل الحساب يتم إعادة توجيه المستخدم إلى هذه الصفحة."
+
+# @ vibe
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr ""
+#~ "زر الانضمام للمجموعة للمجموعات العامة، وزر طلب الانضمام للمجموعة للمجموعات "
+#~ "الخاصة"
+
+# @ vibe
+#~ msgid "Disable"
+#~ msgstr "عدم تمكين"
+
+# @ vibe
+#~ msgid "Enable"
+#~ msgstr "تمكين"
+
+# @ vibe
+#~ msgid "Student Field"
+#~ msgstr "حقل الطالب"
+
+# @ vibe
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "أدخل اسم حقل الطالب ليتم عرضه تحت الاسم."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "أدخل اسم مجموعة حقول المدرب التي تود اخفاءها عن المستخدمين من خلال الملف "
+#~ "الشخصي -> تعديل (*حقول غير مطلوبة وحقول حساسة لحالة الاحرف)."
+
+# @ vibe
+#~ msgid "Instructor Field"
+#~ msgstr "حقل المدرب"
+
+# @ vibe
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr "أدخل اسم حقل المدرب ليتم عرضه تحت ."
+
+# @ vibe
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr "وصف المدرب سيتم اخذه من هذا الحقل في مربع المشرف"
+
+# @ vibe
+#~ msgid "Manage Course Options from here."
+#~ msgstr "ادارة خيارت الدرس من هنا."
+
+# @ vibe
+#~ msgid "Admin Approval for Course"
+#~ msgstr "طلب موافقة الإدارة على الدورة"
+
+# @ vibe
+#~ msgid "Force instructors for Admin approval for new course"
+#~ msgstr "الزام المدربين بإنتظار موافقة الادارة على دوراتهم"
+
+# @ vibe
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr ""
+#~ "الزام ارسال الدورات التي انشأها المدربين الى ادارة الموقع ليتم الموافقة "
+#~ "عليها قبل نشرها."
+
+# @ vibe
+#~ msgid "Yes, require approval"
+#~ msgstr "نعم، اطلب الموافقة"
+
+# @ vibe
+#~ msgid "No, allow publish"
+#~ msgstr "لا، اسمح بالنشر"
+
+# @ vibe
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr "تحديد الوصول الى الوحدات التالية بناءً على حالة الوحدة السابقة"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "إلزام المستخدمين بإكمال الوحدات السابقة وتصحيح اختباراتهم السابقة قبل عرض "
+#~ "الوحدات التالية"
+
+# @ vibe
+#~ msgid "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr "إخفاز زر الوحدة مكتملة لحين اكمال ملفات الميديا (صوت/فيديو)"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr ""
+#~ "إلزام الطلاب بمشاهدة/سماع ملفات الميديا (صوت/فيديو) في الوحدات قبل تحديدها "
+#~ "كوحدات مكتملة"
+
+# @ vibe
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr "إلزام المستخدمين انهاء متطلبات الوحدة لانهائها"
+
+# @ vibe
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr "زر التحديد كمكتمل للوحدات سيظهر فقط بعد انهاء الطالب لمتطلبات الوحدة"
+
+# @ vibe
+#~ msgid "Do not lock"
+#~ msgstr "لا تقفل"
+
+# @ vibe
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "عرض شريط التقدم أعلى جدول الدورة"
+
+# @ vibe
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "شريط التقدم في الدورة يظهر في صفحة منهج الدورة"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr ""
+#~ "تتم إضافة إجراء جملة في: الدورة -> الادارة -> الأعضاء الذين مكنوا المدربين "
+#~ "من إضافة الطلاب الى الدورة"
+
+# @ vibe
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr "السماح للمدربين بـ بتعيين/حذف الشهادات والأوسمة"
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr "تفعيل السماح للمدربين بتعيين الشهادات والأوسمة للطلاب"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "تتم إضافة إجراء جملة في: الدورة -> الادارة -> الأعضاء الذين مكنوا المدربين "
+#~ "من تعيين الشهادات والأوسمة للطلاب في الدورات"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to extend subscriptions of Students for the course"
+#~ msgstr ""
+#~ "تتم إضافة إجراء جملة في: الدورة -> الادارة -> الأعضاء الذين مكنوا المدربين "
+#~ "من متمديد اشتراكات الطلاب للدورة"
+
+# @ vibe
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "تمكين خصوصية محتوى المدرب"
+
+# @ vibe
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr "مربعات الاختيار تعرض فقط وحدات/إختبارات/أسئلة المدرب"
+
+# @ vibe
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr "يمكن للمدربين عرض العناوين ولكن لا يمكنهم فتح المحتوى"
+
+# @ vibe
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr "صفحة مع قالب شهادة، الرجوع إلى الدورات بدون قوالب الشهادات."
+
+# @ vibe
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "انواع اسئلة التصحيح التلقائي"
+
+# @ vibe
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "أنواع الأسئلة التي سيتم تصحيحها من خلال التصحيح التاقائي"
+
+# @ vibe
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process for "
+#~ "exact match."
+#~ msgstr ""
+#~ "سيتم تصحيح هذه الانواع من الاسئلة من خلال نظام التصحيح التلقائي حسب "
+#~ "الاجوبة المختارة من المشرف."
+
+# @ vibe
+#~ msgid "True False"
+#~ msgstr "نعم أو لا"
+
+# @ vibe
+#~ msgid "Multiple Choice"
+#~ msgstr "إختيار من متعدد"
+
+# @ vibe
+#~ msgid "Multiple Correct"
+#~ msgstr "إختيار متعدد من متعدد"
+
+# @ vibe
+#~ msgid "Dropdown select"
+#~ msgstr "اختيار من قائمة منسدلة"
+
+# @ vibe
+#~ msgid "Fill in the Blank"
+#~ msgstr "ملء الفراغ"
+
+# @ vibe
+#~ msgid "Hide courses from directory & pages, only accessible via direct link"
+#~ msgstr ""
+#~ "إخفاء الدورات من الدليل والصفحات، فقط يمكن الوصول اليها من الرابط المباشر"
+
+# @ vibe
+#~ msgid "Set course duration parameter"
+#~ msgstr "تحديد معامل مدة الدورة"
+
+# @ vibe
+#~ msgid "Course duration parameter for display purpose"
+#~ msgstr "معامل مدة الدورة لعرض الهدف"
+
+# @ vibe
+#~ msgid "Finished Course Access"
+#~ msgstr "صلاحية الوصول للدورة المنتهية"
+
+# @ vibe
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "السماح للطلاب بمشاهدة الدورات المنتهية"
+
+# @ vibe
+#~ msgid "Make finished courses secure area viewable to students"
+#~ msgstr "جعل الدورات المنتهية منطقة مسموح عرضها للطلاب"
+
+# @ vibe
+#~ msgid "Enable Levels"
+#~ msgstr "تمكين المستويات"
+
+# @ vibe
+#~ msgid "Enables Level taxonomy"
+#~ msgstr "تمكين مستويات التصنيف"
+
+# @ vibe
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr "ربط الدورة، الوحدات، الاختبارات وأسئلة مع التصنيف ذو العلاقة"
+
+# @ vibe
+#~ msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+#~ msgstr ""
+#~ "اختصار قائمة الوحدات، الاختبارات، الدورات المعروضة في القائمة المنسدلة"
+
+# @ vibe
+#~ msgid "Fonts Manager"
+#~ msgstr "مدير الخطوط"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be available "
+#~ "in Theme customizer font family select options."
+#~ msgstr ""
+#~ "قم بادارة الخطوط المستخدمة في الموقع. الخطوط المحددة هنا سوف تكون متاحة في "
+#~ "قائمة خطوط تخصيص القالب."
+
+# @ vibe
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "تحديد الخطوط لمحرر القالب المباشر "
+
+# @ vibe
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "اختيار الخطوط وتثبيتها في المحرر المباشر"
+
+# @ vibe
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "استخدام نموذج التخطيط هذا في PageBuilder."
+
+# @ vibe
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "الخطوط المخصصة (Enter CSS Font Family name)"
+
+# @ vibe
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr " تمت اضافة الخطوط المخصصة الى قائمة خطوط مخصص القالب. "
+
+# @ vibe
+#~ msgid "Customizer"
+#~ msgstr "المخصص"
+
+# @ vibe
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "استيراد/تصدير إعدادات مخصص القالب. تخصيص استخدام القالب "
+
+# @ vibe
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "استيراد / تصدير إعدادات مخصص القالب "
+
+# @ vibe
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "استيراد / تصدير إعدادات مخصص القالب"
+
+# @ vibe
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr ""
+#~ "استخدم وضائف الاستيراد/التصدير لاستيراد/تصدير إعدادات مخصص القالب الخاصة "
+#~ "بك."
+
+# @ vibe
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr ""
+#~ "إدارة تخطيطات PageBuilder المحفوظة واستيراد/تصدير تخطيطات pagebuilder "
+#~ "المحفوظة"
+
+# @ vibe
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "إدارة نمادج التخطيط "
+
+# @ vibe
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "استيراد / تصدير نماذج التخطيط "
+
+# @ vibe
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "استيراد / تصدير تخطيط موجود مسبقاً"
+
+# @ vibe
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "استخدم وظائف استيراد/تصدير لحفظ التخطيطات الخاصة بك."
+
+# @ vibe
+#~ msgid "Footer "
+#~ msgstr "التذييل "
+
+# @ vibe
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "الأعمدة الجانبية لأعلى التذييل"
+
+# @ vibe
+#~ msgid "Footer Columns"
+#~ msgstr "أعمدة التذييل"
+
+# @ vibe
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "الأعمدة الجانبية لأسفل التذييل"
+
+# @ vibe
+#~ msgid "Copyright Text"
+#~ msgstr "نص حقوق الحفظ"
+
+# @ vibe
+#~ msgid "Also supports shotcodes."
+#~ msgstr "يدعم أيضا الاكواد المختصرة."
+
+# @ vibe
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "حدد خيارات أسفل التذييل"
+
+# @ vibe
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr ""
+#~ "حدد ستايل أسفل التذييل، حدد روابط ايكونات الاجتماعية في التبويب الإجتماعي"
+
+# @ vibe
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "ادخل الكود الكامل مع بطاقة جافا سكريبت."
+
+# @ vibe
+#~ msgid "All Social media settings"
+#~ msgstr "كافة إعدادات وسائل الاعلام الاجتماعية"
+
+# @ vibe
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "اضافة ازرار الاعلام الاجتماعي ديناميكياً"
+
+# @ vibe
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "اضافة URL كامل في وسائل الإعلام الاجتماعي."
+
+# @ vibe
+#~ msgid "Round"
+#~ msgstr "مدور"
+
+# @ vibe
+#~ msgid "Square"
+#~ msgstr "مربع"
+
+# @ vibe
+#~ msgid "Round Colored"
+#~ msgstr "دائرة ملونة"
+
+# @ vibe
+#~ msgid "Square Colored"
+#~ msgstr "مربع ملون"
+
+# @ vibe
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "إظهار تلميح الأدوات على الرموز الاجتماعية"
+
+# @ vibe
+#~ msgid "Social Sharing buttons"
+#~ msgstr "ازرار المشاركة الاجتماعية"
+
+# @ vibe
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "عرض أزرار النشر المدمجة في الموضوع"
+
+# @ vibe
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr "اضافة ازرار النشر على المواقع الاجتماعية في كل دورة، موضوع.. الخ"
+
+# @ vibe
+#~ msgid "Enable TinCan recording"
+#~ msgstr "Enable TinCan recording"
+
+# @ vibe
+#~ msgid "Record TinCan/XAPI statements in External LRS"
+#~ msgstr "Record TinCan/XAPI statements in External LRS"
+
+# @ vibe
+#~ msgid ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+#~ msgstr ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+
+# @ vibe
+#~ msgid "TinCan API EndPoint"
+#~ msgstr "TinCan API EndPoint"
+
+# @ vibe
+#~ msgid "Add a TinCan API endpoint"
+#~ msgstr "Add a TinCan API endpoint"
+
+# @ vibe
+#~ msgid "Add Endpoint to track details in external LRS."
+#~ msgstr "Add Endpoint to track details in external LRS."
+
+# @ vibe
+#~ msgid "TinCan compatible LRS authentication"
+#~ msgstr "TinCan compatible LRS authentication"
+
+# @ vibe
+#~ msgid "Enter Username for external LRS authentication."
+#~ msgstr "Enter Username for external LRS authentication."
+
+# @ vibe
+#~ msgid "Enter Password for external LRS authentication."
+#~ msgstr "Enter Password for external LRS authentication."
+
+# @ vibe
+#~ msgid "Miscellaneous"
+#~ msgstr "متنوعة"
+
+# @ vibe
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "الإعدادات المتنوعة المستخدمة في الموضوع."
+
+# @ vibe
+#~ msgid "Default Excerpt Length"
+#~ msgstr "طول المقتطف الإفتراضي"
+
+# @ vibe
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "طول المقتطف (عدد الكلمات)."
+
+# @ vibe
+#~ msgid "Default Instructor Commission"
+#~ msgstr "عمولة المدرب الإفتراضية"
+
+# @ vibe
+#~ msgid "Direct Checkout"
+#~ msgstr "انهاء الشراء مباشرة"
+
+# @ vibe
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "يتم توجيه المستخدم إلى صفحة الشراء النهائية."
+
+# @ vibe
+#~ msgid "Skip Product & Cart page"
+#~ msgstr "تخطي صفحة المنتج وسلة الشراء"
+
+# @ vibe
+#~ msgid "Skip Product page"
+#~ msgstr "تخطي صفحة المنتج"
+
+# @ vibe
+#~ msgid "Skip Cart"
+#~ msgstr "تخطي سلة المشتريات"
+
+# @ vibe
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "إعادة التوجيه الى صفحة الدورة بعد اكمال الطلب."
+
+# @ vibe
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "فقط إذا كان الطلب يحتوي على منتج واحد مع دورة واحدة"
+
+# @ vibe
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the course "
+#~ "page."
+#~ msgstr ""
+#~ "إذا كنت قد فعلت خاصية إنهاء الشراء مباشرة، وكانت منتجاتك تحتوي دورة واحدة "
+#~ "لكل منتج، عندها فعل هذه الخاصية لإرسال المستخدم مباشرة إلى صفحة الدورة."
+
+# @ vibe
+#~ msgid "Force complete orders"
+#~ msgstr "انهاء طلبات متكتملة"
+
+# @ vibe
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr "جعل جميع طلبات منتجات WooCommerce الافتراضية تكتمل في صفحة شكراً لك."
+
+# @ vibe
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "جميع الطلبات المدفوعة: جميع الطلبات التي تحتوي منتجات افتراضية وعملية "
+#~ "دفعها تمت. جميع الطلبات غير الفاشلة: جميع الطلبات الجاري العمل عليها، او "
+#~ "في الانتظار، الطلبات في الانتظار سيتم تحديها كمكتملة في صفحة شكراً لك."
+
+# @ vibe
+#~ msgid "All Paid Orders"
+#~ msgstr "جميع الطلبات المدفوعة"
+
+# @ vibe
+#~ msgid "All Non-Fail Orders"
+#~ msgstr "جميع الطلبات غير الفاشلة"
+
+# @ vibe
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "إزالة حقول انهاء عملية الشراء الاضافية"
+
+# @ vibe
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "موصى به إذا كنت فقط تبيع دورات / منتجات افتراضية"
+
+# @ vibe
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/Address,"
+#~ "State/Town, Pincode, Phone etc."
+#~ msgstr ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/Address,"
+#~ "State/Town, Pincode, Phone etc."
+
+# @ vibe
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "قيم الطول والعرض صفحة التواصل"
+
+# @ vibe
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "اسحب قيم الطول والعرض من."
+
+# @ vibe
+#~ msgid "Contact Page Map Style"
+#~ msgstr "مظهر خريطة صفحة التواصل"
+
+# @ vibe
+#~ msgid "Select the map style on contact page."
+#~ msgstr "اختار شكل الخريطة لصفحة التواصل"
+
+# @ vibe
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "منطقة المحتوى، المنطقة التي يتم فيها اضافة جميع المحتوى."
+
+# @ vibe
+#~ msgid "Satellite View"
+#~ msgstr "خارطة الساتالايت"
+
+# @ vibe
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "مقدار التكبير في جوجل ماب"
+
+# @ vibe
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "ادخل  حجم التكبير في خرائط جوجل"
+
+# @ vibe
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "حجم التكبير ٠- ٩"
+
+# @ vibe
+#~ msgid "Select 404 Page"
+#~ msgstr "اختار صفحة 404"
+
+# @ vibe
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr "هذه الصفحة تظهر عندما صفحة لا توجد صفحة على موقعك."
+
+# @ vibe
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr "المستخدم يعاد توجيهه لهذه الصفحة عندما لا توجد صفحة على موقعك."
+
+# @ vibe
+#~ msgid "Disable XMLRPC/RSD/WLWManifest"
+#~ msgstr "تعطيل XMLRPC / RSD / WLWManifest"
+
+# @ vibe
+#~ msgid "Remove security vulnerabilities"
+#~ msgstr "إزالة الثغرات الأمنية"
+
+# @ vibe
+#~ msgid ""
+#~ "Removes vulnerabilities at expense of ability to login via remote apps."
+#~ msgstr "ازالة نقطة ضعف امكانية الدخول للموقع عبر تطبيقات الريموت عن بعد."
+
+# @ vibe
+#~ msgid "Author & Credits"
+#~ msgstr "الناشر والامتيازات"
+
+# @ vibe
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr " {VibeThemes} تغييرات المراجع للناشر "
+
+# @ vibe
+#~ msgid "Theme Information"
+#~ msgstr "معلومات القالب"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Directory"
+#~ msgstr "Directorio de Cursos"
+
+# @ vibe
+#, fuzzy
+#~ msgid "All Courses by all instructors"
+#~ msgstr "Todos los cursos de todos los instructores"
+
+# @ vibe
+#~ msgid "All Courses by "
+#~ msgstr "كل الدورات بواسطة"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a course completion message for students passing this course. This "
+#~ "message is shown to students when students submit their course. The "
+#~ "message is shown above the Course review form"
+#~ msgstr ""
+#~ "إدخال رسالة إتمام الدورة للطلاب المجتازين لهذه الدورة. تظهر هذه الرسالة "
+#~ "إلى الطلاب عند تقدمهم إلى الدرس. يتم عرض الرسالة أعلى تعليقات منتدى الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "EDIT COURSE"
+#~ msgstr "تقييم الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "CREATE COURSE"
+#~ msgstr "تقييم الدورة"
+
+# @ vibe
+#~ msgid "SETTINGS"
+#~ msgstr "إعدادات"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course settings"
+#~ msgstr "تقييم الدورة"
+
+# @ vibe
+#~ msgid "SET CURRICULUM"
+#~ msgstr "إعداد المساق"
+
+# @ vibe
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "إضافة وحدات وإختبارات"
+
+# @ vibe
+#~ msgid "PRICING"
+#~ msgstr "التسعير"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Price for Course"
+#~ msgstr "ابدأ الدرس"
+
+# @ vibe
+#, fuzzy
+#~ msgid "MODIFY COURSE"
+#~ msgstr "تقييم الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "لقد أنهيت هذه الدورة"
+
+# @ vibe
+#~ msgid "Go Live !"
+#~ msgstr "على الموقع!"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "تعديل القوائم في لوحة المدير"
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE TITLE"
+#~ msgstr "الدورة تحت"
+
+# @ vibe
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "أدخل عنوان الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "الدورة تحت"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Select a Course Category"
+#~ msgstr "Corso "
+
+# @ vibe
+#~ msgid "Add new category"
+#~ msgstr "إضافة فئة جديدة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Enter a new Course Category"
+#~ msgstr "Corso "
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE IMAGE"
+#~ msgstr "الدورة تحت"
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "الاشتراك"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "أدخل وصفا موجزا للدورة، في أقل من 30 كلمة. انقر على التالي لتحريره و  n "
+#~ "حذف هذا النص. سيضاف الوصف الكامل الدورة  في وقت لاحق."
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "الدورة تحت"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Select Linkage term"
+#~ msgstr "No public tweets found on Twitter !"
+
+# @ vibe
+#~ msgid "Add new Linkage term"
+#~ msgstr "إضافة مصطلح الربط الجديد"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Enter a new Linkage"
+#~ msgstr "رابط خارجي"
+
+# @ vibe
+#, fuzzy
+#~ msgid "SAVE COURSE"
+#~ msgstr "بدء الدرس"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Settings"
+#~ msgstr "تقييم الدورة"
+
+# @ vibe
+#~ msgid "Maximum Course Duration"
+#~ msgstr "أقصى مدة للدورة"
+
+# @ vibe
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "الوضع تقييم الدورة"
+
+# @ vibe
+#~ msgid "Manual"
+#~ msgstr "يدوي"
+
+# @ vibe
+#~ msgid "Pre-required Course"
+#~ msgstr "إحتياجات ما قبل الدورة"
+
+# @ vibe
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "تحديد إحتياجات ما قبل الدورة،"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Drip Feed"
+#~ msgstr "تكلفة العضوية"
+
+# @ vibe
+#~ msgid "Set Drip Feed Duration"
+#~ msgstr "تحديد مدة الإستفادة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "ATTESTATO DI PARTECIPAZIONE"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Certificate Template"
+#~ msgstr "ATTESTATO DI PARTECIPAZIONE"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Badge"
+#~ msgstr "Manager kursu"
+
+# @ vibe
+#~ msgid "Set Badge Percentage"
+#~ msgstr "تعيين نسبة الشارة"
+
+# @ vibe
+#, fuzzy
+#~ msgid " out of 100"
+#~ msgstr "خارج عن"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Badge Title"
+#~ msgstr "عنوان موقع"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Upload Badge Image"
+#~ msgstr "رفع صورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Student Seats"
+#~ msgstr "طالب"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Number of seats in course"
+#~ msgstr "Studenti iscritti al corso"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Course Start Date"
+#~ msgstr "خذ الدرس لتبدأ الاختبار"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Number of Student re-takes"
+#~ msgstr "عدد العناصر"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Group"
+#~ msgstr "Corso "
+
+# @ vibe
+#, fuzzy
+#~ msgid "Connect a Course Group"
+#~ msgstr "Directorio de Cursos"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Add new Group"
+#~ msgstr "مجموعات جديدة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Forum"
+#~ msgstr "Corso "
+
+# @ vibe
+#, fuzzy
+#~ msgid "Connect a Course Forum"
+#~ msgstr "Directorio de Cursos"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Connect the Group forum"
+#~ msgstr "Pubblica nel Forum del Gruppo:"
+
+# @ vibe
+#~ msgid "Add new forum"
+#~ msgstr "إضافة منتدى جديد"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Completion Message"
+#~ msgstr "حذف رسالة"
+
+# @ vibe
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "حفظ الإعدادات"
+
+# @ vibe
+#~ msgid "ADD SECTION"
+#~ msgstr "أضف قسم"
+
+# @ vibe
+#~ msgid "ADD UNIT"
+#~ msgstr "أضف وحدة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "ADD QUIZ"
+#~ msgstr "اعادة اخذ الاختبار"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Edit Unit"
+#~ msgstr "الدرس القادم"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Preview"
+#~ msgstr "Anteprima dell'Avatar"
+
+# @ vibe
+#, fuzzy
+#~ msgid "SELECT A UNIT"
+#~ msgstr "رفض دعوة"
+
+# @ vibe
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "أضف وحدة جديدة"
+
+# @ vibe
+#~ msgid "Add a unit title"
+#~ msgstr "أضف وحدة عنوان"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Publish"
+#~ msgstr "تم نشره حديثا"
+
+# @ vibe
+#, fuzzy
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "اعادة اخذ الاختبار"
+
+# @ vibe
+#, fuzzy
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "اعادة اخذ الاختبار"
+
+# @ vibe
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "حفظ المساق"
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE PRICING"
+#~ msgstr "نسبتي في الدورة:"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set a Course Product"
+#~ msgstr "Corso "
+
+# @ vibe
+#, fuzzy
+#~ msgid "No Product"
+#~ msgstr "منتج"
+
+# @ vibe
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "إضافة منتج جديد"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Product type"
+#~ msgstr "منتج"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Full Course"
+#~ msgstr "الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Subscription"
+#~ msgstr "توصيف"
+
+# @ vibe
+#~ msgid "Set Product Price"
+#~ msgstr "تحديد سعر المنتج"
+
+# @ vibe
+#~ msgid "Set Subscription duration"
+#~ msgstr "تحديد مدة الاشتراك"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Set Course Memberships"
+#~ msgstr "عضويات المجموعة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Save Course Pricing"
+#~ msgstr "Directorio de Cursos"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Modify Course"
+#~ msgstr "الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "DELETE COURSE"
+#~ msgstr "تقييم الدورة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Delete Units"
+#~ msgstr "حذف حساب"
+
+# @ buddypress
+#, fuzzy
+#~ msgid "Delete Quizzes"
+#~ msgstr "حذف رسالة"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Delete Assignments"
+#~ msgstr "تقييم التعيين:"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course not set"
+#~ msgstr "معلومات الدرس"
+
+# @ default
+#~ msgid "Go Live"
+#~ msgstr "على الموقع"
+
+# @ vibe
+#~ msgid "GO LIVE"
+#~ msgstr "على الموقع"
+
+# @ vibe
+#, fuzzy
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "الانتظار لموافقة المدير"
+
+# @ vibe
+#~ msgid ""
+#~ "Click on text to enter a Course title, delete the existing text in the "
+#~ "title"
+#~ msgstr "انقر على النص لإدخال اسم الدورة، إحذف النص الموجود في عنوان"
+
+# @ vibe
+#~ msgid "Select a Course Category, or Add a New one"
+#~ msgstr "إختر فئة دورة، أو أضاف واحدة جديدة"
+
+# @ vibe
+#~ msgid "Select or upload a course image, this image is used as Course avatar."
+#~ msgstr "تحديد أو تحميل صورة الدورة، تستخدام كصورة إفتراضية للدورة ."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a Short description about the course, the full description can be "
+#~ "added later on. Start by deleting the existing text in the title"
+#~ msgstr ""
+#~ "أدخل وصفا موجزا عن الدورة، يمكن إضافة وصفا كاملا في وقت لاحق. إبدء بحذف "
+#~ "النص الموجود في العنوان"
+
+# @ vibe
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "الربط يقلل بدرجة كبيرة من تحميل القوائم وحدة / مسابقة / سؤال على الصفحة. "
+#~ "فقط عند تحديد مصطلح الربط، القوائم وحدة / ومسابقات / أسئلة متصلة بنفس "
+#~ "مصطلح الربط. في حالة تعديل دورة، حفظ وتحديث بعد اختيار رابط المصطلح."
+
+# @ vibe
+#~ msgid "A Offline Course is not visible to students in the course directory."
+#~ msgstr "الدورة الأوفلين غير مرئية للطلاب في دليل الدورات."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the maximum duration for the course in days. This is the maximum "
+#~ "duration within which the student should complete the course. Use 9999 for "
+#~ "unlimited access to course."
+#~ msgstr ""
+#~ "أدخل أقصى مدة للدورة بالأيام. هذا هو الحد الأقصى للمدة التي يستغرقها "
+#~ "الطالب كي يكمل الدورة. استخدام 9999 من أجل الولوج الغير المحدود إلى الدورة."
+
+# @ vibe
+#, fuzzy
+#~ msgid ""
+#~ "Set Evaluation mode, Manual evaluation (from Course -> Admin ) or "
+#~ "Automatic  "
+#~ msgstr ""
+#~ "تفعيل وضع التقييم، التقييم اليدوي (من الدورة -> الادارة) أو تلقائي (* "
+#~ "يتطلب على الأقل مسابقة 1 في الدورة) "
+
+# @ vibe
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr ""
+#~ "التحديد المسبق لمتطلبات الدورة. يجب إنهاء ماقبل الدورة حتى يتمكن الطالب من "
+#~ "الدخول إلى هذه الدورة"
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Drip Feed course. Students see next lesson after x days. X is "
+#~ "Duration of Drip. "
+#~ msgstr ""
+#~ "تمكين الإستفادة من الدورة. يرى الطلاب الدرس التالي بعد يوم X. x هو مدة "
+#~ "الإستفادة. "
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a student "
+#~ "should achieve to get the course certificate. Select a certificate "
+#~ "template."
+#~ msgstr ""
+#~ "تعيين شهادة دورة. وضع علامات نسبة الشهادة التي يجب على الطالب أن يحققها "
+#~ "للحصول على شهادة الدورة. إختيار قالب الشهادة."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a course Badge. Set percentage marks which a student should get to get "
+#~ "the course badge. Upload the Badge image."
+#~ msgstr ""
+#~ "تحديد شارة الدورة. وضع علامات النسبة التي يجب على الطالب أن يحققها للحصول "
+#~ "على شارة الدورة. تحميل صورة الشارة."
+
+# @ vibe
+#~ msgid ""
+#~ "Set number of seats available for students to take the course. Once full "
+#~ "students can not join the course. Enter 9999 for unlimited seats."
+#~ msgstr ""
+#~ "تحديد عدد المقاعد المتاحة للطلاب لأخد الدورة. في حالة تعدر على الطلاب أن "
+#~ "ينضم للدورة. إدخال 9999 لمقاعد غير محدودة."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join the "
+#~ "course on/after the start date."
+#~ msgstr ""
+#~ "تحديد موعد بدء الدورة. عند تحديد موعد آخر، يمكن للطلاب الانضمام للدورة فقط "
+#~ "في / بعد تاريخ البدء."
+
+# @ vibe
+#~ msgid "Connect a Course Group OR Create a new one"
+#~ msgstr "ربط دورة مجموعة أو إنشاء واحدة جديدة"
+
+# @ vibe
+#~ msgid ""
+#~ "Connect a Course forum Or Create a new one or Create a Course Group Forum"
+#~ msgstr "توصيل منتدى دورة أو إنشاء واحدة جديدة أو إنشاء منتدى لدورة المجموعة"
+
+# @ vibe
+#~ msgid "Enter message which student see after submitting the course."
+#~ msgstr "أدخل الرسالة التي يراها الطالب بعد تقديمه للدورة."
+
+# @ vibe
+#~ msgid "Start building curriculum by adding Units, Quizzes and sections."
+#~ msgstr "البدء في بناء المناهج عن طريق إضافة وحدات، مسابقات وأقسام."
+
+# @ vibe
+#~ msgid "After adding a new unit or quiz, make sure you publish it"
+#~ msgstr "بعد إضافة وحدة جديدة أو مسابقة، تأكد من أنك قمت بنشرها"
+
+# @ vibe
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "حفظ المناهج فقط عندما يكون الزر أخضر."
+
+# @ vibe
+#~ msgid ""
+#~ "Connect the course with a product. A product defines the pricing of a "
+#~ "course.<br /><br />a. Enter the Price of the product to set the price of "
+#~ "your course.<br />b. Select the type of product.<br /><br /> If product is "
+#~ "set to subscription mode, you need to set the subscription duration for "
+#~ "the product. <br />A student purchasing a Product with subscription gets "
+#~ "access for the course for the subscription duration.<br /> A student "
+#~ "purchasing a product without subscription gets access for the course for "
+#~ "full course duration as entered in course settings."
+#~ msgstr ""
+#~ "ربط الدورة مع المنتج. المنتج يحدد سعر دورة. <br /> <br /> أ. أدخل سعر "
+#~ "المنتج لضبط سعر دورتك. <br /> ب. حدد نوع المنتج. <br /> <br /> إذا تم "
+#~ "تعيين المنتج على وضع الاشتراك، تحتاج إلى تعيين مدة الاشتراك للمنتج. <br /> "
+#~ "شراء الطالب المنتج مندون الإشتراك يحصل على المرور للدورة طيلة مدة "
+#~ "الاشتراك. <br /> شراء الطالب للمنتج دون اشتراك يمكنه المرور للدورة الكاملة "
+#~ "طيلة مدتها كما تم إدخالها في إعدادات الدورة."
+
+# @ vibe
+#~ msgid ""
+#~ "Go live with your course if \"Publish\" access is granted by Administrator "
+#~ "you course will be live as soon as you click on Go Live button."
+#~ msgstr ""
+#~ "إنشر دورتك على الموقع إذا كان  \"إنشر \" المرور مسموح من قبل الإدارة دورتك "
+#~ "ستكون على الموقع بمجرد النقر على زر على النت."
+
+# @ vibe
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "تنزيل الاضافات الضرورية لتشغيل هذا المظهر:  BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+
+# @ vibe
+#~ msgid "Other important setups. "
+#~ msgstr "اعدادات مهمة اخرى"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "Carica Immagine"
+
+# @ vibe
+#~ msgid "Upload BuddyPress Default avatar"
+#~ msgstr "تحميل صورة BuddyPress الرمزية الافترا"
+
+# @ vibe
+#~ msgid "Theme Layout"
+#~ msgstr "شكل القالب"
+
+# @ vibe
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "تكوين تخطيط الموضوع"
+
+# @ vibe
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "اختر من المخططات المحددة مسبقا للموضوع "
+
+# @ vibe
+#~ msgid "Wide"
+#~ msgstr "واسع"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Post in"
+#~ msgstr "Post"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Studenti che stanno frequentando questo corso"
+
+# @ vibe
+#~ msgid "FREE"
+#~ msgstr "مجاني"
+
+# @ vibe
+#~ msgid "minutes"
+#~ msgstr "دقائق"
+
+# @ vibe
+#, fuzzy
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "TEST EFFETTUATI"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Reset Assignment for User"
+#~ msgstr "Azzera il Corso per l'utente"
+
+# @ vibe
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "تقييم التعيين:"
+
+# @ vibe
+#, fuzzy
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "TEST EFFETTUATI"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Azzera il Test per l'utente"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Valutare Test per l'utente"
+
+# @ vibe
+#, fuzzy
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "CORSI COMPLETATI"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Valutare Corso per l'utente"
+
+# @ vibe
+#~ msgid "Send Request"
+#~ msgstr "ارسل طلب"
+
+# @ vibe
+#, fuzzy
+#~ msgid "SEATS"
+#~ msgstr " مقاعد"
+
+# @ vibe
+#, fuzzy
+#~ msgid "%1$s ago"
+#~ msgstr "Cosa c'è di nuovo in %s, %s?"
+
+# @ vibe
+#~ msgid "Sidebar Columns"
+#~ msgstr "أعمدة الجهات الجانبية"
+
+# @ vibe
+#, fuzzy
+#~ msgid "View all Courses in %s"
+#~ msgstr "Zobacz wszystkie posty w %s"
+
+# @ vibe
+#~ msgid "My Submission"
+#~ msgstr "تسليمي"
+
+# @ vibe
+#~ msgid "Download Attachment"
+#~ msgstr "تحميل مرفق"
+
+# @ vibe
+#~ msgid "See Instructor Remarks"
+#~ msgstr "اظهر علامات المدرب"
+
+# @ vibe
+#~ msgid "Marks Obtained"
+#~ msgstr "الدرجة المستحقة"
+
+# @ vibe
+#~ msgid "Marked Answer :"
+#~ msgstr "الأجابة المحددة:"
+
+# @ vibe
+#~ msgid "FALSE"
+#~ msgstr "لا"
+
+# @ vibe
+#~ msgid "TRUE"
+#~ msgstr "نعم"
+
+# @ vibe
+#~ msgid "Correct Answer :"
+#~ msgstr "الإجابة الصحيحة:"
+
+# @ vibe
+#, fuzzy
+#~ msgid "View answer explanation"
+#~ msgstr "مشاهدة تفسير الجواب"
+
+# @ vibe
+#~ msgid "Total Marks :"
+#~ msgstr "مجموع العلامات:"
+
+# @ vibe
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "الدرجة المحصلة"
+
+# @ vibe
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "اعادة اخذ الاختبار"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Number of retakes "
+#~ msgstr "عدد العناصر"
+
+# @ vibe
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "نتائج سابقة للاختبار"
+
+# @ vibe
+#~ msgid "Results not Available"
+#~ msgstr "نتائج غير متاحة"
+
+# @ vibe
+#~ msgid "Results Available"
+#~ msgstr "نتائج متاحة"
+
+# @ vibe
+#~ msgid "Results Awaited"
+#~ msgstr "نتائج منتظرة"
+
+# @ vibe
+#, fuzzy
+#~ msgid " ago"
+#~ msgstr "Cosa c'è di nuovo in %s, %s?"
+
+# @ vibe
+#~ msgid "Clear"
+#~ msgstr "مسح"
+
+# @ vibe
+#, fuzzy
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr "Visibile a: <span class=\"current-visibility-level\">%s</span>"
+
+# @ vibe
+#~ msgid "Change profile field visibility level"
+#~ msgstr "تغيير الحقل الشخصية مستوى الرؤية"
+
+# @ vibe
+#~ msgid "Complete Sign Up"
+#~ msgstr "اكمال التسجيل"
+
+# @ vibe
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "افحص بريدك الالكتروني لتفعيل حسابك"
+
+# @ vibe
+#, fuzzy
+#~ msgid "System Status"
+#~ msgstr "حالة"
+
+# @ vibe
+#~ msgid "WPLMS System Status"
+#~ msgstr "نظام WPLMS الحالة"
+
+# @ vibe
+#, fuzzy
+#~ msgid ""
+#~ "We updated a lot of components in WPLMS. Architectural changes to enhance "
+#~ "performance. And we fixed some pending bugs. Refer to change log for "
+#~ "complete list of issues/bugs fixed in the update."
+#~ msgstr ""
+#~ "نحن إصلاح بعض القضايا العالقة. الرجوع الى تغيير السجل لقائمة كاملة من "
+#~ "القضايا / البق الثابتة في التحديث."
+
+# @ vibe
+#, fuzzy
+#~ msgid "Check issue log "
+#~ msgstr "افحص نتيجة الاختبار"
+
+# @ vibe
+#, fuzzy
+#~ msgid "EventOn"
+#~ msgstr "احداث"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Location"
+#~ msgstr "Directorio de Cursos"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Updated Documentation "
+#~ msgstr "Guarda lo stato del Corso dell'utente"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Check documentation"
+#~ msgstr "Guarda lo stato del Corso dell'utente"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Product Image"
+#~ msgstr "تخطي صفحة المنتج"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Download %d"
+#~ msgstr "تحميل"

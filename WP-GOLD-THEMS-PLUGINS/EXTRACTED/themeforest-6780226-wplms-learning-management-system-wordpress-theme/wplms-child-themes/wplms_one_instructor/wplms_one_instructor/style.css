@@ -1,0 +1,277 @@
+/*
+Theme Name: WPLMS Instructor
+Theme URI: http://www.VibeThemes.com    
+Description: Child Theme for WPLMS WordPress Theme
+Author: VibeThemes
+Author URI: http://themeforest.com/user/vibethemes
+Template: wplms
+Version: 2.0.6
+*/
+
+
+/*==========================================================================================*/
+/*   HEADER CHANGES
+/*==========================================================================================*/
+#logo{
+	display: inline-block;
+	float:left;
+}
+#fixed_logo{
+	display: none;
+}
+.home header.fix{left:0;}
+.fixed #fixed_logo{
+	display: block;
+}
+.fixed #logo_img{display: none;}
+#vibe_bp_login:after{border:none !important;}
+.boxed header.fix .container{
+	background: transparent;
+}
+header{
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;
+}
+header.fix .topmenu li a{color:#FFF;font-weight:600;}
+
+.boxed header.fix.fixed{
+	position: fixed;
+	top:0;
+	left:0;
+        z-index:9999;
+}
+.logged-in.admin-bar.boxed header.fix.fixed{top:28px;}
+#vibe_bp_login{top:75px;}
+.boxed header.fix.fixed .container{
+	border-bottom: 1px solid #EFEFEF;
+}
+header nav>.menu>li>a,
+header .topmenu{
+  padding: 30px 0;
+  font-size:13px;
+  font-weight:600;
+}
+
+header.fixed nav .menu li a,
+header.fixed .topmenu,
+header.fixed #searchicon{
+  padding: 15px 0;
+  font-weight:600;
+}
+
+
+header .topmenu li{
+	float:left;
+	padding-left:10px;
+	border-left:1px solid rgba(255,255,255,0.1);
+}
+
+.hometestomonials .flex-prev,
+.hometestomonials .flex-next{top:70px !important;}
+.vbpcart:before{
+	content: 'x';
+	float:left;
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+}
+.vbpcart em{
+	background: #78c8c9;
+	padding: 2px 5px;
+	border-radius: 50%;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 11px;
+	font-weight: 800;
+}
+
+header .topmenu li:first-child{
+	border:none;
+}
+header.fix #searchform{
+	padding:0;
+}
+header #searchform input[type="text"]{
+	font-size: 35px;
+	background:rgba(0,0,0,0.6) !important;
+	color:#FFF !important;
+	border-radius:0;
+	padding: 16px;}	
+header #searchdiv {
+	float: none;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border: none;
+	color:#FFF;
+}
+#vibe_bp_login ul+ul li a{text-transform:uppercase;}
+.breadcrumbs, .breadcrumbs a {
+  color: #FFF;
+}
+/*==========================================================================================*/
+/*   General Changes
+/*==========================================================================================*/
+.pagetitle,.pagetitle .breadcrumbs a,
+.pagetitle h1,.pagetitle h5{color:#FFF;}
+.home #content{margin-top:0}
+#content{margin-top:30px;}
+
+.block.modern_course{
+  border: 1px solid #EFEFEF;
+  border-radius: 2px;
+  text-align:left;
+}
+
+.block.modern_course .block_content {
+  position: relative;min-height:140px;
+  padding: 5px 15px 5px;
+}
+
+.block.modern_course h4+span{
+  font-size: 12px;
+  color: #bbb;
+  font-style: italic;
+  line-height:1.2;
+}
+.block.modern_course .course_meta{
+  color:#bbb;
+  position: absolute;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  padding: 0 20px;
+  bottom: 10px;
+}
+.block.modern_course .course_meta i{
+  font-size: 16px;
+  float: left;
+  margin-right: 5px;	
+}
+.block.modern_course .course_meta strong{
+  float: right;
+  color: #70c989;
+}
+/*==========================================================================================*/
+/*   PMPRO PRICING
+/*==========================================================================================*/
+.pmpro_content ul{
+	margin:0 !important;
+	list-style:none !important;
+}
+.pmpro_pricing_table>li{
+	width:33%;
+	float:left;
+	border:1px solid #EFEFEF;
+	text-align: center;
+	padding:30px;
+	height:520px;
+	position: relative;
+}
+
+.pmpro_pricing_table>li{
+
+}
+.pmpro_pricing_table>li:hover{border-color:#FF6600;}
+.pmpro_pricing_table>li.current{border-color:#FF6600;}
+.pmpro_pricing_table>li>ul{padding-left:0 !important;}
+.pmpro_pricing_table>li>ul li{
+	padding:6px 0;position:relative;
+}
+
+.pmpro_pricing_table>li .pmpro_price{
+	font-size:12px;
+        text-transform:uppercase;
+}
+
+.pmpro_pricing_table>li a{
+	padding:6px 20px;
+	border-radius:2px;
+	background:#ff6600;
+	color:#FFF;
+	width:120px;
+	position: absolute;
+	bottom:-60px;
+	left:50%;
+	margin-left:-60px;
+}
+.pmpro_pricing_table>li.current a{
+	background:#FF6600;
+} 
+.pmpro_pricing_table>li>ul li h2{margin:0;font-size:14px;font-weight:600;text-transform: uppercase;}
+
+span.pmpro_price:before {
+  content: '';
+  background: rgba(0,0,0,0.1);
+  display: inline-block;
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+}
+.pmpro_pricing_table>li .pmpro_price strong span {
+display:block;
+  font-size: 11px;
+}
+.pmpro_pricing_table>li .pmpro_price strong{
+  font-size:36px;font-weight:600;
+display:block;  position: absolute;
+  top: 35%;
+  left: 50%;
+  margin-left: -19%;
+  line-height: 1;
+}
+.pmpro_pricing_table>li.current .pmpro_price strong,
+.pmpro_pricing_table>li:hover .pmpro_price strong{color:#FFF;}
+.pmpro_pricing_table>li.current h2,.pmpro_pricing_table>li:hover h2{color:#FF6600;}
+.pmpro_pricing_table>li:hover span.pmpro_price:before,
+.pmpro_pricing_table>li.current span.pmpro_price:before{background:#ff6600;}
+/*==========================================================================================*/
+/*   Footer Changes
+/*==========================================================================================*/
+footer .star-rating{width:180px;}
+footer .stat_num strong{border-color:rgba(255,255,255,0.1);}
+/*==========================================================================================*/
+/*   Elements Changes
+/*==========================================================================================*/
+.moderntabs{text-align:center;}
+.moderntabs .tabs{display:inline-block;border:none;}.moderntabs .tabs .nav.nav-tabs{display:inline-block;}
+.moderntabs .nav.nav-tabs > li > a {  padding: 10px 24px;  border: 2px solid #222;  border-right: none;  border-radius: 0;}
+.moderntabs .nav.nav-tabs > li:last-child > a{border-right:2px solid #222;}
+.moderntabs .nav-tabs > li.active > a,.moderntabs .nav-tabs > li> a:hover, .moderntabs .nav-tabs > li.active > a:hover,.moderntabs  .nav-tabs > li.active > a:focus{background:#222;color:#fff;border-color:#222;}
+
+.dark .filterable_columns{text-align:center;}
+.dark .vibe_filterable{display:inline-block;float:none;}
+.dark .vibe_filterable li{margin:0;}
+.dark .vibe_filterable li a:hover, .dark .vibe_filterable li.active a{background:#222;color:#FFF;border-color:#222;}
+.dark .vibe_filterable li a{border:2px solid #222;color:#222;background:#FFF;border-radius:0;border-right:none;}
+.dark .vibe_filterable li:last-child a{border-right:2px solid #222;}
+/*==========================================================================================*/
+/*   Media Queries
+/*==========================================================================================*/
+
+@media (max-width: 767px){
+.topmenu{
+  display: inline-block;
+  position: absolute;
+  top: 45px;
+  right: 120px;
+  padding: 0 !important;
+}
+.smallimg.vbplogin span {
+  display: none;
+}
+.pmpro_pricing_table>li{width:100%;}
+header #searchicon{
+  top: 42px;
+  padding: 0 !important;
+}
+.moderntabs .nav.nav-tabs > li > a{
+border:2px solid #222;border-bottom:none;
+}
+.moderntabs .nav.nav-tabs > li:last-child > a{
+border:2px solid #222;
+}

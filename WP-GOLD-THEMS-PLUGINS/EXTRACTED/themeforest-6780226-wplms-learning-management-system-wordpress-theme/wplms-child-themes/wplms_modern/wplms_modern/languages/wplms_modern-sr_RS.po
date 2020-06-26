@@ -1,0 +1,5348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:43+0530\n"
+"PO-Revision-Date: 2017-02-01 14:43+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "Odgovor na:"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "Pogledaj Temu / Permalink"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View"
+msgstr "Pogled"
+
+# @ wplms_modern
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Komentar <span>%s</span>"
+
+# @ wplms_modern
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "Omiljeni"
+
+# @ wplms_modern
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "Uklonite omiljene"
+
+# @ wplms_modern
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "Post"
+
+# @ wplms_modern
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "ili pritisnite dugme ESC za izlaz."
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "Javne aktivnosti svih na sajtu"
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Svi članovi <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "Aktivnosti mojih prijatelja"
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Moji prijatelji <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "Aktivnosti grupa čiji sam član."
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Moje grupe <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "Aktivnosti označene kao omiljene."
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Omiljene <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "Aktivnosti onih koje sam spomenuo"
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "Spominjanja"
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "RSS feed"
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "RSS"
+
+# @ wplms_modern
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "Pokaži:"
+
+# @ wplms_modern
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "Sve"
+
+# @ wplms_modern
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "Ažuriranja"
+
+# @ wplms_modern
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "Postovi"
+
+# @ wplms_modern
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "Komentari"
+
+# @ wplms_modern
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "Teme na forumu"
+
+# @ wplms_modern
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "Odgovori na forumu"
+
+# @ wplms_modern
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "Nove grupe"
+
+# @ wplms_modern
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "Grupna članstva"
+
+# @ wplms_modern
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "Prijateljstva"
+
+# @ wplms_modern
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "Novi članovi"
+
+# @ wplms_modern
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "Kursevi instruktora"
+
+# @ wplms_modern
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "Instruktori nisu pronađeni"
+
+# @ wplms_modern
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ wplms_modern
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ wplms_modern
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "Pogledaj sve postove u %s"
+
+# @ wplms_modern
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "Opširnije"
+
+# @ wplms_modern
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "Žao nam je, nema nađenih stranice."
+
+# @ wplms_modern
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "Site spisak"
+
+# @ wplms_modern
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "Registracija je trenutno onemogućena"
+
+# @ wplms_modern
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Svi sajtove <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Moji sajtove <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "Kreirajte stranicu"
+
+# @ wplms_modern
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "Poredak po:"
+
+# @ wplms_modern
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "Poslednje aktivnosti"
+
+# @ wplms_modern
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "Najnovije"
+
+# @ wplms_modern
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "Abecedi"
+
+# @ wplms_modern
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ wplms_modern
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "Potvrdu o završetku"
+
+# @ wplms_modern
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "Dodeljuje se"
+
+# @ wplms_modern
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "za uspešan završetak kursa"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ wplms_modern
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "Naziv"
+
+# @ wplms_modern
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "E-mail"
+
+# @ wplms_modern
+#: comments.php:29
+msgid "Comment"
+msgstr "Komentar"
+
+# @ wplms_modern
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "Website"
+
+# @ wplms_modern
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "Naknadni pregled"
+
+# @ wplms_modern
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "Napišite recenziju"
+
+# @ wplms_modern
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "Recenzije kursa"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ wplms_modern
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "Nisu pronađene recenzije za ovaj kurs."
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ wplms_modern
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "PROČITAJTE VIŠE"
+
+# @ wplms_modern
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "MANJE"
+
+# @ wplms_modern
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr "Upisani studenti"
+
+# @ wplms_modern
+#: footer.php:19
+msgid "top"
+msgstr "vrh"
+
+# @ wplms_modern
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "Tema"
+
+# @ wplms_modern
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "Sveže"
+
+# @ wplms_modern
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "Stalna veza na ovaj post"
+
+# @ wplms_modern
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "Autor %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "u %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "Nažalost nismo pronašli ovu temu na forumu"
+
+# @ wplms_modern
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "Spisak foruma"
+
+# @ wplms_modern
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "Nova tema"
+
+# @ wplms_modern
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Sve teme <span>%s</span>"
+
+# @ wplms_modern
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Moje Teme <span>%s</span>"
+
+# @ wplms_modern
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "Najviše pisano o"
+
+# @ wplms_modern
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "Neodgovoreno"
+
+# @ wplms_modern
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "Kreirajte novu temu:"
+
+# @ wplms_modern
+#: forums/index.php:107
+msgid "Title:"
+msgstr "Naslov:"
+
+# @ wplms_modern
+#: forums/index.php:110
+msgid "Content:"
+msgstr "Sadržaj:"
+
+# @ wplms_modern
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "Tagovi (odvojeni zarezom):"
+
+# @ wplms_modern
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "Postavi u forumu grupe"
+
+# @ wplms_modern
+#: forums/index.php:119
+msgid "----"
+msgstr "---"
+
+# @ wplms_modern
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "Post Tema"
+
+# @ wplms_modern
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "Otkazati"
+
+# @ wplms_modern
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Vi niste član ni jedne grupe, tako da ne možete postovati ni u jednom forumu "
+"grupa. Za početak objavljivanja, prvi nađite grupu koja odgovara temi koju "
+"želite pokrenuti. Ako ova grupa ne postoji, zašto ne <a href='%s'> kreirate "
+"novu grupu </>? Nakon što ste se učlanili ili stvorili grupu možete "
+"postavljati svoju temu na forumu u toj grupi."
+
+# @ wplms_modern
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "Samo instruktori mogu kreirati grupe"
+
+# @ wplms_modern
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "Samo administratori mogu stvoriti grupe"
+
+# @ wplms_modern
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "Ime grupe (neophodno)"
+
+# @ wplms_modern
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "Opis grupe (neophodno)"
+
+# @ wplms_modern
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "Opcije privatnosti"
+
+# @ wplms_modern
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "Ovo je javna grupa"
+
+# @ wplms_modern
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "Svaki član stranice može se pridružiti ovoj grupi."
+
+# @ wplms_modern
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"Ova grupa će biti uvrštena u spisak grupa i u rezultatima pretraživanja."
+
+# @ wplms_modern
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr "Sadržaj grupe i aktivnosti će biti vidljive svim članovima sajta"
+
+# @ wplms_modern
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "Ovo je privatna grupa"
+
+# @ wplms_modern
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Samo korisnici čije je članstvo prihvaćeno mogu se pridružiti grupi."
+
+# @ wplms_modern
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "Sadržaj grupe i aktivnosti će biti vidljive samo članovima grupe."
+
+# @ wplms_modern
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "Ovo je skrivena grupa"
+
+# @ wplms_modern
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "Samo korisnici koji su pozvani mogu se pridružiti grupi."
+
+# @ wplms_modern
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Ova grupa neće biti prikazana u spisku grupa niti u rezultatima pretraga."
+
+# @ wplms_modern
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "Poziv u grupu"
+
+# @ wplms_modern
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Koji članovi ove grupe mogu pozvati druge?"
+
+# @ wplms_modern
+#: groups/create.php:107
+msgid "All group members"
+msgstr "Svi članovi grupe"
+
+# @ wplms_modern
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "Grupa admini i modovi samo"
+
+# @ wplms_modern
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "Samo administratori grupe"
+
+# @ wplms_modern
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "Forum grupe"
+
+# @ wplms_modern
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "Da li ova grupa ima forum?"
+
+# @ wplms_modern
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "Omogućite diskusioni forum"
+
+# @ wplms_modern
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Pažnja, administrator sajta:</strong> Na forumima grupa je obavezno "
+"<a href=\"%s\">ispravno postavljanje i konfiguracija </a> bbPress "
+"instalacije."
+
+# @ wplms_modern
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Uploadujte fotografiju koju ćete koristiti kao avatar za ovu grupu. Slika će "
+"biti prikazana na glavnoj stranici grupe i u rezultatima pretraživanja."
+
+# @ wplms_modern
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "Upload slike"
+
+# @ wplms_modern
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+"Za preskakanje proces slanja avatar, pritisnite dugme \"Sledeći korak\"."
+
+# @ wplms_modern
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "Podesite sliku"
+
+# @ wplms_modern
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "Avatar za podešavanje"
+
+# @ wplms_modern
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "Pregled slike"
+
+# @ wplms_modern
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "Obrezivanje slike"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ wplms_modern
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "Odaberite ljude koje ćete pozvati sa spiska prijatelja."
+
+# @ wplms_modern
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "Uklonite pozivnicu"
+
+# @ wplms_modern
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Nakon što ostvarite veze s prijateljima moći ćete da pozovete druge u svoju "
+"grupu."
+
+# @ wplms_modern
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "Povratak na prethodni korak"
+
+# @ wplms_modern
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "Sledeći korak"
+
+# @ wplms_modern
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "Kreirajte grupu i nastaviti"
+
+# @ wplms_modern
+#: groups/create.php:329
+msgid "Finish"
+msgstr "Završiti"
+
+# @ wplms_modern
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "Aktivni %s"
+
+# @ wplms_modern
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "Moderatori"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ wplms_modern
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "Pritisnuti Enter za pretragu..."
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ wplms_modern
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wplms_modern
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ wplms_modern
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "Račun Aktiviran"
+
+# @ wplms_modern
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "Aktivirajte svoj račun"
+
+# @ wplms_modern
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Vaš račun je uspješno aktiviran! Pojedinosti računa su poslane u zasebnom e-"
+"mail."
+
+# @ wplms_modern
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Vaš račun je uspješno aktiviran! Sada možete <a href=\"%s\"> prijaviti </> s "
+"korisničkim imenom i lozinkom koju ste naveli kada ste se prijavili."
+
+# @ wplms_modern
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "Unesite valjanu aktivacijski ključ."
+
+# @ wplms_modern
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "Aktivacija Ključ:"
+
+# @ wplms_modern
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "Aktivirati"
+
+# @ wplms_modern
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "Registracija korisnika trenutno nije dopuštena."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "Kreirajte nalog"
+
+# @ wplms_modern
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "Korisničko ime"
+
+# @ wplms_modern
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(obavezno polje)"
+
+# @ wplms_modern
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "E-mail adresa"
+
+# @ wplms_modern
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "Izaberite lozinku"
+
+# @ wplms_modern
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "Potvrda lozinke"
+
+# @ wplms_modern
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "Profil Detalji"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "Ko može videti ovo polje?"
+
+# @ wplms_modern
+#: registration/register.php:211
+msgid "Close"
+msgstr "Zatvori"
+
+# @ wplms_modern
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "Blog Detalji"
+
+# @ wplms_modern
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "Da, volio bih stvoriti novu stranicu"
+
+# @ wplms_modern
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "URL bloga"
+
+# @ wplms_modern
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "Site Title"
+
+# @ wplms_modern
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Ja bih moje stranice da se pojavi u tražilicama, te u javnim oglasi oko ove "
+"mreže."
+
+# @ wplms_modern
+#: registration/register.php:324
+msgid "Yes"
+msgstr "Da"
+
+# @ wplms_modern
+#: registration/register.php:325
+msgid "No"
+msgstr "Ne"
+
+# @ wplms_modern
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Uspješno ste stvorili svoj račun! Za početak korištenja ove stranice, trebat "
+"će vam da biste aktivirali svoj račun putem e-maila smo upravo poslan na "
+"Vašu adresu."
+
+# @ wplms_modern
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Uspješno ste stvorili svoj račun! Molimo prijavite se koristeći korisničko "
+"ime i lozinku koju ste upravo stvorili."
+
+# @ wplms_modern
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "Rezultati pretrage za \""
+
+# @ wplms_modern
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ wplms_modern
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "Žao nam je, ništa nije pronađeno."
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ wplms_modern
+#: single-course.php:38
+msgid "Home"
+msgstr "Naslovna"
+
+# @ wplms_modern
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "Nastavni plan"
+
+# @ wplms_modern
+#: single-course.php:40
+msgid "Members"
+msgstr "Članovi"
+
+# @ wplms_modern
+#: single-course.php:48
+msgid "Group"
+msgstr "Skupina"
+
+# @ wplms_modern
+#: single-course.php:55
+msgid "Forum"
+msgstr "Forum"
+
+# @ wplms_modern
+#: single-course.php:60
+msgid "Admin"
+msgstr "Administrator"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ wplms_modern
+#: single-post.php:104
+msgid "Courses"
+msgstr "Kursevi"
+
+# @ wplms_modern
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "Nastavak kviza"
+
+# @ wplms_modern
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "Provjerite kviz Rezultati"
+
+# @ wplms_modern
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "Povratak na tečaj"
+
+# @ wplms_modern
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "Počnite Kviz"
+
+# @ wplms_modern
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "Uzmi tečaj za početak kviza"
+
+# @ wplms_modern
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "Prilozi"
+
+# @ wplms_modern
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Imate li pitanja? Pitajte u forumima jedinice"
+
+# @ wplms_modern
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "Odgovor"
+
+# @ wplms_modern
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "Izbrisati"
+
+# @ wplms_modern
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ wplms_modern
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "Svi Dodjela Podnesci"
+
+# @ wplms_modern
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "Maksimalne Marks"
+
+# @ wplms_modern
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "NETOČNO TEČAJ VRIJEDNOST. KONTAKT ADMIN"
+
+# @ wplms_modern
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:76
+msgid " Hours"
+msgstr " Sati"
+
+# @ wplms_modern
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "Naravno kurikulum Ne Set."
+
+# @ wplms_modern
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "Kurikulum kursa nije podešen."
+
+# @ wplms_modern
+#: start.php:137
+msgid "Start Course"
+msgstr "Počnite igralištu, tijekom"
+
+# @ wplms_modern
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:157
+msgid "Previous Unit"
+msgstr "Prethodna jedinica"
+
+# @ wplms_modern
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "Obeležite ovu nastavnu jedinicu kompletnom"
+
+# @ wplms_modern
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "Sljedeća jedinica"
+
+# @ wplms_modern
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "POVRATAK NA TEČAJ"
+
+# @ wplms_modern
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "PREGLED TEČAJ"
+
+# @ wplms_modern
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "Finiš TEČAJ"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Svi kursevi <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Moji kursevi <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Uvodni kursevi <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr ""
+
+# @ wplms_modern
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "Nedavno objavljeno"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "Većina članova"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "Najviše ocenjene"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Sve grupe <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "Napravite grupu"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "Novokreirane"
+
+# @ wplms_modern
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "Najnoviji registrovani"
+
+# @ wplms_modern
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "Prijava"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ wplms_modern
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "Lozinka"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Rezultati pretrage: \"% s\""
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "- Stranica% s"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "Nema proizvoda koji odgovaraju naći svoj odabir."
+
+# @ wplms_modern
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "Tečajevi Uključeno"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Postoje neka pitanja sa stavkama u košaricu (prikazano gore). Molimo vratite "
+"se na stranici košaricu i rješavanju tih problema prije odjave."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "← Povratak u košaricu"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "Naplata & Utovar"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "Adresa za naplatu"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Morate biti prijavljeni da biste naplata."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "Postupiti"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "Vaš nalog"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "Kliknite nastavite dalje"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "Kliknite ovdje za odjava i prijava na kao drugi korisnik"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "Kupac?"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "Kliknite ovdje za prijavu"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "Postojeći kupac"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "Novi kupac"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "Nastavite kao gost"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "Izradi račun unosom podatke u nastavku."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "Proizvod"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "Ukupan"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "Košarica Iznos"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "Kupon:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "Ukupne narudžbe"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Nažalost, čini se da ne postoje načini plaćanja za vašu lokaciju. Molimo "
+"kontaktirajte nas ako vam je potrebna pomoć ili želite napraviti "
+"alternativne aranžmane."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "Plati bi"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Brod na drugu adresu?"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Dodatne informacije"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Molimo Vas da ispunite svoje podatke iznad da biste vidjeli dostupne metode "
+"plaćanja."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Nažalost, čini se da ne postoje načini plaćanja za svoje države. Molimo "
+"kontaktirajte nas ako vam je potrebna pomoć ili želite napraviti "
+"alternativne aranžmane."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Budući da vaš preglednik ne podržava JavaScript ili je onemogućen, "
+"provjerite klikate <em> Update Ukupni zbrojevi </ em> gumb prije slanja "
+"narudžbe. Vi svibanj biti naplaćeno više od iznosa koji je već rečeno, ako "
+"to ne učini."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "Update iznosi"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "Mjesto red"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "Pročitao sam i prihvaćam"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "uvjeti poslovanja Uvjeti"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Nažalost vaš nalog ne može biti obrađen, podrijetlom banka / trgovac je "
+"odbio transakciju."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Molimo pokušati kupnju opet ili ići na stranici vašeg računa."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "Molimo opet pokušati kupnju."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "Platiti"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "Moj nalog"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "Hvala Vam. Vaša narudžba je zaprimljena."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "Order:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Datum:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Ukupno:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "Način plaćanja:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "TEČAJ upisala"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "SUSBSCRIBED ZA punom tijeku"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "Tečajevi Upisani"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "KURS"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "PRETPLATA"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "START naravno"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "ČEKANJA ZA Narudžba Potvrda POKRENUTI naravno"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "ČEKANJA ZA Admin Approval"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ wplms_modern
+#~ msgid "Save Answer"
+#~ msgstr "Snimi odgovor"
+
+# @ wplms_modern
+#~ msgid "Answer"
+#~ msgstr "Odgovor"
+
+# @ wplms_modern
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "Prethodni odgovori na ovo pitanje"
+
+# @ wplms_modern
+#~ msgid "Course Directory"
+#~ msgstr "Spisak kurseva"
+
+# @ wplms_modern
+#~ msgid "All Courses by all instructors"
+#~ msgstr "Svi kursevi po svim instruktorima"
+
+# @ wplms_modern
+#~ msgid "All Events in "
+#~ msgstr "Svi događaji u"
+
+# @ wplms_modern
+#~ msgid "Answer Assignment"
+#~ msgstr "Odgovor Dodela"
+
+# @ wplms_modern
+#~ msgid "Upload Assignment"
+#~ msgstr "Pošalji Raspoređivanje"
+
+# @ wplms_modern
+#~ msgid "All Courses by "
+#~ msgstr "Svi kursevi od"
+
+# @ wplms_modern
+#~ msgid " Responses on "
+#~ msgstr "Odgovori na"
+
+# @ wplms_modern
+#~ msgid "Leave a Message"
+#~ msgstr "Ostavite poruku"
+
+# @ wplms_modern
+#~ msgid "Course Curriculum"
+#~ msgstr "Kirikulum kursa"
+
+# @ wplms_modern
+#~ msgid "Delete"
+#~ msgstr "Izbrisati"
+
+# @ wplms_modern
+#~ msgid "Create an account"
+#~ msgstr "Kreirajte nalog"
+
+# @ wplms_modern
+#~ msgid "Sign Up"
+#~ msgstr "Registracija"
+
+# @ wplms_modern
+#~ msgid "<a href=\"%s\" class=\"vbpregister\" title=\""
+#~ msgstr "<a href=\"%s\" class=\"vbpregister\" title=\""
+
+# @ wplms_modern
+#~ msgid "INSTRUCTORS"
+#~ msgstr "Instruktori"
+
+# @ wplms_modern
+#~ msgid "Course Info"
+#~ msgstr "Naravno Info"
+
+# @ wplms_modern
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "RE-pozivaju studente"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATION"
+#~ msgstr "Pošalji poziv"
+
+# @ wplms_modern
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "Slanje e-mail podsjetnik"
+
+# @ wplms_modern
+#~ msgid "SUBJECT"
+#~ msgstr "PREDMET"
+
+# @ wplms_modern
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "Pozivnicu"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "Pošaljite pozivnice"
+
+# @ wplms_modern
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "Podsjetnik poruka"
+
+# @ wplms_modern
+#~ msgid "SEND REMINDER"
+#~ msgstr "POŠALJI podsjetnik"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr ""
+#~ "Podsjetnici su e-mailove poslane na studente koji su prihvatili poziv "
+#~ "događaj."
+
+# @ wplms_modern
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "PRIMAMO POZOVITE"
+
+# @ wplms_modern
+#~ msgid "REJECT INVITE"
+#~ msgstr "REJECT POZOVITE"
+
+# @ wplms_modern
+#~ msgid "Event Location"
+#~ msgstr "Mjesto održavanja"
+
+# @ wplms_modern
+#~ msgid "Course"
+#~ msgstr "Kurs"
+
+# @ wplms_modern
+#~ msgid "A Section added by hook"
+#~ msgstr "Sekcija dodao kukom"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr ""
+#~ "To je poglavlje stvorio dodavanjem filtera na dijelove polja, super "
+#~ "dopustiti djetetu teme, dodati / ukloniti dijela od opcija."
+
+# @ wplms_modern
+#~ msgid "Folow me on Twitter"
+#~ msgstr "Folow me na Twitter"
+
+# @ wplms_modern
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "Budite naš fan na Facebooku"
+
+# @ wplms_modern
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "Pratite nas na Google Plus"
+
+# @ wplms_modern
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "Najnovije vijesti iz VibeThemes"
+
+# @ wplms_modern
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr "Vibe Opcije Panel v 2.0"
+
+# @ wplms_modern
+#~ msgid "Support"
+#~ msgstr "Podrška"
+
+# @ wplms_modern
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "Mi pružamo podršku putem tri medija (u prioritetu)"
+
+# @ wplms_modern
+#~ msgid "Support Email: VibeThemes@gmail.com"
+#~ msgstr "Podrška E-mail: VibeThemes@gmail.com"
+
+# @ wplms_modern
+#~ msgid "ThemeForest Item Comments"
+#~ msgstr "ThemeForest Stavka Komentari"
+
+# @ wplms_modern
+#~ msgid "Documentation & Links"
+#~ msgstr "Dokumentacija i linkovi"
+
+# @ wplms_modern
+#~ msgid "Or email us at"
+#~ msgstr "Ili nam se na e-mail"
+
+# @ wplms_modern
+#~ msgid "Getting Started"
+#~ msgstr "Getting Started"
+
+# @ wplms_modern
+#~ msgid "Welcome to "
+#~ msgstr "Dobrodošli na"
+
+# @ wplms_modern
+#~ msgid "See Theme documentation : "
+#~ msgstr "See Theme documentation : "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+
+# @ wplms_modern
+#~ msgid "Other important setups. "
+#~ msgstr "Other important setups. "
+
+# @ wplms_modern
+#~ msgid "Full Theme Guide"
+#~ msgstr "Full Theme Guide"
+
+# @ wplms_modern
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "How to Update? Facing Issues while updating?"
+
+# @ wplms_modern
+#~ msgid "Enter Your Themeforest Username"
+#~ msgstr "Enter Your Themeforest Username"
+
+# @ wplms_modern
+#~ msgid "Required for Automatic Upgrades."
+#~ msgstr "Required for Automatic Upgrades."
+
+# @ wplms_modern
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr "Enter Your Themeforest API KEY"
+
+# @ wplms_modern
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr "Please Enter your API Key.Required for Automatic Upgrades."
+
+# @ wplms_modern
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "Whats an API KEY? Where can I find one?"
+
+# @ wplms_modern
+#~ msgid "Header"
+#~ msgstr "Header"
+
+# @ wplms_modern
+#~ msgid "Header settings"
+#~ msgstr "Header settings"
+
+# @ wplms_modern
+#~ msgid "Upload Logo"
+#~ msgstr "Upload Logo"
+
+# @ wplms_modern
+#~ msgid "Upload your logo"
+#~ msgstr "Upload your logo"
+
+# @ wplms_modern
+#~ msgid "This Logo is shown in header."
+#~ msgstr "This Logo is shown in header."
+
+# @ wplms_modern
+#~ msgid "Upload Favicon"
+#~ msgstr "Upload Favicon"
+
+# @ wplms_modern
+#~ msgid "Upload 16x16px Favicon"
+#~ msgstr "Upload 16x16px Favicon"
+
+# @ wplms_modern
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "Upload 16x16px Favicon."
+
+# @ wplms_modern
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "Fix Top Header on Scroll"
+
+# @ wplms_modern
+#~ msgid "Fix header on top of screen"
+#~ msgstr "Fix header on top of screen"
+
+# @ wplms_modern
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr "header is fixed to top as user scrolls down."
+
+# @ wplms_modern
+#~ msgid "Navigation Search as Course Search"
+#~ msgstr "Navigation Search as Course Search"
+
+# @ wplms_modern
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "Force the header search to search only in courses"
+
+# @ wplms_modern
+#~ msgid "Sidebar Manager"
+#~ msgstr "Sidebar Manager"
+
+# @ wplms_modern
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr "Generate more sidebars dynamically and use them in various layouts"
+
+# @ wplms_modern
+#~ msgid "Create New sidebars "
+#~ msgstr "Create New sidebars "
+
+# @ wplms_modern
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "Dynamically generate sidebars"
+
+# @ wplms_modern
+#~ msgid "All Events page Sidebar"
+#~ msgstr "All Events page Sidebar"
+
+# @ wplms_modern
+#~ msgid "Select All events page sidebar"
+#~ msgstr "Select All events page sidebar"
+
+# @ wplms_modern
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "Select a sidebar for all events page"
+
+# @ wplms_modern
+#~ msgid "Buddypress"
+#~ msgstr "BuddyPress"
+
+# @ wplms_modern
+#~ msgid "BuddyPress settings and Variables"
+#~ msgstr "BuddyPress settings and Variables"
+
+# @ wplms_modern
+#~ msgid "Upload BuddyPress Default avatar"
+#~ msgstr "Upload BuddyPress Default avatar"
+
+# @ wplms_modern
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "BuddyPress default members avatar"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This avatar is shown for members who have not uploaded any custom avatar."
+#~ msgstr ""
+#~ "This avatar is shown for members who have not uploaded any custom avatar."
+
+# @ wplms_modern
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "Buddypress Items Per Page"
+
+# @ wplms_modern
+#~ msgid "number of items shown per page"
+#~ msgstr "number of items shown per page"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+
+# @ wplms_modern
+#~ msgid "All Members View"
+#~ msgstr "All Members View"
+
+# @ wplms_modern
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "All members pages can be viewed by:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+
+# @ wplms_modern
+#~ msgid "All"
+#~ msgstr "Svi"
+
+# @ wplms_modern
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "All Members no-access redirect Page"
+
+# @ wplms_modern
+#~ msgid "User is redirected to this page on error."
+#~ msgstr "User is redirected to this page on error."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+
+# @ wplms_modern
+#~ msgid "Activity View"
+#~ msgstr "Activity View"
+
+# @ wplms_modern
+#~ msgid "Activity can be viewed by :"
+#~ msgstr "Activity can be viewed by :"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+
+# @ wplms_modern
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "Activity no-access redirect Page"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+
+# @ wplms_modern
+#~ msgid "Create Groups"
+#~ msgstr "Create Groups"
+
+# @ wplms_modern
+#~ msgid "Groups can be created by :"
+#~ msgstr "Groups can be created by :"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+
+# @ wplms_modern
+#~ msgid "Profile Activity Tab"
+#~ msgstr "Profile Activity Tab"
+
+# @ wplms_modern
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "Single Profile activity can be viewed by :"
+
+# @ wplms_modern
+#~ msgid "Profile Group View"
+#~ msgstr "Profile Group View"
+
+# @ wplms_modern
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "Single Profile Groups can be viewed by :"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+
+# @ wplms_modern
+#~ msgid "Profile Forums View"
+#~ msgstr "Profile Forums View"
+
+# @ wplms_modern
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "Single Profile Forums can be viewed by :"
+
+# @ wplms_modern
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr "User is redirected to this page on activating her account."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+
+# @ wplms_modern
+#~ msgid "Button is shown in Groups directory"
+#~ msgstr "Button is shown in Groups directory"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+
+# @ wplms_modern
+#~ msgid "Student Field"
+#~ msgstr "Student Field"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "Enter the name of the Student Field to show below the name."
+
+# @ wplms_modern
+#~ msgid "Instructor Field Group"
+#~ msgstr "Instructor Field Group"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+
+# @ wplms_modern
+#~ msgid "Instructor Field"
+#~ msgstr "Instructor Field"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr "Enter the name of the Instructor Field to show below the name."
+
+# @ wplms_modern
+#~ msgid "Instructor Description Field"
+#~ msgstr "Instructor Description Field"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+
+# @ wplms_modern
+#~ msgid "Course Manager"
+#~ msgstr "Course Manager"
+
+# @ wplms_modern
+#~ msgid "Manage Course Options from here."
+#~ msgstr "Manage Course Options from here."
+
+# @ wplms_modern
+#~ msgid "Take This Course Page"
+#~ msgstr "Take This Course Page"
+
+# @ wplms_modern
+#~ msgid "Unit Locking"
+#~ msgstr "Unit Locking"
+
+# @ wplms_modern
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr "Set access to next units based on previous unit status"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+
+# @ wplms_modern
+#~ msgid "Unit Media Lock"
+#~ msgstr "Unit Media Lock"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+
+# @ wplms_modern
+#~ msgid "Assignment Locking"
+#~ msgstr "Assignment Locking"
+
+# @ wplms_modern
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr "Force users to finish assignments to complete units"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+
+# @ wplms_modern
+#~ msgid "Show Course Progressbar"
+#~ msgstr "Show Course Progressbar"
+
+# @ wplms_modern
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "Show course progress bar above course timeline"
+
+# @ wplms_modern
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "Course Progress bar is shown in Course curriculum page"
+
+# @ wplms_modern
+#~ msgid "Instructors can Add Students"
+#~ msgstr "Instructors can Add Students"
+
+# @ wplms_modern
+#~ msgid "Enable Instructors to be able to add students"
+#~ msgstr "Enable Instructors to be able to add students"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+
+# @ wplms_modern
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr "Instructors can Assign/Remove Certificates & Badges"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+
+# @ wplms_modern
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "Force Instructor Content Privacy"
+
+# @ wplms_modern
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr "Select boxes show only instructor units/quizzes/questions"
+
+# @ wplms_modern
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr "Instructors can view titles but can not open content"
+
+# @ wplms_modern
+#~ msgid "A Page with become a teacher form."
+#~ msgstr "A Page with become a teacher form."
+
+# @ wplms_modern
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "Fallback Certificate Page"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+
+# @ wplms_modern
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "Auto-Evaluation Question Types"
+
+# @ wplms_modern
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "Question types which will be evaluated by Auto-Evaluation"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+#~ msgstr ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+
+# @ wplms_modern
+#~ msgid "Sort Answer Question"
+#~ msgstr "Sort Answer Question"
+
+# @ wplms_modern
+#~ msgid "Small Text Answer"
+#~ msgstr "Small Text Answer"
+
+# @ wplms_modern
+#~ msgid "Fonts Manager"
+#~ msgstr "Fonts Manager"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+#~ msgstr ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+
+# @ wplms_modern
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "Select Fonts for Live Theme Editor "
+
+# @ wplms_modern
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "Select Fonts and setup fonts in Live Editor"
+
+# @ wplms_modern
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "Koristite ove primjere izglede u PageBuilder."
+
+# @ wplms_modern
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "Prilagođeni fontovi (Unesite CSS fonta prezime)"
+
+# @ wplms_modern
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr " Prilagođeni fontovi dodaju Theme Prilagoditi Popis Font .."
+
+# @ wplms_modern
+#~ msgid "Customizer"
+#~ msgstr "Customizer"
+
+# @ wplms_modern
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "Import/Export customizer settings. Customize your theme using "
+
+# @ wplms_modern
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "Import/Export Customizer settings "
+
+# @ wplms_modern
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "Import/Export customizer settings"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr ""
+#~ "Use import/export functionality to import/export your customizer settings."
+
+# @ wplms_modern
+#~ msgid "PageBuilder Manager"
+#~ msgstr "PageBuilder Manager"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+
+# @ wplms_modern
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "Manage Sample Layouts "
+
+# @ wplms_modern
+#~ msgid "Delete Sample Layouts"
+#~ msgstr "Delete Sample Layouts"
+
+# @ wplms_modern
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "Import/Export Sample Layouts "
+
+# @ wplms_modern
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "Import/Export existing Layouts"
+
+# @ wplms_modern
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "Use import/export functionality to save your layouts."
+
+# @ wplms_modern
+#~ msgid "Footer "
+#~ msgstr "Footer "
+
+# @ wplms_modern
+#~ msgid "Setup footer settings"
+#~ msgstr "Setup footer settings"
+
+# @ wplms_modern
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "Top Footer Sidebar Columns"
+
+# @ wplms_modern
+#~ msgid "Footer Columns"
+#~ msgstr "Footer Columns"
+
+# @ wplms_modern
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "Bottom Footer Sidebar Columns"
+
+# @ wplms_modern
+#~ msgid "Copyright Text"
+#~ msgstr "Copyright Text"
+
+# @ wplms_modern
+#~ msgid "Enter copyrighted text"
+#~ msgstr "Enter copyrighted text"
+
+# @ wplms_modern
+#~ msgid "Also supports shotcodes."
+#~ msgstr "Also supports shotcodes."
+
+# @ wplms_modern
+#~ msgid "Footer Bottom"
+#~ msgstr "Footer Bottom"
+
+# @ wplms_modern
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "Select an option for FooterBottom"
+
+# @ wplms_modern
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr "Select Footer Bottom style, set Social icon links in Social tab"
+
+# @ wplms_modern
+#~ msgid "Google Analytics Code"
+#~ msgstr "Google Analytics Code"
+
+# @ wplms_modern
+#~ msgid "Google Analytics account"
+#~ msgstr "Google Analytics account"
+
+# @ wplms_modern
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "Please enter full code with javascript tags."
+
+# @ wplms_modern
+#~ msgid "Social Information"
+#~ msgstr "Social Information"
+
+# @ wplms_modern
+#~ msgid "All Social media settings"
+#~ msgstr "All Social media settings"
+
+# @ wplms_modern
+#~ msgid "Add Social Media Icons "
+#~ msgstr "Add Social Media Icons "
+
+# @ wplms_modern
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "Dynamically add social media icons"
+
+# @ wplms_modern
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "Add your Full URL in social media."
+
+# @ wplms_modern
+#~ msgid "Social Icons Type"
+#~ msgstr "Social Icons Type"
+
+# @ wplms_modern
+#~ msgid "Social Icons Theme"
+#~ msgstr "Social Icons Theme"
+
+# @ wplms_modern
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "Show Tooltip on Social Icons"
+
+# @ wplms_modern
+#~ msgid "Social Sharing buttons"
+#~ msgstr "Social Sharing buttons"
+
+# @ wplms_modern
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "Show in-built sharing buttons in the theme"
+
+# @ wplms_modern
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr "Adds Social media sharing buttons in single Courses etc."
+
+# @ wplms_modern
+#~ msgid "Miscellaneous"
+#~ msgstr "Miscellaneous"
+
+# @ wplms_modern
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "Miscellaneous settings used in the theme."
+
+# @ wplms_modern
+#~ msgid "Theme Layout"
+#~ msgstr "Tema Layout"
+
+# @ wplms_modern
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "Configure Layout of the theme"
+
+# @ wplms_modern
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "Select out of predefined layouts for the theme"
+
+# @ wplms_modern
+#~ msgid "Default Excerpt Length"
+#~ msgstr "Default Excerpt Length"
+
+# @ wplms_modern
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "Excerpt length in number of Words."
+
+# @ wplms_modern
+#~ msgid "Direct Checkout"
+#~ msgstr "Direct Checkout"
+
+# @ wplms_modern
+#~ msgid "Requires WooCommerce installed"
+#~ msgstr "Requires WooCommerce installed"
+
+# @ wplms_modern
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "User is redirected to the checkout page."
+
+# @ wplms_modern
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "Redirect to Course Page on Order completion"
+
+# @ wplms_modern
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "Only if the order contains one product with one course"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+#~ msgstr ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+
+# @ wplms_modern
+#~ msgid "Force complete orders"
+#~ msgstr "Force complete orders"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+
+# @ wplms_modern
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "Remove Extra Checkout Fields"
+
+# @ wplms_modern
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "Recommended if you're only selling courses/virtual products"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+#~ msgstr ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+
+# @ wplms_modern
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "Contact Page Latitude and Longitude values"
+
+# @ wplms_modern
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "Grab the latitude and Longitude values from ."
+
+# @ wplms_modern
+#~ msgid "Link"
+#~ msgstr "Link"
+
+# @ wplms_modern
+#~ msgid "Contact Page Map Style"
+#~ msgstr "Contact Page Map Style"
+
+# @ wplms_modern
+#~ msgid "Select the map style on contact page."
+#~ msgstr "Select the map style on contact page."
+
+# @ wplms_modern
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "Content area is the container in which all content is located."
+
+# @ wplms_modern
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "Google Map Zoom Level"
+
+# @ wplms_modern
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "Enter the zoom level in Google maps"
+
+# @ wplms_modern
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "Zoom Levels 0 - 19"
+
+# @ wplms_modern
+#~ msgid "Select 404 Page"
+#~ msgstr "Select 404 Page"
+
+# @ wplms_modern
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr "This page is shown when page not found on your site."
+
+# @ wplms_modern
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr "User redirected to this page when page not found."
+
+# @ wplms_modern
+#~ msgid "Author & Credits"
+#~ msgstr "Author & Credits"
+
+# @ wplms_modern
+#~ msgid "Credits and Author of the Website"
+#~ msgstr "Credits and Author of the Website"
+
+# @ wplms_modern
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr "Changes the reference to Author {VibeThemes}"
+
+# @ wplms_modern
+#~ msgid "Theme Information"
+#~ msgstr "Theme Information"
+
+# @ wplms_modern
+#~ msgid "Please enter some content to post."
+#~ msgstr "Unesite sadržaj posta."
+
+# @ wplms_modern
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "Došlo je do problema kod objavljivanja, pokušajte ponovno."
+
+# @ wplms_modern
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "Molimo vas da ne ostavite mesto za komentar prazno."
+
+# @ wplms_modern
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr "Došlo je do greške pri slanju odgovora, pokušajte ponovno."
+
+# @ wplms_modern
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "Došlo je do problema prilikom brisanja. Molimo pokušajte ponovno."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s već je zatražio da se pridruži ovoj grupi. Slanje poziva automatski će "
+#~ "dodati člana u grupu."
+
+# @ wplms_modern
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "Prijateljstvo nije moglo biti otkazano."
+
+# @ wplms_modern
+#~ msgid "Add Friend"
+#~ msgstr "Dodaj prijatelja"
+
+# @ wplms_modern
+#~ msgid " Friendship could not be requested."
+#~ msgstr " Nije moguće zatražiti prijateljstvo."
+
+# @ wplms_modern
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "Obriši zahtev za prijateljstvo"
+
+# @ wplms_modern
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "Zahtev za prijateljstvo nije mogao biti otkazan."
+
+# @ wplms_modern
+#~ msgid "Request Pending"
+#~ msgstr "Zahtev na čekanju"
+
+# @ wplms_modern
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr "Došlo je do problema prihvtanja zahteva. Molimo pokušajte ponovno."
+
+# @ wplms_modern
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr ""
+#~ "Došlo je do problema kod odbacivanja zahteva. Molimo pokušajte ponovno."
+
+# @ wplms_modern
+#~ msgid "Error joining group"
+#~ msgstr "Problem kod pridruživanja grupi."
+
+# @ wplms_modern
+#~ msgid "Leave Group"
+#~ msgstr "Napustite grupu"
+
+# @ wplms_modern
+#~ msgid "Error requesting membership"
+#~ msgstr "Greška kod traženja članstva"
+
+# @ wplms_modern
+#~ msgid "Membership Requested"
+#~ msgstr "Zatraženo članstvo"
+
+# @ wplms_modern
+#~ msgid "Error leaving group"
+#~ msgstr "Greška kod napuštanja grupe"
+
+# @ wplms_modern
+#~ msgid "Join Group"
+#~ msgstr "Pridružite se grupi"
+
+# @ wplms_modern
+#~ msgid "Request Membership"
+#~ msgstr "Zahtev za članstvo"
+
+# @ wplms_modern
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "Došlo je do problema kod zatvaranja obaveštenja"
+
+# @ wplms_modern
+#~ msgid "Sent %s"
+#~ msgstr "Poslato %s"
+
+# @ wplms_modern
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr ""
+#~ "Nastao je problem pri slanju taj odgovora. Molimo pokušajte ponovno."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "Došlo je do problema obeležavanja poruke kao nepročitane."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "Došlo je do problema obeležavanja poruke kao pročitane."
+
+# @ wplms_modern
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "Došlo je do problema brisanja poruke."
+
+# @ wplms_modern
+#~ msgid "Messages deleted."
+#~ msgstr "Poruke su izbrisane"
+
+# @ wplms_modern
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr ""
+#~ "Žao nam je, nismo pronašli aktivnosti. Molimo pokušajte s drugim filterom."
+
+# @ wplms_modern
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "Što je novo u %s, %s?"
+
+# @ wplms_modern
+#~ msgid "What's new, %s?"
+#~ msgstr "Ono što je novo, %s?"
+
+# @ wplms_modern
+#~ msgid "Post Update"
+#~ msgstr "Post Update"
+
+# @ wplms_modern
+#~ msgid "Post in"
+#~ msgstr "Post u"
+
+# @ wplms_modern
+#~ msgid "My Profile"
+#~ msgstr "Moj profil"
+
+# @ wplms_modern
+#~ msgid "You have not created any Course."
+#~ msgstr "Niste kreirali ni jedan kurs"
+
+# @ wplms_modern
+#~ msgid "Submissions"
+#~ msgstr "Podnesci"
+
+# @ wplms_modern
+#~ msgid "Activity"
+#~ msgstr "Aktivnost"
+
+# @ wplms_modern
+#~ msgid "Stats"
+#~ msgstr "Statistika"
+
+# @ wplms_modern
+#~ msgid "Total number of Students in course"
+#~ msgstr "Ukupan broj studenata na kursu"
+
+# @ wplms_modern
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Studenti koji trenutno pohađaju ovaj kurs"
+
+# @ wplms_modern
+#~ msgid "Reset Course for User"
+#~ msgstr "Reset kurs za Korisnika"
+
+# @ wplms_modern
+#~ msgid "See Course stats for User"
+#~ msgstr "Pogledajte statistiku kursa korisnika"
+
+# @ wplms_modern
+#~ msgid "See User Activity in Course"
+#~ msgstr "Pogledaj aktivnosti korisnika na kursu"
+
+# @ wplms_modern
+#~ msgid "Remove User from this Course"
+#~ msgstr "Ukloni korisnika sa ovog kursa"
+
+# @ wplms_modern
+#~ msgid "BULK ACTIONS"
+#~ msgstr "Masovne akcije"
+
+# @ wplms_modern
+#~ msgid "Instructors"
+#~ msgstr "Instruktori"
+
+# @ wplms_modern
+#~ msgid "FREE"
+#~ msgstr "Besplatno!"
+
+# @ wplms_modern
+#~ msgid "minutes"
+#~ msgstr "minuta"
+
+# @ wplms_modern
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "Ukupan broj studenata koji učestvuju na ovom kursu"
+
+# @ wplms_modern
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "Prosečan procenat dobijen od studenata"
+
+# @ wplms_modern
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "Broj studenata koji su dobili značku"
+
+# @ wplms_modern
+#~ msgid "Number of Passed Students"
+#~ msgstr "Broj studenata koji su položili"
+
+# @ wplms_modern
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "Prosječni Marks postižu učenici"
+
+# @ wplms_modern
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "Prosječni Marks u kvizu"
+
+# @ wplms_modern
+#~ msgid "Calculate :"
+#~ msgstr "Izračunajte:"
+
+# @ wplms_modern
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "Izračunajte statistiku kursa"
+
+# @ wplms_modern
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "Podneti zadaci"
+
+# @ wplms_modern
+#~ msgid "Reset Assignment for User"
+#~ msgstr "Resetujte podneske studenata"
+
+# @ wplms_modern
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "Procenti predate zadatke"
+
+# @ wplms_modern
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "Rezultati kviza"
+
+# @ wplms_modern
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Reset kviz za Korisnika"
+
+# @ wplms_modern
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Procenite kviz za Korisnika"
+
+# @ wplms_modern
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "Podnesci kursa"
+
+# @ wplms_modern
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Procenite kurs korisnika"
+
+# @ wplms_modern
+#~ msgid "Groups Directory"
+#~ msgstr "Spisak grupa"
+
+# @ wplms_modern
+#~ msgid "There were no groups found."
+#~ msgstr "Nisu pronađene grupe."
+
+# @ wplms_modern
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "Obavesti članove grupe o promenamaa putem e-maila"
+
+# @ wplms_modern
+#~ msgid "Save Changes"
+#~ msgstr "Snimi promene"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Ako želite ukloniti postojeći avatar, ali ne uploadovati novi, molimo "
+#~ "koristiti dugme za brisanje avatara."
+
+# @ wplms_modern
+#~ msgid "Delete Avatar"
+#~ msgstr "Obrišite avatar"
+
+# @ wplms_modern
+#~ msgid "Crop Avatar"
+#~ msgstr "Obrežite avatar"
+
+# @ wplms_modern
+#~ msgid "Administrators"
+#~ msgstr "Administratori"
+
+# @ wplms_modern
+#~ msgid "Profile picture of %s"
+#~ msgstr "Slika profila %s"
+
+# @ wplms_modern
+#~ msgid "Demote to Member"
+#~ msgstr "Degradirati za člana"
+
+# @ wplms_modern
+#~ msgid "Promote to Admin"
+#~ msgstr "Prijavi adminu"
+
+# @ wplms_modern
+#~ msgid "(banned)"
+#~ msgstr "(Zabranjen)"
+
+# @ wplms_modern
+#~ msgid "Unban this member"
+#~ msgstr "Ponovo daj dozvolu članu"
+
+# @ wplms_modern
+#~ msgid "Remove Ban"
+#~ msgstr "Uklonite BAN"
+
+# @ wplms_modern
+#~ msgid "Kick and ban this member"
+#~ msgstr "Kikuj i banuj ovog člana"
+
+# @ wplms_modern
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "Kick & Zabrana"
+
+# @ wplms_modern
+#~ msgid "Promote to Mod"
+#~ msgstr "Prijavi Moderatoru"
+
+# @ wplms_modern
+#~ msgid "Remove this member"
+#~ msgstr "Uklonite ovog člana"
+
+# @ wplms_modern
+#~ msgid "Remove from group"
+#~ msgstr "Ukloni iz grupe"
+
+# @ wplms_modern
+#~ msgid "This group has no members."
+#~ msgstr "Ova grupa nema članova."
+
+# @ wplms_modern
+#~ msgid "Accept"
+#~ msgstr "Prihvatiti"
+
+# @ wplms_modern
+#~ msgid "Reject"
+#~ msgstr "Odbiti"
+
+# @ wplms_modern
+#~ msgid "There are no pending membership requests."
+#~ msgstr "Nema nerešenih zahteva za članstvo."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "UPOZORENJE: Brisanjem ove grupe u potpunosti ćete ukloniti sve sadržaje "
+#~ "povezane s njom. Nema povratka, budite oprezni s ovom opcijom."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "Razumem posledice brisanja ove grupe."
+
+# @ wplms_modern
+#~ msgid "Delete Group"
+#~ msgstr "Brisanje grupe"
+
+# @ wplms_modern
+#~ msgid "Forum Directory"
+#~ msgstr "Spisak foruma"
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr ""
+#~ "Vi ćete se automatski pridružiti ovoj grupi kada započnete novu temu."
+
+# @ wplms_modern
+#~ msgid "Post a New Topic:"
+#~ msgstr "Započni novu temu:"
+
+# @ wplms_modern
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "Vi se traži da postane član grupe '%s'."
+
+# @ wplms_modern
+#~ msgid "Comments (optional)"
+#~ msgstr "Komentari (opciono)"
+
+# @ wplms_modern
+#~ msgid "Send Request"
+#~ msgstr "Pošalji zahtev"
+
+# @ wplms_modern
+#~ msgid "Send Invites"
+#~ msgstr "Pošalji pozivnice"
+
+# @ wplms_modern
+#~ msgid "Edit:"
+#~ msgstr "Editujte:"
+
+# @ wplms_modern
+#~ msgid "This topic does not exist."
+#~ msgstr "Ova tema ne postoji."
+
+# @ wplms_modern
+#~ msgid "New Reply"
+#~ msgstr "Novi odgovor"
+
+# @ wplms_modern
+#~ msgid "Topic tags:"
+#~ msgstr "Tagovi teme:"
+
+# @ wplms_modern
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s je rekao %2$s:"
+
+# @ wplms_modern
+#~ msgid "There are no posts for this topic."
+#~ msgstr "Nema postova za ovu temu."
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr ""
+#~ "Vi ćete se automatski pridružiti ovoj grupi kada pošaljete odgovor u ovoj "
+#~ "temi."
+
+# @ wplms_modern
+#~ msgid "Add a reply:"
+#~ msgstr "Dodaj odgovor:"
+
+# @ wplms_modern
+#~ msgid "Post Reply"
+#~ msgstr "Odgovori"
+
+# @ wplms_modern
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "Ova tema je zatvorena, odgovori se više ne prihvataju."
+
+# @ wplms_modern
+#~ msgid "Badges"
+#~ msgstr "Značke"
+
+# @ wplms_modern
+#~ msgid "Certifications"
+#~ msgstr "Sertifikati"
+
+# @ wplms_modern
+#~ msgid "Check all Courses created by "
+#~ msgstr "Proverite sve kurseve koje je kreirao"
+
+# @ wplms_modern
+#~ msgid "Course "
+#~ msgstr "Kurs"
+
+# @ wplms_modern
+#~ msgid "Author Social profile information"
+#~ msgstr "Profil informacije o autoru"
+
+# @ wplms_modern
+#~ msgid "Add Social Information"
+#~ msgstr "Dodajte društvene mreže"
+
+# @ wplms_modern
+#~ msgid "Enter URL for social icon."
+#~ msgstr "Unesite URL za ikonice društvenih mreža"
+
+# @ wplms_modern
+#~ msgid "Share on "
+#~ msgstr "Podeli na"
+
+# @ wplms_modern
+#~ msgid "Status"
+#~ msgstr "Status"
+
+# @ wplms_modern
+#~ msgid "Course Categories"
+#~ msgstr "Kategorije kursa"
+
+# @ wplms_modern
+#~ msgid "Level"
+#~ msgstr "Nivo"
+
+# @ wplms_modern
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "Neograničen pristup"
+
+# @ wplms_modern
+#~ msgid "Become an Instructor"
+#~ msgstr "Postanite instruktor"
+
+# @ wplms_modern
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr "Završi Video / Audio da bi obeležili ovu jedinicu potpunom"
+
+# @ wplms_modern
+#~ msgid "Setup Menus"
+#~ msgstr "Podesi menije"
+
+# @ wplms_modern
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr "Pojavio se neki problem prilikom uklanjanja studenta sa kursa"
+
+# @ wplms_modern
+#~ msgid "Page"
+#~ msgstr "Stranica"
+
+# @ wplms_modern
+#~ msgid "Attachment"
+#~ msgstr "Attachment"
+
+# @ wplms_modern
+#~ msgid "Requires completion of course : "
+#~ msgstr "Zahtev za završetak kursa:"
+
+# @ wplms_modern
+#~ msgid " REGISTER NOW"
+#~ msgstr " Registrujte se"
+
+# @ wplms_modern
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "Morate biti ulogovani da biste učestvovali na ovom kursu"
+
+# @ wplms_modern
+#~ msgid "Page %s"
+#~ msgstr "Stranica %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr ""
+#~ "LearnDash Active. Možete onemogućiti sljedeće dodatke kako bi izbjegli "
+#~ "duple funkcionalnost u izborniku"
+
+# @ wplms_modern
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "Idi na WP Admin -> Plugins -> Instalirani Plugins"
+
+# @ wplms_modern
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "Deaktivacija Vibe Custom vrste"
+
+# @ wplms_modern
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "Deaktivacija Vibe modul tečaja"
+
+# @ wplms_modern
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "Postavljanje menija u admin panelu"
+
+# @ wplms_modern
+#~ msgid "Install Required Plugins"
+#~ msgstr "Instalirajte potrebne Plugine"
+
+# @ wplms_modern
+#~ msgid "Install Plugins"
+#~ msgstr "Instalirati plagine"
+
+# @ wplms_modern
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Instaliranje Plugina: %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Nešto je pošlo po zlu sa plugin API."
+
+# @ wplms_modern
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Povratak na Potrebna Plugins Instalater"
+
+# @ wplms_modern
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin uspešno aktiviran."
+
+# @ wplms_modern
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Svi pluginovi instalirani i uspješno aktivirani. %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong."
+#~ msgstr "Nešto je pošlo po zlu."
+
+# @ wplms_modern
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Svi pluginovi instalirani i uspešno aktivirani. %1$s"
+
+# @ wplms_modern
+#~ msgid "Dismiss this notice"
+#~ msgstr "Odbaci to obaveštenje"
+
+# @ wplms_modern
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Povratak na Dashboard"
+
+# @ wplms_modern
+#~ msgid "Private Repository"
+#~ msgstr "Privatni repozitorij"
+
+# @ wplms_modern
+#~ msgid "Pre-Packaged"
+#~ msgstr "Zapakovano"
+
+# @ wplms_modern
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress repozitorij"
+
+# @ wplms_modern
+#~ msgid "Required"
+#~ msgstr "Potrebno"
+
+# @ wplms_modern
+#~ msgid "Recommended"
+#~ msgstr "Preporučeno"
+
+# @ wplms_modern
+#~ msgid "Not Installed"
+#~ msgstr "Nije instalirano"
+
+# @ wplms_modern
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Instalirano ali nije aktivirano"
+
+# @ wplms_modern
+#~ msgid "Install"
+#~ msgstr "Instalirati"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "Nema dodataka za instalaciju ili aktivaciju. <a href=\"%1$s\" title="
+#~ "\"Return na Dashboard\"> Povratak na Dashboard </ a>"
+
+# @ wplms_modern
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+# @ wplms_modern
+#~ msgid "Source"
+#~ msgstr "Izvor"
+
+# @ wplms_modern
+#~ msgid "Type"
+#~ msgstr "Tip"
+
+# @ wplms_modern
+#~ msgid "Install package not available."
+#~ msgstr "Instaliranje paketa nije dostupno."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr "Preuzmite instalacije sa <span class=\"code\">%s</span>&#8230;"
+
+# @ wplms_modern
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Otpakivanje..."
+
+# @ wplms_modern
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Instaliranje dodatka ..."
+
+# @ wplms_modern
+#~ msgid "Plugin install failed."
+#~ msgstr "Nije uspelo instaliranje plagina"
+
+# @ wplms_modern
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin je uspešno instaliran."
+
+# @ wplms_modern
+#~ msgid "Plugin activation failed."
+#~ msgstr "Aktivacija Plugina nije uspelo."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Postupak instalacije i aktivacije počinje. Ovaj proces može potrajati "
+#~ "neko vreme, pa vas molimo za strpljenje."
+
+# @ wplms_modern
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s uspešno instalirana i aktivirana."
+
+# @ wplms_modern
+#~ msgid "Show Details"
+#~ msgstr "Pokaži Detalje"
+
+# @ wplms_modern
+#~ msgid "Hide Details"
+#~ msgstr "Sakrij Detalje"
+
+# @ wplms_modern
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Sve instalacije i aktivacije su završene."
+
+# @ wplms_modern
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instaliranje i Aktiviranje Plugina %1$s (%2$d/%3$d)"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Instalacioni proces počinje. Ovaj proces može potrajati neko vreme, pa "
+#~ "vas molimo za strpljenje."
+
+# @ wplms_modern
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "Došlo je do greške tokom instalacije %1$s: <strong>%2$s</strong>."
+
+# @ wplms_modern
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "Instalacija %1$s nije uspela."
+
+# @ wplms_modern
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s uspešno instaliran."
+
+# @ wplms_modern
+#~ msgid "All installations have been completed."
+#~ msgstr "Sve instalacije su završene."
+
+# @ wplms_modern
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instaliranje Plugina %1$s (%2$d/%3$d)"
+
+# @ wplms_modern
+#~ msgid "Review Title"
+#~ msgstr "Recenzija Naslova"
+
+# @ wplms_modern
+#~ msgid "Review Rating"
+#~ msgstr "Pregled ocena"
+
+# @ wplms_modern
+#~ msgid "Review Details"
+#~ msgstr "Pregled detalja"
+
+# @ wplms_modern
+#~ msgid "Rating "
+#~ msgstr "Rejting"
+
+# @ wplms_modern
+#~ msgid "Student"
+#~ msgstr "Student"
+
+# @ wplms_modern
+#~ msgid "Instructor"
+#~ msgstr "Instruktor"
+
+# @ wplms_modern
+#~ msgid "Top Menu"
+#~ msgstr "Top meni"
+
+# @ wplms_modern
+#~ msgid "Main Menu"
+#~ msgstr "Glavni meni"
+
+# @ wplms_modern
+#~ msgid "Mobile Menu"
+#~ msgstr "Meni kod mobilnih uređaja"
+
+# @ wplms_modern
+#~ msgid "Footer Menu"
+#~ msgstr "Meni u futeru"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr ""
+#~ "To je globalna zadana widget područje / sidebar za stranice, postove, "
+#~ "kategorije, oznake i arhivskim stranicama"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr ""
+#~ "To je zadana widget područje / sidebar prikazano na tečaj stranicama i "
+#~ "besplatno jedinica"
+
+# @ wplms_modern
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr ""
+#~ "To je dodatak područje / sidebar prikazano na stranici s rezultatima "
+#~ "pretraživanja."
+
+# @ wplms_modern
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "To je dodatak područje / sidebar prikazano na stranici trgovine"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr ""
+#~ "To je zadana widget područje / sidebar prikazano na pojedinačne stranice "
+#~ "proizvoda i kategorija proizvoda"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "To je zadana widget područje / sidebar prikazano na BuddyPress stranicama "
+#~ "kao što su: sve aktivnosti, za sve skupine, svi članovi, svi tečajevi, "
+#~ "svi blogovi"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr ""
+#~ "To je zadana widget područje / sidebar prikazana na kasi stranicama ispod "
+#~ "kupona."
+
+# @ wplms_modern
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "Top podnožje widget područje / sidebar"
+
+# @ wplms_modern
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "Dno podnožje widget područje / sidebar"
+
+# @ wplms_modern
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "Custom sidebar, stvorio od Sidebar Manager"
+
+# @ wplms_modern
+#~ msgid "Student "
+#~ msgstr "Student"
+
+# @ wplms_modern
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (Invalid)"
+
+# @ wplms_modern
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (na čekanju)"
+
+# @ wplms_modern
+#~ msgid "Edit Menu Item"
+#~ msgstr "Uredi stavke menija"
+
+# @ wplms_modern
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ wplms_modern
+#~ msgid "Navigation Label"
+#~ msgstr "Navigation Label"
+
+# @ wplms_modern
+#~ msgid "Title Attribute"
+#~ msgstr "Title Attribute"
+
+# @ wplms_modern
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Otvori vezu u novom prozoru / kartici"
+
+# @ wplms_modern
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS klase (opciono)"
+
+# @ wplms_modern
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "Link Relationship (XFN)"
+
+# @ wplms_modern
+#~ msgid "Description"
+#~ msgstr "Opis"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr "Opis će biti prikazan u meniju ako trenutna tema podržava."
+
+# @ wplms_modern
+#~ msgid "Enable Widgetized Mega Menu"
+#~ msgstr "Omogućite widgetized Mega Izbornik"
+
+# @ wplms_modern
+#~ msgid "Select Sidebar"
+#~ msgstr "Odaberite Sidebar"
+
+# @ wplms_modern
+#~ msgid "Sidebar Columns"
+#~ msgstr "Sidebar Kolumne"
+
+# @ wplms_modern
+#~ msgid "Original: %s"
+#~ msgstr "Original: %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "Pokazuje prilagođeni atribut u widget koji vam omogućuje da suziti popis "
+#~ "proizvoda pri gledanju kategorije proizvoda."
+
+# @ wplms_modern
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "Vibe Napredna Slojeviti Nav"
+
+# @ wplms_modern
+#~ msgid "Attribute:"
+#~ msgstr "Atributi:"
+
+# @ wplms_modern
+#~ msgid "Query Type:"
+#~ msgstr "Tip pitanja:"
+
+# @ wplms_modern
+#~ msgid "AND"
+#~ msgstr "I"
+
+# @ wplms_modern
+#~ msgid "OR"
+#~ msgstr "ILI"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr ""
+#~ "Prikazuje aktivne slojevito nav filtre tako da korisnici mogu vidjeti i "
+#~ "prestati ih."
+
+# @ wplms_modern
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "Vibe Napredna Slojeviti Nav Filteri"
+
+# @ wplms_modern
+#~ msgid "Active filters"
+#~ msgstr "Aktivne filteri"
+
+# @ wplms_modern
+#~ msgid "Remove filter"
+#~ msgstr "Izvadite filter"
+
+# @ wplms_modern
+#~ msgid "Greater than"
+#~ msgstr "Veći od"
+
+# @ wplms_modern
+#~ msgid "Less than"
+#~ msgstr "Manje od"
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Carousels "
+#~ msgstr "Vibe WooCommerce Carousels"
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Carousels"
+#~ msgstr "Vibe WooCommerce Carousels"
+
+# @ wplms_modern
+#~ msgid "WooCommerce Function "
+#~ msgstr "WooCommerce Funkcija"
+
+# @ wplms_modern
+#~ msgid "Product Columns"
+#~ msgstr "Kolumne proizvoda"
+
+# @ wplms_modern
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "Broj proizvoda u Carousel:"
+
+# @ wplms_modern
+#~ msgid "Carousel Controls"
+#~ msgstr "Vrtuljak Kontrole"
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Mega Carousel "
+#~ msgstr "Vibe WooCommerce Mega Vrtuljak"
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Mega Carousel"
+#~ msgstr "Vibe WooCommerce Mega Vrtuljak"
+
+# @ wplms_modern
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "Iznad odabranih WooCommerce Funkcije nazivima (odvojenih zarezom)"
+
+# @ wplms_modern
+#~ msgid "Vibe BuddyPress Login"
+#~ msgstr "Vibe BuddyPress Prijava"
+
+# @ wplms_modern
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "Vibe BuddyPress Prijava Widget"
+
+# @ wplms_modern
+#~ msgid "View profile"
+#~ msgstr "Pogledajte profil"
+
+# @ wplms_modern
+#~ msgid "Log Out"
+#~ msgstr "Odjava"
+
+# @ wplms_modern
+#~ msgid "LOGOUT"
+#~ msgstr "Logout"
+
+# @ wplms_modern
+#~ msgid "Access admin panel"
+#~ msgstr "Pristup admin panelu"
+
+# @ wplms_modern
+#~ msgid "Inbox"
+#~ msgstr "Inbox"
+
+# @ wplms_modern
+#~ msgid "Notifications"
+#~ msgstr "Obaveštenja"
+
+# @ wplms_modern
+#~ msgid "Groups"
+#~ msgstr "Grupe"
+
+# @ wplms_modern
+#~ msgid "Remember Me"
+#~ msgstr "Podseti me"
+
+# @ wplms_modern
+#~ msgid "Log In"
+#~ msgstr "Prijava"
+
+# @ wplms_modern
+#~ msgid "Course Categories "
+#~ msgstr "Kategorije kursa"
+
+# @ wplms_modern
+#~ msgid "View all Courses in %s"
+#~ msgstr "Pregled svih kurseva %s"
+
+# @ wplms_modern
+#~ msgid "Order by"
+#~ msgstr "Sortiranje po"
+
+# @ wplms_modern
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+# @ wplms_modern
+#~ msgid "Course Count"
+#~ msgstr "Broj kurseva"
+
+# @ wplms_modern
+#~ msgid "Sort Order "
+#~ msgstr "Sortiranje"
+
+# @ wplms_modern
+#~ msgid "Ascending"
+#~ msgstr "Uzlazno"
+
+# @ wplms_modern
+#~ msgid "Descending"
+#~ msgstr "Silazno"
+
+# @ wplms_modern
+#~ msgid "Vibe Tabs"
+#~ msgstr "Vibe Kartice"
+
+# @ wplms_modern
+#~ msgid "Recent Posts"
+#~ msgstr "Poslednji postovi"
+
+# @ wplms_modern
+#~ msgid "thumbnail"
+#~ msgstr "sličica"
+
+# @ wplms_modern
+#~ msgid "Theme:"
+#~ msgstr "Tema:"
+
+# @ wplms_modern
+#~ msgid "Light"
+#~ msgstr "Svetla"
+
+# @ wplms_modern
+#~ msgid "Dark"
+#~ msgstr "Tamna"
+
+# @ wplms_modern
+#~ msgid "Show Tab"
+#~ msgstr "Pokaži Tab"
+
+# @ wplms_modern
+#~ msgid "Title"
+#~ msgstr "Naslov"
+
+# @ wplms_modern
+#~ msgid "Content & Style"
+#~ msgstr "Sadržaj & Style"
+
+# @ wplms_modern
+#~ msgid "Thumbnail Posts"
+#~ msgstr "Sličice Postovi"
+
+# @ wplms_modern
+#~ msgid "Number of items"
+#~ msgstr "Broj tačaka"
+
+# @ wplms_modern
+#~ msgid "Posts Carousel "
+#~ msgstr "Posts Carousel "
+
+# @ wplms_modern
+#~ msgid "Vibe Carousel"
+#~ msgstr "Vibe Vrtuljak"
+
+# @ wplms_modern
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+# @ wplms_modern
+#~ msgid "Post Type"
+#~ msgstr "Post Tip"
+
+# @ wplms_modern
+#~ msgid "Recent"
+#~ msgstr "Nedavni"
+
+# @ wplms_modern
+#~ msgid "Popular"
+#~ msgstr "Popularan"
+
+# @ wplms_modern
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+# @ wplms_modern
+#~ msgid "Excerpt length"
+#~ msgstr "Izvadak dužina"
+
+# @ wplms_modern
+#~ msgid "Auto Start"
+#~ msgstr "Auto Start"
+
+# @ wplms_modern
+#~ msgid "Loop back, after completion"
+#~ msgstr "Nazad, nakon završetka"
+
+# @ wplms_modern
+#~ msgid "Number of Posts"
+#~ msgstr "Broj postova"
+
+# @ wplms_modern
+#~ msgid "Posts Widget "
+#~ msgstr "Poruke Widget"
+
+# @ wplms_modern
+#~ msgid "Vibe Posts"
+#~ msgstr "Vibe Postovi"
+
+# @ wplms_modern
+#~ msgid " Title"
+#~ msgstr " Naslov"
+
+# @ wplms_modern
+#~ msgid "Sort"
+#~ msgstr "Vrsta"
+
+# @ wplms_modern
+#~ msgid " Image Size"
+#~ msgstr " Veličina slike"
+
+# @ wplms_modern
+#~ msgid "Big"
+#~ msgstr "Velika"
+
+# @ wplms_modern
+#~ msgid "Small"
+#~ msgstr "Mala"
+
+# @ wplms_modern
+#~ msgid "Image with Title"
+#~ msgstr "Slika sa naslovom"
+
+# @ wplms_modern
+#~ msgid "Image Only"
+#~ msgstr "Samo slika"
+
+# @ wplms_modern
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "Broj znakova u Izvadak [Post stil]"
+
+# @ wplms_modern
+#~ msgid "Vibe Gallery"
+#~ msgstr "Vibe Galerija"
+
+# @ wplms_modern
+#~ msgid "Size "
+#~ msgstr "Veličina"
+
+# @ wplms_modern
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+# @ wplms_modern
+#~ msgid " Small"
+#~ msgstr " Mali"
+
+# @ wplms_modern
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+# @ wplms_modern
+#~ msgid "Enter Attachment Ids "
+#~ msgstr "Unesite privitak IDS"
+
+# @ wplms_modern
+#~ msgid "Vibe Testimonials "
+#~ msgstr "Vibe Svjedočanstva"
+
+# @ wplms_modern
+#~ msgid "Vibe Testimonials"
+#~ msgstr "Vibe Svjedočanstva"
+
+# @ wplms_modern
+#~ msgid "Testimonial Id "
+#~ msgstr "Id izjavu"
+
+# @ wplms_modern
+#~ msgid "Length of excerpt:"
+#~ msgstr "Duljina izvadak:"
+
+# @ wplms_modern
+#~ msgid "Username or RSS:"
+#~ msgstr "Korisničko ime ili RSS:"
+
+# @ wplms_modern
+#~ msgid "Tags:"
+#~ msgstr "Tagovi:"
+
+# @ wplms_modern
+#~ msgid "Count:"
+#~ msgstr "Broj:"
+
+# @ wplms_modern
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "Instagram AccessToken:"
+
+# @ wplms_modern
+#~ msgid "Instagram Client ID:"
+#~ msgstr "Instagram Client ID:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "Instagram ime (<small> Ako su pokazali prazno, Instagram popularne slike "
+#~ "</ small>):"
+
+# @ wplms_modern
+#~ msgid "Size:"
+#~ msgstr "Veličina:"
+
+# @ wplms_modern
+#~ msgid "Select Twitter Style"
+#~ msgstr "Odaberite Twitter stilu"
+
+# @ wplms_modern
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "Link iznad glave sa Twitter korisnika"
+
+# @ wplms_modern
+#~ msgid "Consumer Key"
+#~ msgstr "Potrošačka Ključ"
+
+# @ wplms_modern
+#~ msgid "Create your Twitter Application"
+#~ msgstr "Napravite svoj Twitter aplikacije"
+
+# @ wplms_modern
+#~ msgid "here"
+#~ msgstr "ovdje"
+
+# @ wplms_modern
+#~ msgid "Consumer Secret"
+#~ msgstr "Tajni"
+
+# @ wplms_modern
+#~ msgid "Access Token"
+#~ msgstr "Pristup token"
+
+# @ wplms_modern
+#~ msgid "Access Token Secret"
+#~ msgstr "Pristup token Secret"
+
+# @ wplms_modern
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter ime"
+
+# @ wplms_modern
+#~ msgid "Show # of Tweets"
+#~ msgstr "Show # of Tweets"
+
+# @ wplms_modern
+#~ msgid "Show timestamps"
+#~ msgstr "Pokaži oznake vremena"
+
+# @ wplms_modern
+#~ msgid "Find and show hyperlinks"
+#~ msgstr "Pronađite i pokazati hiperveze"
+
+# @ wplms_modern
+#~ msgid "Find Replies in Tweets"
+#~ msgstr "Nađi Odgovori na Tweets"
+
+# @ wplms_modern
+#~ msgid "Create links on new window / tab"
+#~ msgstr "Stvaranje linkova na novom prozoru / kartici"
+
+# @ wplms_modern
+#~ msgid "Twitter username is not configured"
+#~ msgstr "Twitter username nije konfiguriran"
+
+# @ wplms_modern
+#~ msgid "Number of tweets is not valid"
+#~ msgstr "Broj tweetove nije važeći"
+
+# @ wplms_modern
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "Twitter autentičnosti podaci nepotpuni"
+
+# @ wplms_modern
+#~ msgid "Fetching data from Twitter"
+#~ msgstr "Dohvaćanje podataka iz Twitteru"
+
+# @ wplms_modern
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "Brisanje predmemoriranu opciju podataka omogućeno"
+
+# @ wplms_modern
+#~ msgid "Error retrieving tweets"
+#~ msgstr "Pogreškama vraćajući tweets"
+
+# @ wplms_modern
+#~ msgid "Twitter data error:"
+#~ msgstr "Twitter pogreška podaci:"
+
+# @ wplms_modern
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "Ograničenje Pogreška prilikom dohvaćanja twitter stopa"
+
+# @ wplms_modern
+#~ msgid "Requested items"
+#~ msgstr "Traženi stavke"
+
+# @ wplms_modern
+#~ msgid "API calls left"
+#~ msgstr "API pozivi lijevo"
+
+# @ wplms_modern
+#~ msgid "Seconds until reset"
+#~ msgstr "Sekunde do resetiranja"
+
+# @ wplms_modern
+#~ msgid "Using cached Twitter data"
+#~ msgstr "Koristeći podatke spremljene Twitter"
+
+# @ wplms_modern
+#~ msgid "Twitter cache error:"
+#~ msgstr "Twitter cache memorije pogreška:"
+
+# @ wplms_modern
+#~ msgid "No public tweets"
+#~ msgstr "Nema javne tweetove"
+
+# @ wplms_modern
+#~ msgid "Unable to get tweets"
+#~ msgstr "Nije moguće dobiti tweets"
+
+# @ wplms_modern
+#~ msgid "%s ago"
+#~ msgstr "Prije% s"
+
+# @ wplms_modern
+#~ msgid "M d"
+#~ msgstr "M d"
+
+# @ wplms_modern
+#~ msgid "Y/m/d H:i"
+#~ msgstr "Y / m / d H: i"
+
+# @ wplms_modern
+#~ msgid "Last Tweets"
+#~ msgstr "Poslednji tvit"
+
+# @ wplms_modern
+#~ msgid "student"
+#~ msgstr "student"
+
+# @ wplms_modern
+#~ msgid "instructor"
+#~ msgstr "instruktor"
+
+# @ wplms_modern
+#~ msgid "administrator"
+#~ msgstr "administrator"
+
+# @ wplms_modern
+#~ msgid "Sorry, no members were found."
+#~ msgstr "Žao nam je, nema pronađenih članova."
+
+# @ wplms_modern
+#~ msgid "Invalid Results"
+#~ msgstr "Neispravan Rezultat"
+
+# @ wplms_modern
+#~ msgid "My Submission"
+#~ msgstr "Moj Podnošenje"
+
+# @ wplms_modern
+#~ msgid "Download Attachment"
+#~ msgstr "Preuzmite Prilog"
+
+# @ wplms_modern
+#~ msgid "See Instructor Remarks"
+#~ msgstr "Pogledaj instruktorove napomene"
+
+# @ wplms_modern
+#~ msgid "Marks Obtained"
+#~ msgstr "Obeleženo dobijene"
+
+# @ wplms_modern
+#~ msgid "Marked Answer :"
+#~ msgstr "Obiležen odgovor"
+
+# @ wplms_modern
+#~ msgid "Correct Answer :"
+#~ msgstr "Tačan odgovor:"
+
+# @ wplms_modern
+#~ msgid "Total Marks :"
+#~ msgstr "Ukupno obeleženo:"
+
+# @ wplms_modern
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "Dobijene ocene"
+
+# @ wplms_modern
+#~ msgid "Total Marks"
+#~ msgstr "Ukupno obeleženo"
+
+# @ wplms_modern
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "Ponovite Kviz"
+
+# @ wplms_modern
+#~ msgid " out of "
+#~ msgstr " iz"
+
+# @ wplms_modern
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "Prethodni Rezultati kviza"
+
+# @ wplms_modern
+#~ msgid "Results not Available"
+#~ msgstr "Rezultati nisu dostupni"
+
+# @ wplms_modern
+#~ msgid "Quiz Results"
+#~ msgstr "Rezultati kviza"
+
+# @ wplms_modern
+#~ msgid "Results Available"
+#~ msgstr "Rezultati su dostupni"
+
+# @ wplms_modern
+#~ msgid "Results Awaited"
+#~ msgstr "Rezultati na čekanju"
+
+# @ wplms_modern
+#~ msgid "Submitted "
+#~ msgstr "Postavljeno"
+
+# @ wplms_modern
+#~ msgid "Assignment Results"
+#~ msgstr "Prikazani rezultati"
+
+# @ wplms_modern
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "Prosečni procenat:"
+
+# @ wplms_modern
+#~ msgid "TAKING"
+#~ msgstr "UZIMANJE"
+
+# @ wplms_modern
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "Nemate zahteva za prijateljstvo na čekanju"
+
+# @ wplms_modern
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "Nemate pozive za članstva u grupama"
+
+# @ wplms_modern
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "Pošalji (korisničko ime ili Ime prijatelja)"
+
+# @ wplms_modern
+#~ msgid "This is a notice to all users."
+#~ msgstr "Ovo je obaveštenje svim korisnicima."
+
+# @ wplms_modern
+#~ msgid "Subject"
+#~ msgstr "Subjekt"
+
+# @ wplms_modern
+#~ msgid "Message"
+#~ msgstr "Poruka"
+
+# @ wplms_modern
+#~ msgid "Send Message"
+#~ msgstr "Poslati poruku"
+
+# @ wplms_modern
+#~ msgid "Actions"
+#~ msgstr "Akcije"
+
+# @ wplms_modern
+#~ msgid "From:"
+#~ msgstr "Od:"
+
+# @ wplms_modern
+#~ msgid "To:"
+#~ msgstr "Za:"
+
+# @ wplms_modern
+#~ msgid "View Message"
+#~ msgstr "Vidi poruku"
+
+# @ wplms_modern
+#~ msgid "Delete Message"
+#~ msgstr "Izbriši poruku"
+
+# @ wplms_modern
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Žao nam je, nemate novih poruka"
+
+# @ wplms_modern
+#~ msgid "Sent:"
+#~ msgstr "Poslato:"
+
+# @ wplms_modern
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "Žao nam je, nemate novih obaveštenja."
+
+# @ wplms_modern
+#~ msgid "You are alone in this conversation."
+#~ msgstr "Sami ste u ovom razgovoru."
+
+# @ wplms_modern
+#~ msgid "Conversation between %s and you."
+#~ msgstr "Razgovor između %s i Vas."
+
+# @ wplms_modern
+#~ msgid "Send a Reply"
+#~ msgstr "Poslati odgovor"
+
+# @ wplms_modern
+#~ msgid "Send Reply"
+#~ msgstr "Pošalji Odgovor"
+
+# @ wplms_modern
+#~ msgid "You have no unread notifications."
+#~ msgstr "Nemate nepročitanih obaveštenja"
+
+# @ wplms_modern
+#~ msgid "This member has no unread notifications."
+#~ msgstr "Ovaj član nema nepročitanih obaveštenja."
+
+# @ wplms_modern
+#~ msgid "You have no notifications."
+#~ msgstr "Nemate obaveštenja."
+
+# @ wplms_modern
+#~ msgid "This member has no notifications."
+#~ msgstr "Ovaj član nema obaveštenja."
+
+# @ wplms_modern
+#~ msgid "Notification"
+#~ msgstr "Obaveštenje"
+
+# @ wplms_modern
+#~ msgid "Date Received"
+#~ msgstr "Datum primanja"
+
+# @ wplms_modern
+#~ msgid "Change Avatar"
+#~ msgstr "Promena Avatara"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "Tvoj avatar će se koristiti na vašem profilu i na celom sajtu. Ako "
+#~ "postoji <a href=\"http://gravatar.com\">Gravatar</a> povezan sa e-mail-om "
+#~ "kojim ste se registrovali mi ćemo to iskoristiti, ili možete uploadovati "
+#~ "slike sa svog računara."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "Kliknite ispod za odabir slike u JPG, GIF ili PNG formatu sa svog "
+#~ "računara, a zatim kliknite na \"Postavi sliku\" za nastavak."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Ako želite izbrisati svoj trenutni avatar, ali ne uploadati novu sliku, "
+#~ "molimo koristiti dugme za brisanje avatara."
+
+# @ wplms_modern
+#~ msgid "Delete My Avatar"
+#~ msgstr "Izbriši moj Avatar"
+
+# @ wplms_modern
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "Obrežite Vaš novi avatar"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "Tvoj avatar će se koristiti na Vašem profilu i na celom sajtu. Da biste "
+#~ "promenili svoj avatar, molimo Vas da otvorite nalog na <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> koristeči istu e-mail adresu kao što ste "
+#~ "koristili pri registraciji na ovim stranicama."
+
+# @ wplms_modern
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "Uređivanje '%s' Profila Grupe"
+
+# @ wplms_modern
+#~ msgid "Clear"
+#~ msgstr "Čisto"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr ""
+#~ "Ovo polje može videti: <span class=\"current-visibility-level\">%s</span>"
+
+# @ wplms_modern
+#~ msgid "Change"
+#~ msgstr "Promena"
+
+# @ wplms_modern
+#~ msgid "%s's Profile"
+#~ msgstr "%s's Profil"
+
+# @ wplms_modern
+#~ msgid "About Me"
+#~ msgstr "O meni"
+
+# @ wplms_modern
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ wplms_modern
+#~ msgid "AOL Messenger"
+#~ msgstr "AOL Messenger"
+
+# @ wplms_modern
+#~ msgid "Yahoo Messenger"
+#~ msgstr "Yahoo Messenger"
+
+# @ wplms_modern
+#~ msgid "Capabilities"
+#~ msgstr "Sposobnosti"
+
+# @ wplms_modern
+#~ msgid "This user is a spammer."
+#~ msgstr "Ovaj korisnik je spammer."
+
+# @ wplms_modern
+#~ msgid "Save"
+#~ msgstr "Snimiti"
+
+# @ wplms_modern
+#~ msgid "Delete Account"
+#~ msgstr "Izbriši nalog"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Brisanje naloga će izbrisati sav sadržaj koji ste kreirali, potpuno "
+#~ "nepovratno."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Brisanje naloga će izbrisati sav sadržaj koji je kreirao, potpuno "
+#~ "nepovratno."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences."
+#~ msgstr "Razumem posledice."
+
+# @ wplms_modern
+#~ msgid "General Settings"
+#~ msgstr "Glavna podešavanja"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "Trenutni Lozinka <span>(neophodno za ažuriranje e-maila ili promene "
+#~ "trenutne lozinku)</span>"
+
+# @ wplms_modern
+#~ msgid "Password Lost and Found"
+#~ msgstr "Lozinka izgubljena i pronađena"
+
+# @ wplms_modern
+#~ msgid "Lost your password?"
+#~ msgstr "Izgubili ste lozinku?"
+
+# @ wplms_modern
+#~ msgid "Account Email"
+#~ msgstr "E-mail naloga"
+
+# @ wplms_modern
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr ""
+#~ "Promenite lozinku <span>(ostaviti prazno ako ništa ne menjate)</span>"
+
+# @ wplms_modern
+#~ msgid "New Password"
+#~ msgstr "Nova lozinka"
+
+# @ wplms_modern
+#~ msgid "Repeat New Password"
+#~ msgstr "Ponovite novu lozinku"
+
+# @ wplms_modern
+#~ msgid "Email Notification"
+#~ msgstr "Obaveštenja na E-mail"
+
+# @ wplms_modern
+#~ msgid "Send an email notice when:"
+#~ msgstr "Pošaljite e-mail obaveštenja kada:"
+
+# @ wplms_modern
+#~ msgid "Visibility"
+#~ msgstr "Vidljivost"
+
+# @ wplms_modern
+#~ msgid "Options"
+#~ msgstr "Opcije"
+
+# @ wplms_modern
+#~ msgid "Options Panel created using"
+#~ msgstr "Opcije Panela stvorene pomoću"
+
+# @ wplms_modern
+#~ msgid "Import / Export"
+#~ msgstr "Import / Export"
+
+# @ wplms_modern
+#~ msgid "Dev Mode Info"
+#~ msgstr "Dev Mod Info"
+
+# @ wplms_modern
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr ""
+#~ "Jeste li sigurni? Poništenje će izbrisati sve prilagođene vrednosti."
+
+# @ wplms_modern
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>Podešavanja su uvezena!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>Podešavanja su snimljena! </ strong>"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>Podešavanja su promenjena!, snimite ih!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span>pronađene su greške!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span>pronađena su upozorenja!</strong>"
+
+# @ wplms_modern
+#~ msgid "Import / Export Options"
+#~ msgstr "Import / Export Options"
+
+# @ wplms_modern
+#~ msgid "Import Options"
+#~ msgstr "Import Options"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+
+# @ wplms_modern
+#~ msgid "Import"
+#~ msgstr "Import"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+
+# @ wplms_modern
+#~ msgid "Export Options"
+#~ msgstr "Export Options"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+
+# @ wplms_modern
+#~ msgid "Reset to Defaults"
+#~ msgstr "Vrati na zadano"
+
+# @ wplms_modern
+#~ msgid " To:"
+#~ msgstr "Za:"
+
+# @ wplms_modern
+#~ msgid "Add New List Field"
+#~ msgstr "Dodaj novo polje"
+
+# @ wplms_modern
+#~ msgid "Add More"
+#~ msgstr "Add More"
+
+# @ wplms_modern
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "Dodaj novi unos Taksonomija"
+
+# @ wplms_modern
+#~ msgid "Upload Font"
+#~ msgstr "Uploaduj Font"
+
+# @ wplms_modern
+#~ msgid "Font Preview"
+#~ msgstr "Font Preview"
+
+# @ wplms_modern
+#~ msgid "Browse"
+#~ msgstr "Browse"
+
+# @ wplms_modern
+#~ msgid "Remove Upload"
+#~ msgstr "Remove Upload"
+
+# @ wplms_modern
+#~ msgid "Add Custom Posts"
+#~ msgstr "Dodaj Custom postove"
+
+# @ wplms_modern
+#~ msgid "Enter Full URL of the page"
+#~ msgstr "Unesite puni URL stranice"
+
+# @ wplms_modern
+#~ msgid "Add Social Icons"
+#~ msgstr "Dodaj ikonice društvenih mreža"
+
+# @ wplms_modern
+#~ msgid " Plugin is Inactive"
+#~ msgstr " Plugin nije aktivan"
+
+# @ wplms_modern
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Ovo polje mora biti valjana vrijednost boje."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "Morate osigurati odvaja popis zarez numeričkih vrijednosti za tu opciju."
+
+# @ wplms_modern
+#~ msgid "This field must be a valid date."
+#~ msgstr "Ovo polje mora biti ispravan datum."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Morate dati valjanu e-mail za tu opciju."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "Morate osigurati valjanu API ključ za tu opciju."
+
+# @ wplms_modern
+#~ msgid "Unable to upload font."
+#~ msgstr "Nije moguće učitati font."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "Vi ne morate unijeti svaki HTML u ovom području, svi HTML tagovi su "
+#~ "uklonjene."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Ne smijete unositi posebne znakove u tom području, svi posebni znakovi su "
+#~ "uklonjeni."
+
+# @ wplms_modern
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Morate osigurati numerička vrijednost za tu opciju."
+
+# @ wplms_modern
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "Molimo unesite svoje korisničko ime Envato Marketplace."
+
+# @ wplms_modern
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "Molimo unesite svoje Envato Marketplace API ključ."
+
+# @ wplms_modern
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr "API \"set\" je potrebno parametar."
+
+# @ wplms_modern
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "Envato burza \"artikl ID\" je potrebno parametar."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "Morate valjani URL za ovu opciju."
+
+# @ wplms_modern
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "Vaše članstvo je <strong> aktivan </ strong>."
+
+# @ wplms_modern
+#~ msgid "Membership Fee"
+#~ msgstr "Članarina"
+
+# @ wplms_modern
+#~ msgid "Duration"
+#~ msgstr "Trajanje"
+
+# @ wplms_modern
+#~ msgid "Membership Expires"
+#~ msgstr "Članstvo Ističe"
+
+# @ wplms_modern
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "Vaše prvo plaćanje će iznositi %s."
+
+# @ wplms_modern
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "Vaše prvo %d plaćanje će iznositi %s."
+
+# @ wplms_modern
+#~ msgid "Billing Information"
+#~ msgstr "Informacije naplate"
+
+# @ wplms_modern
+#~ msgid "Payment Method"
+#~ msgstr "Način plaćanja"
+
+# @ wplms_modern
+#~ msgid "Edit Billing Information"
+#~ msgstr "Uređivanje podataka o naplati"
+
+# @ wplms_modern
+#~ msgid "Past Invoices"
+#~ msgstr "Prethodne Fakture"
+
+# @ wplms_modern
+#~ msgid "View All Invoices"
+#~ msgstr "Pogledaj sve fakture"
+
+# @ wplms_modern
+#~ msgid "Member Links"
+#~ msgstr "Linkovi člana"
+
+# @ wplms_modern
+#~ msgid "Update Billing Information"
+#~ msgstr "Apdejtujte informacije o naplati"
+
+# @ wplms_modern
+#~ msgid "Change Membership Level"
+#~ msgstr "Promenite tip članstva"
+
+# @ wplms_modern
+#~ msgid "Cancel Membership"
+#~ msgstr "Prekini članstvo"
+
+# @ wplms_modern
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "Prijavljen kao <strong>%s</strong>."
+
+# @ wplms_modern
+#~ msgid "logout"
+#~ msgstr "logout"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "Plaćanje se obavlja preko PayPala. <a href=\"http://www.paypal.com"
+#~ "\">Prijavite se na PayPal ovde</a> da ažurirate podatke o naplati."
+
+# @ wplms_modern
+#~ msgid "First Name"
+#~ msgstr "Ime"
+
+# @ wplms_modern
+#~ msgid "Last Name"
+#~ msgstr "Prezime"
+
+# @ wplms_modern
+#~ msgid "Address 1"
+#~ msgstr "Adresa 1"
+
+# @ wplms_modern
+#~ msgid "Address 2"
+#~ msgstr "Adresa 2"
+
+# @ wplms_modern
+#~ msgid "optional"
+#~ msgstr "opcionalno"
+
+# @ wplms_modern
+#~ msgid "City"
+#~ msgstr "Grad"
+
+# @ wplms_modern
+#~ msgid "State"
+#~ msgstr "Zemlja"
+
+# @ wplms_modern
+#~ msgid "Postal Code"
+#~ msgstr "Poštanski broj"
+
+# @ wplms_modern
+#~ msgid "City, State Zip"
+#~ msgstr "Grad, Poštanski broj "
+
+# @ wplms_modern
+#~ msgid "Country"
+#~ msgstr "Zemlja"
+
+# @ wplms_modern
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+# @ wplms_modern
+#~ msgid "E-mail Address"
+#~ msgstr "E-mail adresa"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail"
+#~ msgstr "Potvrdi e-mail"
+
+# @ wplms_modern
+#~ msgid "We accept %s"
+#~ msgstr "Prihvatamo %s"
+
+# @ wplms_modern
+#~ msgid "Credit Card Information"
+#~ msgstr "Credit Card Informacije "
+
+# @ wplms_modern
+#~ msgid "Card Type"
+#~ msgstr "Card Type"
+
+# @ wplms_modern
+#~ msgid "Card Number"
+#~ msgstr "Broj kartice"
+
+# @ wplms_modern
+#~ msgid "Expiration Date"
+#~ msgstr "Datum isteka"
+
+# @ wplms_modern
+#~ msgid "Update"
+#~ msgstr "Ažuriranje"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr ""
+#~ "Ova pretplata se ne ponavlja. Dakle, ne trebate ažurirati podatke o "
+#~ "naplati."
+
+# @ wplms_modern
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "Jeste li sigurni da želite otkazati svoje članstvo?"
+
+# @ wplms_modern
+#~ msgid "Yes, cancel my account"
+#~ msgstr "Da, izbrišite moj nalog."
+
+# @ wplms_modern
+#~ msgid "No, keep my account"
+#~ msgstr "Ne, sačuvajte moj nalog."
+
+# @ wplms_modern
+#~ msgid "Click here to go to the home page."
+#~ msgstr "Kliknite ovde za odlazak na početnu stranicu."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+#~ msgstr ""
+#~ "Još malo pa završevamo. Pregledajte informacije o članstvu i cenama ispod "
+#~ "<strong> kliknite na \"Dovrši plaćanje\" dugme </ strong> da završiti "
+#~ "svoju narudžbinu. "
+
+# @ wplms_modern
+#~ msgid "Membership Level"
+#~ msgstr "Tip članstva"
+
+# @ wplms_modern
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "Izabrali ste  <strong>%s</strong> tip članstva."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p/> class=\"pmpro_level_discount_applied\"> <strong>% s </ strong> code "
+#~ "je primijenjen na svoj red. </ p>"
+
+# @ wplms_modern
+#~ msgid "Click here to change your discount code"
+#~ msgstr "Kliknite ovde kako biste promenili svoj kod za popust"
+
+# @ wplms_modern
+#~ msgid "Do you have a discount code?"
+#~ msgstr "Imate li kod za popust?"
+
+# @ wplms_modern
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "Kliknite ovde da biste upisali kod za popust"
+
+# @ wplms_modern
+#~ msgid "Discount Code"
+#~ msgstr "Kod za popust"
+
+# @ wplms_modern
+#~ msgid "Apply"
+#~ msgstr "Primeniti"
+
+# @ wplms_modern
+#~ msgid "Already have an account?"
+#~ msgstr "Već imate nalog?"
+
+# @ wplms_modern
+#~ msgid "Log in here"
+#~ msgstr "Prijavite se ovde"
+
+# @ wplms_modern
+#~ msgid "Account Information"
+#~ msgstr "Podaci o rnalogu"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "Potvrdite e-mail adresu"
+
+# @ wplms_modern
+#~ msgid "Full Name"
+#~ msgstr "Pun ime"
+
+# @ wplms_modern
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "Ostavite prazno"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "Vi ste prijavljeni kao <strong>%s</strong>. Ako želite koristiti neki "
+#~ "drugi nalog za ovaj tip članstva, <a href=\"%s\"> odjavite se sada</a>."
+
+# @ wplms_modern
+#~ msgid "Choose your Payment Method"
+#~ msgstr "Odaberite način plaćanja"
+
+# @ wplms_modern
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "Platite kreditnom karticom"
+
+# @ wplms_modern
+#~ msgid "Check Out with PayPal"
+#~ msgstr "Platite preko PayPala"
+
+# @ wplms_modern
+#~ msgid "We Accept %s"
+#~ msgstr "Prihvatamo %s"
+
+# @ wplms_modern
+#~ msgid "Payment Information"
+#~ msgstr "Informacije o plaćanju"
+
+# @ wplms_modern
+#~ msgid "I agree to the %s"
+#~ msgstr "Prihvatam da %s"
+
+# @ wplms_modern
+#~ msgid "Complete Payment"
+#~ msgstr "Dovršite plaćanje"
+
+# @ wplms_modern
+#~ msgid "Submit and Pay with 2CheckOut"
+#~ msgstr "Pošalji i plati pomoću  2checkout"
+
+# @ wplms_modern
+#~ msgid "Submit and Check Out"
+#~ msgstr "Prihvati i plati"
+
+# @ wplms_modern
+#~ msgid "Submit and Confirm"
+#~ msgstr "Prihvati i potvrdi"
+
+# @ wplms_modern
+#~ msgid "Processing..."
+#~ msgstr "Obrada..."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr "Vaša uplata je podnesen. Vaše članstvo bit će uskoro aktivirati."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr "Hvala vam na vašem članstvu u% s. Vaše% s članstvo sada je aktivan."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "U nastavku su detalji oko svoje članstvo računu i potvrdu za svoju "
+#~ "početnu članstva računa. Welcome e-mail s preslikom početne članstva "
+#~ "računa je poslan na% s."
+
+# @ wplms_modern
+#~ msgid "Print"
+#~ msgstr "Otisak"
+
+# @ wplms_modern
+#~ msgid "Account"
+#~ msgstr "Račun"
+
+# @ wplms_modern
+#~ msgid "Total Billed"
+#~ msgstr "Ukupno Naplaćenog"
+
+# @ wplms_modern
+#~ msgid "Expiration"
+#~ msgstr "Izdah"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "U nastavku su detalji oko svoje članstvo računu. Welcome e-mail s je "
+#~ "poslan na% s."
+
+# @ wplms_modern
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "Pogledaj svoje članstvo računu →"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr ""
+#~ "Ako vaš račun nije aktiviran u roku od nekoliko minuta, molimo da "
+#~ "kontaktirate vlasnika stranice."
+
+# @ wplms_modern
+#~ msgid "Subtotal"
+#~ msgstr "Suma stavke"
+
+# @ wplms_modern
+#~ msgid "Tax"
+#~ msgstr "Porez"
+
+# @ wplms_modern
+#~ msgid "Coupon"
+#~ msgstr "Kupon"
+
+# @ wplms_modern
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+# @ wplms_modern
+#~ msgid "Invoice #"
+#~ msgstr "Račun #"
+
+# @ wplms_modern
+#~ msgid "View Invoice"
+#~ msgstr "Pogledaj Račun"
+
+# @ wplms_modern
+#~ msgid "No invoices found."
+#~ msgstr "Nije pronađen račune."
+
+# @ wplms_modern
+#~ msgid "&larr; View All Invoices"
+#~ msgstr "← Pogledaj sve fakture"
+
+# @ wplms_modern
+#~ msgid "Price"
+#~ msgstr "Cijena"
+
+# @ wplms_modern
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "Vaš Razina"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "← Povratak na Vaš račun"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Home"
+#~ msgstr "← Povratak na Home"
+
+# @ wplms_modern
+#~ msgid "Complete Sign Up"
+#~ msgstr "Pošaljite"
+
+# @ wplms_modern
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "Provjerite e-poštu da biste aktivirali svoj račun!"
+
+# @ wplms_modern
+#~ msgid "Import Complete !"
+#~ msgstr "Uvoz je dovršen!"
+
+# @ wplms_modern
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "Ne može se locirati Sample Data file."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
+#~ msgstr ""
+#~ "Nije bilo moguće instalirati test demo podatke kao što smo bili u "
+#~ "mogućnosti koristiti WP_Import klasu."

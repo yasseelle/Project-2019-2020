@@ -1,0 +1,3959 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:39+0530\n"
+"PO-Revision-Date: 2017-02-01 14:39+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "In risposta a: "
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "Mostra Discussione"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View"
+msgstr "Scopri"
+
+# @ wplms_modern
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Commento <span>%s</span>"
+
+# @ wplms_modern
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "Mi piace"
+
+# @ wplms_modern
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "Non mi piace più"
+
+# @ wplms_modern
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "Post"
+
+# @ wplms_modern
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "oppure premi ESC per cancellare."
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "Le attività visibili a tutti su questo sito."
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Tutti gli utenti<span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "Le attività dei miei amici."
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Amici <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "L'attività dei gruppi di cui sono membro."
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Gruppi <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "Le attività alle quali ho messo Mi piace."
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Preferiti <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "Attività in cui sono citato."
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "Menzioni"
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "RSS "
+
+# @ wplms_modern
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "Mostra:"
+
+# @ wplms_modern
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "Tutto"
+
+# @ wplms_modern
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "Aggiornamenti"
+
+# @ wplms_modern
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "Posts"
+
+# @ wplms_modern
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "Commenti"
+
+# @ wplms_modern
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "Argomenti del forum"
+
+# @ wplms_modern
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "Risposte del forum"
+
+# @ wplms_modern
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "Nuovi Gruppi"
+
+# @ wplms_modern
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "Membri del Gruppo"
+
+# @ wplms_modern
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "Amici"
+
+# @ wplms_modern
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "Nuovi Utenti"
+
+# @ wplms_modern
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "Corsi dei Docenti"
+
+# @ wplms_modern
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "Docente non trovato."
+
+# @ wplms_modern
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ wplms_modern
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ wplms_modern
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "Scopri tutti gli aggiornamenti in %s"
+
+# @ wplms_modern
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "Read More"
+
+# @ wplms_modern
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "Spiacenti, non sono stati trovati siti."
+
+# @ wplms_modern
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "Directory dei Siti"
+
+# @ wplms_modern
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "La registrazione al sito è momentaneamente disabilitata"
+
+# @ wplms_modern
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Tutti i siti <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "I miei siti <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "Crea Sito"
+
+# @ wplms_modern
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "Ordina per:"
+
+# @ wplms_modern
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "Ultimo Online"
+
+# @ wplms_modern
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "Novità"
+
+# @ wplms_modern
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "Ordine Alfabetico"
+
+# @ wplms_modern
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ wplms_modern
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "ATTESTATO DI PARTECIPAZIONE"
+
+# @ wplms_modern
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "Assegnato a"
+
+# @ wplms_modern
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "per aver completato con successo il corso"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ wplms_modern
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "Nome"
+
+# @ wplms_modern
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "Email"
+
+# @ wplms_modern
+#: comments.php:29
+msgid "Comment"
+msgstr "Commento"
+
+# @ wplms_modern
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "Sito Web"
+
+# @ wplms_modern
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "Pubblica Recensione"
+
+# @ wplms_modern
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "Scrivi una Recensione"
+
+# @ wplms_modern
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "Recensioni del Corso"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ wplms_modern
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "Non ci sono recensioni per questo corso."
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ wplms_modern
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "MOSTRA DI PIU'"
+
+# @ wplms_modern
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "MOSTRA DI MENO"
+
+# @ wplms_modern
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr " STUDENTI ISCRITTI"
+
+# @ wplms_modern
+#: footer.php:19
+msgid "top"
+msgstr "Su"
+
+# @ wplms_modern
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "Argomento"
+
+# @ wplms_modern
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "Freshness"
+
+# @ wplms_modern
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "Link permanenti a questo post"
+
+# @ wplms_modern
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "Inizia da %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "in %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "Siamo spiacenti, non sono stati trovati argomenti nel forum."
+
+# @ wplms_modern
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "Directory dei Forum"
+
+# @ wplms_modern
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "Nuovo Argomento"
+
+# @ wplms_modern
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Tutti gli argomenti <span>%s</span>"
+
+# @ wplms_modern
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "I miei Argomenti <span>%s</span>"
+
+# @ wplms_modern
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "Most Posts"
+
+# @ wplms_modern
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "Senza risposta"
+
+# @ wplms_modern
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "Crea Nuovo Argomento:"
+
+# @ wplms_modern
+#: forums/index.php:107
+msgid "Title:"
+msgstr "Titolo:"
+
+# @ wplms_modern
+#: forums/index.php:110
+msgid "Content:"
+msgstr "Contenuto:"
+
+# @ wplms_modern
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "Tags (separa con la virgola):"
+
+# @ wplms_modern
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "Pubblica nel Forum del Gruppo:"
+
+# @ wplms_modern
+#: forums/index.php:119
+msgid "----"
+msgstr "----"
+
+# @ wplms_modern
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "Pubblica Argomento"
+
+# @ wplms_modern
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "Cancella"
+
+# @ wplms_modern
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Non puoi pubblicare nel forum del gruppo perché non sei iscritto a nessun "
+"gruppo. Per iniziare a pubblicare in primo luogo trova un gruppo attinente "
+"ai tuoi interessi. Se questo gruppo non esiste, perché non <a href='%s'> "
+"creare un nuovo gruppo </ a>? Dopo aver aderito o creato il gruppo puoi "
+"pubblicare i tuoi argomenti nel forum di quel gruppo."
+
+# @ wplms_modern
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "Solo i docenti possono creare gruppi"
+
+# @ wplms_modern
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "Solo gli amministratori possono creare gruppi"
+
+# @ wplms_modern
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "Nome del Gruppo *"
+
+# @ wplms_modern
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "Descrizione del Gruppo *"
+
+# @ wplms_modern
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "Impostazioni sulla Privacy"
+
+# @ wplms_modern
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "Gruppo Pubblico"
+
+# @ wplms_modern
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "Tutti gli utenti di URC possono iscriversi a questo gruppo."
+
+# @ wplms_modern
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"Questo gruppo sarà visibile nella directory dei gruppi e nei risultati di "
+"ricerca."
+
+# @ wplms_modern
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"Le attività e i contenuti del gruppo saranno visibili a tutti gli utenti."
+
+# @ wplms_modern
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "Gruppo Privato"
+
+# @ wplms_modern
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Solo gli utenti ai quali viene accettate la richiesta di adesione possono "
+"unirsi al gruppo."
+
+# @ wplms_modern
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Le attività e i contenuti del gruppo saranno visibili solo agli utenti del "
+"gruppo."
+
+# @ wplms_modern
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "Gruppo Nascosto"
+
+# @ wplms_modern
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "Solo gli utenti invitati possono unirsi al gruppo."
+
+# @ wplms_modern
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Questo gruppo non sarà visibile nella directory dei gruppi e nei risultati "
+"di ricerca."
+
+# @ wplms_modern
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "Inviti al Gruppo"
+
+# @ wplms_modern
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Quali membri di questo gruppo sono autorizzati a invitare gli altri?"
+
+# @ wplms_modern
+#: groups/create.php:107
+msgid "All group members"
+msgstr "Tutti i membri del gruppo"
+
+# @ wplms_modern
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "Solo gli amministratori e i moderatori del gruppo"
+
+# @ wplms_modern
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "Solo gli amministratori del gruppo"
+
+# @ wplms_modern
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "Forum del Gruppo"
+
+# @ wplms_modern
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "Vorresti aggiungere un forum a questo gruppo?"
+
+# @ wplms_modern
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "Abilita discussione sul forum"
+
+# @ wplms_modern
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong> Attenzione Admin: </ strong> I Forum del Gruppo richiedono una <a "
+"href=\"%s\"> corretta installazione e configurazione </ a> di un impianto "
+"bbPress."
+
+# @ wplms_modern
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Carica un'immagine da utilizzare come Avatar per questo gruppo. L'immagine "
+"verrà visualizzata sulla pagina principale del gruppo e nei risultati di "
+"ricerca."
+
+# @ wplms_modern
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "Carica Immagine"
+
+# @ wplms_modern
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "Per saltare il caricamento dell'Avatar, clicca il tasto \"Next Step\"."
+
+# @ wplms_modern
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "Ritaglia l'Avatar del Gruppo"
+
+# @ wplms_modern
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "Avatar da ritagliare"
+
+# @ wplms_modern
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "Anteprima dell'Avatar"
+
+# @ wplms_modern
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "Ritaglia Immagine"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ wplms_modern
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "Invita Amici"
+
+# @ wplms_modern
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "Rimuovi Invito"
+
+# @ wplms_modern
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr "Una volta che avrai amici potrai invitarli nel tuo gruppo."
+
+# @ wplms_modern
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "Ritorna allo Step precedente"
+
+# @ wplms_modern
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "Prossimo Step"
+
+# @ wplms_modern
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "Crea Gruppo e Continua"
+
+# @ wplms_modern
+#: groups/create.php:329
+msgid "Finish"
+msgstr "Termina"
+
+# @ wplms_modern
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "Attivo %s"
+
+# @ wplms_modern
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "Moderatori"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ wplms_modern
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "Cosa vuoi cercare?"
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ wplms_modern
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wplms_modern
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ wplms_modern
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "Account Attivato"
+
+# @ wplms_modern
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "Attiva il tuo Account"
+
+# @ wplms_modern
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Il tuo account è stato attivato con successo! I dettagli dell'account sono "
+"stati inviati alla tua email."
+
+# @ wplms_modern
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Il tuo account è stato attivato con successo! È ora possibile effettuare "
+"l'<a href=\"%s\"> accesso </a> con il nome utente e la password forniti al "
+"momento dell'iscrizione."
+
+# @ wplms_modern
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "Si prega di fornire la chiave di attivazione."
+
+# @ wplms_modern
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "Chiave di Attivazione:"
+
+# @ wplms_modern
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "Attivato"
+
+# @ wplms_modern
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "La registrazione non è attualmente consentita."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "Dettagli Account"
+
+# @ wplms_modern
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "Username"
+
+# @ wplms_modern
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(richiesto)"
+
+# @ wplms_modern
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "Indirizzo Email"
+
+# @ wplms_modern
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "Scegli una Password"
+
+# @ wplms_modern
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "Conferma Password"
+
+# @ wplms_modern
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "Dettagli Profilo"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "Chi può vederlo?"
+
+# @ wplms_modern
+#: registration/register.php:211
+msgid "Close"
+msgstr "Chiudi"
+
+# @ wplms_modern
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:303
+msgid "Site Title"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:324
+msgid "Yes"
+msgstr "Si"
+
+# @ wplms_modern
+#: registration/register.php:325
+msgid "No"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Il tuo account è stato creato con successo! Per iniziare ad utilizzare i "
+"servizi URC, attiva il tuo account tramite il codice di attivazione che ti "
+"abbiamo inviato tramite email."
+
+# @ wplms_modern
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Il tuo account è stato creato con successo! Si prega di effettuare l'accesso "
+"tramite Username e Password appena creati."
+
+# @ wplms_modern
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "Cerca risultati per \""
+
+# @ wplms_modern
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ wplms_modern
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "Spiacenti, nessun risultato trovato."
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ wplms_modern
+#: single-course.php:38
+msgid "Home"
+msgstr "Home"
+
+# @ wplms_modern
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "Programma"
+
+# @ wplms_modern
+#: single-course.php:40
+msgid "Members"
+msgstr "Studenti"
+
+# @ wplms_modern
+#: single-course.php:48
+msgid "Group"
+msgstr "Gruppi"
+
+# @ wplms_modern
+#: single-course.php:55
+msgid "Forum"
+msgstr ""
+
+# @ wplms_modern
+#: single-course.php:60
+msgid "Admin"
+msgstr "Admin"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ wplms_modern
+#: single-post.php:104
+msgid "Courses"
+msgstr "Corsi"
+
+# @ wplms_modern
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "Continua Test"
+
+# @ wplms_modern
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "Controlla i risultati del Test"
+
+# @ wplms_modern
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "Torna al Corso"
+
+# @ wplms_modern
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "Inizia Test"
+
+# @ wplms_modern
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "Scegli il corso per avviare il Test"
+
+# @ wplms_modern
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "Allegati"
+
+# @ wplms_modern
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Hai delle domande? Pubblicale nel Forum e il docente ti risponderà."
+
+# @ wplms_modern
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "Rispondi"
+
+# @ wplms_modern
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "Rimuovi"
+
+# @ wplms_modern
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ wplms_modern
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr ""
+
+# @ wplms_modern
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:76
+msgid " Hours"
+msgstr " Ore"
+
+# @ wplms_modern
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "Il programma del corso non è completo."
+
+# @ wplms_modern
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "Il programma del corso non è completo"
+
+# @ wplms_modern
+#: start.php:137
+msgid "Start Course"
+msgstr "Inizia il Corso"
+
+# @ wplms_modern
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:157
+msgid "Previous Unit"
+msgstr "Capitolo precedente"
+
+# @ wplms_modern
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "Segna questo capito come Terminato"
+
+# @ wplms_modern
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "Prossimo capitolo"
+
+# @ wplms_modern
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "TORNA AL CORSO"
+
+# @ wplms_modern
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "LASCIA UNA RECENSIONE"
+
+# @ wplms_modern
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "TERMINA CORSO"
+
+#  include the HTML <span>%s</span>
+# @ wplms_modern
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Tutti i corsi <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "I miei Corsi <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Docenze <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr ""
+
+# @ wplms_modern
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr ""
+
+# @ wplms_modern
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "Più Acquistati"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "Più Votati"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Tutti i Gruppi <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "Crea un Gruppo"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "Appena Creati"
+
+# @ wplms_modern
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "Nuovi membri registrati"
+
+# @ wplms_modern
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "Accedi"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ wplms_modern
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "Password"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Risultati di Ricerca: &ldquo;%s&rdquo;"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; pagina %s"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "Non ci sono prodotti che corrispondono alla vostra selezione."
+
+# @ wplms_modern
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "Corsi Inclusi"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Ci sono alcuni problemi con gli articoli nel carrello (mostrato sopra). Si "
+"prega di tornare alla pagina del carrello e risolvere questi problemi prima "
+"del check-out."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "&larr; Ritorna al Carrello"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "Fatturazione &amp; Spedizione"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "Indirizzo di fatturazione"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Devi aver effettuato l'accesso per poter procederre al checkout."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "Procedi"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "Il tuo Ordine"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "Clicca Procedi per continuare"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "Clicca qui per eseguire il logout ed accedere con un altro account"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "Già Cliente?"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "Clicca qui per Accedere"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "Già Cliente"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "Nuovo Cliente"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "Continua come Ospite"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "Crea un account inserendo le informazioni qui di seguito."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "Prodotto"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "Totale"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "Totale Carrello"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "Codice Sconto:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "Totale Ordine"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Ci dispiace, ma sembra che non esistono metodi di pagamento disponibili per "
+"la vostra posizione. Si prega di contattarci se avete bisogno di assistenza "
+"o desiderate prendere accordi alternativi."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "Paga per ordinare"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Informazioni Aggiuntive"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Inserisci i tuoi dati riportati in alto per vedere i metodi di pagamento "
+"disponibili."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Ci dispiace, ma sembra che non esistono metodi di pagamento disponibili per "
+"il tuo stato. Si prega di contattarci se avete bisogno di assistenza o "
+"desiderate prendere accordi alternativi."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Dal momento che il tuo browser non supporta JavaScript oppure è "
+"disabilitato, assicurati di fare clic sul tasto <em> Aggiorna Totale </em> "
+"prima di effettuare l'ordine, altrimenti potrebbe essere addebitato un "
+"importo superiore all'importo sopra indicato."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "Aggiorna Totale"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "Ho letto e accetto i"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "Termini &amp; Condizioni"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Purtroppo il vostro ordine non può essere elaborato perchè la banca ha "
+"rifiutato la transazione."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Si prega di ripetere l'acquisto o tornare alla pagina del proprio account."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "Si prega di ritentare l'acquisto."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "Paga"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "Il mio Account"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "Grazie! Il tuo ordine è stato ricevuto."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "Ordine:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Data:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Totale:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "Metodo di Pagamento:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "ISCRIZIONE AL CORSO PER"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "ISCRIZIONE AL CORSO COMPLETO"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "Iscrizione Corsi"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "CORSO"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "ISCRIZIONE"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "INIZIA CORSO"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "RIMANI IN ATTESA DELLA CONFERMA DELL'ORDINE PER INIZIARE IL CORSO"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "RIMANI IN ATTESA DELL'APPROVAZIONE DELL'AMMINISTRATORE"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ wplms_modern
+#~ msgid "Save Answer"
+#~ msgstr "Salva Risposta"
+
+# @ wplms_modern
+#~ msgid "Answer"
+#~ msgstr "Risposta"
+
+# @ wplms_modern
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "Risposte precedenti a questa domanda"
+
+# @ wplms_modern
+#~ msgid "Clear Answer"
+#~ msgstr "Pulisci"
+
+# @ wplms_modern
+#~ msgid "Course Directory"
+#~ msgstr "Directory dei Corsi"
+
+# @ wplms_modern
+#~ msgid "All Courses by all instructors"
+#~ msgstr "Tutti i corsi dei docenti"
+
+# @ wplms_modern
+#~ msgid "All Events in "
+#~ msgstr "Tutti gli Eventi di "
+
+# @ wplms_modern
+#~ msgid "All Courses by "
+#~ msgstr "Tutti i Corsi per"
+
+# @ wplms_modern
+#~ msgid " Responses on "
+#~ msgstr " Giudizi su "
+
+# @ wplms_modern
+#~ msgid "Leave a Message"
+#~ msgstr "Lascia un Messaggio"
+
+# @ wplms_modern
+#~ msgid "EDIT COURSE"
+#~ msgstr "MODIFICA CORSO"
+
+# @ wplms_modern
+#~ msgid "CREATE COURSE"
+#~ msgstr "CREA CORSO"
+
+# @ wplms_modern
+#~ msgid "SETTINGS"
+#~ msgstr "IMPOSTAZIONI"
+
+# @ wplms_modern
+#~ msgid "Course settings"
+#~ msgstr "Impostazioni Corso"
+
+# @ wplms_modern
+#~ msgid "SET CURRICULUM"
+#~ msgstr "STABILIRE IL PROGRAMMA"
+
+# @ wplms_modern
+#~ msgid "PRICING"
+#~ msgstr "PREZZO"
+
+# @ wplms_modern
+#~ msgid "Set Price for Course"
+#~ msgstr "Stabilire il prezzo del corso"
+
+# @ wplms_modern
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "PUBBLICA CORSO"
+
+# @ wplms_modern
+#~ msgid "COURSE TITLE"
+#~ msgstr "TITOLO CORSO"
+
+# @ wplms_modern
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "MODIFICA IL TITOLO DEL CORSO"
+
+# @ wplms_modern
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "CATEGORIA CORSO"
+
+# @ wplms_modern
+#~ msgid "COURSE IMAGE"
+#~ msgstr "IMMAGINE CORSO"
+
+# @ wplms_modern
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "DESCRIZIONE CORSO"
+
+# @ wplms_modern
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "Aggiungi nuovo campo alla lista"
+
+# @ wplms_modern
+#~ msgid "Select Linkage term"
+#~ msgstr "Aggiungi un nuovo campo alla lista"
+
+# @ wplms_modern
+#~ msgid "Enter a new Linkage"
+#~ msgstr "Aggiungi nuovo campo alla lista"
+
+# @ wplms_modern
+#~ msgid "Change Course Status"
+#~ msgstr "Cambia lo state del corso"
+
+# @ wplms_modern
+#~ msgid "Online"
+#~ msgstr "Online"
+
+# @ wplms_modern
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+# @ wplms_modern
+#~ msgid "SAVE COURSE"
+#~ msgstr "SALVA CORSO"
+
+# @ wplms_modern
+#~ msgid "Course Settings"
+#~ msgstr "Impostazioni Corso"
+
+# @ wplms_modern
+#~ msgid "Course Duration"
+#~ msgstr "Durata Corso"
+
+# @ wplms_modern
+#~ msgid "Course Evaluation"
+#~ msgstr "Valutazione Corso"
+
+# @ wplms_modern
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "Modalità di valutazione corso"
+
+# @ wplms_modern
+#~ msgid "Pre-required Course"
+#~ msgstr "Corso pre-requisito"
+
+# @ wplms_modern
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "Stabilire un corso pre-requisito"
+
+# @ wplms_modern
+#~ msgid "Disable"
+#~ msgstr "Disabilita"
+
+# @ wplms_modern
+#~ msgid "Enable"
+#~ msgstr "Abilita"
+
+# @ wplms_modern
+#~ msgid "Course Certificate"
+#~ msgstr "Certificato Corso"
+
+# @ wplms_modern
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "Stabilire la percentuale del certificato"
+
+# @ wplms_modern
+#~ msgid "out of 100"
+#~ msgstr "su 100"
+
+# @ wplms_modern
+#~ msgid "Set Certificate Template"
+#~ msgstr "Stabilire il modelo del certificato"
+
+# @ wplms_modern
+#~ msgid "Course Badge"
+#~ msgstr "Distintivo Corso"
+
+# @ wplms_modern
+#~ msgid "Set Badge Percentage"
+#~ msgstr "Stabilire la percentuale del distintivo"
+
+# @ wplms_modern
+#~ msgid " out of 100"
+#~ msgstr "fuori di 100"
+
+# @ wplms_modern
+#~ msgid "Set Badge Title"
+#~ msgstr "Stabilire il titolo del distintivo"
+
+# @ wplms_modern
+#~ msgid "Course Start Date"
+#~ msgstr "Data inizio Corso"
+
+# @ wplms_modern
+#~ msgid "Set Course Start Date"
+#~ msgstr "Stabilire la data di inizio corso"
+
+# @ wplms_modern
+#~ msgid "Course Group"
+#~ msgstr "Gruppo corso"
+
+# @ wplms_modern
+#~ msgid "Course Forum"
+#~ msgstr "Forum Corso"
+
+# @ wplms_modern
+#~ msgid "Course Completion Message"
+#~ msgstr "messaggio di conclusione Cosro"
+
+# @ wplms_modern
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "SALVA IMPOSTAZIONI"
+
+# @ wplms_modern
+#~ msgid "Course Curriculum"
+#~ msgstr "Programma del Corso"
+
+# @ wplms_modern
+#~ msgid "ADD SECTION"
+#~ msgstr "AGGIUNGI SEZIONE"
+
+# @ wplms_modern
+#~ msgid "ADD UNIT"
+#~ msgstr "AGGIUNGI CAPITOLO"
+
+# @ wplms_modern
+#~ msgid "ADD QUIZ"
+#~ msgstr "AGGIUNGI QUIZ"
+
+# @ wplms_modern
+#~ msgid "Edit Unit"
+#~ msgstr "Modifica capitolo"
+
+# @ wplms_modern
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+# @ wplms_modern
+#~ msgid "Edit Quiz"
+#~ msgstr "Modifica Quiz"
+
+# @ wplms_modern
+#~ msgid "SELECT A UNIT"
+#~ msgstr "SELEZIONARE UN CAPITOLO"
+
+# @ wplms_modern
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "AGGIUNGI NUOVO CAPITOLO"
+
+# @ wplms_modern
+#~ msgid "Add a unit title"
+#~ msgstr "Aggiungi un titolo al capitolo"
+
+# @ wplms_modern
+#~ msgid "Publish"
+#~ msgstr "Pubblica"
+
+# @ wplms_modern
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "SELEZIONA UN QUIZ "
+
+# @ wplms_modern
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "AGGIUNGI NUOVO QUIZ"
+
+# @ wplms_modern
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "SALVA PROGRAMMA"
+
+# @ wplms_modern
+#~ msgid "COURSE PRICING"
+#~ msgstr "PREZZO CORSO"
+
+# @ wplms_modern
+#~ msgid "Free Course"
+#~ msgstr "Corso gratuito"
+
+# @ wplms_modern
+#~ msgid "Set a Course Product"
+#~ msgstr "Stabilire un prodotto del corso"
+
+# @ wplms_modern
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "AGGIUNGI NUOVO PRODOTTO"
+
+# @ wplms_modern
+#~ msgid "Set Product type"
+#~ msgstr "Stabilire il typo di prodotto"
+
+# @ wplms_modern
+#~ msgid "Full Course"
+#~ msgstr "CORSO COMPLETO"
+
+# @ wplms_modern
+#~ msgid "Subscription"
+#~ msgstr "ISCRIZIONE"
+
+# @ wplms_modern
+#~ msgid "Set Product Price"
+#~ msgstr "Stabilire il prezzo del prodotto"
+
+# @ wplms_modern
+#~ msgid "Set Subscription duration"
+#~ msgstr "Stabilire la durata dell'iscrizione"
+
+# @ wplms_modern
+#~ msgid "Save Course Pricing"
+#~ msgstr "Salva prezzo corso"
+
+# @ wplms_modern
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "INVIA PER L'APPROVAZIONE"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr ""
+#~ "Impostare un corso pre-requisito. Il corso precedente deve essere "
+#~ "completato prima che uno studente può entrare in questo corso"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "Impostare un Attestato di fine corso. Impostare una percentuale, che uno "
+#~ "studente dovrebbe raggiungere per ottenere l'attestato del corso. "
+#~ "Selezionare un modello di attestato."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join "
+#~ "the course on/after the start date."
+#~ msgstr ""
+#~ "Imposta la data di inizio del corso. Se impostato, gli studenti possono "
+#~ "partecipare al corso solo dopo la data di inizio."
+
+# @ wplms_modern
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "Salva il programma solo quango il bottone è verde"
+
+# @ wplms_modern
+#~ msgid "Create an account"
+#~ msgstr "Crea un Account"
+
+# @ wplms_modern
+#~ msgid "Sign Up"
+#~ msgstr "Registrati"
+
+# @ wplms_modern
+#~ msgid "INSTRUCTORS"
+#~ msgstr "DOCENTI"
+
+# @ wplms_modern
+#~ msgid "Course Info"
+#~ msgstr "Informazioni del Corso"
+
+# @ wplms_modern
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "INVITA NUOVAMENTE GLI STUDENTI"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATION"
+#~ msgstr "INVIA INVITO"
+
+# @ wplms_modern
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "RICORDA VIA EMAIL"
+
+# @ wplms_modern
+#~ msgid "SUBJECT"
+#~ msgstr "OGGETTO"
+
+# @ wplms_modern
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "MESSAGGIO DI INVITO"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "INVIA INVITI"
+
+# @ wplms_modern
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "PROMEMORIA MESSAGGIO"
+
+# @ wplms_modern
+#~ msgid "SEND REMINDER"
+#~ msgstr "INVIA PROMEMORIA"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr ""
+#~ "Promemoria sono le email inviate a studenti che hanno accettato l'invito "
+#~ "all'evento."
+
+# @ wplms_modern
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "ACCETTA INVITO"
+
+# @ wplms_modern
+#~ msgid "REJECT INVITE"
+#~ msgstr "RIFIUTA INVITO"
+
+# @ wplms_modern
+#~ msgid "Event Location"
+#~ msgstr "Luogo Evento"
+
+# @ wplms_modern
+#~ msgid "Course"
+#~ msgstr "Corso"
+
+# @ wplms_modern
+#~ msgid "Support"
+#~ msgstr "Supporto"
+
+# @ wplms_modern
+#~ msgid "Getting Started"
+#~ msgstr "Iniziare"
+
+# @ wplms_modern
+#~ msgid "Welcome to "
+#~ msgstr "Benvenuto"
+
+# @ wplms_modern
+#~ msgid "Static"
+#~ msgstr "Statistiche"
+
+# @ wplms_modern
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "BuddyPress avatar predefinito per i membri"
+
+# @ wplms_modern
+#~ msgid "All Members View"
+#~ msgstr "Tutti gli Utenti"
+
+# @ wplms_modern
+#~ msgid "Members only"
+#~ msgstr "Studenti"
+
+# @ wplms_modern
+#~ msgid "Admins only"
+#~ msgstr "Solo gli amministratori del gruppo"
+
+# @ wplms_modern
+#~ msgid "Enable Join Group/Request Membership button"
+#~ msgstr "Abilita il tasto Iscriviti al gruppo / Richieste Membership"
+
+# @ wplms_modern
+#~ msgid "All Activity"
+#~ msgstr "Tutte le attività"
+
+# @ wplms_modern
+#~ msgid "Student Activity"
+#~ msgstr "Attività"
+
+# @ wplms_modern
+#~ msgid "Student Field"
+#~ msgstr "Campo dello studente"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "Immettere il nome del campo Studente, per mostrarlo sotto il nome."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "Immettere il nome del campo gruppo istruttore, che si desidera nascondere "
+#~ "da studenti di visualizzare nel profilo -> modifica (* campi e Case "
+#~ "sensitive non richiesto)."
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr ""
+#~ "Immettere il nome del campo Istruttore, per mostrarlo sotto il nome."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr ""
+#~ "Forza i corsi creati da docenti a essere approvati da un administratore."
+
+# @ wplms_modern
+#~ msgid "Yes, require approval"
+#~ msgstr "Si, richiedi approvazione"
+
+# @ wplms_modern
+#~ msgid "Unit Locking"
+#~ msgstr "Chiusura capitolo"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "Obbligare gli utenti a completare le unità precedenti e la valutazione "
+#~ "quiz prima di vedere le prossime unità"
+
+# @ wplms_modern
+#~ msgid "Free Access"
+#~ msgstr "Accesso gratuito"
+
+# @ wplms_modern
+#~ msgid "Force prev Unit/Quiz Complete"
+#~ msgstr "Segna questo capito come terminato"
+
+# @ wplms_modern
+#~ msgid "Unit Media Lock"
+#~ msgstr "Media capitolo bloccato"
+
+# @ wplms_modern
+#~ msgid "Do not lock"
+#~ msgstr "Non bloccare"
+
+# @ wplms_modern
+#~ msgid "Lock Unit Completion"
+#~ msgstr "Torna all'inizio quando fatto"
+
+# @ wplms_modern
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr ""
+#~ "La Barra di avanzamento del corso è mostrata nella pagina curriculum del "
+#~ "corso"
+
+# @ wplms_modern
+#~ msgid "Instructors can Add Students"
+#~ msgstr "Gli istruttori possono aggiungere studenti"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr ""
+#~ "Abilita Istruttori di essere in grado di assegnare Certificati e "
+#~ "Distintivi agli Studenti"
+
+# @ wplms_modern
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "Forza la privacy del content di un docent"
+
+# @ wplms_modern
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "Tipi Domanda di Auto-Valutazione"
+
+# @ wplms_modern
+#~ msgid "Multiple Choice"
+#~ msgstr "Scelta multipla"
+
+# @ wplms_modern
+#~ msgid "Multiple Correct"
+#~ msgstr "Risposta Esatta :"
+
+# @ wplms_modern
+#~ msgid "Sort Answer Question"
+#~ msgstr "Risposte precedenti a questa domanda"
+
+# @ wplms_modern
+#~ msgid "Seconds"
+#~ msgstr "Secondi"
+
+# @ wplms_modern
+#~ msgid "Minutes"
+#~ msgstr "minuti"
+
+# @ wplms_modern
+#~ msgid "Hours"
+#~ msgstr " Ore"
+
+# @ wplms_modern
+#~ msgid "Days"
+#~ msgstr "Giorni"
+
+# @ wplms_modern
+#~ msgid "Weeks"
+#~ msgstr "Settimane"
+
+# @ wplms_modern
+#~ msgid "Months"
+#~ msgstr "Mesi"
+
+# @ wplms_modern
+#~ msgid "Years"
+#~ msgstr "Anni"
+
+# @ wplms_modern
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "Consentire agli studenti di visualizzare i corsi finiti"
+
+# @ wplms_modern
+#~ msgid "Enable Levels"
+#~ msgstr "Aggiungi nuovo campo alla lista"
+
+# @ wplms_modern
+#~ msgid "Enables Level taxonomy"
+#~ msgstr "Abilita Livello tassonomia"
+
+# @ wplms_modern
+#~ msgid "Enable Linkage"
+#~ msgstr "Aggiungi nuovo campo alla lista"
+
+# @ wplms_modern
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr "Collegare Corso, Unità, quiz, domande con collegamento tassonomia"
+
+# @ wplms_modern
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "Font personal (Inserire il nome CSS Font Family)"
+
+# @ wplms_modern
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr ""
+#~ "I Font personalizzati vengono aggiunti all'elenco font del Tema "
+#~ "Customizer .."
+
+# @ wplms_modern
+#~ msgid "Also supports shotcodes."
+#~ msgstr "Supporta anche shotcodes."
+
+# @ wplms_modern
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr ""
+#~ "Aggiunge pulsati di condivisione dei social media, nei singoli corsi, ecc"
+
+# @ wplms_modern
+#~ msgid "Enable TinCan recording"
+#~ msgstr "Abilita registrazione tincan"
+
+# @ wplms_modern
+#~ msgid "LRS User name"
+#~ msgstr "Username"
+
+# @ wplms_modern
+#~ msgid "Enter Username for external LRS authentication."
+#~ msgstr "Inserisci il nome utente per l'autenticazione LRS esterno."
+
+# @ wplms_modern
+#~ msgid "LRS Password"
+#~ msgstr "Password"
+
+# @ wplms_modern
+#~ msgid "Enter Password for external LRS authentication."
+#~ msgstr "Immettere la password per l'autenticazione LRS esterno."
+
+# @ wplms_modern
+#~ msgid "Theme Layout"
+#~ msgstr "Tema:"
+
+# @ wplms_modern
+#~ msgid "Direct Checkout"
+#~ msgstr "Pagamento diretto"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr ""
+#~ "Forzare tutti gli ordini virtuali dei prodotti WooCommerce sulla pagina "
+#~ "di ringraziamento."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "Tutti gli ordini pagati: Tutti gli ordini con soli prodotti virtuali e "
+#~ "pagamento degli ordini completi, tutti gli ordini non-Fail: Tutti gli "
+#~ "ordini di elaborazione, in attesa, in attesa di ordini saranno "
+#~ "contrassegnati completa Grazie pagina."
+
+# @ wplms_modern
+#~ msgid "All Paid Orders"
+#~ msgstr "Tutti gli ordini pagati"
+
+# @ wplms_modern
+#~ msgid "All Non-Fail Orders"
+#~ msgstr "Tutti gli ordini non-Fail"
+
+# @ wplms_modern
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "Pagina contatto i valori latitudine e longitudine"
+
+# @ wplms_modern
+#~ msgid "Contact Page Map Style"
+#~ msgstr "Pagina contatto stile patina contatti"
+
+# @ wplms_modern
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr ""
+#~ "Area del contenuto è il contenitore in cui si trova tutto il contenuto."
+
+# @ wplms_modern
+#~ msgid "Please enter some content to post."
+#~ msgstr "Inserisci dei contenuti da pubblicare."
+
+# @ wplms_modern
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "Ci sono dei problemi con i tuoi contenuti, riprova."
+
+# @ wplms_modern
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "Si prega di non lasciare vuota l'area del commento."
+
+# @ wplms_modern
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr ""
+#~ "Si è verificato un errore nell'invio della risposta, si prega di "
+#~ "riprovare."
+
+# @ wplms_modern
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr ""
+#~ "Si è verificato un errore durante la cancellazione, si prega di riprovare."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s ha già richiesto di aderire a questo gruppo. L'invio di un invito "
+#~ "aggiungerà automaticamente l'utente al gruppo."
+
+# @ wplms_modern
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "L'amicizia non può essere cancellata."
+
+# @ wplms_modern
+#~ msgid "Add Friend"
+#~ msgstr "Diventa suo amico"
+
+# @ wplms_modern
+#~ msgid " Friendship could not be requested."
+#~ msgstr "La richiesta di amicizia non può essere inviata."
+
+# @ wplms_modern
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "Cancella la richiesta di amicizia."
+
+# @ wplms_modern
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "La richiesta di amicizia non può essere cancellata."
+
+# @ wplms_modern
+#~ msgid "Request Pending"
+#~ msgstr "Richiesta in sospeso."
+
+# @ wplms_modern
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr ""
+#~ "Si è verificato un errore durante l'accettazione della richiesta. Si "
+#~ "prega di riprovare."
+
+# @ wplms_modern
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr "C'è stato un problema di rigetto di tale richiesta. Riprova."
+
+# @ wplms_modern
+#~ msgid "Error joining group"
+#~ msgstr "Errore di iscrizione al gruppo."
+
+# @ wplms_modern
+#~ msgid "Leave Group"
+#~ msgstr "Abbandona il gruppo."
+
+# @ wplms_modern
+#~ msgid "Error requesting membership"
+#~ msgstr "Errore nella richiesta di adesione."
+
+# @ wplms_modern
+#~ msgid "Membership Requested"
+#~ msgstr "Adesione Richiesta."
+
+# @ wplms_modern
+#~ msgid "Error leaving group"
+#~ msgstr "Errore durante l'abbandono del gruppo."
+
+# @ wplms_modern
+#~ msgid "Join Group"
+#~ msgstr "Iscriviti al gruppo."
+
+# @ wplms_modern
+#~ msgid "Request Membership"
+#~ msgstr "Richiesta d'iscrizione."
+
+# @ wplms_modern
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "Si è verificato un errore nella chiusura delle notifiche."
+
+# @ wplms_modern
+#~ msgid "Sent %s"
+#~ msgstr "Inviato %s"
+
+# @ wplms_modern
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr "C'è stato un problema nell'invio della risposta. Riprova."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "C'è stato un problema nel segnare i messaggi come non letti."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "C'è stato un problema nel segnare i messaggi come letti."
+
+# @ wplms_modern
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "C'è stato un problema nell'eliminazione dei messaggi."
+
+# @ wplms_modern
+#~ msgid "Messages deleted."
+#~ msgstr "Messaggio eliminato."
+
+# @ wplms_modern
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr ""
+#~ "Spiacente, non sono state trovate attività. Prova con un filtro "
+#~ "differente."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> ha risposto <a href=\"%3$s\" class=\"activity-"
+#~ "time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+# @ wplms_modern
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "Cosa c'è di nuovo in %s, %s?"
+
+# @ wplms_modern
+#~ msgid "What's new, %s?"
+#~ msgstr "Cosa c'è di nuovo, %s?"
+
+# @ wplms_modern
+#~ msgid "Post Update"
+#~ msgstr "Pubblica"
+
+# @ wplms_modern
+#~ msgid "Post in"
+#~ msgstr "Pubblica in"
+
+# @ wplms_modern
+#~ msgid "My Profile"
+#~ msgstr "Profilo"
+
+# @ wplms_modern
+#~ msgid "You have not created any Course."
+#~ msgstr "Non hai creato nessun corso."
+
+# @ wplms_modern
+#~ msgid "Submissions"
+#~ msgstr "Inscrizione"
+
+# @ wplms_modern
+#~ msgid "Activity"
+#~ msgstr "Attività"
+
+# @ wplms_modern
+#~ msgid "Stats"
+#~ msgstr "Statistiche"
+
+# @ wplms_modern
+#~ msgid "Total number of Students in course"
+#~ msgstr "Studenti iscritti al corso"
+
+# @ wplms_modern
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Studenti che stanno frequentando questo corso"
+
+# @ wplms_modern
+#~ msgid "Reset Course for User"
+#~ msgstr "Azzera il Corso per l'utente"
+
+# @ wplms_modern
+#~ msgid "See Course stats for User"
+#~ msgstr "Guarda lo stato del Corso dell'utente"
+
+# @ wplms_modern
+#~ msgid "Remove User from this Course"
+#~ msgstr "Rimuovi l'utente dal Corso"
+
+# @ wplms_modern
+#~ msgid "BULK ACTIONS"
+#~ msgstr "Azione di massa"
+
+# @ wplms_modern
+#~ msgid "Instructors"
+#~ msgstr "Docenti"
+
+# @ wplms_modern
+#~ msgid "FREE"
+#~ msgstr "GRATUITO"
+
+# @ wplms_modern
+#~ msgid "minutes"
+#~ msgstr "minuti"
+
+# @ wplms_modern
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "Studenti iscritti al corso"
+
+# @ wplms_modern
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "Percentuale media degli studenti"
+
+# @ wplms_modern
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "Studenti che hanno ricevuto il Badge"
+
+# @ wplms_modern
+#~ msgid "Number of Passed Students"
+#~ msgstr "Studenti che hanno terminato il corso"
+
+# @ wplms_modern
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "Media dei voti ottenuti dagli studenti"
+
+# @ wplms_modern
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "Media dei Test"
+
+# @ wplms_modern
+#~ msgid "Calculate :"
+#~ msgstr "Calcola:"
+
+# @ wplms_modern
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "Calcola le statistiche del corso"
+
+# @ wplms_modern
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "INVII DELLE ASSEGNAZIONI"
+
+# @ wplms_modern
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "Valuta Assegnazione:"
+
+# @ wplms_modern
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "TEST EFFETTUATI"
+
+# @ wplms_modern
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Azzera il Test per l'utente"
+
+# @ wplms_modern
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Valutare Test per l'utente"
+
+# @ wplms_modern
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "CORSI COMPLETATI"
+
+# @ wplms_modern
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Valutare Corso per l'utente"
+
+# @ wplms_modern
+#~ msgid "Groups Directory"
+#~ msgstr "Directory dei Gruppi"
+
+# @ wplms_modern
+#~ msgid "There were no groups found."
+#~ msgstr "Non sono stati trovati gruppi."
+
+# @ wplms_modern
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr ""
+#~ "Invia un'email ai membri del gruppo per notificare questi aggiornamenti"
+
+# @ wplms_modern
+#~ msgid "Save Changes"
+#~ msgstr "Salva Aggiornamenti"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Se vuoi rimuovere l'Avatar esistente, ma non caricarne uno nuovo, si "
+#~ "prega di utilizzare il pulsante Cancella Avatar."
+
+# @ wplms_modern
+#~ msgid "Delete Avatar"
+#~ msgstr "Cancella Avatar"
+
+# @ wplms_modern
+#~ msgid "Crop Avatar"
+#~ msgstr "Ritaglia Avatar"
+
+# @ wplms_modern
+#~ msgid "Administrators"
+#~ msgstr "Amministratori"
+
+# @ wplms_modern
+#~ msgid "Profile picture of %s"
+#~ msgstr "Immagine profilo di %s"
+
+# @ wplms_modern
+#~ msgid "Demote to Member"
+#~ msgstr "Retrocadi a Membro"
+
+# @ wplms_modern
+#~ msgid "Promote to Admin"
+#~ msgstr "Promuovi ad Amministratore"
+
+# @ wplms_modern
+#~ msgid "(banned)"
+#~ msgstr "(bannato)"
+
+# @ wplms_modern
+#~ msgid "Unban this member"
+#~ msgstr "Unban questo membro"
+
+# @ wplms_modern
+#~ msgid "Remove Ban"
+#~ msgstr "Rimuovi Ban"
+
+# @ wplms_modern
+#~ msgid "Kick and ban this member"
+#~ msgstr "Cancella e banna questo membro"
+
+# @ wplms_modern
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "Cancella &amp; Banna"
+
+# @ wplms_modern
+#~ msgid "Promote to Mod"
+#~ msgstr "Promuovi a Moderatore"
+
+# @ wplms_modern
+#~ msgid "Remove this member"
+#~ msgstr "Rimuovi questo membro"
+
+# @ wplms_modern
+#~ msgid "Remove from group"
+#~ msgstr "Rimuovi dal gruppo"
+
+# @ wplms_modern
+#~ msgid "This group has no members."
+#~ msgstr "Questo gruppo non ha membri"
+
+# @ wplms_modern
+#~ msgid "Accept"
+#~ msgstr "Accetta"
+
+# @ wplms_modern
+#~ msgid "Reject"
+#~ msgstr "Rifiuta"
+
+# @ wplms_modern
+#~ msgid "There are no pending membership requests."
+#~ msgstr "Non ci sono richieste di iscrizione in attesa"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "ATTENZIONE: la cancellazione di questo gruppo comporta la totale "
+#~ "rimozione di tutti i contenuti ad esso associati. Non si può tornare "
+#~ "indietro, agisci con moderazione."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "Conosco le conseguenze della cancellazione del gruppo."
+
+# @ wplms_modern
+#~ msgid "Delete Group"
+#~ msgstr "Cancella Gruppo"
+
+# @ wplms_modern
+#~ msgid "Forum Directory"
+#~ msgstr "Directory dei Forum"
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr ""
+#~ "Sarai automaticamente iscritto al gruppo quando pubblicherai un nuovo "
+#~ "argomento."
+
+# @ wplms_modern
+#~ msgid "Post a New Topic:"
+#~ msgstr "Pubblica un nuovo Argomento:"
+
+# @ wplms_modern
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "Hai richiesto di diventare un membro del gruppo '%s'."
+
+# @ wplms_modern
+#~ msgid "Comments (optional)"
+#~ msgstr "Commenta (opzionale)"
+
+# @ wplms_modern
+#~ msgid "Send Request"
+#~ msgstr "Invia Richiesta"
+
+# @ wplms_modern
+#~ msgid "Send Invites"
+#~ msgstr "Manda Invito"
+
+# @ wplms_modern
+#~ msgid "Edit:"
+#~ msgstr "Modifica:"
+
+# @ wplms_modern
+#~ msgid "This topic does not exist."
+#~ msgstr "Questo argomento non esiste."
+
+# @ wplms_modern
+#~ msgid "New Reply"
+#~ msgstr "Nuova Risposta"
+
+# @ wplms_modern
+#~ msgid "Topic tags:"
+#~ msgstr "Tags Argomento:"
+
+# @ wplms_modern
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s ha detto %2$s:"
+
+# @ wplms_modern
+#~ msgid "There are no posts for this topic."
+#~ msgstr "Non ci sono commenti a queto argomento."
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr ""
+#~ "Sarai automaticamente iscritto al gruppo quando risponderai a questo "
+#~ "argomento."
+
+# @ wplms_modern
+#~ msgid "Add a reply:"
+#~ msgstr "Aggiungi una risposta:"
+
+# @ wplms_modern
+#~ msgid "Post Reply"
+#~ msgstr "Pubblica risposta"
+
+# @ wplms_modern
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "Questo argomento è chiuso, non sono più accettate risposte."
+
+# @ wplms_modern
+#~ msgid "Badges"
+#~ msgstr "Badges"
+
+# @ wplms_modern
+#~ msgid "Certifications"
+#~ msgstr "Attestati"
+
+# @ wplms_modern
+#~ msgid "Check all Courses created by "
+#~ msgstr "Scopri tutti i corsi di "
+
+# @ wplms_modern
+#~ msgid "Course "
+#~ msgstr "Corso "
+
+# @ wplms_modern
+#~ msgid "Author Social profile information"
+#~ msgstr "Informazioni Social del profilo dell'autore"
+
+# @ wplms_modern
+#~ msgid "Add Social Information"
+#~ msgstr "Aggiungi informazioni Social"
+
+# @ wplms_modern
+#~ msgid "Enter URL for social icon."
+#~ msgstr "Inserisci URL della social icon."
+
+# @ wplms_modern
+#~ msgid "Share on "
+#~ msgstr "Condividi"
+
+# @ wplms_modern
+#~ msgid "Status"
+#~ msgstr "Status"
+
+# @ wplms_modern
+#~ msgid "Course Categories"
+#~ msgstr "Categorie Corso"
+
+# @ wplms_modern
+#~ msgid "COURSE STARTS IN "
+#~ msgstr "CORSO AL"
+
+# @ wplms_modern
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "ACCESSO ILLIMITATO"
+
+# @ wplms_modern
+#~ msgid "Become an Instructor"
+#~ msgstr "Diventa Docente"
+
+# @ wplms_modern
+#~ msgid "UNLIMITED TIME"
+#~ msgstr "TEMPO ILLIMITATO"
+
+# @ wplms_modern
+#~ msgid "COURSE : "
+#~ msgstr "CORSO : "
+
+# @ wplms_modern
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr "ULTIMA ASSEGNAZIONE PER MARCARE IL CAPITOLO COME COMPLETO"
+
+# @ wplms_modern
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr "Termina il Video/Audio per segnare questo capitolo come completo"
+
+# @ wplms_modern
+#~ msgid "Page"
+#~ msgstr "Pagina"
+
+# @ wplms_modern
+#~ msgid "of"
+#~ msgstr "di"
+
+# @ wplms_modern
+#~ msgid "Previous"
+#~ msgstr "Precedente"
+
+# @ wplms_modern
+#~ msgid "Next"
+#~ msgstr "Prossimo"
+
+# @ wplms_modern
+#~ msgid "Attachment"
+#~ msgstr "Allegato"
+
+# @ wplms_modern
+#~ msgid "Requires completion of course : "
+#~ msgstr "Richiede il completamento del corso:"
+
+# @ wplms_modern
+#~ msgid " REGISTER NOW"
+#~ msgstr " REGISTRATI ORA"
+
+# @ wplms_modern
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "Devi aver effettuato l'accesso per poterti iscrivere al corso "
+
+# @ wplms_modern
+#~ msgid "Page %s"
+#~ msgstr "Pagina %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong."
+#~ msgstr "Qualcosa è andato storto."
+
+# @ wplms_modern
+#~ msgid "Required"
+#~ msgstr "(richiesto)"
+
+# @ wplms_modern
+#~ msgid "Recommended"
+#~ msgstr "Raccomandato"
+
+# @ wplms_modern
+#~ msgid "Source"
+#~ msgstr "Fonte"
+
+# @ wplms_modern
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+# @ wplms_modern
+#~ msgid "Show Details"
+#~ msgstr "Mostra dettagli"
+
+# @ wplms_modern
+#~ msgid "Hide Details"
+#~ msgstr "Nascondi dettagli"
+
+# @ wplms_modern
+#~ msgid "Review Title"
+#~ msgstr "Titolo della recensione"
+
+# @ wplms_modern
+#~ msgid "Review Rating"
+#~ msgstr "Punteggio del Corso"
+
+# @ wplms_modern
+#~ msgid "Rating "
+#~ msgstr "Valutazione"
+
+# @ wplms_modern
+#~ msgid "Student"
+#~ msgstr "Studente"
+
+# @ wplms_modern
+#~ msgid "Instructor"
+#~ msgstr "Docente"
+
+# @ wplms_modern
+#~ msgid "Main Menu"
+#~ msgstr "Menu Principale"
+
+# @ wplms_modern
+#~ msgid "Student "
+#~ msgstr "Studente "
+
+# @ wplms_modern
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ wplms_modern
+#~ msgid "Title Attribute"
+#~ msgstr "Attributo titolo"
+
+# @ wplms_modern
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+# @ wplms_modern
+#~ msgid "Remove filter"
+#~ msgstr "Rimuovi filtri"
+
+# @ wplms_modern
+#~ msgid "View profile"
+#~ msgstr "Mostra Profilo"
+
+# @ wplms_modern
+#~ msgid "Log Out"
+#~ msgstr "Log Out"
+
+# @ wplms_modern
+#~ msgid "LOGOUT"
+#~ msgstr "LOGOUT"
+
+# @ wplms_modern
+#~ msgid "Inbox"
+#~ msgstr "Messaggi"
+
+# @ wplms_modern
+#~ msgid "Notifications"
+#~ msgstr "Notifiche"
+
+# @ wplms_modern
+#~ msgid "Groups"
+#~ msgstr "Gruppi"
+
+# @ wplms_modern
+#~ msgid "Forgot Password"
+#~ msgstr "Password persa"
+
+# @ wplms_modern
+#~ msgid "Remember Me"
+#~ msgstr "Ricordami"
+
+# @ wplms_modern
+#~ msgid "Log In"
+#~ msgstr "Accedi"
+
+# @ wplms_modern
+#~ msgid "Course Categories "
+#~ msgstr "Categorie Corso"
+
+# @ wplms_modern
+#~ msgid "View all Courses in %s"
+#~ msgstr "Visualizza tutti i corsi in %s"
+
+# @ wplms_modern
+#~ msgid "Order by"
+#~ msgstr "Ordina per:"
+
+# @ wplms_modern
+#~ msgid "Course Count"
+#~ msgstr "Conteggio Corso"
+
+# @ wplms_modern
+#~ msgid "Sort Order "
+#~ msgstr "Ordina per"
+
+# @ wplms_modern
+#~ msgid "Ascending"
+#~ msgstr "Ascendente"
+
+# @ wplms_modern
+#~ msgid "Validate"
+#~ msgstr "Convalidare"
+
+# @ wplms_modern
+#~ msgid "Recent Posts"
+#~ msgstr "Post Recenti"
+
+# @ wplms_modern
+#~ msgid "thumbnail"
+#~ msgstr "Miniatura"
+
+# @ wplms_modern
+#~ msgid "Theme:"
+#~ msgstr "Tema:"
+
+# @ wplms_modern
+#~ msgid "Title"
+#~ msgstr "Titolo"
+
+# @ wplms_modern
+#~ msgid "Theme"
+#~ msgstr "Tema:"
+
+# @ wplms_modern
+#~ msgid "Post Type"
+#~ msgstr "Tipo di Post"
+
+# @ wplms_modern
+#~ msgid "Recent"
+#~ msgstr "Recente"
+
+# @ wplms_modern
+#~ msgid "Popular"
+#~ msgstr "Popolare"
+
+# @ wplms_modern
+#~ msgid " Title"
+#~ msgstr "Titolo:"
+
+# @ wplms_modern
+#~ msgid "Small"
+#~ msgstr "Piccolo"
+
+# @ wplms_modern
+#~ msgid " Small"
+#~ msgstr "Piccolo"
+
+# @ wplms_modern
+#~ msgid "Tags:"
+#~ msgstr "Tags:"
+
+# @ wplms_modern
+#~ msgid "here"
+#~ msgstr "qui"
+
+# @ wplms_modern
+#~ msgid "Requested items"
+#~ msgstr "elementi richiesti"
+
+# @ wplms_modern
+#~ msgid "M d"
+#~ msgstr "m d"
+
+# @ wplms_modern
+#~ msgid "student"
+#~ msgstr "studente"
+
+# @ wplms_modern
+#~ msgid "instructor"
+#~ msgstr "docente"
+
+# @ wplms_modern
+#~ msgid "administrator"
+#~ msgstr "amministratore"
+
+# @ wplms_modern
+#~ msgid "Sorry, no members were found."
+#~ msgstr "Spiacenti, nessun membro trovato."
+
+# @ wplms_modern
+#~ msgid "Invalid Results"
+#~ msgstr "Test Errato"
+
+# @ wplms_modern
+#~ msgid "My Submission"
+#~ msgstr "la mia richiesta"
+
+# @ wplms_modern
+#~ msgid "Download Attachment"
+#~ msgstr "Scarica Allegato"
+
+# @ wplms_modern
+#~ msgid "See Instructor Remarks"
+#~ msgstr "Vedi i commenti dei docenti"
+
+# @ wplms_modern
+#~ msgid "Marks Obtained"
+#~ msgstr "RISULTATI OTTENUTI"
+
+# @ wplms_modern
+#~ msgid "Marked Answer :"
+#~ msgstr "Risposta Scelta :"
+
+# @ wplms_modern
+#~ msgid "FALSE"
+#~ msgstr "FALSO"
+
+# @ wplms_modern
+#~ msgid "TRUE"
+#~ msgstr "ESATTO"
+
+# @ wplms_modern
+#~ msgid "Correct Answer :"
+#~ msgstr "Risposta Esatta :"
+
+# @ wplms_modern
+#~ msgid "Total Marks :"
+#~ msgstr "Risultato totale : "
+
+# @ wplms_modern
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "RISULTATI OTTENUTI"
+
+# @ wplms_modern
+#~ msgid "Total Marks"
+#~ msgstr "Risultato totale"
+
+# @ wplms_modern
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "RIPETI TEST"
+
+# @ wplms_modern
+#~ msgid " out of "
+#~ msgstr "fuori di"
+
+# @ wplms_modern
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "Risultati precedenti del Test"
+
+# @ wplms_modern
+#~ msgid "Results not Available"
+#~ msgstr "Risultati non Disponibili"
+
+# @ wplms_modern
+#~ msgid "Quiz Results"
+#~ msgstr "Risultati del Test"
+
+# @ wplms_modern
+#~ msgid "Results Available"
+#~ msgstr "Risultati Disponibili"
+
+# @ wplms_modern
+#~ msgid "Results Awaited"
+#~ msgstr "Risultati in Attesa"
+
+# @ wplms_modern
+#~ msgid "Submitted "
+#~ msgstr "Inviato"
+
+# @ wplms_modern
+#~ msgid "Assignment Results"
+#~ msgstr "Risultati delle Assegnazioni"
+
+# @ wplms_modern
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "PERCENTUALE MEDIA:"
+
+# @ wplms_modern
+#~ msgid "TAKING"
+#~ msgstr "TAKING"
+
+# @ wplms_modern
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "Non hai richieste di amicizia in attesa."
+
+# @ wplms_modern
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "Non hai richieste di inviti a gruppi."
+
+# @ wplms_modern
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "Invia a (username o nome dell'amico)"
+
+# @ wplms_modern
+#~ msgid "This is a notice to all users."
+#~ msgstr "Questa è una notifica a tutti i  membri."
+
+# @ wplms_modern
+#~ msgid "Subject"
+#~ msgstr "Oggetto"
+
+# @ wplms_modern
+#~ msgid "Message"
+#~ msgstr "Messaggio"
+
+# @ wplms_modern
+#~ msgid "Send Message"
+#~ msgstr "Invia Messaggio"
+
+# @ wplms_modern
+#~ msgid "Actions"
+#~ msgstr "Azioni"
+
+# @ wplms_modern
+#~ msgid "From:"
+#~ msgstr "Da:"
+
+# @ wplms_modern
+#~ msgid "To:"
+#~ msgstr "A:"
+
+# @ wplms_modern
+#~ msgid "View Message"
+#~ msgstr "Leggi Messaggio"
+
+# @ wplms_modern
+#~ msgid "Delete Message"
+#~ msgstr "Cancella Messaggio"
+
+# @ wplms_modern
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Spiacenti, non sono stati trovati messaggi."
+
+# @ wplms_modern
+#~ msgid "Sent:"
+#~ msgstr "Inviato:"
+
+# @ wplms_modern
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "Spiacenti, non ci sono notifiche."
+
+# @ wplms_modern
+#~ msgid "You are alone in this conversation."
+#~ msgstr ":( sei solo in questa conversazione."
+
+# @ wplms_modern
+#~ msgid "Conversation between %s and you."
+#~ msgstr "Conversazione tra %s e te."
+
+# @ wplms_modern
+#~ msgid "Send a Reply"
+#~ msgstr "Invia una risposta"
+
+# @ wplms_modern
+#~ msgid "Send Reply"
+#~ msgstr "Invia Risposta"
+
+# @ wplms_modern
+#~ msgid "You have no unread notifications."
+#~ msgstr "Non hai notifiche da leggere."
+
+# @ wplms_modern
+#~ msgid "This member has no unread notifications."
+#~ msgstr "Questo membro non ha notifiche da leggere."
+
+# @ wplms_modern
+#~ msgid "You have no notifications."
+#~ msgstr "Non hai notifiche."
+
+# @ wplms_modern
+#~ msgid "This member has no notifications."
+#~ msgstr "Questo membro non ha notifiche."
+
+# @ wplms_modern
+#~ msgid "Notification"
+#~ msgstr "Notifica"
+
+# @ wplms_modern
+#~ msgid "Date Received"
+#~ msgstr "Data di ricezione"
+
+# @ wplms_modern
+#~ msgid "Change Avatar"
+#~ msgstr "Cambia Immagine di Profilo "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr "Il tuo Avatar sarà utilizzato come immagine profilo."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "Clicca qui sotto per selezionare un file JPG, GIF o PNG dal computer e "
+#~ "fare clic su 'Carica Immagine' per procedere."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Se vuoi cancellare la tua immagine del profilo attuale, ma non vuoi "
+#~ "caricarne una nuova, si prega di utilizzare il pulsante 'Cancella "
+#~ "Immagine Profilo'."
+
+# @ wplms_modern
+#~ msgid "Delete My Avatar"
+#~ msgstr "Cancella Immagine Profilo"
+
+# @ wplms_modern
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "Ritaglia la tua Immagine Profilo"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr "Il tuo Avatar sarà utilizzato come immagine profilo."
+
+# @ wplms_modern
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "Modifica '%s' "
+
+# @ wplms_modern
+#~ msgid "Clear"
+#~ msgstr "Pulisci"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr "Visibile a: <span class=\"current-visibility-level\">%s</span>"
+
+# @ wplms_modern
+#~ msgid "Change"
+#~ msgstr "Modifica"
+
+# @ wplms_modern
+#~ msgid "%s's Profile"
+#~ msgstr "Profilo di %s "
+
+# @ wplms_modern
+#~ msgid "About Me"
+#~ msgstr "About Me"
+
+# @ wplms_modern
+#~ msgid "Capabilities"
+#~ msgstr "Funzionalità"
+
+# @ wplms_modern
+#~ msgid "This user is a spammer."
+#~ msgstr "Questo utente è uno spammer."
+
+# @ wplms_modern
+#~ msgid "Save"
+#~ msgstr "Salva"
+
+# @ wplms_modern
+#~ msgid "Delete Account"
+#~ msgstr "Cancella Account"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Eliminando il tuo account cancellerai tutti i contenuti creati. Sarà "
+#~ "completamente irrecuperabile."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "L'eliminazione di questo account cancellerà tutto il contenuto che ha "
+#~ "creato. Sarà completamente irrecuperabile."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences."
+#~ msgstr "Sono al corrente delle conseguenze."
+
+# @ wplms_modern
+#~ msgid "General Settings"
+#~ msgstr "Impostazioni generali"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "Password corrente <span>(necessaria per aggiornare le mail o modificare "
+#~ "la password corrente) </span>"
+
+# @ wplms_modern
+#~ msgid "Lost your password?"
+#~ msgstr "Hai dimenticato la password?"
+
+# @ wplms_modern
+#~ msgid "Account Email"
+#~ msgstr "Email Account"
+
+# @ wplms_modern
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr "Cambia Password <span> (lasciare vuoto per non cambiare) </span>"
+
+# @ wplms_modern
+#~ msgid "New Password"
+#~ msgstr "Nuova Password"
+
+# @ wplms_modern
+#~ msgid "Repeat New Password"
+#~ msgstr "Ripeti Nuova Password"
+
+# @ wplms_modern
+#~ msgid "Email Notification"
+#~ msgstr "Notifiche Email"
+
+# @ wplms_modern
+#~ msgid "Send an email notice when:"
+#~ msgstr "Invia una notifica email quando:"
+
+# @ wplms_modern
+#~ msgid " To:"
+#~ msgstr "A:"
+
+# @ wplms_modern
+#~ msgid "Add New List Field"
+#~ msgstr "Aggiungi nuovo campo alla lista"
+
+# @ wplms_modern
+#~ msgid "Remove Upload"
+#~ msgstr "Rimuovi invio"
+
+# @ wplms_modern
+#~ msgid "Duration"
+#~ msgstr "Durata"
+
+# @ wplms_modern
+#~ msgid "Billing Information"
+#~ msgstr "Informazioni di Fatturazione"
+
+# @ wplms_modern
+#~ msgid "Payment Method"
+#~ msgstr "Metodo di Pagamento"
+
+# @ wplms_modern
+#~ msgid "Edit Billing Information"
+#~ msgstr "Modifica Informazioni di fatturazione"
+
+# @ wplms_modern
+#~ msgid "Past Invoices"
+#~ msgstr "Fatture scadute"
+
+# @ wplms_modern
+#~ msgid "View All Invoices"
+#~ msgstr "Visualizza tute le fatture"
+
+# @ wplms_modern
+#~ msgid "Update Billing Information"
+#~ msgstr "Aggiungi informazioni di Fatturazione"
+
+# @ wplms_modern
+#~ msgid "Cancel Membership"
+#~ msgstr "Cancella iscrizione"
+
+# @ wplms_modern
+#~ msgid "logout"
+#~ msgstr "LOGOUT"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "La rostra richest di pagamento è gestate da PayPal. Gentilmente <a href="
+#~ "\"http://www.paypal.com\">effettua l'accesso a PayPal quì</a> per "
+#~ "aggiungere le tue informationi di acquito"
+
+# @ wplms_modern
+#~ msgid "First Name"
+#~ msgstr "Nome"
+
+# @ wplms_modern
+#~ msgid "Last Name"
+#~ msgstr "Cognome"
+
+# @ wplms_modern
+#~ msgid "Address 1"
+#~ msgstr "Indirizzo 1"
+
+# @ wplms_modern
+#~ msgid "Address 2"
+#~ msgstr "Indirizzo 2"
+
+# @ wplms_modern
+#~ msgid "City"
+#~ msgstr "Città"
+
+# @ wplms_modern
+#~ msgid "Postal Code"
+#~ msgstr "CAP"
+
+# @ wplms_modern
+#~ msgid "City, State Zip"
+#~ msgstr "Città, Cap"
+
+# @ wplms_modern
+#~ msgid "Phone"
+#~ msgstr "Telefono"
+
+# @ wplms_modern
+#~ msgid "E-mail Address"
+#~ msgstr "Email"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail"
+#~ msgstr "Conferma indirizzo email"
+
+# @ wplms_modern
+#~ msgid "Credit Card Information"
+#~ msgstr "Informazioni carta di credito"
+
+# @ wplms_modern
+#~ msgid "Card Type"
+#~ msgstr "Tipo di carta"
+
+# @ wplms_modern
+#~ msgid "Card Number"
+#~ msgstr "Numero di carta"
+
+# @ wplms_modern
+#~ msgid "Expiration Date"
+#~ msgstr "Data di scadenza"
+
+# @ wplms_modern
+#~ msgid "Yes, cancel my account"
+#~ msgstr "Si, cancella il mil account."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p class=\"pmpro_level_discount_applied\">Il <strong>%s</strong> codices "
+#~ "è state applicator al tho ordine.</p>"
+
+# @ wplms_modern
+#~ msgid "Do you have a discount code?"
+#~ msgstr "Hai un codices di sconto?"
+
+# @ wplms_modern
+#~ msgid "Discount Code"
+#~ msgstr "Codice di sconto"
+
+# @ wplms_modern
+#~ msgid "Apply"
+#~ msgstr "Applica"
+
+# @ wplms_modern
+#~ msgid "Already have an account?"
+#~ msgstr "Possiedi già un account?"
+
+# @ wplms_modern
+#~ msgid "Log in here"
+#~ msgstr "Accedi quì"
+
+# @ wplms_modern
+#~ msgid "Account Information"
+#~ msgstr "Informazioni Account"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "Conferma indirizzo email"
+
+# @ wplms_modern
+#~ msgid "Full Name"
+#~ msgstr "Nome"
+
+# @ wplms_modern
+#~ msgid "Choose your Payment Method"
+#~ msgstr "Seleziona un metodo di pagamento"
+
+# @ wplms_modern
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "Paga con Carta di Credito"
+
+# @ wplms_modern
+#~ msgid "Check Out with PayPal"
+#~ msgstr "Paga con PayPal"
+
+# @ wplms_modern
+#~ msgid "Payment Information"
+#~ msgstr "Informazioni di pagamento"
+
+# @ wplms_modern
+#~ msgid "Complete Payment"
+#~ msgstr "Completa Pagamento"
+
+# @ wplms_modern
+#~ msgid "Submit and Check Out"
+#~ msgstr "invia e paga"
+
+# @ wplms_modern
+#~ msgid "Submit and Confirm"
+#~ msgstr "Invia e conferma"
+
+# @ wplms_modern
+#~ msgid "Processing..."
+#~ msgstr "Processando..."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr ""
+#~ "Il pagamento è state inviato correttamente. La tua iscrizione sarà "
+#~ "attivata a breve."
+
+# @ wplms_modern
+#~ msgid "Print"
+#~ msgstr "Stampa"
+
+# @ wplms_modern
+#~ msgid "Account"
+#~ msgstr "Account"
+
+# @ wplms_modern
+#~ msgid "Total Billed"
+#~ msgstr "totale fatturato"
+
+# @ wplms_modern
+#~ msgid "Expiration"
+#~ msgstr "Scadenza"
+
+# @ wplms_modern
+#~ msgid "Subtotal"
+#~ msgstr "Subtotale"
+
+# @ wplms_modern
+#~ msgid "Coupon"
+#~ msgstr "Codice Sconto:"
+
+# @ wplms_modern
+#~ msgid "Date"
+#~ msgstr "Data"
+
+# @ wplms_modern
+#~ msgid "Invoice #"
+#~ msgstr "Fattura #"
+
+# @ wplms_modern
+#~ msgid "View Invoice"
+#~ msgstr "Visualizza fattura"
+
+# @ wplms_modern
+#~ msgid "Price"
+#~ msgstr "Prezzo"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "&larr; Ritorna al tuo Account"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Home"
+#~ msgstr "&larr; Ritorna alla Home"
+
+# @ wplms_modern
+#~ msgid "Change profile field visibility level"
+#~ msgstr "Modificare il profilo del livello di visibilità di campo"
+
+# @ wplms_modern
+#~ msgid "Complete Sign Up"
+#~ msgstr "Completa Registrazione"
+
+# @ wplms_modern
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "Controlla la tua email per attivare il tuo account!"
+
+# @ wplms_modern
+#~ msgid "Import Complete !"
+#~ msgstr "Importazione Completata!"

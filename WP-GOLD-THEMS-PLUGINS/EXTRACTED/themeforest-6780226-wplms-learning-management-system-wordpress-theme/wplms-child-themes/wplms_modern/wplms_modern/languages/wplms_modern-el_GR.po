@@ -1,0 +1,6236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:38+0530\n"
+"PO-Revision-Date: 2017-02-01 14:38+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: -1,-1,77,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "ΣΕ ΑΠΑΝΤΗΣΗ : "
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "View Thread / Permalink"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View"
+msgstr "View"
+
+# @ vibe
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Σχόλιο <span>%s</span>"
+
+# @ vibe
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "Αγαπημένα"
+
+# @ vibe
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "Αφαίρεση αγαπημένου"
+
+# @ vibe
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "Post"
+
+# @ vibe
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "πατήστε esc για ακύρωση"
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "The public activity for everyone on this site."
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Ολα τα Μέλη <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "Η δραστηριότητα των  φίλων μου μονο."
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Οι φίλοι μου <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "Η δραστηριότητα των ομάδων που είμαι μέλος της."
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Οι ομάδες μου <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "Αγαπημένα"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Moje Ulubione <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "Activity that I have been mentioned in."
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "Mentions"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s ΝΕΟ"
+msgstr[1] "%s ΝΕΑ"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "RSS"
+
+# @ vibe
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "Show:"
+
+# @ vibe
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "Everything"
+
+# @ vibe
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "Updates"
+
+# @ vibe
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "Posts"
+
+# @ vibe
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "Σχόλια"
+
+# @ vibe
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "Forum Topics"
+
+# @ vibe
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "Forum Replies"
+
+# @ vibe
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "Νέες Ομάδες"
+
+# @ vibe
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "Group Memberships"
+
+# @ vibe
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "Οι φιλίες"
+
+# @ vibe
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "Νέα Μέλη"
+
+# @ vibe
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "ΜΑΘΗΜΑΤΑ ΑΠΟ ΤΟΝ ΕΙΣΗΓΗΤΗ "
+
+# @ vibe
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "Δεν βρεθηκαν εκπαιδευτες."
+
+# @ wplms_modern
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ vibe
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ default
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "View all posts in %s"
+
+# @ vibe
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "Περισσότερα"
+
+# @ vibe
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "Sorry, there were no sites found."
+
+# @ vibe
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "Site Directory"
+
+# @ vibe
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "Site registration is currently disabled"
+
+# @ vibe
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "All Sites <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "My Sites <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "Create a Site"
+
+# @ vibe
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "ΤΑΞΙΝΟΜΙΣΗ"
+
+# @ vibe
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "Τελευταία σύνδεση"
+
+# @ vibe
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "Νεότερα"
+
+# @ vibe
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "Αλφαβιτικά"
+
+# @ vibe
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ vibe
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "ΠΤΥΧΙΟ ΓΙΑ ΤΗΝ ΠΑΡΑΚΟΛΟΥΘΗΣΗ"
+
+# @ vibe
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "Απονέμεται σε"
+
+# @ vibe
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "για την επιτυχή ολοκλήρωση του κύκλου μαθημάτων"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ vibe
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "ΟΝΟΜΑ"
+
+# @ vibe
+# @ pmpro
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "Email"
+
+# @ vibe
+#: comments.php:29
+msgid "Comment"
+msgstr "Σχόλιο"
+
+# @ vibe
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "Website"
+
+# @ vibe
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "Δημοσίευση αξιολόγησης"
+
+# @ vibe
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "Γράψτε μια κριτική"
+
+# @ vibe
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "Αξιολόγηση  του μαθήματος"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ vibe
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "Δεν βρεθηκαν αξιολογησεις"
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ vibe
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "ΠΕΡΙΣΣΟΤΕΡΑ"
+
+# @ vibe
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "ΛΙΓΟΤΕΡΑ"
+
+# @ vibe
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr "  ΜΑΘΗΤΕΣ ΕΧΟΥΝ ΕΓΓΡΑΦΕΙ"
+
+# @ vibe
+#: footer.php:19
+msgid "top"
+msgstr "top"
+
+# @ vibe
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "Topic"
+
+# @ vibe
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "Freshness"
+
+# @ vibe
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "Permanent link to this post"
+
+# @ vibe
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "Started by %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "in %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "Sorry, there were no forum topics found."
+
+# @ vibe
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "ΚΑΤΑΛΟΓΟΣ ΤΩΝ Forums"
+
+# @ vibe
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "New Topic"
+
+# @ vibe
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "All Topics <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "My Topics <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "Περισσότερα Posts"
+
+# @ vibe
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "Αναπάντητα"
+
+# @ vibe
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "Create New Topic:"
+
+# @ vibe
+#: forums/index.php:107
+msgid "Title:"
+msgstr "Τίτλος:"
+
+# @ vibe
+#: forums/index.php:110
+msgid "Content:"
+msgstr "Περιεχόμενο:"
+
+# @ vibe
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "Tags (comma separated):"
+
+# @ vibe
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "Post In Group Forum:"
+
+# @ vibe
+#: forums/index.php:119
+msgid "----"
+msgstr "----"
+
+# @ vibe
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "Post Topic"
+
+# @ vibe
+# @ pmpro
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "ΑΚΥΡΩΣΗ"
+
+# @ vibe
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+
+# @ vibe
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "Μόνο οι εκπαιδευτές μπορούν να δημιουργήσουν ομάδες"
+
+# @ vibe
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "Only Admins can create groups"
+
+# @ vibe
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "Όνομα Ομάδας (απαιτείται)"
+
+# @ vibe
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "Περιγραφή Ομάδας (απαιτείται)"
+
+# @ vibe
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "Επιλογές απορρήτου"
+
+# @ vibe
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "Αυτή είναι μια δημόσια ομάδα"
+
+# @ vibe
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "Όλα τα Μέλοι μπορούν να συμμετάσχουν  σε αυτήν την Ομάδα."
+
+# @ vibe
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"This group will be listed in the groups directory and in search results."
+
+# @ vibe
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr "Group content and activity will be visible to any site member."
+
+# @ vibe
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "This is a private group"
+
+# @ vibe
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Μόνο οι χρήστες που ζητούν συμμετοχή στην Ομάδα  και γίνονται δεκτοί μπορούν "
+"να συμμετάσχουν."
+
+# @ vibe
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Το περιεχόμενο και τη δραστηριότητα της Ομάδας θα είναι ορατή στα μέλη της "
+"ομάδας και μόνο."
+
+# @ vibe
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "Αυτή είναι μια κρυφή Ομάδα"
+
+# @ vibe
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "Χριάζεται πρόσκληση για να  συμμετάσχετε στην ομάδα."
+
+# @ vibe
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"This group will not be listed in the groups directory or search results."
+
+# @ vibe
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "Προσκλήσεις Ομάδας"
+
+# @ vibe
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Ποια από τα μέλη αυτής της ομάδας επιτρέπεται να προσκαλέσουν άλλους;"
+
+# @ vibe
+#: groups/create.php:107
+msgid "All group members"
+msgstr "Όλα τα μέλη της Ομάδας"
+
+# @ vibe
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "Group admins and mods only"
+
+# @ vibe
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "Group admins only"
+
+# @ vibe
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "Group Forums"
+
+# @ vibe
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "Έχει αυτή η Ομάδα forum?"
+
+# @ vibe
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "Ενεργοποίηση της συζήτης στο φόρουμ"
+
+# @ vibe
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+
+# @ vibe
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+
+# @ vibe
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "Upload Image"
+
+# @ vibe
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "To skip the avatar upload process, hit the \"Next Step\" button."
+
+# @ vibe
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "Crop Group Avatar"
+
+# @ vibe
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "Avatar to crop"
+
+# @ vibe
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "Avatar preview"
+
+# @ vibe
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "Crop Image"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "Προσκαλέσετε κάποιον από τη λίστα φίλων σας."
+
+# @ vibe
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "Διαγραφή Πρόσκλησης"
+
+# @ vibe
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Μόλις δημιουργήσετα συνδέσεις φιλίας σας θα είστε σε θέση να προσκαλέσετε "
+"τους άλλους στην Ομάδα σας."
+
+# @ vibe
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "Πίσω"
+
+# @ vibe
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "Επόμενο"
+
+# @ vibe
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "Δημιουργίστε μια Ομάδα"
+
+# @ vibe
+#: groups/create.php:329
+msgid "Finish"
+msgstr "Ολοκλήρωση"
+
+# @ vibe
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "active %s"
+
+# @ vibe
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "Συντονιστές"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ vibe
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "Πατήστε enter για να αναζήτηση ..."
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ vibe
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ default
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "Ο λογαριασμός ενεργοποιληθικε"
+
+# @ vibe
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "Ενεργοποίηση του λογαριασμού σας"
+
+# @ vibe
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Ο λογαριασμός σας έχει ενεργοποιηθεί με επιτυχία! Οι λεπτομέρειες του "
+"λογαριασμού σας έχουν αποσταλεί σε email."
+
+# @ vibe
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Ο λογαριασμός σας έχει ενεργοποιηθεί με επιτυχία! <a href=\"%s\">log in</a>"
+
+# @ vibe
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "Please provide a valid activation key."
+
+# @ vibe
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "Activation Key:"
+
+# @ vibe
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "Activate"
+
+# @ vibe
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "User registration is currently not allowed."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "Λεπτομέριες Λογαριασμού"
+
+# @ vibe
+# @ pmpro
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "Username"
+
+# @ vibe
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(απαιτείται)"
+
+# @ vibe
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "Email"
+
+# @ vibe
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "Επιλογή Κωδικού"
+
+# @ pmpro
+# @ vibe
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "Επιβεβαίωση Κωδικού"
+
+# @ vibe
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "Λεπτομέριες Προφίλ"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "Ποιος μπορεί να δει αυτό το πεδίο;"
+
+# @ vibe
+#: registration/register.php:211
+msgid "Close"
+msgstr "Κλείσημο"
+
+# @ vibe
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "Blog Details"
+
+# @ vibe
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "Yes, I'd like to create a new site"
+
+# @ vibe
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "Blog URL"
+
+# @ vibe
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "Site Title"
+
+# @ vibe
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+
+# @ vibe
+#: registration/register.php:324
+msgid "Yes"
+msgstr "ΝΑΙ"
+
+# @ vibe
+#: registration/register.php:325
+msgid "No"
+msgstr "ΟΧΙ"
+
+# @ vibe
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Έχετε δημιουργήσει με επιτυχία τον λογαριασμό σας! Για να αρχίσετε να "
+"χρησιμοποιείτε το  site θα πρέπει να ενεργοποιήσετε τον λογαριασμό σας μέσω "
+"του email που μόλις έχει αποσταλεί στη διεύθυνσή σας."
+
+# @ vibe
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Έχετε δημιουργήσει με επιτυχία το λογαριασμό σας! Παρακαλούμε συνδεθείτε "
+"χρησιμοποιώντας το όνομα χρήστη και τον κωδικό πρόσβασης που μόλις "
+"δημιουργήσατε."
+
+# @ vibe
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "Αναζήτηση Αποτελεσμάτων για \""
+
+# @ vibe
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ vibe
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "Λυπούμαστε, δεν βρέθηκαν αποτελέσματα."
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ vibe
+#: single-course.php:38
+msgid "Home"
+msgstr "Home"
+
+# @ vibe
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "ΣΕΙΡΑ ΜΑΘΗΜΑΤΩΝ"
+
+# @ vibe
+# @ buddypress
+#: single-course.php:40
+msgid "Members"
+msgstr "Μαθητες"
+
+# @ vibe
+#: single-course.php:48
+msgid "Group"
+msgstr "Ομαδα"
+
+# @ vibe
+#: single-course.php:55
+msgid "Forum"
+msgstr "Forum"
+
+# @ vibe
+#: single-course.php:60
+msgid "Admin"
+msgstr "Admin"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ vibe
+#: single-post.php:104
+msgid "Courses"
+msgstr "ΜΑΘΗΜΑΤΑ"
+
+# @ vibe
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "Συνέχεια Quiz"
+
+# @ vibe
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "Ελεγχος αποτελεσματων Quiz "
+
+# @ vibe
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "Επιστροφη στο Μάθημα"
+
+# @ vibe
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "Έναρξη Quiz"
+
+# @ vibe
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "Πρέπει να αγοράσετε αυτό το Μάθημα για να ξεκινήσετε το Quiz"
+
+# @ vibe
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "Attachments"
+
+# @ vibe
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Have Questions ? Ask in the Unit Forums"
+
+# @ wplms_modern
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "ΑΠΑΝΤΗΣΗ"
+
+# @ vibe
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "Απομάκρυνση"
+
+# @ vibe
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ default
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "ΟΛΕΣ ΟΙ ΥΠΟΒΟΛΕΣ ΣΥΝΔΡΟΜΗΣ"
+
+# @ vibe
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "Maximum Marks"
+
+# @ vibe
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "INCORRECT COURSE VALUE. CONTACT ADMIN"
+
+# @ vibe
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+# @ vibe
+#: start.php:76
+msgid " Hours"
+msgstr "ΩΡΕΣ"
+
+# @ vibe
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ vibe
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "Δεν έχετε ορίσει την Σειρά των Μαθημάτων."
+
+# @ vibe
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "ΔΕΝ ΕΧΕΙ ΟΡΙΣΤΕΙ ΠΡΟΓΓΡΑΜΜΑ ΜΑΘΗΜΑΤΩΝ"
+
+# @ vibe
+#: start.php:137
+msgid "Start Course"
+msgstr "Έναρξη του Μαθήματος"
+
+# @ vibe
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:157
+msgid "Previous Unit"
+msgstr "Προιγούμενη Ενότητα"
+
+# @ vibe
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr "ΕΛΕΓΧΟΣ ΑΠΟΤΕΛΕΣΜΑΤΩΝ"
+
+# @ vibe
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "ΣΗΜΙΩΣΗ ΟΣ ΟΛΟΚΛΗΡΟΜΕΝΟ"
+
+# @ vibe
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "Επόμενη Ενότητα"
+
+# @ vibe
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ vibe
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "ΠΙΣΩ ΣΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "ΚΡΙΤΙΚΕΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ "
+
+# @ vibe
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "ΟΛΟΚΛΗΡΩΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ "
+
+#  include the HTML <span>%s</span>
+# @ vibe
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "ΟΛΑ ΤΑ ΜΑΘΗΜΑΤΑ <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "ΤΑ ΜΑΘΗΜΑΤΑ ΠΟΥ ΠΑΡΑΚΟΛΟΥΘΩ <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr " ΤΑ ΜΑΘΗΜΑΤΑ ΠΟΥ ΔΙΔΑΣΚΩ  <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr ""
+
+# @ vibe
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "Νεότερα δημοσιευμένα"
+
+# @ vibe
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "Περισσότεροι Μαθητές"
+
+# @ vibe
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "Υψηλότερη βαθμολογία"
+
+# @ vibe
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Όλες οι Ομάδες <span>%s</span>"
+
+# @ vibe
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "Δημιουργία ομάδας"
+
+# @ vibe
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "Δημιουργήθηκαν πρόσφατα"
+
+# @ vibe
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "Newest Registered"
+
+# @ vibe
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "Συνδεση"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ vibe
+# @ pmpro
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "Password"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ vibe
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Search Results: &ldquo;%s&rdquo;"
+
+# @ vibe
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; ΣΕΛΙΔΑ %s"
+
+# @ vibe
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "ΔΕΝ ΒΡΕΘΙΚΑΝ ΠΡΟΪΟΝΤΑ"
+
+# @ vibe
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΝΤΑΙ ΤΑ ΜΑΘΗΜΑΤΑ"
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Υπάρχουν κάποια προβλήματα στο καλάθι σας. Επιστρέψτε στην σελίδα του "
+"καλαθιού για την επιλύση αυτών πριν το check out."
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "&larr; Επιστροφη στο Καλάθι"
+
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "Χρέωση &amp; "
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "ΔΙΕΥΘΥΝΣΗ ΧΡΕΩΣΗΣ"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Πρέπει να συνδεθείτε για να ολοκλήρωσετε την παραγγελία."
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "Συνεχίστε"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "Η παραγγελία σας"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "Κάντε κλικ για να συνεχίσετε"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr ""
+"Κάντε κλικ εδώ για να αποσυνδεθείτε και να συνδεθείτε ως διαφορετικός χρήστης"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "ΕΧΕΤΕ ΕΓΓΡΑΦΕΙ ?"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "Κάντε κλικ εδώ για να συνδεθείτε"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "ΕΧΕΤΕ ΕΓΓΡΑΦΕΙ"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+"Εάν είστε πελάτης μας, παρακαλούμε συμπληρώστε τα στοιχεία σας στην παρακάτω "
+"φόρμα."
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "Νέος Πελάτης"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "Συνεχίστε ως Επισκέπτης"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "Δημιουργία λογαριασμού εισάγοντας τις παρακάτω πληροφορίες."
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "ΠΡΟΪΟΝΤΑ"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "ΣΥΝΟΛΟ"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "ΜΕΡΙΚΟ ΣΥΝΟΛΟ"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "Κουπόνι:"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "ΣΥΝΟΛΟ ΠΑΡΑΓΓΕΛΙΑΣ"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Δυστυχώς, φαίνεται ότι δεν υπάρχουν διαθέσιμες μεθόδους πληρωμής για την "
+"τοποθεσία σας. Παρακαλώ επικοινωνήστε μαζί μας αν χρειάζεστε βοήθεια."
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "Πληρώμη παραγγελίας"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Αποστολη σε διαφορετική διεύθυνση;"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Πρόσθετες Πληροφορίες"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Παρακαλώ συμπληρώστε τα στοιχεία σας για να δείτε τις διαθέσιμες μεθόδους "
+"πληρωμής."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "ΕΝΗΜΕΡΩΣΗ ΣΥΝΟΛΩΝ"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "Κάντε την παραγγελία"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "Έχω διαβάσει και αποδέχομαι τους"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "ΟΡΟΙ &amp; ΠΡΟΪΠΟΘΕΣΕΙΣ"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Δυστυχώς, η παραγγελία σας δεν μπορεί να επεξεργαστεί,έχει ακυρωθεί η "
+"συναλλαγή σας."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+"Παρακαλώ δοκιμάστε ξανά την αγορά σας ή μεταφερθείτε στη σελίδα του "
+"λογαριασμού σας."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "Παρακαλώ δοκιμάστε ξανά την αγορά σας."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "Πληρωμή"
+
+# @ pmpro
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "Ο Λογαριασμός μου"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "Σας ευχαριστούμε. Η παραγγελία σας έχει παραληφθεί."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "Παραγγελία :"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Ημερομηνία :"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Σύνολο :"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "Τρόποι πληρωμής :"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "ΕΓΓΡΑΦΗ ΣΤΟ ΜΑΘΗΜΑ ΓΙΑ "
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "ΣΥΝΔΡΟΜΗ ΓΙΑ ΟΛΟ ΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "Εγγεγραμμένα Μαθήματα"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "ΜΑΘΗΜΑ"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "ΣΥΝΔΡΟΜΗ"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "ΕΝΑΡΞΗ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "ΑΝΑΜΟΝΗ ΓΙΑ ΕΠΙΒΕΒΑΙΩΣΗ ΤΗΣ ΠΑΡΑΓΓΕΛΙΑΣ ΓΙΑ ΤΗΝ ΕΝΑΡΞΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "ΑΝΑΜΟΝΗ ΓΙΑ ΤΗΝ ΕΓΚΡΙΣΗ ΑΠΟ ΤΟ ΣΥΣΤΗΜΑ"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ vibe
+#~ msgid "Save Answer"
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ ΑΠΑΝΤΗΣΗΣ"
+
+# @ vibe
+#~ msgid "Answer"
+#~ msgstr "ΑΠΑΝΤΗΣΗ"
+
+# @ vibe
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "Προηγούμενες απαντήσεις σε αυτή την ερώτηση"
+
+# @ vibe
+#~ msgid "Clear Answer"
+#~ msgstr "Απαλοιφή απάντηση"
+
+# @ vibe
+#~ msgid "Clear saved Answer"
+#~ msgstr "Εκκαθάριση αποθηκευμένων Απάντησεων"
+
+# @ vibe
+#~ msgid "Course Directory"
+#~ msgstr "ΚΑΤΑΛΟΓΟΣ ΜΑΘΗΜΑΤΩΝ"
+
+# @ vibe
+#~ msgid "All Courses by all instructors"
+#~ msgstr "Όλα τα Μαθήματα απο όλους τους Διδάσκοντες"
+
+# @ vibe
+#~ msgid "You have not subscribed to any courses."
+#~ msgstr "ΔΕΝ ΕΧΕΤΕ ΕΓΓΡΑΦΕΙ ΣΕ ΚΑΠΟΙΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "All Events in "
+#~ msgstr "Όλα τα Events "
+
+# @ default
+#~ msgid "Answer Assignment"
+#~ msgstr "Καταχώρηση Απάντησης"
+
+# @ default
+# @ vibe
+#~ msgid "Upload Assignment"
+#~ msgstr "Upload Assignment"
+
+# @ vibe
+#~ msgid "All Courses by "
+#~ msgstr "ΟΛΑ ΤΑ ΜΑΘΗΜΑΤΑ ΑΠΟ "
+
+# @ vibe
+#~ msgid " Responses on "
+#~ msgstr "ΑΠΑΝΤΗΣΗ ΣΕ "
+
+# @ vibe
+#~ msgid "Leave a Message"
+#~ msgstr "Αφίστε ένα μήνυμα"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a course completion message for students passing this course. This "
+#~ "message is shown to students when students submit their course. The "
+#~ "message is shown above the Course review form"
+#~ msgstr ""
+#~ "Πληκτρολογήστε ένα μήνυμα ολοκλήρωσης του κύκλου μαθημάτων . Αυτό το "
+#~ "μήνυμα εμφανίζεται στους όταν οι μαθητές υποβάλλουν το Μαθημα."
+
+# @ vibe
+#~ msgid "EDIT COURSE"
+#~ msgstr "ΕΠΕΞΕΡΓΑΣΙΑ TOY ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "CREATE COURSE"
+#~ msgstr "ΔΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Start building a course"
+#~ msgstr "ΔΗΜΙΟΥΡΓΙΑ ΝΕΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "SETTINGS"
+#~ msgstr "ΡΥΘΜΙΣΕΙΣ"
+
+# @ vibe
+#~ msgid "Course settings"
+#~ msgstr "ΡΥΘΜΙΣΕΙΣ"
+
+# @ vibe
+#~ msgid "SET CURRICULUM"
+#~ msgstr "ΔΗΜΙΟΥΡΓΙΑ ΠΡΟΓΡΑΜΜΑΤΟΣ ΜΑΘΗΜΑΤΩΝ"
+
+# @ vibe
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "ΠΡΟΣΘΗΚΗ ΕΝΟΤΗΤΩΝ ΚΑΙ ΚΟΥΙΖ"
+
+# @ vibe
+#~ msgid "PRICING"
+#~ msgstr "ΤΙΜΟΛΟΓΗΣΗ"
+
+# @ vibe
+#~ msgid "Set Price for Course"
+#~ msgstr "Οριστε τιμη για το Μαθημα"
+
+# @ vibe
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Go Live !"
+#~ msgstr "Go Live !"
+
+# @ vibe
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "Edit in Admin Panel"
+
+# @ vibe
+#~ msgid "COURSE TITLE"
+#~ msgstr "ΤΙΤΛΟΣ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "ΔΩΣΤΕ ΕΝΑ ΤΙΤΛΟ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "ΚΑΤΗΓΟΡΙΑ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Select a Course Category"
+#~ msgstr "Επιλέξτε μια Κατηγορία Μαθήματος"
+
+# @ vibe
+#~ msgid "Add new category"
+#~ msgstr "Προσθήκη νέας κατηγορίας"
+
+# @ vibe
+#~ msgid "Enter a new Course Category"
+#~ msgstr "Πληκτρολογήστε μια νέα Κατηγορία Μαθήματος"
+
+# @ vibe
+#~ msgid "COURSE IMAGE"
+#~ msgstr "ΟΙΚΟΝΑ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "ΠΕΡΙΓΡΑΦΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "Πληκτρολογήστε μια σύντομη περιγραφή του μαθήματος, σε λιγότερο από 30 "
+#~ "λέξεις. Κάντε κλικ στο κείμενο για να το επεξεργαστείτε ή διαγράψετε αυτό "
+#~ "το κείμενο. Πλήρης περιγραφή του μαθήματος θα προστεθεί αργότερα."
+
+# @ vibe
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "ΣΥΝΔΕΣΕΙΣ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "Select Linkage term"
+#~ msgstr "Select Linkage term"
+
+# @ vibe
+#~ msgid "Add new Linkage term"
+#~ msgstr "Add new Linkage term"
+
+# @ vibe
+#~ msgid "Enter a new Linkage"
+#~ msgstr "Enter a new Linkage"
+
+# @ vibe
+#~ msgid "Change Course Status"
+#~ msgstr "ΑΛΛΑΓΗ ΤΗΣ ΚΑΤΑΣΤΑΣΗΣ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Online"
+#~ msgstr "Online"
+
+# @ vibe
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+# @ vibe
+#~ msgid "SAVE COURSE"
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Course Settings"
+#~ msgstr "ΡΥΘΜΗΣΕΙΣ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Course Duration"
+#~ msgstr "Διάρκεια"
+
+# @ vibe
+#~ msgid "Maximum Course Duration"
+#~ msgstr "ΜΕΓΙΣΤΗ ΔΙΑΡΚΕΙΑ"
+
+# @ vibe
+#~ msgid "Course Evaluation"
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Manual"
+#~ msgstr "Manual"
+
+# @ vibe
+#~ msgid "Automatic"
+#~ msgstr "Automatic"
+
+# @ vibe
+#~ msgid "Pre-required Course"
+#~ msgstr "ΠΡΟΑΠΑΙΤΟΥΜΕΝΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "ΠΡΟΑΠΑΙΤΟΥΜΕΝΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "None"
+#~ msgstr "Κανένα"
+
+# @ vibe
+#~ msgid "Drip Feed"
+#~ msgstr "ΠΛΕΓΜΑ"
+
+# @ vibe
+#~ msgid "Disable"
+#~ msgstr "Απενεργοποίηση"
+
+# @ vibe
+#~ msgid "Enable"
+#~ msgstr "Ενεργοποίηση"
+
+# @ vibe
+#~ msgid "Set Drip Feed Duration"
+#~ msgstr "ΔΙΑΡΚΕΙΑ"
+
+# @ vibe
+#~ msgid "Course Certificate"
+#~ msgstr "ΠΙΣΤΟΠΟΙΗΤΙΚΟ ΠΑΡΑΚΟΛΟΥΘΗΣΗΣ"
+
+# @ vibe
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "ΠΟΣΟΣΤΟ ΕΠΙΤΥΧΙΑΣ"
+
+# @ vibe
+#~ msgid "out of 100"
+#~ msgstr " ΣΤΑ 100"
+
+# @ vibe
+#~ msgid "Set Certificate Template"
+#~ msgstr "ΟΡΙΣΤΕ ΤΟ ΠΡΟΤΥΠΟ ΓΙΑ ΤΟ ΠΙΣΤΟΠΟΙΗΤΙΚΟ"
+
+# @ vibe
+#~ msgid "Default Template"
+#~ msgstr "Default Template"
+
+# @ vibe
+#~ msgid "Course Badge"
+#~ msgstr "ΔΙΑΚΡΙΤΙΚΟ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Set Badge Percentage"
+#~ msgstr "ΟΡΙΣΤΕ ΕΝΑ ΔΙΑΚΡΙΤΙΚΟ ΣΗΜΑ ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid " out of 100"
+#~ msgstr " ΣΤΑ 100"
+
+# @ vibe
+#~ msgid "Set Badge Title"
+#~ msgstr "ΟΡΙΣΤΕ ΕΝΑΝ ΤΙΤΛΟ ΓΙΑ ΤΟ ΔΙΑΚΡΙΤΙΚΟ"
+
+# @ vibe
+#~ msgid "Upload Badge Image"
+#~ msgstr "ΟΡΙΣΤΕ ΜΙΑ ΦΩΤΟΓΡΑΦΙΑ ΓΙΑ ΔΙΑΚΡΙΤΙΚΟ"
+
+# @ vibe
+#~ msgid "Course Start Date"
+#~ msgstr "ΕΚΚΙΝΗΣΗ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Set Course Start Date"
+#~ msgstr "ΟΡΙΣΤΕ ΗΜΕΡΟΜΗΝΙΑ ΕΚΚΙΝΗΣΗΣ"
+
+# @ vibe
+#~ msgid "Course Group"
+#~ msgstr "ΟΜΑΔΑ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Connect a Course Group"
+#~ msgstr "ΣΥΝΔΕΣΗ ΟΜΑΔΑΣ ΜΕ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "Add new Group"
+#~ msgstr "ΔΗΜΗΟΥΡΓΙΑ ΝΕΑΣ ΟΜΑΔΑΣ"
+
+# @ vibe
+#~ msgid "Course Forum"
+#~ msgstr "Forum ΓΙΑ ΤΟ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "Connect a Course Forum"
+#~ msgstr "Σύνδεση του Μαθήματος με Forum"
+
+# @ vibe
+#~ msgid "Connect the Group forum"
+#~ msgstr "Σύνδεση της Ομάδας με forum"
+
+# @ vibe
+#~ msgid "Add new forum"
+#~ msgstr "Προσθίκη νέου forum"
+
+# @ vibe
+#~ msgid "Course Completion Message"
+#~ msgstr "ΜΗΝΥΜΑ ΕΠΙΤΥΧΙΑΣ "
+
+# @ vibe
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ ΤΩΝ ΡΥΘΜΙΣΕΩΝ"
+
+# @ vibe
+#~ msgid "Course Curriculum"
+#~ msgstr "ΣΕΙΡΑ ΜΑΘΗΜΑΤΩΝ"
+
+# @ vibe
+#~ msgid "ADD SECTION"
+#~ msgstr "ΠΡΟΣΘΗΚΗ ΕΝΟΤΗΤΑΣ"
+
+# @ vibe
+#~ msgid "ADD UNIT"
+#~ msgstr "ΠΡΟΣΘΗΚΗ ΠΕΡΙΕΧΟΜΕΝΟΥ"
+
+# @ vibe
+#~ msgid "ADD QUIZ"
+#~ msgstr "ΠΡΟΣΘΗΚΗ KOYIZ"
+
+# @ vibe
+#~ msgid "Edit Unit"
+#~ msgstr "Επεξεργασία"
+
+# @ vibe
+#~ msgid "Delete"
+#~ msgstr "ΔΙΑΓΡΑΦΗ"
+
+# @ vibe
+#~ msgid "Edit Quiz"
+#~ msgstr "Επεξεργασία"
+
+# @ vibe
+#~ msgid "SELECT A UNIT"
+#~ msgstr "Επιλέξτε μια μονάδα"
+
+# @ vibe
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "ΠΡΟΣΘΕΣΤΕ ΝΕΑ ΜΟΝΑΔΑ"
+
+# @ vibe
+#~ msgid "Add a unit title"
+#~ msgstr "Προσθέστε έναν τίτλο"
+
+# @ vibe
+#~ msgid "Publish"
+#~ msgstr "ΔΗΜΟΣΙΕΥΣΗ"
+
+# @ vibe
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "ΕΠΙΛΕΞΤΕ ENA KOYIZ"
+
+# @ vibe
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "ΠΡΟΣΘΗΚΗ ΝΕΟΥ ΚΟΥΙΖ"
+
+# @ vibe
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ ΣΠΟΥΔΟΝ"
+
+# @ vibe
+#~ msgid "COURSE PRICING"
+#~ msgstr "ΚΟΣΤΟΣ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Free Course"
+#~ msgstr "ΔΩΡΕΑΝ "
+
+# @ vibe
+#~ msgid "Set a Course Product"
+#~ msgstr "ΟΡΙΣΤΕ ΕΝΑ ΠΡΟΪΟΝ ΩΣ ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "Select a Course Product"
+#~ msgstr "Select a Course Product"
+
+# @ vibe
+#~ msgid "No Product"
+#~ msgstr "No Product"
+
+# @ vibe
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "ADD NEW PRODUCT"
+
+# @ vibe
+#~ msgid "Set Product type"
+#~ msgstr "ΤΥΠΟΣ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Full Course"
+#~ msgstr "Full Course"
+
+# @ vibe
+#~ msgid "Subscription"
+#~ msgstr "Συνδρομή"
+
+# @ vibe
+#~ msgid "Set Product Price"
+#~ msgstr "ΟΡΙΣΤΕ ΤΙΜΗ"
+
+# @ vibe
+#~ msgid "Set Subscription duration"
+#~ msgstr "Διαρκεια συνδρομής"
+
+# @ vibe
+#~ msgid "Set Course Memberships"
+#~ msgstr "Συνδρομή για το Μάθημα"
+
+# @ vibe
+#~ msgid "Save Course Pricing"
+#~ msgstr "ΚΟΣΤΟΛΟΓΗΣΗ"
+
+# @ default
+#~ msgid "Go Live"
+#~ msgstr "Go Live"
+
+# @ vibe
+#~ msgid "GO LIVE"
+#~ msgstr "GO LIVE"
+
+# @ vibe
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "SEND FOR APPROVAL"
+
+# @ vibe
+#~ msgid ""
+#~ "Click on text to enter a Course title, delete the existing text in the "
+#~ "title"
+#~ msgstr ""
+#~ "Κάντε κλικ για να προσθέσετε τον τίτλο, διαγράψτε το υπάρχον κείμενο"
+
+# @ vibe
+#~ msgid "Select a Course Category, or Add a New one"
+#~ msgstr "Επιλέξτε μια κατηγορία για το Μάθημα ή προσθέστε μια νέα"
+
+# @ vibe
+#~ msgid ""
+#~ "Select or upload a course image, this image is used as Course avatar."
+#~ msgstr ""
+#~ "Επιλέξτε ή ανεβάσετε μια εικόνα, αυτή η εικόνα θα χρησιμοποιείθει ως "
+#~ "εικόνα του μαθήματος."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a Short description about the course, the full description can be "
+#~ "added later on. Start by deleting the existing text in the title"
+#~ msgstr ""
+#~ "Πληκτρολογήστε μια σύντομη περιγραφή για το Μάθημα, η πλήρης περιγραφή "
+#~ "μπορεί να προστεθεί αργότερα. Ξεκινήστε με τη διαγραφή του υπάρχοντος "
+#~ "κειμένου στον τίτλο"
+
+# @ vibe
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "Σύνδεση μειώνει σημαντικά τις λίστες μονάδες / κουίζ / ερώτημα που "
+#~ "φορτώνονται στη σελίδα. Μόλις επιλεγεί ένας όρος , οι κατάλογοι θα είναι "
+#~ "μόνο μονάδες / κουίζ / ερωτήματα που συνδέονται με τον ίδιο όρο σύνδεσης. "
+#~ "Εάν επεξεργάζεστε ένα Μάθημα, αποθηκεύσετε και ανανεώσετε μετά την "
+#~ "επιλογή ενός όρου Συνδέσμου."
+
+# @ vibe
+#~ msgid "A Offline Course is not visible to students in the course directory."
+#~ msgstr ""
+#~ "Η επιλογή  Offline το καθιστά μη ορατό για τους μαθητές στον κατάλογο."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the maximum duration for the course in days. This is the maximum "
+#~ "duration within which the student should complete the course. Use 9999 "
+#~ "for unlimited access to course."
+#~ msgstr ""
+#~ "Εισάγετε τη μέγιστη διάρκεια παρακολούθησης για το Μάθημα. Αυτή είναι η "
+#~ "μέγιστη διάρκεια μέσα στην οποία πρέπει να ολοκληρωθεί το Μάθημα. Χρήση "
+#~ "9999 για απεριόριστη πρόσβαση στο μάθημα."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr "Ορίστε ένα προ-απαιτούμενο μάθημα. "
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Drip Feed course. Students see next lesson after x days. X is "
+#~ "Duration of Drip. "
+#~ msgstr ""
+#~ "Ενεργοποιήστε ένα πλέγμα Μαθημάτων. Οι μαθητές βλέπουν το  επόμενο μάθημα "
+#~ "μετά από X ημέρες. "
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "Ορίστε ένα Πιστοποιητικό Παρακολούθησης. Ρυθμίστε το ποσοστό επιτυχίας "
+#~ "που ένας φοιτητής θα πρέπει να επιτύχει για να πάρει το Πιστοποιητικό "
+#~ "Παρακολούθησης."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a course Badge. Set percentage marks which a student should get to "
+#~ "get the course badge. Upload the Badge image."
+#~ msgstr ""
+#~ "Ορίστε ένα Διακριτικό σήμα για το Μάθημα . Ρυθμίστε το ποσοστό επιτυχίας "
+#~ "για την απόδοση του Διακριτικού επιτυχίας για το Μάθημα. Φορτώστε κάποια "
+#~ "εικόνα."
+
+# @ vibe
+#~ msgid ""
+#~ "Set number of seats available for students to take the course. Once full "
+#~ "students can not join the course. Enter 9999 for unlimited seats."
+#~ msgstr ""
+#~ "Ορίστε τον αριθμό των διαθέσιμων θέσεων για τους Μαθητές. Μόλις "
+#~ "συμπληρωθούν δεν θα μπορούν να συμμετέχουν άλλοι. Πληκτρολογήστε 9999 για "
+#~ "απεριόριστες θέσεις."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join "
+#~ "the course on/after the start date."
+#~ msgstr ""
+#~ "Ορίστε μια ημερομηνία έναρξης για το Μάθημα. Αν οριστεί μία ημερομηνία "
+#~ "μετά, οι μαθητές μπορούν να συμμετάσχουν μόνο μετά την ημερομηνία έναρξης."
+
+# @ vibe
+#~ msgid "Connect a Course Group OR Create a new one"
+#~ msgstr "Συνδέστε το Μάθημα με  μια Ομάδα ή δημιουργήσετε μια νέα"
+
+# @ vibe
+#~ msgid ""
+#~ "Connect a Course forum Or Create a new one or Create a Course Group Forum"
+#~ msgstr "ΣΥΝΔΕΣΤΕ ΕΝΑ ΜΑΘΗΜΑ ΜΕ FORUM Ή ΔΗΜΙΟΥΡΓΗΣΤΕ ΕΝΑ ΝΕΟ"
+
+# @ vibe
+#~ msgid "Enter message which student see after submitting the course."
+#~ msgstr ""
+#~ "Πληκτρολογήστε το μήνυμα που βλέπει ο Μαθητής μετά την παρακολούθηση του "
+#~ "Μαθήματος."
+
+# @ vibe
+#~ msgid "Start building curriculum by adding Units, Quizzes and sections."
+#~ msgstr ""
+#~ "Ξεκινήστε το προγράμμα των σπουδών με την προσθήκη Ενοτήτων, Κουίζ και "
+#~ "Τμήματων."
+
+# @ vibe
+#~ msgid "After adding a new unit or quiz, make sure you publish it"
+#~ msgstr ""
+#~ "Μετά την προσθήκη μιας νέας ενότητας ή κουίζ, φροντίστε να το δημοσιεύσετε"
+
+# @ vibe
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "Αποθηκεύστε το πρόγραμμα σπουδών μόνο όταν το κουμπί είναι πράσινο."
+
+# @ vibe
+#~ msgid ""
+#~ "Connect the course with a product. A product defines the pricing of a "
+#~ "course.<br /><br />a. Enter the Price of the product to set the price of "
+#~ "your course.<br />b. Select the type of product.<br /><br /> If product "
+#~ "is set to subscription mode, you need to set the subscription duration "
+#~ "for the product. <br />A student purchasing a Product with subscription "
+#~ "gets access for the course for the subscription duration.<br /> A student "
+#~ "purchasing a product without subscription gets access for the course for "
+#~ "full course duration as entered in course settings."
+#~ msgstr ""
+#~ "Σύνδεση Μαθήματος με κάποιο προϊόν. Ένα προϊόν καθορίζει την τιμή του "
+#~ "Μαθήματος.<br /><br />a. Εισάγετε την τιμή του προϊόντος που καθορίσει "
+#~ "την τιμή του Μαθήματος<br />b. Επιλέξτε τον τύπο του προϊόντος.<br /><br /"
+#~ "> Εάν το προϊόν ορίζεται σε λειτουργία συνδρομής, θα πρέπει να ορίσετε τη "
+#~ "διάρκεια συνδρομής για το προϊόν <br />Ένας Μαθητής κατά την αγορά ενός "
+#~ "προϊόντος με συνδρομή αποκτά πρόσβαση στο Μάθημα μόνο για την διάρκεια "
+#~ "που θα ορίσετε.<br /> Ένας Μαθητής με την αγορά ενός προϊόντος χωρίς "
+#~ "συνδρομή αποκτάει πρόσβαση για το Μάθημα για την  διάρκεια που τέθηκε "
+#~ "στις ρυθμίσεις του  Μαθήματος."
+
+# @ vibe
+#~ msgid ""
+#~ "Go live with your course if \"Publish\" access is granted by "
+#~ "Administrator you course will be live as soon as you click on Go Live "
+#~ "button."
+#~ msgstr ""
+#~ "Δημοσιεύστε το Μάθημά σας αν\"Publish\" το Μάθημα θα είναι online μόλις "
+#~ "κάνετε κλικ στο κουμπί Go Live."
+
+# @ vibe
+#~ msgid "Sign Up"
+#~ msgstr "Εγγραφη"
+
+# @ vibe
+#~ msgid "INSTRUCTORS"
+#~ msgstr "ΕΚΠΑΙΔΕΥΤΕΣ"
+
+# @ vibe
+#~ msgid "Course Info"
+#~ msgstr "Πληροφορίες Μαθήματος"
+
+# @ vibe
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "ΠΡΟΣΚΑΛΕΣΤΕ ΞΑΝΑ ΜΑΘΗΤΕΣ"
+
+# @ vibe
+#~ msgid "SEND INVITATION"
+#~ msgstr "ΑΠΟΣΤΟΛΗ ΠΡΟΣΚΛΗΣΗΣ"
+
+# @ vibe
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "ΑΠΟΣΤΟΛΗ EMAIL ΥΠΕΝΘΥΜΗΣΗΣ"
+
+# @ vibe
+#~ msgid "SUBJECT"
+#~ msgstr "ΘΕΜΑ"
+
+# @ vibe
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "ΜΗΝΥΜΑ ΠΡΟΣΚΛΗΣΗΣ"
+
+# @ vibe
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "ΑΠΟΣΤΟΛΗ ΠΡΟΣΚΛΗΣΕΩΝ"
+
+# @ vibe
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "ΥΠΕΝΘΥΜΗΣΗ ΜΗΝΥΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "SEND REMINDER"
+#~ msgstr "ΑΠΟΣΤΟΛΗ ΥΠΕΝΘΥΜΗΣΗΣ"
+
+# @ vibe
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr ""
+#~ "Υπενθυμίσεις είναι email που αποστέλλονται στους Μαθητές οι οποίοι έχουν "
+#~ "αποδεχθεί την πρόσκληση στο Event."
+
+# @ vibe
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "ΑΠΟΔΟΧΗ ΠΡΟΣΚΛΗΣΗΣ"
+
+# @ vibe
+#~ msgid "REJECT INVITE"
+#~ msgstr "ΑΠΟΡΡΙΨΗ ΠΡΟΣΚΛΗΣΗΣ"
+
+# @ vibe
+#~ msgid "Event Location"
+#~ msgstr "Τοποθεσία του Event"
+
+# @ vibe
+#~ msgid "Course"
+#~ msgstr "ΜΑΘΗΜΑ"
+
+# @ vibe
+#~ msgid "A Section added by hook"
+#~ msgstr "A Section added by hook"
+
+# @ vibe
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+
+# @ vibe
+#~ msgid "Folow me on Twitter"
+#~ msgstr "Folow me on Twitter"
+
+# @ vibe
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "Be our Fan on Facebook"
+
+# @ vibe
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "Follow us on Google Plus"
+
+# @ vibe
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "Latest News from VibeThemes"
+
+# @ vibe
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr "Vibe Options Panel v 2.0"
+
+# @ vibe
+#~ msgid "Support"
+#~ msgstr "Support"
+
+# @ vibe
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "We provide support via three mediums (in priority)"
+
+# @ vibe
+#~ msgid "Support Email: VibeThemes@gmail.com"
+#~ msgstr "Support Email: VibeThemes@gmail.com"
+
+# @ vibe
+#~ msgid "ThemeForest Item Comments"
+#~ msgstr "ThemeForest Item Comments"
+
+# @ vibe
+#~ msgid "Documentation & Links"
+#~ msgstr "Documentation & Links"
+
+# @ vibe
+#~ msgid "Or email us at"
+#~ msgstr "Or email us at"
+
+# @ vibe
+#~ msgid "Getting Started"
+#~ msgstr "Getting Started"
+
+# @ vibe
+#~ msgid "See Theme documentation : "
+#~ msgstr "See Theme documentation : "
+
+# @ vibe
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+
+# @ vibe
+#~ msgid "Other important setups. "
+#~ msgstr "Other important setups. "
+
+# @ vibe
+#~ msgid "Full Theme Guide"
+#~ msgstr "Full Theme Guide"
+
+# @ vibe
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "How to Update? Facing Issues while updating?"
+
+# @ vibe
+#~ msgid "Enter Your Themeforest Username"
+#~ msgstr "Enter Your Themeforest Username"
+
+# @ vibe
+#~ msgid "Required for Automatic Upgrades."
+#~ msgstr "Required for Automatic Upgrades."
+
+# @ vibe
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr "Enter Your Themeforest API KEY"
+
+# @ vibe
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr "Please Enter your API Key.Required for Automatic Upgrades."
+
+# @ vibe
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "Whats an API KEY? Where can I find one?"
+
+# @ vibe
+#~ msgid "Header"
+#~ msgstr "Header"
+
+# @ vibe
+#~ msgid "Header settings"
+#~ msgstr "Header settings"
+
+# @ vibe
+#~ msgid "Upload Logo"
+#~ msgstr "Upload Logo"
+
+# @ vibe
+#~ msgid "Upload your logo"
+#~ msgstr "Upload your logo"
+
+# @ vibe
+#~ msgid "This Logo is shown in header."
+#~ msgstr "This Logo is shown in header."
+
+# @ vibe
+#~ msgid "Upload Favicon"
+#~ msgstr "Upload Favicon"
+
+# @ vibe
+#~ msgid "Upload 16x16px Favicon"
+#~ msgstr "Upload 16x16px Favicon"
+
+# @ vibe
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "Upload 16x16px Favicon."
+
+# @ vibe
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "Fix Top Header on Scroll"
+
+# @ vibe
+#~ msgid "Fix header on top of screen"
+#~ msgstr "Fix header on top of screen"
+
+# @ vibe
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr "header is fixed to top as user scrolls down."
+
+# @ vibe
+#~ msgid "Static"
+#~ msgstr "Static"
+
+# @ vibe
+#~ msgid "Navigation Search as Course Search"
+#~ msgstr "Navigation Search as Course Search"
+
+# @ vibe
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "Force the header search to search only in courses"
+
+# @ vibe
+#~ msgid "Sidebar Manager"
+#~ msgstr "Sidebar Manager"
+
+# @ vibe
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr "Generate more sidebars dynamically and use them in various layouts"
+
+# @ vibe
+#~ msgid "Create New sidebars "
+#~ msgstr "Create New sidebars "
+
+# @ vibe
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "Dynamically generate sidebars"
+
+# @ vibe
+#~ msgid "All Events page Sidebar"
+#~ msgstr "All Events page Sidebar"
+
+# @ vibe
+#~ msgid "Select All events page sidebar"
+#~ msgstr "Select All events page sidebar"
+
+# @ vibe
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "Select a sidebar for all events page"
+
+# @ vibe
+#~ msgid "Buddypress"
+#~ msgstr "Buddypress"
+
+# @ vibe
+#~ msgid "BuddyPress settings and Variables"
+#~ msgstr "BuddyPress settings and Variables"
+
+# @ vibe
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "Buddypress Items Per Page"
+
+# @ vibe
+#~ msgid "number of items shown per page"
+#~ msgstr "number of items shown per page"
+
+# @ vibe
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+
+# @ vibe
+#~ msgid "All Members View"
+#~ msgstr "All Members View"
+
+# @ vibe
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "All members pages can be viewed by:"
+
+# @ vibe
+#~ msgid ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+
+# @ vibe
+#~ msgid "All"
+#~ msgstr "All"
+
+# @ vibe
+#~ msgid "Teachers only"
+#~ msgstr "ΕΙΣΗΓΗΤΕΣ ΜΟΝΟ"
+
+# @ vibe
+#~ msgid "Admins only"
+#~ msgstr "Admins only"
+
+# @ vibe
+#~ msgid "Single Member Profile View"
+#~ msgstr "Single Member Profile View"
+
+# @ vibe
+#~ msgid "Single members profile can be viewed by:"
+#~ msgstr "Single members profile can be viewed by:"
+
+# @ vibe
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "All Members no-access redirect Page"
+
+# @ vibe
+#~ msgid "User is redirected to this page on error."
+#~ msgstr "User is redirected to this page on error."
+
+# @ vibe
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+
+# @ vibe
+#~ msgid "Activity View"
+#~ msgstr "Activity View"
+
+# @ vibe
+#~ msgid "Activity can be viewed by :"
+#~ msgstr "Activity can be viewed by :"
+
+# @ vibe
+#~ msgid ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "Activity no-access redirect Page"
+
+# @ vibe
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+
+# @ vibe
+#~ msgid "Create Groups"
+#~ msgstr "ΔΗΜΙΟΥΡΓΙΑ"
+
+# @ vibe
+#~ msgid "Groups can be created by :"
+#~ msgstr "Groups can be created by :"
+
+# @ vibe
+#~ msgid ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+
+# @ vibe
+#~ msgid "Profile Activity Tab"
+#~ msgstr "Profile Activity Tab"
+
+# @ vibe
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "Single Profile activity can be viewed by :"
+
+# @ vibe
+#~ msgid "Profile Group View"
+#~ msgstr "Profile Group View"
+
+# @ vibe
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "Single Profile Groups can be viewed by :"
+
+# @ vibe
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Profile Forums View"
+#~ msgstr "Profile Forums View"
+
+# @ vibe
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "Single Profile Forums can be viewed by :"
+
+# @ vibe
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr "User is redirected to this page on activating her account."
+
+# @ vibe
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+
+# @ vibe
+#~ msgid "Enable Join Group/Request Membership button"
+#~ msgstr "Enable Join Group/Request Membership button"
+
+# @ vibe
+#~ msgid "Button is shown in Groups directory"
+#~ msgstr "Button is shown in Groups directory"
+
+# @ vibe
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+
+# @ vibe
+#~ msgid "Restrict Student activity view"
+#~ msgstr "Restrict Student activity view"
+
+# @ vibe
+#~ msgid "Restrict student view of activity"
+#~ msgstr "Restrict student view of activity"
+
+# @ vibe
+#~ msgid "Student can view only her activity"
+#~ msgstr "Student can view only her activity"
+
+# @ vibe
+#~ msgid "Student Activity"
+#~ msgstr "ΔΡΑΣΤΗΡΙΟΤΗΤΑ ΜΑΘΗΤΩΝ"
+
+# @ vibe
+#~ msgid "Student Field"
+#~ msgstr "Student Field"
+
+# @ vibe
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "Enter the name of the Student Field to show below the name."
+
+# @ vibe
+#~ msgid "Instructor Field Group"
+#~ msgstr "Instructor Field Group"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+
+# @ vibe
+#~ msgid "Instructor Field"
+#~ msgstr "Instructor Field"
+
+# @ vibe
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr "Enter the name of the Instructor Field to show below the name."
+
+# @ vibe
+#~ msgid "Instructor Description Field"
+#~ msgstr "Instructor Description Field"
+
+# @ vibe
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+
+# @ vibe
+#~ msgid "Course Manager"
+#~ msgstr "Course Manager"
+
+# @ vibe
+#~ msgid "Manage Course Options from here."
+#~ msgstr "Manage Course Options from here."
+
+# @ vibe
+#~ msgid "Take This Course Page"
+#~ msgstr "Take This Course Page"
+
+# @ vibe
+#~ msgid "A Page with Start Course Page Template"
+#~ msgstr "A Page with Start Course Page Template"
+
+# @ vibe
+#~ msgid "Admin Approval for Course"
+#~ msgstr "Admin Approval for Course"
+
+# @ vibe
+#~ msgid "Force instructors for Admin approval for new course"
+#~ msgstr "Force instructors for Admin approval for new course"
+
+# @ vibe
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+
+# @ vibe
+#~ msgid "Unit Locking"
+#~ msgstr "ΚΛΕΙΔΩΜΑ ΕΝΟΤΗΤΑΣ"
+
+# @ vibe
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr "Η ΠΡΟΣΒΑΣΗ ΣΤΗΝ ΕΠΟΜΕΝΗ ΕΝΟΤΗΤΑ ΒΑΣΙΖΕΤΑΙ ΣΤΗΝ ΠΡΟΪΓΟΥΜΕΝΗ"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "ΟΙ ΧΡΗΣΤΕΣ ΠΡΕΠΕΙ ΝΑ ΟΛΟΚΛΗΡΩΣΟΥΝ ΤΙΣ ΠΡΟΪΓΟΥΜΕΝΕΣ ΕΝΟΤΗΤΕΣ ΚΑΙ ΚΟΥΙΖ ΓΙΑ "
+#~ "ΝΑ ΠΡΟΧΩΡΙΣΟΥΝ ΣΤΑ ΕΠΟΜΕΝΑ"
+
+# @ vibe
+#~ msgid "Free Access"
+#~ msgstr "ΔΩΡΕΑΝ ΠΡΟΣΒΑΣΗ"
+
+# @ vibe
+#~ msgid "Force prev Unit/Quiz Complete"
+#~ msgstr "ΣΗΜΙΩΣΗ ΩΣ ΟΛΟΚΛΗΡΟΜΕΝΟ"
+
+# @ vibe
+#~ msgid "Unit Media Lock"
+#~ msgstr "Unit Media Lock"
+
+# @ vibe
+#~ msgid ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+
+# @ vibe
+#~ msgid "Assignment Locking"
+#~ msgstr "Αποθήκευση καταχωρήσεων"
+
+# @ vibe
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr "Force users to finish assignments to complete units"
+
+# @ vibe
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+
+# @ vibe
+#~ msgid "Lock Unit Completion"
+#~ msgstr "Lock Unit Completion"
+
+# @ vibe
+#~ msgid "Show Course Progressbar"
+#~ msgstr "Show Course Progressbar"
+
+# @ vibe
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "Show course progress bar above course timeline"
+
+# @ vibe
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "Course Progress bar is shown in Course curriculum page"
+
+# @ vibe
+#~ msgid "Instructors can Add Students"
+#~ msgstr "Οι εκπαιδευτές μπορούν να προσθέσουν Μαθητές"
+
+# @ vibe
+#~ msgid "Enable Instructors to be able to add students"
+#~ msgstr "Enable Instructors to be able to add students"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+
+# @ vibe
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr ""
+#~ "Οι εκπαιδευτές μπορούν να Προσθέτουν/ Αφαιρούν Πιστοποιητικά & Διακριτικά"
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+
+# @ vibe
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "Force Instructor Content Privacy"
+
+# @ vibe
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr "Select boxes show only instructor units/quizzes/questions"
+
+# @ vibe
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr "Instructors can view titles but can not open content"
+
+# @ vibe
+#~ msgid "A Page with become a teacher form."
+#~ msgstr "A Page with become a teacher form."
+
+# @ vibe
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "Fallback Certificate Page"
+
+# @ vibe
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+
+# @ vibe
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "Auto-Evaluation Question Types"
+
+# @ vibe
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "Question types which will be evaluated by Auto-Evaluation"
+
+# @ vibe
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+#~ msgstr ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+
+# @ vibe
+#~ msgid "True False"
+#~ msgstr "True False"
+
+# @ vibe
+#~ msgid "Multiple Choice"
+#~ msgstr "Multiple Choice"
+
+# @ vibe
+#~ msgid "Multiple Correct"
+#~ msgstr "Multiple Correct"
+
+# @ vibe
+#~ msgid "Sort Answer Question"
+#~ msgstr "Sort Answer Question"
+
+# @ vibe
+#~ msgid "Match Answers"
+#~ msgstr "Match Answers"
+
+# @ vibe
+#~ msgid "Dropdown select"
+#~ msgstr "Dropdown select"
+
+# @ vibe
+#~ msgid "Fill in the Blank"
+#~ msgstr "Fill in the Blank"
+
+# @ vibe
+#~ msgid "Small Text Answer"
+#~ msgstr "Small Text Answer"
+
+# @ vibe
+#~ msgid "Hide Courses from Directory"
+#~ msgstr "ΑΠΟΚΡΥΨΗ ΜΑΘΗΜΑΤΟΣ ΑΠΟ ΤΟΝ ΚΑΤΑΛΟΓΟ"
+
+# @ vibe
+#~ msgid "Seconds"
+#~ msgstr "ΔΕΥΤΕΡΟΛΕΠΤΑ"
+
+# @ vibe
+#~ msgid "Days"
+#~ msgstr "Ημέρες"
+
+# @ vibe
+#~ msgid "Weeks"
+#~ msgstr "ΕΒΔΟΜΑΔΕΣ "
+
+# @ vibe
+#~ msgid "Months"
+#~ msgstr "ΜΗΝΕΣ "
+
+# @ vibe
+#~ msgid "Years"
+#~ msgstr "ΧΡΟΝΙΑ "
+
+# @ vibe
+#~ msgid "Finished Course Access"
+#~ msgstr "Finished Course Access"
+
+# @ vibe
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "Allow students to view Finished courses"
+
+# @ vibe
+#~ msgid "Make finished courses secure area viewable to students"
+#~ msgstr "Make finished courses secure area viewable to students"
+
+# @ vibe
+#~ msgid "Enable Linkage"
+#~ msgstr "Enable Linkage"
+
+# @ vibe
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+
+# @ vibe
+#~ msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+#~ msgstr "Shorten the list of units, quizzes, courses shown in dropdowns"
+
+# @ vibe
+#~ msgid "Fonts Manager"
+#~ msgstr "Fonts Manager"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+#~ msgstr ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+
+# @ vibe
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "Select Fonts for Live Theme Editor "
+
+# @ vibe
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "Select Fonts and setup fonts in Live Editor"
+
+# @ vibe
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "Use these sample layouts in PageBuilder."
+
+# @ vibe
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "Custom Fonts (Enter CSS Font Family name)"
+
+# @ vibe
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr " Custom Fonts are added to Theme Customizer Font List.. "
+
+# @ vibe
+#~ msgid "Customizer"
+#~ msgstr "Customizer"
+
+# @ vibe
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "Import/Export customizer settings. Customize your theme using "
+
+# @ vibe
+#~ msgid "WP Theme Customizer"
+#~ msgstr "WP Theme Customizer"
+
+# @ vibe
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "Import/Export Customizer settings "
+
+# @ vibe
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "Import/Export customizer settings"
+
+# @ vibe
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr ""
+#~ "Use import/export functionality to import/export your customizer settings."
+
+# @ vibe
+#~ msgid "PageBuilder Manager"
+#~ msgstr "PageBuilder Manager"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+
+# @ vibe
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "Manage Sample Layouts "
+
+# @ vibe
+#~ msgid "Delete Sample Layouts"
+#~ msgstr "Delete Sample Layouts"
+
+# @ vibe
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "Import/Export Sample Layouts "
+
+# @ vibe
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "Import/Export existing Layouts"
+
+# @ vibe
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "Use import/export functionality to save your layouts."
+
+# @ vibe
+#~ msgid "Footer "
+#~ msgstr "Footer "
+
+# @ vibe
+#~ msgid "Setup footer settings"
+#~ msgstr "Setup footer settings"
+
+# @ vibe
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "Top Footer Sidebar Columns"
+
+# @ vibe
+#~ msgid "Footer Columns"
+#~ msgstr "Footer Columns"
+
+# @ vibe
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "Bottom Footer Sidebar Columns"
+
+# @ vibe
+#~ msgid "Copyright Text"
+#~ msgstr "Copyright Text"
+
+# @ vibe
+#~ msgid "Enter copyrighted text"
+#~ msgstr "Enter copyrighted text"
+
+# @ vibe
+#~ msgid "Also supports shotcodes."
+#~ msgstr "Also supports shotcodes."
+
+# @ vibe
+#~ msgid "Footer Bottom"
+#~ msgstr "Footer Bottom"
+
+# @ vibe
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "Select an option for FooterBottom"
+
+# @ vibe
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr "Select Footer Bottom style, set Social icon links in Social tab"
+
+# @ vibe
+#~ msgid "Google Analytics Code"
+#~ msgstr "Google Analytics Code"
+
+# @ vibe
+#~ msgid "Google Analytics account"
+#~ msgstr "Google Analytics account"
+
+# @ vibe
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "Please enter full code with javascript tags."
+
+# @ vibe
+#~ msgid "Social Information"
+#~ msgstr "Social Information"
+
+# @ vibe
+#~ msgid "All Social media settings"
+#~ msgstr "All Social media settings"
+
+# @ vibe
+#~ msgid "Add Social Media Icons "
+#~ msgstr "Add Social Media Icons "
+
+# @ vibe
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "Dynamically add social media icons"
+
+# @ vibe
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "Add your Full URL in social media."
+
+# @ vibe
+#~ msgid "Social Icons Type"
+#~ msgstr "Social Icons Type"
+
+# @ vibe
+#~ msgid "Social Icons Theme"
+#~ msgstr "Social Icons Theme"
+
+# @ vibe
+#~ msgid "Minimal"
+#~ msgstr "Minimal"
+
+# @ vibe
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "Show Tooltip on Social Icons"
+
+# @ vibe
+#~ msgid "Social Sharing buttons"
+#~ msgstr "Social Sharing buttons"
+
+# @ vibe
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "Show in-built sharing buttons in the theme"
+
+# @ vibe
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr "Adds Social media sharing buttons in single Courses etc."
+
+# @ vibe
+#~ msgid "LRS User name"
+#~ msgstr "LRS User name"
+
+# @ vibe
+#~ msgid "LRS Password"
+#~ msgstr "LRS Password"
+
+# @ vibe
+#~ msgid "Miscellaneous"
+#~ msgstr "Miscellaneous"
+
+# @ vibe
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "Miscellaneous settings used in the theme."
+
+# @ vibe
+#~ msgid "Theme Layout"
+#~ msgstr "Theme Layout"
+
+# @ vibe
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "Configure Layout of the theme"
+
+# @ vibe
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "Select out of predefined layouts for the theme"
+
+# @ vibe
+#~ msgid "Default Excerpt Length"
+#~ msgstr "Default Excerpt Length"
+
+# @ vibe
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "Excerpt length in number of Words."
+
+# @ vibe
+#~ msgid "Direct Checkout"
+#~ msgstr "Direct Checkout"
+
+# @ vibe
+#~ msgid "Requires WooCommerce installed"
+#~ msgstr "Requires WooCommerce installed"
+
+# @ vibe
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "User is redirected to the checkout page."
+
+# @ vibe
+#~ msgid "Skip Product & Cart page"
+#~ msgstr "Skip Product & Cart page"
+
+# @ vibe
+#~ msgid "Skip Product page"
+#~ msgstr "Skip Product page"
+
+# @ vibe
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "Redirect to Course Page on Order completion"
+
+# @ vibe
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "Only if the order contains one product with one course"
+
+# @ vibe
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+#~ msgstr ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+
+# @ vibe
+#~ msgid "Force complete orders"
+#~ msgstr "Force complete orders"
+
+# @ vibe
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+
+# @ vibe
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+
+# @ vibe
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "Remove Extra Checkout Fields"
+
+# @ vibe
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "Recommended if you're only selling courses/virtual products"
+
+# @ vibe
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+#~ msgstr ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+
+# @ vibe
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "Contact Page Latitude and Longitude values"
+
+# @ vibe
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "Grab the latitude and Longitude values from ."
+
+# @ vibe
+#~ msgid "Link"
+#~ msgstr "Link"
+
+# @ vibe
+#~ msgid "Contact Page Map Style"
+#~ msgstr "Contact Page Map Style"
+
+# @ vibe
+#~ msgid "Select the map style on contact page."
+#~ msgstr "Select the map style on contact page."
+
+# @ vibe
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "Content area is the container in which all content is located."
+
+# @ vibe
+#~ msgid "Road map"
+#~ msgstr "Road map"
+
+# @ vibe
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "Google Map Zoom Level"
+
+# @ vibe
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "Enter the zoom level in Google maps"
+
+# @ vibe
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "Zoom Levels 0 - 19"
+
+# @ vibe
+#~ msgid "Select 404 Page"
+#~ msgstr "Select 404 Page"
+
+# @ vibe
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr "This page is shown when page not found on your site."
+
+# @ vibe
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr "User redirected to this page when page not found."
+
+# @ vibe
+#~ msgid "Author & Credits"
+#~ msgstr "Author & Credits"
+
+# @ vibe
+#~ msgid "Credits and Author of the Website"
+#~ msgstr "Credits and Author of the Website"
+
+# @ vibe
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr "Changes the reference to Author {VibeThemes}"
+
+# @ vibe
+#~ msgid "Theme Information"
+#~ msgstr "Theme Information"
+
+# @ vibe
+#~ msgid "Please enter some content to post."
+#~ msgstr "Παρακαλώ εισάγετε κάποιο περιεχόμενο για να δημοσιεύσετε."
+
+# @ vibe
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "Υπήρξε ένα πρόβλημα στην ενημέρωση σας, παρακαλώ προσπαθήστε ξανά."
+
+# @ vibe
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "Παρακαλώ μην αφήστε την κενή την περιοχή του σχόλιο."
+
+# @ vibe
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr ""
+#~ "Υπήρξε ένα σφάλμα κατά την καταχώρηση της απάντησης, παρακαλώ προσπαθήστε "
+#~ "ξανά."
+
+# @ vibe
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "Υπήρξε ένα πρόβλημα κατά τη διαγραφή. Παρακαλώ δοκιμάστε ξανά."
+
+# @ vibe
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s έχει ήδη ζητήσει να συμμετάσχει σε αυτήν την ομάδα. Αποστέλλοντας μια "
+#~ "πρόσκληση θα προσθέθει αυτόματα το μέλος στην ομάδα."
+
+# @ vibe
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "Το αίτημα φιλίας δεν μπορεί να ακυρωθεί"
+
+# @ vibe
+#~ msgid "Add Friend"
+#~ msgstr "Προσθίκη Φίλου"
+
+# @ vibe
+#~ msgid " Friendship could not be requested."
+#~ msgstr "Friendship could not be requested."
+
+# @ vibe
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "Ακύρωση του αιτήματος φιλίας"
+
+# @ vibe
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "Το αίτημα φιλίας δεν μπορεί να ακυρωθεί"
+
+# @ vibe
+#~ msgid "Request Pending"
+#~ msgstr "Αίτηση σε εκκρεμότητα"
+
+# @ vibe
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr ""
+#~ "Υπήρξε ένα πρόβλημα κατά την αποδοχή του αιτήματος αυτού. Παρακαλώ "
+#~ "δοκιμάστε ξανά."
+
+# @ vibe
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr ""
+#~ "Υπήρξε ένα πρόβλημα το αίτημα απορρίφθηκε το αίτημα. Παρακαλώ δοκιμάστε "
+#~ "ξανά."
+
+# @ vibe
+#~ msgid "Error joining group"
+#~ msgstr "Σφάλμα κατά την σύνδεση με την Ομάδα"
+
+# @ vibe
+#~ msgid "Leave Group"
+#~ msgstr "ΑΠΟΧΩΡΙΣΗ ΑΠΟ ΤΗΝ ΟΜΑΔΑ"
+
+# @ vibe
+#~ msgid "Error requesting membership"
+#~ msgstr "Error requesting membership"
+
+# @ vibe
+#~ msgid "Membership Requested"
+#~ msgstr "Αίτηση Μέλους"
+
+# @ vibe
+#~ msgid "Error leaving group"
+#~ msgstr "Error leaving group"
+
+# @ vibe
+#~ msgid "Join Group"
+#~ msgstr "ΣΥΜΕΤΟΧΗ ΣΤΗΝ ΟΜΑΔΑ"
+
+# @ vibe
+#~ msgid "Request Membership"
+#~ msgstr "Αίτηση Μέλους"
+
+# @ vibe
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "Υπήρξε ένα πρόβλημα το κλείσιμο της σημείωσης."
+
+# @ vibe
+#~ msgid "Sent %s"
+#~ msgstr "Αποστολή %s"
+
+# @ vibe
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr ""
+#~ "Υπήρξε ένα πρόβλημα με την αποστολή τησ απάντησης. Παρακαλώ δοκιμάστε "
+#~ "ξανά."
+
+# @ vibe
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "Υπήρξε ένα πρόβλημα στην σήμανση μηνυμάτων ως αναγνωσμένα."
+
+# @ vibe
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "Υπήρξε ένα πρόβλημα στη σήμανση μηνυμάτων ως αναγνωσμένων."
+
+# @ vibe
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "Υπήρξε ένα πρόβλημα κατά τη διαγραφή των μηνυμάτων."
+
+# @ vibe
+#~ msgid "Messages deleted."
+#~ msgstr "Διαγραμμένα μηνύματα"
+
+# @ vibe
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr ""
+#~ "Δυστυχώς, δεν βρέθηκε δραστηριότητα. Παρακαλώ δοκιμάστε ένα διαφορετικό "
+#~ "φίλτρο."
+
+# @ vibe
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+
+# @ vibe
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "Νεότερα σε  %s, %s?"
+
+# @ vibe
+#~ msgid "What's new, %s?"
+#~ msgstr "Νεότερα, %s?"
+
+# @ vibe
+#~ msgid "Post Update"
+#~ msgstr "Δημοσίευση Ενημέρωσης"
+
+# @ vibe
+#~ msgid "Post in"
+#~ msgstr "Δημοσίευση στο"
+
+# @ vibe
+#~ msgid "My Profile"
+#~ msgstr "Το Προφίλ μου"
+
+# @ vibe
+#~ msgid "You have not created any Course."
+#~ msgstr "Δεν εχετε δημοσιευσει καποιο Μαθημα"
+
+# @ vibe
+#~ msgid "Submissions"
+#~ msgstr "ΑΠΟΤΕΛΕΣΜΑΤΑ"
+
+# @ vibe
+#~ msgid "Activity"
+#~ msgstr "ΔΡΑΣΤΗΡΙΟΤΗΤΑ"
+
+# @ vibe
+#~ msgid "Stats"
+#~ msgstr "Στατιστικα"
+
+# @ vibe
+#~ msgid "Total number of Students in course"
+#~ msgstr "Συνολικός αριθμός μαθητών "
+
+# @ vibe
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Συνολικοί Μαθητές "
+
+# @ vibe
+#~ msgid "Reset Course for User"
+#~ msgstr "Πρόσφατα Μαθήματα για τον χρήστη "
+
+# @ vibe
+#~ msgid "See Course stats for User"
+#~ msgstr "Δείτε στατιστικά του μαθήματος για το χρήστη"
+
+# @ vibe
+#~ msgid "See User Activity in Course"
+#~ msgstr "ΠΡΟΒΟΛΗ ΔΡΑΣΤΗΡΙΟΤΗΤΑΣ ΤΟΥ ΧΡΗΣΤΗ"
+
+# @ vibe
+#~ msgid "Remove User from this Course"
+#~ msgstr "Απομάκρυνση Μαθητή"
+
+# @ vibe
+#~ msgid "BULK ACTIONS"
+#~ msgstr "ΜΑΖΙΚΕΣ ΕΝΕΡΓΕΙΕΣ"
+
+# @ vibe
+#~ msgid "Instructors"
+#~ msgstr "ΕΙΣΗΓΗΤΕΣ "
+
+# @ vibe
+#~ msgid "FREE"
+#~ msgstr "ΔΩΡΕΑΝ"
+
+# @ vibe
+#~ msgid "minutes"
+#~ msgstr "ΛΕΠΤΑ"
+
+# @ vibe
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "Συνολικός αριθμός των Μαθητών που παρακολουθούν αυτό το Μάθημα"
+
+# @ vibe
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "Μέσος όρος ποσοστού που έλαβε από τους Μαθητές"
+
+# @ vibe
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "ΑΡΙΘΜΟΣ ΜΑΘΗΤΩΝ ΠΟΥ ΕΛΑΒΑΝ ΔΙΑΚΡΙΤΙΚΟ"
+
+# @ vibe
+#~ msgid "Number of Passed Students"
+#~ msgstr "Αριθμός επιτυχόντων"
+
+# @ vibe
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "Average Marks obtained by Students"
+
+# @ vibe
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "Μ.Ο ΒΑΘΜΟΛΟΓΙΑΣ ΣΤΟ ΚΟΥΙΖ "
+
+# @ vibe
+#~ msgid "Calculate :"
+#~ msgstr "Υπολογισμός :"
+
+# @ vibe
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "Υπολογισμός στατιστικών για το Μάθημα"
+
+# @ vibe
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ ΕΡΓΑΣΙΩΝ"
+
+# @ vibe
+#~ msgid "Reset Assignment for User"
+#~ msgstr "Επαναφορά καταχωρήσεων για τον χρήστη"
+
+# @ vibe
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ ΕΡΓΑΣΙΩΝ : "
+
+# @ vibe
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ KOYIZ"
+
+# @ vibe
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Επαναφορά Quiz για τον Μαθητή"
+
+# @ vibe
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Αξιολόγηση Quiz για τον Μαθητή"
+
+# @ vibe
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Αξιολόγηση του Μάθηματος για το χρήστη"
+
+# @ vibe
+#~ msgid "Groups Directory"
+#~ msgstr "Κατάλαγος Ομάδων"
+
+# @ vibe
+#~ msgid "There were no groups found."
+#~ msgstr "ΔΕΝ ΒΡΕΘΗΚΑΝ ΟΜΑΔΕΣ"
+
+# @ vibe
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "Ειδοποίηση της ομάδας για τις αλλαγές μέσω e-mail"
+
+# @ vibe
+#~ msgid "Save Changes"
+#~ msgstr "ΑΠΟΘΗΚΕΥΣΗ ΑΛΛΑΓΩΝ"
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+
+# @ vibe
+#~ msgid "Delete Avatar"
+#~ msgstr "ΔΙΑΓΡΑΦΗ Avatar"
+
+# @ vibe
+#~ msgid "Crop Avatar"
+#~ msgstr "Crop Avatar"
+
+# @ vibe
+#~ msgid "Administrators"
+#~ msgstr "Διαχειριστές"
+
+# @ vibe
+#~ msgid "Profile picture of %s"
+#~ msgstr "Profile picture of %s"
+
+# @ vibe
+#~ msgid "Demote to Member"
+#~ msgstr "Υποβάθμιση σε Μέλος"
+
+# @ vibe
+#~ msgid "Promote to Admin"
+#~ msgstr "Προώθηση σε Διαχειριστή"
+
+# @ vibe
+#~ msgid "(banned)"
+#~ msgstr "(banned)"
+
+# @ vibe
+#~ msgid "Unban this member"
+#~ msgstr "Unban this member"
+
+# @ vibe
+#~ msgid "Remove Ban"
+#~ msgstr "Remove Ban"
+
+# @ vibe
+#~ msgid "Kick and ban this member"
+#~ msgstr "Kick and ban this member"
+
+# @ vibe
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "Kick &amp; Ban"
+
+# @ vibe
+#~ msgid "Promote to Mod"
+#~ msgstr "Promote to Mod"
+
+# @ vibe
+#~ msgid "Remove this member"
+#~ msgstr "Κατάργηση Μέλους"
+
+# @ vibe
+#~ msgid "Remove from group"
+#~ msgstr "Κατάργηση από την ομάδα"
+
+# @ vibe
+#~ msgid "This group has no members."
+#~ msgstr "Αυτή η ομάδα δεν έχει μέλη."
+
+# @ vibe
+#~ msgid "Accept"
+#~ msgstr "ΑΠΟΔΟΧΗ"
+
+# @ vibe
+#~ msgid "Reject"
+#~ msgstr "ΑΠΟΡΡΙΨΗ"
+
+# @ vibe
+#~ msgid "There are no pending membership requests."
+#~ msgstr "There are no pending membership requests."
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "ΠΡΟΕΙΔΟΠΟΙΗΣΗ: Η διαγραφή αυτή την ομάδα θα αφαιρέσει εντελώς όλου το "
+#~ "περιεχόμενο που σχετίζεται με αυτό. Δεν υπάρχει κανένας τρόπος "
+#~ "επαναφοράς, σας παρακαλώ να είστε προσεκτικοί με αυτή την επιλογή."
+
+# @ vibe
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "Καταλαβαίνω τις συνέπειες της διαγραφής αυτής της ομάδας."
+
+# @ vibe
+#~ msgid "Delete Group"
+#~ msgstr "Διαγραφή Ομάδας"
+
+# @ vibe
+#~ msgid "Forum Directory"
+#~ msgstr "ΚΑΤΑΛΟΓΟΣ Forum"
+
+# @ vibe
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr "You will auto join this group when you start a new topic."
+
+# @ vibe
+#~ msgid "Post a New Topic:"
+#~ msgstr "Post a New Topic:"
+
+# @ buddypress
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "Έχετε ζητήσει να γίνει μέλος της ομάδας '%s'."
+
+# @ vibe
+#~ msgid "Comments (optional)"
+#~ msgstr "Σχόλια (προαιρετικά)"
+
+# @ vibe
+#~ msgid "Send Request"
+#~ msgstr "Αποστολή Αιτήματος"
+
+# @ vibe
+#~ msgid "Send Invites"
+#~ msgstr "Αποστολή Προσκλήσεων"
+
+# @ vibe
+#~ msgid "Edit:"
+#~ msgstr "Επεξεργασία:"
+
+# @ vibe
+#~ msgid "This topic does not exist."
+#~ msgstr "This topic does not exist."
+
+# @ vibe
+#~ msgid "New Reply"
+#~ msgstr "Νέα Απάντηση"
+
+# @ vibe
+#~ msgid "Topic tags:"
+#~ msgstr "Topic tags:"
+
+# @ vibe
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s είπε %2$s:"
+
+# @ vibe
+#~ msgid "There are no posts for this topic."
+#~ msgstr "There are no posts for this topic."
+
+# @ vibe
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr "You will auto join this group when you reply to this topic."
+
+# @ vibe
+#~ msgid "Add a reply:"
+#~ msgstr "Προσθέστε μια απάντηση:"
+
+# @ vibe
+#~ msgid "Post Reply"
+#~ msgstr "Δημοσίευση Απάντηση"
+
+# @ vibe
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "This topic is closed, replies are no longer accepted."
+
+# @ vibe
+#~ msgid "Badges"
+#~ msgstr "ΔΙΑΚΡΙΤΙΚΟ"
+
+# @ vibe
+#~ msgid "Certifications"
+#~ msgstr "ΠΤΥΧΙΑ"
+
+# @ vibe
+#~ msgid "Check all Courses created by "
+#~ msgstr "ΟΛΑ ΤΑ ΜΑΘΗΜΑΤΑ ΑΠΟ "
+
+# @ vibe
+#~ msgid "Course "
+#~ msgstr "ΜΑΘΗΜΑ "
+
+# @ vibe
+#~ msgid "Author Social profile information"
+#~ msgstr "Author Social profile information"
+
+# @ vibe
+#~ msgid "Add Social Information"
+#~ msgstr "Add Social Information"
+
+# @ vibe
+#~ msgid "Enter URL for social icon."
+#~ msgstr "Enter URL for social icon."
+
+# @ vibe
+#~ msgid "Share on "
+#~ msgstr "Share on "
+
+# @ vibe
+#~ msgid "Status"
+#~ msgstr "Κατάσταση"
+
+# @ vibe
+#~ msgid "Course Categories"
+#~ msgstr "ΚΑΤΗΓΟΡΙΑ ΜΑΘΗΜΑΤΩΝ"
+
+# @ pmpro
+#~ msgid "Level"
+#~ msgstr "Επίπεδο"
+
+# @ default
+#~ msgid "COURSE STARTS IN "
+#~ msgstr "ΕΚΚΙΝΗΣΗ ΜΑΘΗΜΑΤΩΝ"
+
+# @ vibe
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "ΑΠΕΡΙΟΡΙΣΤΗ ΠΡΟΣΒΑΣΗ"
+
+# @ vibe
+#~ msgid "Become an Instructor"
+#~ msgstr "ΓΙΝΕ ΕΙΣΗΓΗΤΗΣ"
+
+# @ vibe
+#~ msgid "UNLIMITED TIME"
+#~ msgstr "ΑΠΕΡΙΟΡΙΣΤΟΣ ΧΡΟΝΟΣ"
+
+# @ default
+#~ msgid "COURSE : "
+#~ msgstr "ΜΑΘΗΜΑ : "
+
+# @ vibe
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr "ΟΛΟΚΛΗΡΩΣΤΕ ΤΗΝ ΕΡΓΑΣΙΑ ΓΙΑ ΝΑ ΚΑΤΑΘΕΣΕΤΕ ΤΟ ΜΑΘΗΜΑ "
+
+# @ vibe
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr "Ολοκληρώστε το Video/Audio για να σημειωθεί ωσ ολοκληρομένο"
+
+# @ vibe
+#~ msgid "Setup Menus"
+#~ msgstr "Setup Menus"
+
+# @ vibe
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+
+# @ vibe
+#~ msgid "Page"
+#~ msgstr "Σελιδα"
+
+# @ vibe
+#~ msgid "of"
+#~ msgstr "ΑΠΟ "
+
+# @ vibe
+#~ msgid "Previous"
+#~ msgstr "ΠΡΟΪΓΟΥΜΕΝΟ"
+
+# @ vibe
+#~ msgid "Next"
+#~ msgstr "ΕΠΟΜΕΝΟ"
+
+# @ vibe
+#~ msgid "Attachment"
+#~ msgstr "Attachment"
+
+# @ vibe
+#~ msgid "Requires completion of course : "
+#~ msgstr "ΑΠΑΙΤΕΙΤΑΙ Η ΠΑΡΑΚΟΛΟΥΘΗΣΗ ΤΟΥ ΜΑΘΗΜΑΤΟΣ : "
+
+# @ vibe
+#~ msgid " LOGIN"
+#~ msgstr "ΣΥΝΔΕΣΗ"
+
+# @ vibe
+#~ msgid " REGISTER NOW"
+#~ msgstr "ΕΓΓΡΑΦΗ"
+
+# @ vibe
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "Πρέπει να συνδεθείτε για να παρακολουθήσετε αυτό το μάθημα "
+
+# @ vibe
+#~ msgid "Page %s"
+#~ msgstr "ΣΕΛΙΔΑ %s"
+
+# @ vibe
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+
+# @ vibe
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "Go to WP Admin -> Plugins -> Installed Plugins"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "Deactivate Vibe Custom Types"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "Deactivate Vibe Course Module"
+
+# @ vibe
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "Setup Menus in Admin Panel"
+
+# @ vibe
+#~ msgid "Install Required Plugins"
+#~ msgstr "Install Required Plugins"
+
+# @ vibe
+#~ msgid "Install Plugins"
+#~ msgstr "Install Plugins"
+
+# @ vibe
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installing Plugin: %s"
+
+# @ vibe
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Something went wrong with the plugin API."
+
+# @ vibe
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Return to Required Plugins Installer"
+
+# @ vibe
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin activated successfully."
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "All plugins installed and activated successfully. %s"
+
+# @ vibe
+#~ msgid "Something went wrong."
+#~ msgstr "Something went wrong."
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "All plugins installed and activated successfully. %1$s"
+
+# @ vibe
+#~ msgid "Dismiss this notice"
+#~ msgstr "Dismiss this notice"
+
+# @ vibe
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Return to the Dashboard"
+
+# @ vibe
+#~ msgid "Private Repository"
+#~ msgstr "Private Repository"
+
+# @ vibe
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pre-Packaged"
+
+# @ vibe
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress Repository"
+
+# @ vibe
+#~ msgid "Required"
+#~ msgstr "Required"
+
+# @ vibe
+#~ msgid "Recommended"
+#~ msgstr "Recommended"
+
+# @ vibe
+#~ msgid "Not Installed"
+#~ msgstr "Not Installed"
+
+# @ vibe
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Installed But Not Activated"
+
+# @ vibe
+#~ msgid "Install"
+#~ msgstr "Install"
+
+# @ vibe
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+
+# @ vibe
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+# @ vibe
+#~ msgid "Source"
+#~ msgstr "Source"
+
+# @ vibe
+#~ msgid "Type"
+#~ msgstr "Type"
+
+# @ vibe
+#~ msgid "Install package not available."
+#~ msgstr "Install package not available."
+
+# @ vibe
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+# @ vibe
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Unpacking the package&#8230;"
+
+# @ vibe
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Installing the plugin&#8230;"
+
+# @ vibe
+#~ msgid "Plugin install failed."
+#~ msgstr "Plugin install failed."
+
+# @ vibe
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin installed successfully."
+
+# @ vibe
+#~ msgid "Plugin activation failed."
+#~ msgstr "Plugin activation failed."
+
+# @ vibe
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+
+# @ vibe
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s installé et activité avec succès."
+
+# @ vibe
+#~ msgid "Show Details"
+#~ msgstr "Show Details"
+
+# @ vibe
+#~ msgid "Hide Details"
+#~ msgstr "Hide Details"
+
+# @ vibe
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "All installations and activations have been completed."
+
+# @ vibe
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+# @ vibe
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+
+# @ vibe
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+# @ vibe
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "The installation of %1$s failed."
+
+# @ vibe
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s installed successfully."
+
+# @ vibe
+#~ msgid "All installations have been completed."
+#~ msgstr "All installations have been completed."
+
+# @ vibe
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+# @ vibe
+#~ msgid "Review Title"
+#~ msgstr "Review Title"
+
+# @ vibe
+#~ msgid "Review Rating"
+#~ msgstr "Review Rating"
+
+# @ vibe
+#~ msgid "Review Details"
+#~ msgstr "Review Details"
+
+# @ vibe
+#~ msgid "Rating "
+#~ msgstr "ΑΞΙΟΛΟΓΗΣΗ "
+
+# @ vibe
+#~ msgid "Student"
+#~ msgstr "Ο ΜΑΘΗΤΗΣ "
+
+# @ vibe
+#~ msgid "Instructor"
+#~ msgstr "Instructor"
+
+# @ vibe
+#~ msgid "Please fill in all the required fields (indicated by *)"
+#~ msgstr "ΠΑΡΑΚΑΛΩ ΣΥΜΠΛΗΡΩΣΤΕ ΟΛΑ ΤΑ ΑΠΑΙΤΟΥΜΕΡΑ ΠΕΔΙΑ (*)"
+
+# @ vibe
+#~ msgid "Top Menu"
+#~ msgstr "Top Menu"
+
+# @ vibe
+#~ msgid "Main Menu"
+#~ msgstr "Main Menu"
+
+# @ vibe
+#~ msgid "Mobile Menu"
+#~ msgstr "Mobile Menu"
+
+# @ vibe
+#~ msgid "Footer Menu"
+#~ msgstr "Footer Menu"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr "This is the widget area/sidebar shown in search results page."
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "This is the widget area/sidebar shown in the shop page "
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+
+# @ vibe
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "Top Footer widget area / sidebar"
+
+# @ vibe
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "Bottom Footer widget area / sidebar"
+
+# @ vibe
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "Custom sidebar, created from Sidebar Manager"
+
+# @ vibe
+#~ msgid "Student "
+#~ msgstr "Ο ΜΑΘΗΤΗΣ "
+
+# @ vibe
+#~ msgid " in "
+#~ msgstr "ΣΕ "
+
+# @ vibe
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (Invalid)"
+
+# @ vibe
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (Pending)"
+
+# @ default
+# @ vibe
+#~ msgid "Edit Menu Item"
+#~ msgstr "Edit Menu Item"
+
+# @ vibe
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ vibe
+#~ msgid "Navigation Label"
+#~ msgstr "Navigation Label"
+
+# @ vibe
+#~ msgid "Title Attribute"
+#~ msgstr "Title Attribute"
+
+# @ vibe
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Open link in a new window/tab"
+
+# @ vibe
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS Classes (optional)"
+
+# @ vibe
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "Link Relationship (XFN)"
+
+# @ vibe
+#~ msgid "Description"
+#~ msgstr "ΠΕΡΙΓΡΑΦΗ"
+
+# @ default
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+
+# @ vibe
+#~ msgid "Enable Widgetized Mega Menu"
+#~ msgstr "Enable Widgetized Mega Menu"
+
+# @ vibe
+#~ msgid "Select Sidebar"
+#~ msgstr "Select Sidebar"
+
+# @ vibe
+#~ msgid "Sidebar Columns"
+#~ msgstr "Sidebar Columns"
+
+# @ vibe
+#~ msgid "Original: %s"
+#~ msgstr "Original: %s"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "Vibe Advanced Layered Nav"
+
+# @ vibe
+#~ msgid "Attribute:"
+#~ msgstr "Attribute:"
+
+# @ vibe
+#~ msgid "Query Type:"
+#~ msgstr "Query Type:"
+
+# @ vibe
+#~ msgid "AND"
+#~ msgstr "ΚΑΙ"
+
+# @ vibe
+#~ msgid "OR"
+#~ msgstr "Η"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "Vibe Advanced Layered Nav Filters"
+
+# @ vibe
+#~ msgid "Active filters"
+#~ msgstr "Active filters"
+
+# @ vibe
+#~ msgid "Remove filter"
+#~ msgstr "Remove filter"
+
+# @ vibe
+#~ msgid "Greater than"
+#~ msgstr "Greater than"
+
+# @ vibe
+#~ msgid "Less than"
+#~ msgstr "Less than"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels "
+#~ msgstr "Vibe WooCommerce Carousels "
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels"
+#~ msgstr "Vibe WooCommerce Carousels"
+
+# @ vibe
+#~ msgid "WooCommerce Function "
+#~ msgstr "WooCommerce Function "
+
+# @ vibe
+#~ msgid "Product Columns"
+#~ msgstr "Product Columns"
+
+# @ vibe
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "Number of Products in Carousel:"
+
+# @ vibe
+#~ msgid "Carousel Controls"
+#~ msgstr "Carousel Controls"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel "
+#~ msgstr "Vibe WooCommerce Mega Carousel "
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel"
+#~ msgstr "Vibe WooCommerce Mega Carousel"
+
+# @ vibe
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "Above selected WooCommerce Functions Titles (comma seperated)"
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login"
+#~ msgstr "Vibe BuddyPress Login"
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "Vibe BuddyPress Login Widget"
+
+# @ vibe
+#~ msgid "View profile"
+#~ msgstr "ΠΡΟΒΟΛΗ ΠΡΟΦΙΛ"
+
+# @ vibe
+#~ msgid "Log Out"
+#~ msgstr "Αποσυνδεση"
+
+# @ vibe
+#~ msgid "LOGOUT"
+#~ msgstr "ΑΠΟΣΥΝΔΕΣΗ"
+
+# @ vibe
+#~ msgid "Access admin panel"
+#~ msgstr "Access admin panel"
+
+# @ vibe
+#~ msgid "Inbox"
+#~ msgstr "Εισερχομενα"
+
+# @ vibe
+#~ msgid "Notifications"
+#~ msgstr "Ειδοποιησεις"
+
+# @ vibe
+#~ msgid "Groups"
+#~ msgstr "ΟΜΑΔΕΣ"
+
+# @ vibe
+#~ msgid "Forgot Password"
+#~ msgstr "Forgot Password"
+
+# @ vibe
+#~ msgid "Remember Me"
+#~ msgstr "Remember Me"
+
+# @ vibe
+#~ msgid "Log In"
+#~ msgstr "Συνδεση"
+
+# @ vibe
+#~ msgid "Course Categories "
+#~ msgstr "ΚΑΤΗΓΟΡΙΕΣ ΜΑΘΗΜΑΤΩΝ "
+
+# @ vibe
+#~ msgid "View all Courses in %s"
+#~ msgstr "View all Courses in %s"
+
+# @ vibe
+#~ msgid "Order by"
+#~ msgstr "Order by"
+
+# @ vibe
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+# @ vibe
+#~ msgid "Course Count"
+#~ msgstr "Course Count"
+
+# @ vibe
+#~ msgid "Hierarchial"
+#~ msgstr "Hierarchial"
+
+# @ vibe
+#~ msgid "Sort Order "
+#~ msgstr "Sort Order "
+
+# @ vibe
+#~ msgid "Ascending"
+#~ msgstr "Ascending"
+
+# @ vibe
+#~ msgid "Descending"
+#~ msgstr "Φθίνουσα"
+
+# @ vibe
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "Vibe Certificate Code validator"
+
+# @ vibe
+#~ msgid "Enter Certificate Code"
+#~ msgstr "Enter Certificate Code"
+
+# @ vibe
+#~ msgid "Validate"
+#~ msgstr "Validate"
+
+# @ vibe
+#~ msgid "Vibe Tabs"
+#~ msgstr "Vibe Tabs"
+
+# @ vibe
+#~ msgid "Recent Posts"
+#~ msgstr "Recent Posts"
+
+# @ vibe
+#~ msgid "thumbnail"
+#~ msgstr "thumbnail"
+
+# @ vibe
+#~ msgid "Theme:"
+#~ msgstr "Theme:"
+
+# @ vibe
+#~ msgid "Light"
+#~ msgstr "Light"
+
+# @ vibe
+#~ msgid "Dark"
+#~ msgstr "Dark"
+
+# @ vibe
+#~ msgid "Show Tab"
+#~ msgstr "Show Tab"
+
+# @ vibe
+#~ msgid "Title"
+#~ msgstr "Title"
+
+# @ vibe
+#~ msgid "Content & Style"
+#~ msgstr "Content & Style"
+
+# @ vibe
+#~ msgid "Thumbnail Posts"
+#~ msgstr "Thumbnail Posts"
+
+# @ vibe
+#~ msgid "Number of items"
+#~ msgstr "Number of items"
+
+# @ vibe
+#~ msgid "Posts Carousel "
+#~ msgstr "Posts Carousel "
+
+# @ vibe
+#~ msgid "Vibe Carousel"
+#~ msgstr "Vibe Carousel"
+
+# @ vibe
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+# @ vibe
+#~ msgid "Post Type"
+#~ msgstr "Post Type"
+
+# @ vibe
+#~ msgid "Recent"
+#~ msgstr "Recent"
+
+# @ vibe
+#~ msgid "Popular"
+#~ msgstr "Popular"
+
+# @ vibe
+#~ msgid "Style"
+#~ msgstr "Style"
+
+# @ vibe
+#~ msgid "Excerpt length"
+#~ msgstr "Excerpt length"
+
+# @ vibe
+#~ msgid "Auto Start"
+#~ msgstr "Auto Start"
+
+# @ vibe
+#~ msgid "Loop back, after completion"
+#~ msgstr "Loop back, after completion"
+
+# @ vibe
+#~ msgid "Number of Posts"
+#~ msgstr "Number of Posts"
+
+# @ vibe
+#~ msgid "Posts Widget "
+#~ msgstr "Posts Widget "
+
+# @ vibe
+#~ msgid "Vibe Posts"
+#~ msgstr "Vibe Posts"
+
+# @ vibe
+#~ msgid " Title"
+#~ msgstr " Title"
+
+# @ vibe
+#~ msgid "Sort"
+#~ msgstr "Sort"
+
+# @ vibe
+#~ msgid " Image Size"
+#~ msgstr " Image Size"
+
+# @ vibe
+#~ msgid "Big"
+#~ msgstr "Big"
+
+# @ vibe
+#~ msgid "Small"
+#~ msgstr "Small"
+
+# @ vibe
+#~ msgid "Image with Title"
+#~ msgstr "Image with Title"
+
+# @ vibe
+#~ msgid "Image Only"
+#~ msgstr "Image Only"
+
+# @ vibe
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "Number of Characters in Excerpt [Post Style]"
+
+# @ vibe
+#~ msgid "Vibe Gallery"
+#~ msgstr "Vibe Gallery"
+
+# @ vibe
+#~ msgid "Size "
+#~ msgstr "Size "
+
+# @ vibe
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+# @ vibe
+#~ msgid " Small"
+#~ msgstr " Small"
+
+# @ vibe
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+# @ vibe
+#~ msgid "Enter Attachment Ids "
+#~ msgstr "Enter Attachment Ids "
+
+# @ vibe
+#~ msgid "Vibe Testimonials "
+#~ msgstr "Vibe Testimonials "
+
+# @ vibe
+#~ msgid "Vibe Testimonials"
+#~ msgstr "Vibe Testimonials"
+
+# @ vibe
+#~ msgid "Testimonial Id "
+#~ msgstr "Testimonial Id "
+
+# @ vibe
+#~ msgid "Random"
+#~ msgstr "Random"
+
+# @ vibe
+#~ msgid "Length of excerpt:"
+#~ msgstr "Length of excerpt:"
+
+# @ vibe
+#~ msgid "Username or RSS:"
+#~ msgstr "Username or RSS:"
+
+# @ vibe
+#~ msgid "Tags:"
+#~ msgstr "Tags:"
+
+# @ vibe
+#~ msgid "Count:"
+#~ msgstr "Count:"
+
+# @ vibe
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "Instagram AccessToken:"
+
+# @ vibe
+#~ msgid "Instagram Client ID:"
+#~ msgstr "Instagram Client ID:"
+
+# @ vibe
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+
+# @ vibe
+#~ msgid "Size:"
+#~ msgstr "Size:"
+
+# @ vibe
+#~ msgid "Select Twitter Style"
+#~ msgstr "Select Twitter Style"
+
+# @ vibe
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "Link above Title with Twitter user"
+
+# @ vibe
+#~ msgid "Consumer Key"
+#~ msgstr "Consumer Key"
+
+# @ vibe
+#~ msgid "Create your Twitter Application"
+#~ msgstr "Create your Twitter Application"
+
+# @ vibe
+#~ msgid "here"
+#~ msgstr "here"
+
+# @ vibe
+#~ msgid "Consumer Secret"
+#~ msgstr "Consumer Secret"
+
+# @ vibe
+#~ msgid "Access Token"
+#~ msgstr "Access Token"
+
+# @ vibe
+#~ msgid "Access Token Secret"
+#~ msgstr "Access Token Secret"
+
+# @ vibe
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter Username"
+
+# @ vibe
+#~ msgid "Show # of Tweets"
+#~ msgstr "Show # of Tweets"
+
+# @ vibe
+#~ msgid "Show timestamps"
+#~ msgstr "Show timestamps"
+
+# @ vibe
+#~ msgid "Find and show hyperlinks"
+#~ msgstr "Find and show hyperlinks"
+
+# @ vibe
+#~ msgid "Find Replies in Tweets"
+#~ msgstr "Find Replies in Tweets"
+
+# @ vibe
+#~ msgid "Create links on new window / tab"
+#~ msgstr "Create links on new window / tab"
+
+# @ vibe
+#~ msgid "Twitter username is not configured"
+#~ msgstr "Twitter username is not configured"
+
+# @ vibe
+#~ msgid "Number of tweets is not valid"
+#~ msgstr "Number of tweets is not valid"
+
+# @ vibe
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "Twitter Authentication data is incomplete"
+
+# @ default
+#~ msgid "Fetching data from Twitter"
+#~ msgstr "Fetching data from Twitter"
+
+# @ default
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "Erase cached data option enabled"
+
+# @ vibe
+#~ msgid "Error retrieving tweets"
+#~ msgstr "Error retrieving tweets"
+
+# @ vibe
+#~ msgid "Twitter data error:"
+#~ msgstr "Twitter data error:"
+
+# @ vibe
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "Error retrieving twitter rate limit"
+
+# @ default
+#~ msgid "Requested items"
+#~ msgstr "Requested items"
+
+# @ default
+#~ msgid "API calls left"
+#~ msgstr "API calls left"
+
+# @ default
+#~ msgid "Seconds until reset"
+#~ msgstr "Δευτερόλεπτα πριν τον μηδενισμό"
+
+# @ default
+#~ msgid "Using cached Twitter data"
+#~ msgstr "Using cached Twitter data"
+
+# @ vibe
+#~ msgid "Twitter cache error:"
+#~ msgstr "Twitter cache error:"
+
+# @ vibe
+#~ msgid "No public tweets"
+#~ msgstr "No public tweets"
+
+# @ vibe
+#~ msgid "Unable to get tweets"
+#~ msgstr "Unable to get tweets"
+
+# @ vibe
+#~ msgid "%s ago"
+#~ msgstr "%s ago"
+
+# @ vibe
+#~ msgid "M d"
+#~ msgstr "M d"
+
+# @ vibe
+#~ msgid "Y/m/d H:i"
+#~ msgstr "Y/m/d H:i"
+
+# @ vibe
+#~ msgid "Last Tweets"
+#~ msgstr "Last Tweets"
+
+# @ vibe
+#~ msgid "Sorry, no members were found."
+#~ msgstr "Sorry, no members were found."
+
+# @ vibe
+#~ msgid "Invalid Results"
+#~ msgstr "Invalid Results"
+
+# @ vibe
+#~ msgid "My Submission"
+#~ msgstr "My Submission"
+
+# @ vibe
+#~ msgid "Download Attachment"
+#~ msgstr "Download Attachment"
+
+# @ vibe
+#~ msgid "See Instructor Remarks"
+#~ msgstr "Δείτε παρατηρήσεις του εκπαιδευτή"
+
+# @ vibe
+#~ msgid "Marks Obtained"
+#~ msgstr "Marks Obtained"
+
+# @ vibe
+#~ msgid "Marked Answer :"
+#~ msgstr "Marked Answer :"
+
+# @ vibe
+#~ msgid "FALSE"
+#~ msgstr "FALSE"
+
+# @ vibe
+#~ msgid "TRUE"
+#~ msgstr "TRUE"
+
+# @ vibe
+#~ msgid "Correct Answer :"
+#~ msgstr "Correct Answer :"
+
+# @ vibe
+#~ msgid "Total Marks :"
+#~ msgstr "Total Marks :"
+
+# @ vibe
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "ΛΗΨΗ ΒΑΘΜΟΛΟΓΙΑΣ"
+
+# @ vibe
+#~ msgid "Total Marks"
+#~ msgstr "ΣΥΝΟΛΙΚΟΙ ΒΑΘΜΟΙ"
+
+# @ vibe
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "ΕΠΑΝΑΛΗΨΗ ΤΟΥ ΚΟΥΙΖ"
+
+# @ vibe
+#~ msgid " out of "
+#~ msgstr " ΣΤΑ "
+
+# @ vibe
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "ΠΡΟΪΓΟΥΜΕΝΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΚΟΥΙΖ"
+
+# @ vibe
+#~ msgid "Results not Available"
+#~ msgstr "ΑΠΟΤΕΛΕΣΜΑΤΑ ΜΗ ΔΙΑΘΕΣΙΜΑ "
+
+# @ vibe
+#~ msgid "Quiz Results"
+#~ msgstr "ΑΠΟΤΕΛΕΣΜΑΤΑ Quiz"
+
+# @ vibe
+#~ msgid "Results Available"
+#~ msgstr "ΔΙΑΘΕΣΙΜΑ ΑΠΟΤΕΛΕΣΜΑΤΑ"
+
+# @ vibe
+#~ msgid "Results Awaited"
+#~ msgstr "ΑΠΟΤΕΛΕΣΜΑΤΑ ΣΕ ΑΝΑΜΟΝΗ"
+
+# @ vibe
+#~ msgid "Submitted "
+#~ msgstr "ΥΠΟΒΛΗΘΗΚΕ "
+
+# @ vibe
+#~ msgid " ago"
+#~ msgstr " ago"
+
+# @ vibe
+#~ msgid "Assignment Results"
+#~ msgstr "Καταχώρηση Αποτελεσμάτων"
+
+# @ vibe
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "Μ.Ο ΠΟΣΟΣΤΟΥ : "
+
+# @ vibe
+#~ msgid "TAKING"
+#~ msgstr "TAKING"
+
+# @ vibe
+#~ msgid "Average Marks in"
+#~ msgstr "ΜΕΣΟΣ ΟΡΟΣ ΒΑΘΜΟΛΟΓΙΑΣ ΣΤΟ "
+
+# @ vibe
+#~ msgid "My Marks"
+#~ msgstr "My Marks"
+
+# @ vibe
+#~ msgid "Course Expired"
+#~ msgstr "ΛΗΞΗ ΜΑΘΗΜΑΤΟΣ"
+
+# @ vibe
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "ΔΕΝ ΕΧΕΤΕ ΕΚΚΡΕΜΕΙΣ ΑΙΤΗΣΕΙΣ ΦΙΛΙΑΣ."
+
+# @ vibe
+#~ msgid "1 member"
+#~ msgid_plural "%d members"
+#~ msgstr[0] "1 ΜΕΛΟΣ"
+#~ msgstr[1] "%d ΜΕΛΗ"
+
+# @ vibe
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "ΔΕΝ ΕΧΕΤΕ ΕΚΚΡΕΜΗ ΠΡΟΣΚΛΗΣΗ ΣΕ ΚΑΠΟΙΑ ΟΜΑΔΑ."
+
+# @ vibe
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "ΑΠΟΣΤΟΛΗ ΣΕ (Username or Friend's Name)"
+
+# @ vibe
+#~ msgid "This is a notice to all users."
+#~ msgstr "Αυτή είναι μια προειδοποίηση προς όλους τους χρήστες."
+
+# @ vibe
+#~ msgid "Subject"
+#~ msgstr "Θέμα"
+
+# @ vibe
+#~ msgid "Message"
+#~ msgstr "ΜΗΝΥΜΑ"
+
+# @ vibe
+#~ msgid "Send Message"
+#~ msgstr "ΑΠΟΣΤΟΛΗ ΜΗΝΥΜΑΤΟΣ"
+
+# @ buddypress
+#~ msgid "Actions"
+#~ msgstr "ΔΡΑΣΤΗΡΙΟΤΗΤΑ"
+
+# @ vibe
+#~ msgid "From:"
+#~ msgstr "ΑΠΟ :"
+
+# @ vibe
+#~ msgid "To:"
+#~ msgstr "To:"
+
+# @ buddypress
+#~ msgid "View Message"
+#~ msgstr "ΑΝΟΙΓΜΑ"
+
+# @ buddypress
+#~ msgid "Delete Message"
+#~ msgstr "ΔΙΑΓΡΑΦΗ"
+
+# @ vibe
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Δυστυχώς δεν βρέθηκαν μηνύματα."
+
+# @ vibe
+#~ msgid "Sent:"
+#~ msgstr "ΑΠΟΣΤΟΛΗ :"
+
+# @ vibe
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "Δυστυχώς δεν βρέθηκαν ανακοινώσεις."
+
+# @ vibe
+#~ msgid "You are alone in this conversation."
+#~ msgstr "Είστε μόνοι σε αυτή τη συζήτηση."
+
+# @ vibe
+#~ msgid "Conversation between %s and you."
+#~ msgstr "Συζήτηση ματαξύ %s και εσάς."
+
+# @ vibe
+#~ msgid "Send a Reply"
+#~ msgstr "Αποστολή Απάντησης"
+
+# @ vibe
+#~ msgid "Send Reply"
+#~ msgstr "Αποστολή Απάντησης"
+
+# @ vibe
+#~ msgid "You have no unread notifications."
+#~ msgstr "ΔΕΝ ΕΧΕΤΕ ΜΗ ΑΝΑΓΝΩΣΜΕΝΕΣ ΕΙΔΟΠΟΙΗΣΕΙΣ."
+
+# @ vibe
+#~ msgid "This member has no unread notifications."
+#~ msgstr "Αυτό το μέλος δεν έχει μη αναγνωσμένες κοινοποιήσεις."
+
+# @ vibe
+#~ msgid "You have no notifications."
+#~ msgstr "ΔΕΝ ΕΧΕΤΕ ΕΙΔΟΠΟΙΗΣΕΙΣ."
+
+# @ vibe
+#~ msgid "This member has no notifications."
+#~ msgstr "Αυτό το μέλος δεν έχει καμία ειδοποιήση."
+
+# @ vibe
+#~ msgid "Notification"
+#~ msgstr "Ειδοποίηση"
+
+# @ vibe
+#~ msgid "Date Received"
+#~ msgstr "Ημέρα Παραλαβής"
+
+# @ vibe
+#~ msgid "Change Avatar"
+#~ msgstr "Change Avatar"
+
+# @ vibe
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+
+# @ vibe
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+
+# @ vibe
+#~ msgid "Delete My Avatar"
+#~ msgstr "Διαγραφή Avatar"
+
+# @ vibe
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "Περικοπή νέου Avatar σας"
+
+# @ vibe
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+
+# @ buddypress
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "Editing '%s' Profile Group"
+
+# @ vibe
+#~ msgid "Clear"
+#~ msgstr "Καθαρισμός"
+
+# @ vibe
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr ""
+#~ "Αυτό το πεδίο είναι ορατό από : <span class=\"current-visibility-level\">"
+#~ "%s</span>"
+
+# @ vibe
+#~ msgid "Change"
+#~ msgstr "Αλλαγη"
+
+# @ vibe
+#~ msgid "%s's Profile"
+#~ msgstr "%s's Profile"
+
+# @ vibe
+#~ msgid "About Me"
+#~ msgstr "Σχετικά με εμένα"
+
+# @ vibe
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ vibe
+#~ msgid "AOL Messenger"
+#~ msgstr "AOL Messenger"
+
+# @ vibe
+#~ msgid "Yahoo Messenger"
+#~ msgstr "Yahoo Messenger"
+
+# @ vibe
+#~ msgid "Capabilities"
+#~ msgstr "Capabilities"
+
+# @ vibe
+#~ msgid "This user is a spammer."
+#~ msgstr "This user is a spammer."
+
+# @ vibe
+#~ msgid "Save"
+#~ msgstr "Αποθήκευση"
+
+# @ vibe
+#~ msgid "Delete Account"
+#~ msgstr "Διαγραφή λογαριασμού"
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Η διαγραφή του λογαριασμού σας θα διαγράψει όλο το περιεχόμενο που έχετε "
+#~ "δημιουργήσει. Θα είναι τελείως μη ανακτήσιμα."
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Η διαγραφή του λογαριασμού σας θα διαγράψει όλο το περιεχόμενο που έχετε "
+#~ "δημιουργήσει. Θα είναι τελείως μη ανακτήσιμα."
+
+# @ vibe
+#~ msgid "I understand the consequences."
+#~ msgstr "Καταλαβαίνω τις συνέπειες."
+
+# @ vibe
+#~ msgid "General Settings"
+#~ msgstr "General Settings"
+
+# @ vibe
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+
+# @ vibe
+#~ msgid "Password Lost and Found"
+#~ msgstr "Password Lost and Found"
+
+# @ vibe
+#~ msgid "Lost your password?"
+#~ msgstr "Ξεχάσατε τον κωδικό σας;"
+
+# @ vibe
+#~ msgid "Account Email"
+#~ msgstr "Το Email σας"
+
+# @ vibe
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr "Αλλαγή Κωδικού <span>(αφήστε το κενό, δεν θα αλλάξει)</span>"
+
+# @ vibe
+#~ msgid "New Password"
+#~ msgstr "Νέος Κωδικός"
+
+# @ vibe
+#~ msgid "Repeat New Password"
+#~ msgstr "Επαναλάβατε τον νέο Κωδικό"
+
+# @ vibe
+#~ msgid "Email Notification"
+#~ msgstr "Ειδοποίηση Email"
+
+# @ vibe
+#~ msgid "Send an email notice when:"
+#~ msgstr "Αποστολή ειδοποίηση μέσω email, όταν :"
+
+# @ buddypress
+#~ msgid "Visibility"
+#~ msgstr "Ορατότητα"
+
+# @ vibe
+#~ msgid "Options"
+#~ msgstr "Options"
+
+# @ vibe
+#~ msgid "Options Panel created using"
+#~ msgstr "Options Panel created using"
+
+# @ vibe
+#~ msgid "Import / Export"
+#~ msgstr "Import / Export"
+
+# @ vibe
+#~ msgid "Dev Mode Info"
+#~ msgstr "Dev Mode Info"
+
+# @ vibe
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "Are you sure? Resetting will loose all custom values."
+
+# @ vibe
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>Settings Imported!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>Settings Saved!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>Settings have changed!, you should save them!</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> error(s) were found!</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> warning(s) were found!</strong>"
+
+# @ vibe
+#~ msgid "Import / Export Options"
+#~ msgstr "Import / Export Options"
+
+# @ vibe
+#~ msgid "Import Options"
+#~ msgstr "Import Options"
+
+# @ vibe
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+
+# @ vibe
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+
+# @ vibe
+#~ msgid "Import"
+#~ msgstr "Import"
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+
+# @ vibe
+#~ msgid "Export Options"
+#~ msgstr "Export Options"
+
+# @ vibe
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+
+# @ vibe
+#~ msgid "Reset to Defaults"
+#~ msgstr "Reset to Defaults"
+
+# @ vibe
+#~ msgid " To:"
+#~ msgstr " ΠΡΟΣ :"
+
+# @ vibe
+#~ msgid "Add New List Field"
+#~ msgstr "Add New List Field"
+
+# @ vibe
+#~ msgid "Add More"
+#~ msgstr "Add More"
+
+# @ vibe
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "Add New Listing Taxonomy"
+
+# @ vibe
+#~ msgid "Upload Font"
+#~ msgstr "Upload Font"
+
+# @ vibe
+#~ msgid "Font Preview"
+#~ msgstr "Font Preview"
+
+# @ vibe
+#~ msgid ""
+#~ "(Copy export code and paste it in import area of other WordPress "
+#~ "isntallation)"
+#~ msgstr ""
+#~ "(Copy export code and paste it in import area of other WordPress "
+#~ "isntallation)"
+
+# @ vibe
+#~ msgid "Browse"
+#~ msgstr "Browse"
+
+# @ vibe
+#~ msgid "Remove Upload"
+#~ msgstr "Remove Upload"
+
+# @ vibe
+#~ msgid "Add Custom Posts"
+#~ msgstr "Add Custom Posts"
+
+# @ vibe
+#~ msgid "Enter Full URL of the page"
+#~ msgstr "Enter Full URL of the page"
+
+# @ vibe
+#~ msgid "Add Social Icons"
+#~ msgstr "Add Social Icons"
+
+# @ vibe
+#~ msgid " Plugin is Inactive"
+#~ msgstr "Plugin is Inactive"
+
+# @ vibe
+#~ msgid "This field must be a valid color value."
+#~ msgstr "This field must be a valid color value."
+
+# @ vibe
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+
+# @ vibe
+#~ msgid "This field must be a valid date."
+#~ msgstr "This field must be a valid date."
+
+# @ vibe
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "You must provide a valid email for this option."
+
+# @ vibe
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "You must provide a valid API key for this option."
+
+# @ vibe
+#~ msgid "Unable to upload font."
+#~ msgstr "Unable to upload font."
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+
+# @ vibe
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "You must provide a numerical value for this option."
+
+# @ vibe
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "Please enter your Envato Marketplace Username."
+
+# @ vibe
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "Please enter your Envato Marketplace API Key."
+
+# @ vibe
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr "The API \"set\" is a required parameter."
+
+# @ vibe
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "The Envato Marketplace \"item ID\" is a required parameter."
+
+# @ vibe
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "You must provide a valid URL for this option."
+
+# @ pmpro
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "Η Συνδρομή σας είναι <strong>active</strong>."
+
+# @ pmpro
+#~ msgid "Membership Fee"
+#~ msgstr "Δωρεάν Συνδρομή"
+
+# @ pmpro
+#~ msgctxt ""
+#~ "Recurring payment in cost text generation. E.g., $5 every 2 months."
+#~ msgid "%s every %d %s."
+#~ msgstr "%s ΚΑΘΕ %d %s."
+
+# @ pmpro
+#~ msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+#~ msgid "%s per %s."
+#~ msgstr "%s ΓΙΑ %s."
+
+# @ pmpro
+#~ msgid "Duration"
+#~ msgstr "Διάρκεια"
+
+# @ pmpro
+#~ msgid "Membership Expires"
+#~ msgstr "Η Συνδρομή λήγει"
+
+# @ pmpro
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "Η πρώτη σας πληρωμή θα κοστισεί %s."
+
+# @ pmpro
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "Η πρώτη σας %d πληρωμή κοστίζει %s."
+
+# @ pmpro
+#~ msgid "Billing Information"
+#~ msgstr "ΠΛΗΡΟΦΟΡΙΕΣ ΠΛΗΡΩΜΗΣ"
+
+# @ pmpro
+#~ msgid "Payment Method"
+#~ msgstr "ΜΕΘΟΔΟΣ ΠΛΗΡΩΜΗΣ"
+
+# @ pmpro
+#~ msgid "Edit Billing Information"
+#~ msgstr "Επεξεργασία πληροφοριών χρέωσης"
+
+# @ pmpro
+#~ msgid "Past Invoices"
+#~ msgstr "Προηγούμενα παραστατικά"
+
+# @ pmpro
+#~ msgid "View All Invoices"
+#~ msgstr "Όλα τα παραστατικά"
+
+# @ pmpro
+#~ msgid "Member Links"
+#~ msgstr "Member Links"
+
+# @ pmpro
+#~ msgid "Update Billing Information"
+#~ msgstr "Ενημέρωση πληροφοριών χρέωσης"
+
+# @ pmpro
+#~ msgid "Change Membership Level"
+#~ msgstr "Αλλαγή επιπέδου συνδρομής"
+
+# @ pmpro
+#~ msgid "Cancel Membership"
+#~ msgstr "Ακύρωση συνδρομής"
+
+# @ pmpro
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "Συνδεση ως <strong>%s</strong>.."
+
+# @ pmpro
+#~ msgid "logout"
+#~ msgstr "ΑΠΟΣΥΝΔΕΣΗ"
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "Η πληρωμή σας έγινε με  PayPal. Παρακαλώ <a href=\"http://www.paypal.com"
+#~ "\">login to PayPal here</a> για να ενημερώσετε τα στοιχεία χρέωσής σας.."
+
+# @ pmpro
+#~ msgid "First Name"
+#~ msgstr "Το Όνομα σας"
+
+# @ pmpro
+#~ msgid "Last Name"
+#~ msgstr "Το Επίθετό σας"
+
+# @ pmpro
+#~ msgid "Address 1"
+#~ msgstr "Διεύθυνη 1"
+
+# @ pmpro
+#~ msgid "Address 2"
+#~ msgstr "Διεύθυνη 2"
+
+# @ pmpro
+#~ msgid "optional"
+#~ msgstr "Προερετικά"
+
+# @ pmpro
+#~ msgid "City"
+#~ msgstr "Πόλη"
+
+# @ pmpro
+#~ msgid "State"
+#~ msgstr "Περιφέρια"
+
+# @ pmpro
+#~ msgid "Postal Code"
+#~ msgstr "Ταχυδρομικός Κώδικας"
+
+# @ pmpro
+#~ msgid "City, State Zip"
+#~ msgstr "Πόλη, ΤΚ"
+
+# @ pmpro
+#~ msgid "Country"
+#~ msgstr "Χώρα"
+
+# @ pmpro
+#~ msgid "Phone"
+#~ msgstr "Τηλέφωνο"
+
+# @ pmpro
+#~ msgid "E-mail Address"
+#~ msgstr "Email"
+
+# @ pmpro
+#~ msgid "Confirm E-mail"
+#~ msgstr "Επιβεβαίωση email"
+
+# @ pmpro
+#~ msgid "We accept %s"
+#~ msgstr "Δεχόμαστε %s"
+
+# @ pmpro
+#~ msgid "Credit Card Information"
+#~ msgstr "Στοιχεία πιστωτικής κάρτας"
+
+# @ pmpro
+#~ msgid "Card Type"
+#~ msgstr "Έκδωτης πιστωτικής κάρτας"
+
+# @ pmpro
+#~ msgid "Card Number"
+#~ msgstr "Αριθμός πιστωτικής κάρτας"
+
+# @ pmpro
+#~ msgid "Expiration Date"
+#~ msgstr "Ημερομηνία Λήξης"
+
+# @ pmpro
+#~ msgid "Update"
+#~ msgstr "Ανανέωση"
+
+# @ pmpro
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr ""
+#~ "Αυτή η συνδρομή δεν είναι επαναλαμβανόμενη. Έτσι, δεν χρειάζεται να "
+#~ "ενημερώσετε τα στοιχεία χρέωσής σας."
+
+# @ pmpro
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "Είστε σίγουροι ότι θέλετε να ακυρώσετε τη συνδρομή σας;"
+
+# @ pmpro
+#~ msgid "Yes, cancel my account"
+#~ msgstr "Ακυρωση Λογαριασμού"
+
+# @ pmpro
+#~ msgid "No, keep my account"
+#~ msgstr "Όχι, να διατηρήσετε το λογαριασμό μου"
+
+# @ pmpro
+#~ msgid "Click here to go to the home page."
+#~ msgstr "Click here to go to the home page."
+
+# @ pmpro
+#~ msgid ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+#~ msgstr ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+
+# @ pmpro
+#~ msgctxt "change membership level link"
+#~ msgid "change"
+#~ msgstr "ΑΛΛΑΓΗ"
+
+# @ pmpro
+#~ msgid "Membership Level"
+#~ msgstr "Επίπεδο Συνδρομής"
+
+# @ pmpro
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "You have selected the <strong>%s</strong> membership level."
+
+# @ pmpro
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+
+# @ pmpro
+#~ msgid "Click here to change your discount code"
+#~ msgstr "Κάντε κλικ εδώ για να αλλάξετε τον κωδικό έκπτωσης σας"
+
+# @ pmpro
+#~ msgid "Do you have a discount code?"
+#~ msgstr "Έχετε κάποιο κωδικό έκπτωσης;"
+
+# @ pmpro
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "Κάντε κλικ εδώ για να εισάγετε τον κωδικό έκπτωσης σας"
+
+# @ pmpro
+#~ msgid "Discount Code"
+#~ msgstr "Κώδικος έκπτωσης"
+
+# @ pmpro
+#~ msgid "Apply"
+#~ msgstr "ΕΦΑΡΜΟΓΗ"
+
+# @ pmpro
+#~ msgid "Already have an account?"
+#~ msgstr "Έχετε λογαριασμό;"
+
+# @ pmpro
+#~ msgid "Log in here"
+#~ msgstr "Συνδεση"
+
+# @ pmpro
+#~ msgid "Account Information"
+#~ msgstr "ΠΛΗΡΟΦΟΡΙΕΣ ΛΟΓΑΡΙΑΣΜΟΥ"
+
+# @ pmpro
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "Επιβεβαίωση E-mail"
+
+# @ pmpro
+#~ msgid "Full Name"
+#~ msgstr "Ονοματεπώνυμο"
+
+# @ pmpro
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "Αφήστε το κενό"
+
+# @ pmpro
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "Έχετε συνδεθελι ωσ <strong>%s</strong>. Αν επιθυμείτε να χρησιμοποιήσετε "
+#~ "ένα διαφορετικό λογαριασμό, <a href=\"%s\">Αποσύνδεση τώρα</a>."
+
+# @ pmpro
+#~ msgid "Choose your Payment Method"
+#~ msgstr "Επιλέξτε τη μέθοδο πληρωμής σας"
+
+# @ pmpro
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "Πληρωμή με πιστωτική κάρτα εδώ"
+
+# @ pmpro
+#~ msgid "Check Out with PayPal"
+#~ msgstr "Πληρωμή με PayPal"
+
+# @ pmpro
+#~ msgid "We Accept %s"
+#~ msgstr "Δεχόμαστε %s"
+
+# @ pmpro
+#~ msgid "Payment Information"
+#~ msgstr "Λεπτομέριες Πληρωμής"
+
+# @ pmpro
+#~ msgid "I agree to the %s"
+#~ msgstr "Συμφωνώ με %s"
+
+# @ pmpro
+#~ msgid "Complete Payment"
+#~ msgstr "Ολοκλήρωση πληρωμής"
+
+# @ pmpro
+#~ msgid "Submit and Pay with 2CheckOut"
+#~ msgstr "Υποβολή και Πληρωμή με 2CheckOut"
+
+# @ pmpro
+#~ msgid "Submit and Check Out"
+#~ msgstr "Υποβολή και Πληρωμή"
+
+# @ pmpro
+#~ msgid "Submit and Confirm"
+#~ msgstr "Υποβολή και Επιβεβαίωση"
+
+# @ pmpro
+#~ msgid "Processing..."
+#~ msgstr "Πρόοδος..."
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr ""
+#~ "Η πληρωμή σας έχει υποβληθεί. Η συνδρομή σας θα ενεργοποιηθεί σύντομα."
+
+# @ pmpro
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr ""
+#~ "Σας ευχαριστούμε για την  συνδρομή σας%s. Η %s συνδρομή σας έχει "
+#~ "ενεργοποιηθεί."
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "Ακολουθούν οι λεπτομέρειες σχετικά με το λογαριασμό μέλους σας και μια "
+#~ "απόδειξη για το αρχικό παραστατικό συμμετοχή σας. Ένα email με ένα "
+#~ "αντίγραφο του αρχικού παραστατικού  σας έχει σταλεί%s."
+
+# @ pmpro
+#~ msgctxt "Invoice # header. E.g. Invoice #ABCDEF on 2013-01-01."
+#~ msgid "Invoice #%s on %s"
+#~ msgstr "ΠΑΡΑΣΤΑΤΙΚΟ #%s ΣΤΙΣ %s"
+
+# @ pmpro
+#~ msgid "Print"
+#~ msgstr "Εκτύπωση"
+
+# @ pmpro
+#~ msgid "Account"
+#~ msgstr "Λογαριασμός"
+
+# @ pmpro
+#~ msgid "Total Billed"
+#~ msgstr "ΣΥΝΟΛΟ ΧΡΕΩΣΗΣ"
+
+# @ pmpro
+#~ msgctxt "credit card type {ending in} xxxx"
+#~ msgid "ending in"
+#~ msgstr "ΤΕΛΟΣ ΣΤΙΣ"
+
+# @ pmpro
+#~ msgid "Expiration"
+#~ msgstr "Λήξη"
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "Ακολουθούν οι λεπτομέρειες σχετικά με το λογαριασμό σας. Ένα email έχει "
+#~ "σταλεί στο% s."
+
+# @ pmpro
+#~ msgctxt "User without membership is in {pending} status."
+#~ msgid "Pending"
+#~ msgstr "ΕΠΕΞΕΡΓΑΣΙΑ"
+
+# @ pmpro
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "Προβολή Λογαριασμό Μέλους &rarr;"
+
+# @ pmpro
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr ""
+#~ "Εάν ο λογαριασμός σας δεν έχει ενεργοποιηθεί μέσα σε λίγα λεπτά, "
+#~ "παρακαλούμε επικοινωνήστε μαζί μας."
+
+# @ pmpro
+#~ msgid "Subtotal"
+#~ msgstr "ΜΕΡΙΚΟ ΣΥΝΟΛΟ"
+
+# @ pmpro
+#~ msgid "Tax"
+#~ msgstr "ΦΠΑ"
+
+# @ pmpro
+#~ msgid "Coupon"
+#~ msgstr "Κουπόνι"
+
+# @ pmpro
+#~ msgid "Date"
+#~ msgstr "ΗΜΕΡΟΜΗΝΙΑ"
+
+# @ pmpro
+#~ msgid "Invoice #"
+#~ msgstr "Παραστατικό #"
+
+# @ pmpro
+#~ msgid "View Invoice"
+#~ msgstr "Προβολή Παραστατικού"
+
+# @ pmpro
+#~ msgid "No invoices found."
+#~ msgstr "Δεν βρέθηκαν παραστατικά."
+
+# @ pmpro
+#~ msgid "&larr; View All Invoices"
+#~ msgstr "&larr; Όλα τα παραστατικα"
+
+# @ pmpro
+#~ msgid "Price"
+#~ msgstr "ΤΙΜΗ"
+
+# @ pmpro
+#~ msgctxt "Choose a level from levels page"
+#~ msgid "Select"
+#~ msgstr "ΕΠΙΛΟΓΗ"
+
+# @ pmpro
+#~ msgctxt "Clicking to renew from levels page"
+#~ msgid "Renew"
+#~ msgstr "ΑΝΑΝΕΩΣΗ"
+
+# @ pmpro
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "Your&nbsp;Level"
+
+# @ pmpro
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "&larr; Επιστροφη στον λογαριασμό σας"
+
+# @ pmpro
+#~ msgid "&larr; Return to Home"
+#~ msgstr "&larr; Home"
+
+# @ vibe
+#~ msgid "Change profile field visibility level"
+#~ msgstr "Change profile field visibility level"
+
+# @ vibe
+#~ msgid "Complete Sign Up"
+#~ msgstr "Ολοκλήρωση Εγγραφής"
+
+# @ vibe
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "Ελέγξτε το email σας για να ενεργοποιήσετε το λογαριασμό σας!"
+
+# @ vibe
+#~ msgid "Import Complete !"
+#~ msgstr "Import Complete !"
+
+# @ vibe
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "Unable to locate Sample Data file."
+
+# @ vibe
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
+#~ msgstr ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
