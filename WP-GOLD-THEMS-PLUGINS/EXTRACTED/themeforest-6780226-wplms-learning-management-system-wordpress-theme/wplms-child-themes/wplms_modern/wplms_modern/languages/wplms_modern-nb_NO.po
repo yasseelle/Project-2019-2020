@@ -1,0 +1,7195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:40+0530\n"
+"PO-Revision-Date: 2017-02-01 14:40+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: Vibethemes <vibethemes@gmail.com>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "Som svar til:"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "Vis tåd / permalink"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View"
+msgstr "Vis"
+
+# @ wplms_modern
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Kommenter <span>%s</span>"
+
+# @ wplms_modern
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "Favoritt"
+
+# @ wplms_modern
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "Fjern Favoritt"
+
+# @ wplms_modern
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "Inlegg"
+
+# @ wplms_modern
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "eller trykk esc for å kansellere."
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "Den offentlige aktiviteten for alle på denne siden."
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Alle medlemmer <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "Aktiviteten til bare mine venner."
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Mine venner <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "Aktiviteten i gruppene jeg er medlem av. "
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Mine grupper <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "Aktiviteten jeg har merket som en favoritt."
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Mine favoritter <span> %s </ span>"
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "Aktivitet som jeg har blitt nevnt i."
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "Omtaler"
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "RSS-feed"
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "RSS"
+
+# @ wplms_modern
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "Vis:"
+
+# @ wplms_modern
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "Alt"
+
+# @ wplms_modern
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "Oppdateringer"
+
+# @ wplms_modern
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "Innlegg"
+
+# @ wplms_modern
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "Kommentarer"
+
+# @ wplms_modern
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "Forumemner"
+
+# @ wplms_modern
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "Forumsvar"
+
+# @ wplms_modern
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "Nye grupper"
+
+# @ wplms_modern
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "Gruppemedlemskap"
+
+# @ wplms_modern
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "Venneforhold"
+
+# @ wplms_modern
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "Nye medlemmer"
+
+# @ wplms_modern
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "Kurs etter instruktør"
+
+# @ wplms_modern
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "Ingen instruktører funnet"
+
+# @ wplms_modern
+#: archive.php:3
+msgid "Permission denied"
+msgstr "Tilgang nektet"
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ wplms_modern
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ wplms_modern
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "Vis alle inlegg i %s"
+
+# @ wplms_modern
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "Les mer"
+
+# @ wplms_modern
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "Beklager, var det ingen områder funnet."
+
+# @ wplms_modern
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "Sidekatalog"
+
+# @ wplms_modern
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "Sideregistrering er for øyeblikket deaktivert"
+
+# @ wplms_modern
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "All sider <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Mine sider <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "Opprett en side"
+
+# @ wplms_modern
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "Ordne etter:"
+
+# @ wplms_modern
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "Sist aktiv"
+
+# @ wplms_modern
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "Nyeste"
+
+# @ wplms_modern
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ wplms_modern
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "Ferdigattest"
+
+# @ wplms_modern
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "Tildelt til"
+
+# @ wplms_modern
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "for vellykket gjennomføring av kurset"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ wplms_modern
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "Navn"
+
+# @ wplms_modern
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "Epost"
+
+# @ wplms_modern
+#: comments.php:29
+msgid "Comment"
+msgstr "Kommenter"
+
+# @ wplms_modern
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "Hjemmeside"
+
+# @ wplms_modern
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "Publiser anmeldelse"
+
+# @ wplms_modern
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "Skriv en anmeldelse"
+
+# @ wplms_modern
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "Kursanmeldelser"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ wplms_modern
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "Ingen anmeldelser funnet for dette kurset."
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ wplms_modern
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "LES MER"
+
+# @ wplms_modern
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "MINDRE"
+
+# @ wplms_modern
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr " OPPMELDTE STUDENTER"
+
+# @ wplms_modern
+#: footer.php:19
+msgid "top"
+msgstr "toppen"
+
+# @ wplms_modern
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "Emne"
+
+# @ wplms_modern
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "Nyhetsgrad"
+
+# @ wplms_modern
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "Permanent link til dette innlegget"
+
+# @ wplms_modern
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "Startet av %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "i %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "Beklager, var det ingen forumemner funnet."
+
+# @ wplms_modern
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "Fora Directory"
+
+# @ wplms_modern
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "Nytt emne"
+
+# @ wplms_modern
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Alle emner <span> %s </ span>"
+
+# @ wplms_modern
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Mine kategorier <span> %s </ span>"
+
+# @ wplms_modern
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "Flest innlegg"
+
+# @ wplms_modern
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "Ubesvarte"
+
+# @ wplms_modern
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "Oprett ett nytt emne:"
+
+# @ wplms_modern
+#: forums/index.php:107
+msgid "Title:"
+msgstr "Tittel:"
+
+# @ wplms_modern
+#: forums/index.php:110
+msgid "Content:"
+msgstr "Innhold:"
+
+# @ wplms_modern
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "Tags (kommaseparert):"
+
+# @ wplms_modern
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "Poste I Group Forum:"
+
+# @ wplms_modern
+#: forums/index.php:119
+msgid "----"
+msgstr "----"
+
+# @ wplms_modern
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "Skriv Emne"
+
+# @ wplms_modern
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "Kanseller"
+
+# @ wplms_modern
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"Du er ikke medlem av noen grupper slik at du ikke har noen gruppe fora du "
+"kan legge inn i. For å begynne å legge inn, først finne en gruppe som passer "
+"temaet faget du ønsker å starte. Hvis denne gruppen ikke eksisterer, hvorfor "
+"ikke <a href = ' %s '> opprette en ny gruppe </a>? Når du har sluttet eller "
+"opprettet gruppen du kan legge inn tema i den gruppen forum."
+
+# @ wplms_modern
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "Kun instruktører kan opprette grupper"
+
+# @ wplms_modern
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "Kun administratorer kan opprette grupper"
+
+# @ wplms_modern
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "Gruppenavn (påkrevd)"
+
+# @ wplms_modern
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "Gruppebeskrivelse (påkrevd)"
+
+# @ wplms_modern
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "Personvernalternativer"
+
+# @ wplms_modern
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "Dette er en offentlig gruppe"
+
+# @ wplms_modern
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "Et nettsted medlem kan bli med i denne gruppen."
+
+# @ wplms_modern
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "Denne gruppen vil bli oppført i grupper katalogen og i søkeresultater."
+
+# @ wplms_modern
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr "Gruppe innhold og aktivitet vil være synlig for alle som bruker."
+
+# @ wplms_modern
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "Dette er en privat gruppe"
+
+# @ wplms_modern
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Bare brukere som ber om medlemskap og er akseptert kan bli med i gruppen."
+
+# @ wplms_modern
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Gruppe innhold og aktivitet vil kun være synlig for medlemmer av gruppen."
+
+# @ wplms_modern
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "Dette er en skjult gruppe"
+
+# @ wplms_modern
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "Bare brukere som er invitert kan delta i gruppen."
+
+# @ wplms_modern
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Denne gruppen vil ikke bli listet opp i grupper katalog eller "
+"søkeresultatene."
+
+# @ wplms_modern
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "Gruppe Invitasjoner"
+
+# @ wplms_modern
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Som medlemmer av denne gruppen har lov til å invitere andre?"
+
+# @ wplms_modern
+#: groups/create.php:107
+msgid "All group members"
+msgstr "Alle gruppemedlemmer"
+
+# @ wplms_modern
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "Gruppe admins og mods bare"
+
+# @ wplms_modern
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "Gruppe administratorer bare"
+
+# @ wplms_modern
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "Gruppeforum"
+
+# @ wplms_modern
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "Skal denne gruppen ha ett forum?"
+
+# @ wplms_modern
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "Aktiver diskusjonsforum"
+
+# @ wplms_modern
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+# @ wplms_modern
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Last opp et bilde som skal brukes som en avatar for denne gruppen. Bildet "
+"vil bli vist på hovedgruppesiden, og i søkeresultater."
+
+# @ wplms_modern
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "Last opp bilde"
+
+# @ wplms_modern
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+# @ wplms_modern
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "Beskjære Gruppe Avatar"
+
+# @ wplms_modern
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "Avatar til beskjæring"
+
+# @ wplms_modern
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "Forhåndsvis Avatar"
+
+# @ wplms_modern
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "Beskjær bilde"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ wplms_modern
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "Utvalgte personer for å invitere fra vennelisten din."
+
+# @ wplms_modern
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "Fjern invitasjon"
+
+# @ wplms_modern
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Når du har bygget opp venneforbindelser vil du være i stand til å invitere "
+"andre til gruppen."
+
+# @ wplms_modern
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "Tilbake til Forrige trinn"
+
+# @ wplms_modern
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "Neste steg"
+
+# @ wplms_modern
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "Lag gruppe og fortsett"
+
+# @ wplms_modern
+#: groups/create.php:329
+msgid "Finish"
+msgstr "Fullfør"
+
+# @ wplms_modern
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "aktiv %s"
+
+# @ wplms_modern
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "Moderatorer"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ wplms_modern
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "Trykk på enter for å søke..."
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "Hva er nytt i %s , %s ?"
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ wplms_modern
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "Konto aktivert"
+
+# @ wplms_modern
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "Aktiver din konto"
+
+# @ wplms_modern
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Kontoen ble aktivert vellykket! Kontoopplysningene har blitt sendt til deg i "
+"en egen e-post."
+
+# @ wplms_modern
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+
+# @ wplms_modern
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "Vennligst oppgi en gyldig aktiveringsnøkkel."
+
+# @ wplms_modern
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "Activation Key:"
+
+# @ wplms_modern
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "Aktiver"
+
+# @ wplms_modern
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "Brukerregistrering er for øyeblikket ikke tillatt."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "Kontodetaljer"
+
+# @ wplms_modern
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "Brukernavn"
+
+# @ wplms_modern
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(påkrevd)"
+
+# @ wplms_modern
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "E-post adresse"
+
+# @ wplms_modern
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "Velg ett passord"
+
+# @ wplms_modern
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "Bekreft passord"
+
+# @ wplms_modern
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "Profildetaljer"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "Hvem kan se dette feltet?"
+
+# @ wplms_modern
+#: registration/register.php:211
+msgid "Close"
+msgstr "Lukk"
+
+# @ wplms_modern
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "Blogdetaljer"
+
+# @ wplms_modern
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "Ja, jeg ønsker å opprette et nytt område"
+
+# @ wplms_modern
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "Blogg URL"
+
+# @ wplms_modern
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "Sidetittel"
+
+# @ wplms_modern
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Jeg ønsker nettstedet mitt skal vises i søkemotorer, og i børsnoteringer "
+"rundt dette nettverket."
+
+# @ wplms_modern
+#: registration/register.php:324
+msgid "Yes"
+msgstr "Ja"
+
+# @ wplms_modern
+#: registration/register.php:325
+msgid "No"
+msgstr "Nei"
+
+# @ wplms_modern
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Du har opprettet kontoen din! For å begynne å bruke dette nettstedet du vil "
+"trenge for å aktivere kontoen din via e-posten vi har nettopp sendt til din "
+"adresse."
+
+# @ wplms_modern
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Du har opprettet kontoen din! Vennligst logg inn med brukernavnet og "
+"passordet du nettopp har laget."
+
+# @ wplms_modern
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "Søkeresultat for \""
+
+# @ wplms_modern
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ wplms_modern
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "Beklager, ingen resultat funnet."
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ wplms_modern
+#: single-course.php:38
+msgid "Home"
+msgstr "Hjem"
+
+# @ wplms_modern
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "Innhold"
+
+# @ wplms_modern
+#: single-course.php:40
+msgid "Members"
+msgstr "Medlemmer"
+
+# @ wplms_modern
+#: single-course.php:48
+msgid "Group"
+msgstr "Gruppe"
+
+# @ wplms_modern
+#: single-course.php:55
+msgid "Forum"
+msgstr "Forum"
+
+# @ wplms_modern
+#: single-course.php:60
+msgid "Admin"
+msgstr "Admin"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ wplms_modern
+#: single-post.php:104
+msgid "Courses"
+msgstr "Kurs"
+
+# @ wplms_modern
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "Fortsett prøve"
+
+# @ wplms_modern
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "Sjekk prøve resultater"
+
+# @ wplms_modern
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "Tilbake til kurset"
+
+# @ wplms_modern
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "Start prøve"
+
+# @ wplms_modern
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "Ta ett kurs for å starte prøven"
+
+# @ wplms_modern
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "Vedlegg"
+
+# @ wplms_modern
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Har du spørsmål? Spør i modul forumene"
+
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "Svar"
+
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "Fjern"
+
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ wplms_modern
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "Alle Oppgave innsendinger"
+
+# @ wplms_modern
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "Maksimalt poeng"
+
+# @ wplms_modern
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "FEIL KURSVERDI. KONTAKT ADMIN"
+
+# @ wplms_modern
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:74
+msgid " seconds"
+msgstr " sekunder"
+
+# @ wplms_modern
+#: start.php:76
+msgid " Hours"
+msgstr " Timer"
+
+# @ wplms_modern
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "Kursets innhold er ikke satt. "
+
+# @ wplms_modern
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "Kursets innhold er ikke satt"
+
+# @ wplms_modern
+#: start.php:137
+msgid "Start Course"
+msgstr "Start kurs"
+
+# @ wplms_modern
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:157
+msgid "Previous Unit"
+msgstr "Tidligere modul"
+
+# @ wplms_modern
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "Markere denne modulen som fullført"
+
+# @ wplms_modern
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "Ny modul"
+
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ wplms_modern
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "TILBAKE TIL KURSET"
+
+# @ wplms_modern
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "ANMELD KURSET"
+
+# @ wplms_modern
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "FULLFØR KURS"
+
+#  include the HTML <span>%s</span>
+# @ wplms_modern
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Alle kurs <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Mine Kurs <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Kurs hvor du er Instruktør<span> %s </ span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr ""
+
+# @ wplms_modern
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "Nylig publisert"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "Antall medlemmer"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "Høyest rangering"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Alle grupper <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "Opprett en gruppe"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "Nylig opprettet"
+
+# @ wplms_modern
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "Nyeste registrerte"
+
+# @ wplms_modern
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "Logg inn"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+# @ wplms_modern
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr "Opprett en konto"
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ wplms_modern
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "Passord"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Søkeresultater: & ldquo; %s & rdquo;"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "& Nbsp; & ndash; Side %s"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "Ingen produkter funnet som passer dine valg."
+
+# @ wplms_modern
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "Inkluderte kurs"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Det er noen problemer med varene i handlekurven din (vist ovenfor). "
+"Vennligst gå tilbake til vognen side og løse disse problemene før du sjekker "
+"ut."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "&larr; Tilbake til handlekurven"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "Faktura &amp; levering"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "Fakturaadresse"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Du må være logget inn for å sjekke ut"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "Fortsett"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "Din ordre"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "Trykk på videre for å fortsette"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "Klikk her for å logge ut og Påloggings som annen bruker"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "Tidligere kunde?"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "Klikk her for å logge inn"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "Jeg er registrert"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+"Hvis du har handlet hos oss før, vennligst skriv inn dine detaljer i boksene "
+"under."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "Ny Kunde"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "Fortsett som gjest"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "Opprett en konto ved å angi informasjonen nedenfor."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "Produkt"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "Total"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "Kurv delsum"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "Kupong:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "Ordretotal"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Beklager, virker det som det ikke er noen tilgjengelige betalingsmetoder for "
+"din plassering. Ta kontakt med oss ​​hvis du trenger hjelp eller ønsker å "
+"gjøre alternative ordninger."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "Betal for ordre"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Send til en annen adresse?"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Tilleggsinformasjon"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Vennligst fyll ut informasjonen ovenfor for å se tilgjengelige "
+"betalingsmåter."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Beklager, virker det som det ikke er noen tilgjengelige betalingsmetoder for "
+"staten. Ta kontakt med oss ​​hvis du trenger hjelp eller ønsker å gjøre "
+"alternative ordninger."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Siden nettleseren ikke støtter JavaScript, eller det er deaktivert, må du "
+"sørge for at du klikker <em> Oppdater Totals </em>-knappen før du bestiller. "
+"Du kan bli belastet mer enn beløpet som er angitt ovenfor hvis du unnlater å "
+"gjøre det."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "Oppdater summer"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "Plasser ordre"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "Jeg har lest og aksepterer"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "vilkår &amp; betingelser"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Dessverre bestillingen kan ikke behandles som opprinnelses bank / kjøpmann "
+"har avslått transaksjonen."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Vennligst prøv kjøpet på nytt eller gå til din konto side."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "Vennligst prøv kjøpet på nytt."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "Betal"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "Min Konto"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "Mange takk. Din ordre har blitt mottatt. "
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "Ordre:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Dato:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Total:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "Betalingsmetode:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "KURS TEGNET FOR"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "PÅMELDT HELE KURSET"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "Påmeldte Kurs"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "KURS"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "PÅMELDING"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "START KURS"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "VENTER PÅ ORDREBEKREFTELSE FOR Å STARTE KURS"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "VENTER PÅ ADMIN GODKJENNELSE"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ wplms_modern
+#~ msgid "Save Answer"
+#~ msgstr "Lagre svar"
+
+# @ wplms_modern
+#~ msgid "Answer"
+#~ msgstr "Svar"
+
+# @ wplms_modern
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "Tidligere svar på dette spørsmålet"
+
+# @ wplms_modern
+#~ msgid "Course Directory"
+#~ msgstr "Kurskatalog"
+
+# @ wplms_modern
+#~ msgid "All Courses by all instructors"
+#~ msgstr "Alle kurs av alle instruktører"
+
+# @ wplms_modern
+#~ msgid "All Events in "
+#~ msgstr "Alle hendelser i"
+
+# @ wplms_modern
+#~ msgid "Answer Assignment"
+#~ msgstr "Svar på oppgave"
+
+# @ wplms_modern
+#~ msgid "Assignment Submissions"
+#~ msgstr "Oppgaveinnsendinger"
+
+# @ wplms_modern
+#~ msgid "Additional Notes"
+#~ msgstr "Tilleggsnotater"
+
+# @ wplms_modern
+#~ msgid "Upload Assignment"
+#~ msgstr "Last opp Oppgave"
+
+# @ wplms_modern
+#~ msgid "My Previous Submissions"
+#~ msgstr "Min forrige innsendinger"
+
+# @ wplms_modern
+#~ msgid "All Courses by "
+#~ msgstr "Alle Kurs av"
+
+# @ wplms_modern
+#~ msgid " Profile"
+#~ msgstr "Profil"
+
+# @ wplms_modern
+#~ msgid " Responses on "
+#~ msgstr "Svarene på"
+
+# @ wplms_modern
+#~ msgid "Leave a Message"
+#~ msgstr "Legg igjen en beskjed"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter a course completion message for students passing this course. This "
+#~ "message is shown to students when students submit their course. The "
+#~ "message is shown above the Course review form"
+#~ msgstr ""
+#~ "Skriv inn et kursavslutning melding for studenter som fullfører dette "
+#~ "kurset. Denne meldingen vises til studentene når studentene sender inn "
+#~ "sine kurs. Meldingen vises over Kurs gjennomgang skjemaet"
+
+# @ wplms_modern
+#~ msgid "EDIT COURSE"
+#~ msgstr "REDIGER KURS"
+
+# @ wplms_modern
+#~ msgid "CREATE COURSE"
+#~ msgstr "OPPRETT KURS"
+
+# @ wplms_modern
+#~ msgid "Start building a course"
+#~ msgstr "Start å bygge et kurs"
+
+# @ wplms_modern
+#~ msgid "SETTINGS"
+#~ msgstr "INNSTILLINGER"
+
+# @ wplms_modern
+#~ msgid "Course settings"
+#~ msgstr "Kursinnstillinger"
+
+# @ wplms_modern
+#~ msgid "SET CURRICULUM"
+#~ msgstr "SETT INNHOLD"
+
+# @ wplms_modern
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "Legg til moduler og prøver"
+
+# @ wplms_modern
+#~ msgid "PRICING"
+#~ msgstr "PRISING"
+
+# @ wplms_modern
+#~ msgid "Set Price for Course"
+#~ msgstr "Sett pris på kurset"
+
+# @ wplms_modern
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "PUBLISER KURS"
+
+# @ wplms_modern
+#~ msgid "Go Live !"
+#~ msgstr "Gå live !"
+
+# @ wplms_modern
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "Rediger i Admin Panel"
+
+# @ wplms_modern
+#~ msgid "COURSE TITLE"
+#~ msgstr "KURSTITTEL"
+
+# @ wplms_modern
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "SKRIV INN EN KURSTITTEL"
+
+# @ wplms_modern
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "KURSKATEGORI"
+
+# @ wplms_modern
+#~ msgid "Select a Course Category"
+#~ msgstr "Velg en kurskategori"
+
+# @ wplms_modern
+#~ msgid "Add new category"
+#~ msgstr "Legg til ny katagori"
+
+# @ wplms_modern
+#~ msgid "Enter a new Course Category"
+#~ msgstr "Legg til ny kurskatagori"
+
+# @ wplms_modern
+#~ msgid "COURSE IMAGE"
+#~ msgstr "KURSBILDE"
+
+# @ wplms_modern
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "KURSBESKRIVELSE"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "Skriv inn en kort beskrivelse av kurset, med mindre enn 30 ord. Klikk på "
+#~ "teksten for å redigere den og  n slette denne teksten. Full "
+#~ "kursbeskrivelse vil bli lagt til senere på."
+
+# @ wplms_modern
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "Kurslenkeforbindelse "
+
+# @ wplms_modern
+#~ msgid "Select Linkage term"
+#~ msgstr "Velg Link betingelse"
+
+# @ wplms_modern
+#~ msgid "Add new Linkage term"
+#~ msgstr "Legg til ny Link betingelse"
+
+# @ wplms_modern
+#~ msgid "Enter a new Linkage"
+#~ msgstr "Legg til ny lenkeforbindelse"
+
+# @ wplms_modern
+#~ msgid "Change Course Status"
+#~ msgstr "Endre kursstatus"
+
+# @ wplms_modern
+#~ msgid "Online"
+#~ msgstr "Online"
+
+# @ wplms_modern
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+# @ wplms_modern
+#~ msgid "SAVE COURSE"
+#~ msgstr "LAGRE KURS"
+
+# @ wplms_modern
+#~ msgid "Course Settings"
+#~ msgstr "Kursinnstillinger"
+
+# @ wplms_modern
+#~ msgid "Course Duration"
+#~ msgstr "Kursets lengde"
+
+# @ wplms_modern
+#~ msgid "Maximum Course Duration"
+#~ msgstr "Maksimum kurslengde"
+
+# @ wplms_modern
+#~ msgid "Course Evaluation"
+#~ msgstr "Kursevaluering"
+
+# @ wplms_modern
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "Evalueringsmodus for kurs"
+
+# @ wplms_modern
+#~ msgid "Manual"
+#~ msgstr "Manuell"
+
+# @ wplms_modern
+#~ msgid "Automatic"
+#~ msgstr "Automatisk"
+
+# @ wplms_modern
+#~ msgid "Pre-required Course"
+#~ msgstr "Forhåndskrevd Kurs"
+
+# @ wplms_modern
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "Sett et forhåndskrevd Kurs"
+
+# @ wplms_modern
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+# @ wplms_modern
+#~ msgid "Drip Feed"
+#~ msgstr "Tidsregulert gjennomføring"
+
+# @ wplms_modern
+#~ msgid "Disable"
+#~ msgstr "Deaktiver"
+
+# @ wplms_modern
+#~ msgid "Enable"
+#~ msgstr "Aktiver"
+
+# @ wplms_modern
+#~ msgid "Set Drip Feed Duration"
+#~ msgstr "Sett Tidsregulert Varighet"
+
+# @ wplms_modern
+#~ msgid "Course Certificate"
+#~ msgstr "Kurssertifikat"
+
+# @ wplms_modern
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "Bestem Sertifikat Prosent"
+
+# @ wplms_modern
+#~ msgid "out of 100"
+#~ msgstr "ut av 100"
+
+# @ wplms_modern
+#~ msgid "Set Certificate Template"
+#~ msgstr "Sett sertifikatmal"
+
+# @ wplms_modern
+#~ msgid "Default Template"
+#~ msgstr "Standard mal"
+
+# @ wplms_modern
+#~ msgid "Course Badge"
+#~ msgstr "Kursmedalje"
+
+# @ wplms_modern
+#~ msgid "Set Badge Percentage"
+#~ msgstr "Sett medaljeprosent"
+
+# @ wplms_modern
+#~ msgid " out of 100"
+#~ msgstr "ut av 100"
+
+# @ wplms_modern
+#~ msgid "Set Badge Title"
+#~ msgstr "Sett medaljetittel"
+
+# @ wplms_modern
+#~ msgid "Upload Badge Image"
+#~ msgstr "Last opp medaljebilde"
+
+# @ wplms_modern
+#~ msgid "Course Start Date"
+#~ msgstr "Kurset sin startdato"
+
+# @ wplms_modern
+#~ msgid "Set Course Start Date"
+#~ msgstr "Sett kursets startdato"
+
+# @ wplms_modern
+#~ msgid "Course Group"
+#~ msgstr "Kursgruppe"
+
+# @ wplms_modern
+#~ msgid "Connect a Course Group"
+#~ msgstr "Koble til en kursgruppe"
+
+# @ wplms_modern
+#~ msgid "Add new Group"
+#~ msgstr "Legg til ny gruppe"
+
+# @ wplms_modern
+#~ msgid "Course Forum"
+#~ msgstr "Kursforum"
+
+# @ wplms_modern
+#~ msgid "Connect a Course Forum"
+#~ msgstr "Koble til ett kursforum"
+
+# @ wplms_modern
+#~ msgid "Connect the Group forum"
+#~ msgstr "Koble til  en kursgruppe"
+
+# @ wplms_modern
+#~ msgid "Add new forum"
+#~ msgstr "Legg til nytt forum"
+
+# @ wplms_modern
+#~ msgid "Course Completion Message"
+#~ msgstr "Melding for fullført kurs"
+
+# @ wplms_modern
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "LAGRE INNSTILLINGER"
+
+# @ wplms_modern
+#~ msgid "Course Curriculum"
+#~ msgstr "Kursinnhold"
+
+# @ wplms_modern
+#~ msgid "ADD SECTION"
+#~ msgstr "LEGG TIL SEKSJON"
+
+# @ wplms_modern
+#~ msgid "ADD UNIT"
+#~ msgstr "LEGG TIL MODUL"
+
+# @ wplms_modern
+#~ msgid "ADD QUIZ"
+#~ msgstr "LEGG TIL PRØVE"
+
+# @ wplms_modern
+#~ msgid "Edit Unit"
+#~ msgstr "Endre modul"
+
+# @ wplms_modern
+#~ msgid "Delete"
+#~ msgstr "Slett"
+
+# @ wplms_modern
+#~ msgid "Edit Quiz"
+#~ msgstr "Endre prøve"
+
+# @ wplms_modern
+#~ msgid "SELECT A UNIT"
+#~ msgstr "VELG EN MODUL"
+
+# @ wplms_modern
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "LEGG TIL NY MODUL"
+
+# @ wplms_modern
+#~ msgid "Add a unit title"
+#~ msgstr "Legg til modulstittel"
+
+# @ wplms_modern
+#~ msgid "Publish"
+#~ msgstr "Publiser"
+
+# @ wplms_modern
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "VELG EN PRØVE"
+
+# @ wplms_modern
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "LEGG TIL NY PRØVE"
+
+# @ wplms_modern
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "LAGRE INNHOLD"
+
+# @ wplms_modern
+#~ msgid "COURSE PRICING"
+#~ msgstr "KURSPRISING"
+
+# @ wplms_modern
+#~ msgid "Free Course"
+#~ msgstr "Gratis kurs"
+
+# @ wplms_modern
+#~ msgid "Set a Course Product"
+#~ msgstr "Sett ett kursprodukt"
+
+# @ wplms_modern
+#~ msgid "Select a Course Product"
+#~ msgstr "Velg ett kursprodukt"
+
+# @ wplms_modern
+#~ msgid "No Product"
+#~ msgstr "Ingen produkt"
+
+# @ wplms_modern
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "LEGG TIL NYTT PRODUKT"
+
+# @ wplms_modern
+#~ msgid "Set Product type"
+#~ msgstr "Velg produkttype"
+
+# @ wplms_modern
+#~ msgid "Full Course"
+#~ msgstr "Fullt kurs"
+
+# @ wplms_modern
+#~ msgid "Subscription"
+#~ msgstr "Abonnement"
+
+# @ wplms_modern
+#~ msgid "Set Product Price"
+#~ msgstr "Sett produktpris"
+
+# @ wplms_modern
+#~ msgid "Set Subscription duration"
+#~ msgstr "Satt abonnement varighet"
+
+# @ wplms_modern
+#~ msgid "Set Course Memberships"
+#~ msgstr "Sett kursmedlemskap"
+
+# @ wplms_modern
+#~ msgid "Save Course Pricing"
+#~ msgstr "Lagre kursprising"
+
+# @ wplms_modern
+#~ msgid "Go Live"
+#~ msgstr "Gå live"
+
+# @ wplms_modern
+#~ msgid "GO LIVE"
+#~ msgstr "GÅ LIVE"
+
+# @ wplms_modern
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "SEND TIL GODKJENNING"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Click on text to enter a Course title, delete the existing text in the "
+#~ "title"
+#~ msgstr ""
+#~ "Klikk på teksten for å angi en kurs tittel, slett den eksisterende "
+#~ "teksten i tittelen"
+
+# @ wplms_modern
+#~ msgid "Select a Course Category, or Add a New one"
+#~ msgstr "Velg en kurs kategori, eller legg til en ny"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Select or upload a course image, this image is used as Course avatar."
+#~ msgstr ""
+#~ "Velg eller last opp et kurs bilde, dette bildet brukes som kurs "
+#~ "presentasjonsbilde"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter a Short description about the course, the full description can be "
+#~ "added later on. Start by deleting the existing text in the title"
+#~ msgstr ""
+#~ "Skriv en kort beskrivelse om kurset, en full beskrivelse kan legges til "
+#~ "senere. Start med å slette den eksisterende teksten i tittelen"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "Kobling reduserer lastetid på modul / prøve / spørsmål. Når en kobling "
+#~ "betingelse er valgt, vil listene bare vise for moduerl / prøver / "
+#~ "spørsmåler knyttet til same kobling betingelse. Hvis du redigerer et "
+#~ "kurs, lagre og oppdatere etter å ha valgt en kobling betingelse."
+
+# @ wplms_modern
+#~ msgid "A Offline Course is not visible to students in the course directory."
+#~ msgstr "Et Offline Course er ikke synlig for studenter i kurset katalogen."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter the maximum duration for the course in days. This is the maximum "
+#~ "duration within which the student should complete the course. Use 9999 "
+#~ "for unlimited access to course."
+#~ msgstr ""
+#~ "Angi maksimal varighet for kurset i dager. Dette er det maksimale "
+#~ "varighet innenfor der studenten skal fullføre kurset. Bruke 9999 for "
+#~ "ubegrenset tilgang til kurset."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set Evaluation mode, Manual evaluation (from Course -> Admin ) or "
+#~ "Automatic (* Requires at least 1 quiz in the course ) "
+#~ msgstr ""
+#~ "Set Evaluering modus, manuell evaluering (fra Kurs -> Admin) eller "
+#~ "Automatisk (* Krever minst en prøve i kurset) "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr ""
+#~ "Sett et forhåndskrevd kurs. Et forhåndskrevd kurs må gjennomføres før en "
+#~ "student kan få tilgang til dette kurset"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enable Drip Feed course. Students see next lesson after x days. X is "
+#~ "Duration of Drip. "
+#~ msgstr ""
+#~ "Aktiver tidskontrollert gjennomføring. Studenter vil se neste modul etter "
+#~ "x dager. X er varighet som settes. "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "Sett et kursbevis. Satt sertifikat prosent viser hva en student må oppnå "
+#~ "å få kursbevis. Velg en sertifikatmal."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a course Badge. Set percentage marks which a student should get to "
+#~ "get the course badge. Upload the Badge image."
+#~ msgstr ""
+#~ "Sett ett kurs Merke. Satt merke prosent viser hva en student må oppnå å "
+#~ "få kurs merket. Last opp Merke bilde."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set number of seats available for students to take the course. Once full "
+#~ "students can not join the course. Enter 9999 for unlimited seats."
+#~ msgstr ""
+#~ "Still antall plasser tilgjengelig for studenter på kurset. Når  kurset er "
+#~ "fult kan ikke flere studenter melde seg på kurset. Skriv inn 9999 for "
+#~ "ubegrenset plass."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join "
+#~ "the course on/after the start date."
+#~ msgstr ""
+#~ "Sett en startdato for kurset. Hvis dato settes frem i tid, kan elevene "
+#~ "bare bli med på kurset på / etter startdatoen."
+
+# @ wplms_modern
+#~ msgid "Connect a Course Group OR Create a new one"
+#~ msgstr "Koble en emnegruppe eller Opprett en ny en"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Connect a Course forum Or Create a new one or Create a Course Group Forum"
+#~ msgstr ""
+#~ "Koble til et kurs forum eller opprette en ny en eller Opprett en kurs "
+#~ "gruppe Forum"
+
+# @ wplms_modern
+#~ msgid "Enter Course specific instructions for students to take this course."
+#~ msgstr ""
+#~ "Tast Kurs spesifikke instruksjoner for studenter som vil ta dette kurset."
+
+# @ wplms_modern
+#~ msgid "Enter message which student see after submitting the course."
+#~ msgstr ""
+#~ "Skriv inn meldingen som studenter skal se etter gjennomføring og "
+#~ "innsending av kurset."
+
+# @ wplms_modern
+#~ msgid "Start building curriculum by adding Units, Quizzes and sections."
+#~ msgstr ""
+#~ "Begynne å bygge pensum ved å legge til Moduler, Prøver og seksjoner."
+
+# @ wplms_modern
+#~ msgid "After adding a new unit or quiz, make sure you publish it"
+#~ msgstr ""
+#~ "Når du har lagt en ny modul eller prøve, sørg for at du publiserer det"
+
+# @ wplms_modern
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "Lagre pensum bare når knappen er grønn."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Connect the course with a product. A product defines the pricing of a "
+#~ "course.<br /><br />a. Enter the Price of the product to set the price of "
+#~ "your course.<br />b. Select the type of product.<br /><br /> If product "
+#~ "is set to subscription mode, you need to set the subscription duration "
+#~ "for the product. <br />A student purchasing a Product with subscription "
+#~ "gets access for the course for the subscription duration.<br /> A student "
+#~ "purchasing a product without subscription gets access for the course for "
+#~ "full course duration as entered in course settings."
+#~ msgstr ""
+#~ "Koble kurset med et produkt. Et produkt definerer prisingen av et kurs. "
+#~ "<br /> <br /> En. Oppgi prisen på produktet for å sette prisen på kurset. "
+#~ "<br /> B. Velg type produkt. <br /> <br /> Hvis produktet er satt til "
+#~ "tilknytningsmodus, må du angi varigheten abonnement for produktet. <br /> "
+#~ "En student kjøper et produkt med abonnement får tilgang til kurset for "
+#~ "varigheten abonnement. <br /> En student kjøper et produkt uten "
+#~ "abonnement får tilgang til kurset for hele kurset varighet som angitt i "
+#~ "kurs innstillinger."
+
+# @ wplms_modern
+#~ msgid "Create an account"
+#~ msgstr "Opprett en konto"
+
+# @ wplms_modern
+#~ msgid "Sign Up"
+#~ msgstr "Registrer deg"
+
+# @ wplms_modern
+#~ msgid "This Page is only accessible to Instructors"
+#~ msgstr "Denne siden er kun tilgjengelig for instruktører "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The page is only accessible to site Users with Instructor or above "
+#~ "capabilites."
+#~ msgstr ""
+#~ "Denne siden er kun tilgjengelig for brukere av området med instruktør "
+#~ "eller høyere rettigheter"
+
+# @ wplms_modern
+#~ msgid "DIRECT ACCESS TO QUESTIONS IS NOT ALLOWED"
+#~ msgstr "DIREKTE TILGANG TIL SPØRSMÅL ER IKKE TILLATT "
+
+# @ wplms_modern
+#~ msgid "INSTRUCTORS"
+#~ msgstr "INSTRUKTØRER"
+
+# @ wplms_modern
+#~ msgid "Course Info"
+#~ msgstr "Kurs Info"
+
+# @ wplms_modern
+#~ msgid "<h1>.Direct Access to Units is not allowed</h1>"
+#~ msgstr "<H1> .Direkte Tilgang til modul er ikke tillatt </ h1>"
+
+# @ wplms_modern
+#~ msgid "CLEAR PREVIOUS SUBMISSIONS"
+#~ msgstr "RENSK TIDLIGERE INNSENDELSER"
+
+# @ wplms_modern
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "INVITER STUDENTER PÅ NYTT"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATION"
+#~ msgstr "SEND INVITASJON"
+
+# @ wplms_modern
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "SEND EPOST PÅMINNELSE"
+
+# @ wplms_modern
+#~ msgid "SUBJECT"
+#~ msgstr "EMNE"
+
+# @ wplms_modern
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "INVITASJONSMELDING"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "SEND INVITASJONER"
+
+# @ wplms_modern
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "PÅMINNELSE"
+
+# @ wplms_modern
+#~ msgid "SEND REMINDER"
+#~ msgstr "SEND PÅMINNELSE"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr ""
+#~ "Påminnelser er e-poster sendt til studenter som har akseptert "
+#~ "arrangementinvitasjonen. "
+
+# @ wplms_modern
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "AKSEPTER INVITASJON"
+
+# @ wplms_modern
+#~ msgid "REJECT INVITE"
+#~ msgstr "FORKAST INVITASJON"
+
+# @ wplms_modern
+#~ msgid "Event Location"
+#~ msgstr "Arrangementssted"
+
+# @ wplms_modern
+#~ msgid "A Section added by hook"
+#~ msgstr "Et avsnitt lagt til av kroken"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr ""
+#~ "Dette er en seksjon laget ved å legge til et filter i seksjoner array, "
+#~ "flott å tillate under temaer, for å legge til / fjerne deler fra "
+#~ "alternativene."
+
+# @ wplms_modern
+#~ msgid "Folow me on Twitter"
+#~ msgstr "Følg meg på Twitter"
+
+# @ wplms_modern
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "Lik oss på Facebook"
+
+# @ wplms_modern
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "Følg oss på Google Plus"
+
+# @ wplms_modern
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "Siste nytt fra VibeThemes"
+
+# @ wplms_modern
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr "Vibe alternativer Panel v 2.0"
+
+# @ wplms_modern
+#~ msgid "Support"
+#~ msgstr "Support"
+
+# @ wplms_modern
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "Vi tilbyr support via tre medier (i prioritert)"
+
+# @ wplms_modern
+#~ msgid "Support Email: VibeThemes@gmail.com"
+#~ msgstr "Support Email: VibeThemes@gmail.com"
+
+# @ wplms_modern
+#~ msgid "ThemeForest Item Comments"
+#~ msgstr "Themeforest Element Kommentarer"
+
+# @ wplms_modern
+#~ msgid "Documentation & Links"
+#~ msgstr "Dokumentasjon & linker"
+
+# @ wplms_modern
+#~ msgid "Or email us at"
+#~ msgstr "Eller send oss en epost til"
+
+# @ wplms_modern
+#~ msgid "Getting Started"
+#~ msgstr "Kom i gang"
+
+# @ wplms_modern
+#~ msgid "Welcome to "
+#~ msgstr "Velkommen til"
+
+# @ wplms_modern
+#~ msgid "See Theme documentation : "
+#~ msgstr "Se Tema dokumentasjon: "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "Installere de nødvendige plugins for å kjøre dette temaet: Buddypress, "
+#~ "Vibe Course Module, Vibe Snarveiene, Vibe CustomTypes."
+
+# @ wplms_modern
+#~ msgid "Get Sample Data from the demo "
+#~ msgstr "Få eksempeldata fra demoen "
+
+# @ wplms_modern
+#~ msgid "Get WPLMS Sample Data"
+#~ msgstr "Få WPLMS eksempeldata"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "(* Requires Vibe Importer Plugin and it may take 3-5 minutes, please do "
+#~ "not migrate from page while importing data.)"
+#~ msgstr ""
+#~ "(* Krever Vibe Importør Plugin og det kan ta 3-5 minutter, vennligst ikke "
+#~ "migrere fra side under import av data.)"
+
+# @ wplms_modern
+#~ msgid "Other important setups. "
+#~ msgstr "Andre viktige oppsett. "
+
+# @ wplms_modern
+#~ msgid "Full Theme Guide"
+#~ msgstr "Full Theme Guide"
+
+# @ wplms_modern
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "Hvordan oppdatere? Facing Problemer ved oppdatering?"
+
+# @ wplms_modern
+#~ msgid "Details required for Auto-Update"
+#~ msgstr "Detaljer som kreves for automatisk oppdatering"
+
+# @ wplms_modern
+#~ msgid "Enter Your Themeforest Username"
+#~ msgstr "Skriv inn ditt Themeforest Brukernavn"
+
+# @ wplms_modern
+#~ msgid "Required for Automatic Upgrades."
+#~ msgstr "Kreves for automatiske oppgraderinger."
+
+# @ wplms_modern
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr "Skriv inn ditt Themeforest API KEY"
+
+# @ wplms_modern
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr "Skriv inn din API Key.Required for automatiske oppgraderinger."
+
+# @ wplms_modern
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "Whats en API-nøkkel? Hvor kan jeg finne en?"
+
+# @ wplms_modern
+#~ msgid "Header"
+#~ msgstr "Header"
+
+# @ wplms_modern
+#~ msgid "Header settings"
+#~ msgstr "Headerinnstillinger"
+
+# @ wplms_modern
+#~ msgid "Upload Logo"
+#~ msgstr "Last opp logo"
+
+# @ wplms_modern
+#~ msgid "Upload your logo"
+#~ msgstr "Last opp din logo"
+
+# @ wplms_modern
+#~ msgid "This Logo is shown in header."
+#~ msgstr "Denne logoen er vist i headeren. "
+
+# @ wplms_modern
+#~ msgid "Upload Favicon"
+#~ msgstr "Last opp favicon"
+
+# @ wplms_modern
+#~ msgid "Upload 16x16px Favicon"
+#~ msgstr "Last opp 16x16px favicon"
+
+# @ wplms_modern
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "Last opp 16x16px favicon. "
+
+# @ wplms_modern
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "Fiksert toppheader ved rulling"
+
+# @ wplms_modern
+#~ msgid "Fix header on top of screen"
+#~ msgstr "Fiksert toppheader på toppen av skjermen"
+
+# @ wplms_modern
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr ""
+#~ "headeren er fiksert til toppen av skjermen mens brukeren ruller ned. "
+
+# @ wplms_modern
+#~ msgid "Navigation Search as Course Search"
+#~ msgstr "Navigasjon Søk som Course Søk"
+
+# @ wplms_modern
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "Tving header søk for å søke bare på kurs"
+
+# @ wplms_modern
+#~ msgid "Sidebar Manager"
+#~ msgstr "Sidebar sjef"
+
+# @ wplms_modern
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr "Generere flere sidebars dynamisk og bruke dem i ulike layouter"
+
+# @ wplms_modern
+#~ msgid "Create New sidebars "
+#~ msgstr "Opprett nye sidefelt "
+
+# @ wplms_modern
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "Dynamisk generere sidefelt"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use these sidebars in various layouts. DO NOT ADD ANY SPECIAL CHARACTERS "
+#~ "in Sidebar name"
+#~ msgstr ""
+#~ "Bruk disse sidefelt i ulike oppsett. IKKE LEGG spesialtegn i Sidebar navn"
+
+# @ wplms_modern
+#~ msgid "All Events page Sidebar"
+#~ msgstr "Alle hendelser ytterspalte"
+
+# @ wplms_modern
+#~ msgid "Select All events page sidebar"
+#~ msgstr "Velg alle hendelser siden ytterspalte"
+
+# @ wplms_modern
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "Velg en ytterspalte for alle hendelser siden"
+
+# @ wplms_modern
+#~ msgid "Buddypress"
+#~ msgstr "Buddypress"
+
+# @ wplms_modern
+#~ msgid "BuddyPress settings and Variables"
+#~ msgstr "Buddypress innstillinger og variabler"
+
+# @ wplms_modern
+#~ msgid "Upload BuddyPress Default avatar"
+#~ msgstr "Last opp Buddypress Standard avatar"
+
+# @ wplms_modern
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "Buddypress standard medlemmer avatar"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This avatar is shown for members who have not uploaded any custom avatar."
+#~ msgstr ""
+#~ "Dette avatar er vist for medlemmer som ikke har lastet opp noen egen "
+#~ "avatar."
+
+# @ wplms_modern
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "Buddypress elementer per side"
+
+# @ wplms_modern
+#~ msgid "number of items shown per page"
+#~ msgstr "antall elementer som vises per side"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr ""
+#~ "Antall Buddypress elementer (Kurs, Medlemmer, grupper, forum, blogger "
+#~ "osv ..)"
+
+# @ wplms_modern
+#~ msgid "Show Members activity"
+#~ msgstr "Vis medlemsaktivitet"
+
+# @ wplms_modern
+#~ msgid "Members latest activity is shown below the name"
+#~ msgstr "Medlemmer nyeste aktivitet er vist under navnet"
+
+# @ wplms_modern
+#~ msgid "Members activity is shown in All members page."
+#~ msgstr "Medlemmer aktivitet er vist i All medlemmer siden."
+
+# @ wplms_modern
+#~ msgid "All Members View"
+#~ msgstr "Vis alle medlemmer"
+
+# @ wplms_modern
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "Alle medlemmer sider kan sees av:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Profil synlig: All {Non-logg} Medlemmer {logg Medlemmer} Lærere {Lærere, "
+#~ "Admins, Editors}"
+
+# @ wplms_modern
+#~ msgid "All"
+#~ msgstr "Alle"
+
+# @ wplms_modern
+#~ msgid "Teachers only"
+#~ msgstr "Bare lærere"
+
+# @ wplms_modern
+#~ msgid "Single members profile can be viewed by:"
+#~ msgstr "Enslige medlemmer profil kan vises ved å:"
+
+# @ wplms_modern
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "Alle medlemmer no-tilgang omdirigeringsside"
+
+# @ wplms_modern
+#~ msgid "User is redirected to this page on error."
+#~ msgstr "Brukeren er omdirigert til denne siden på feilen."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "I tilfelle Medlemmer syn tilgang nektes for brukeren, er brukeren "
+#~ "omdirigert til denne siden."
+
+# @ wplms_modern
+#~ msgid "Activity View"
+#~ msgstr "Aktivitetsvisning"
+
+# @ wplms_modern
+#~ msgid "Activity can be viewed by :"
+#~ msgstr "Aktivitet kan sees av:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Aktivitet synlig: All {Non-logg} Medlemmer {logg Medlemmer} Lærere "
+#~ "{Lærere, Admins, Editors}"
+
+# @ wplms_modern
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "Aktivitet no-tilgang redirect Side"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "I tilfelle Aktivitet syn tilgang nektes for brukeren, er brukeren "
+#~ "omdirigert til denne siden."
+
+# @ wplms_modern
+#~ msgid "Create Groups"
+#~ msgstr "Opprett grupper"
+
+# @ wplms_modern
+#~ msgid "Groups can be created by :"
+#~ msgstr "Grupper kan opprettes etter:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr ""
+#~ "Gruppe skapelse: Medlemmer {logg Medlemmer}, Lærere {Lærere, Admins, "
+#~ "Editors}"
+
+# @ wplms_modern
+#~ msgid "Profile Activity Tab"
+#~ msgstr "Profil Aktivitet Tab"
+
+# @ wplms_modern
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "Enkelt profil aktivitet kan sees av:"
+
+# @ wplms_modern
+#~ msgid "Profile Group View"
+#~ msgstr "Profil Gruppe Vis"
+
+# @ wplms_modern
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "Enkelt Profil Grupper kan sees av:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Gruppe synlig: All {Non-logg} Medlemmer {logg Medlemmer} Lærere {Lærere, "
+#~ "Admins, Editors}"
+
+# @ wplms_modern
+#~ msgid "Profile Forums View"
+#~ msgstr "Profil forum Se"
+
+# @ wplms_modern
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "Enkelt Profil Forum kan ses av:"
+
+# @ wplms_modern
+#~ msgid "Redirect Page on User ACtivation"
+#~ msgstr "Omdirigere Page på brukeraktivering"
+
+# @ wplms_modern
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr ""
+#~ "Brukeren er omdirigert til denne siden om hvordan du aktiverer kontoen "
+#~ "hennes."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "Etter registrering og aktivering av kontoen brukeren omdirigert til denne "
+#~ "siden."
+
+# @ wplms_modern
+#~ msgid "Enable Join Group/Request Membership button"
+#~ msgstr "Aktiver Bli med i gruppen / Spør om Medlemskap knappen"
+
+# @ wplms_modern
+#~ msgid "Button is shown in Groups directory"
+#~ msgstr "Knappen vises i katalogen Grupper"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr ""
+#~ "Bli med i gruppen for offentlige grupper og be om medlemskap knappen for "
+#~ "private grupper"
+
+# @ wplms_modern
+#~ msgid "Restrict Student activity view"
+#~ msgstr "Begrense Student aktivitet utsikt"
+
+# @ wplms_modern
+#~ msgid "Restrict student view of activity"
+#~ msgstr "Begrense student syn på aktivitet"
+
+# @ wplms_modern
+#~ msgid "Student can view only her activity"
+#~ msgstr "Student kan se bare hennes aktivitet"
+
+# @ wplms_modern
+#~ msgid "Course Manager"
+#~ msgstr "Kursansvarlig"
+
+# @ wplms_modern
+#~ msgid "Manage Course Options from here."
+#~ msgstr "Administrere Kurs alternativer herfra."
+
+# @ wplms_modern
+#~ msgid "Take This Course Page"
+#~ msgstr "Ta denne kurssiden"
+
+# @ wplms_modern
+#~ msgid "A Page with Start Course Page Template"
+#~ msgstr "A Page med Start Course sidemal"
+
+# @ wplms_modern
+#~ msgid "Create a Course Page"
+#~ msgstr "Opprett en kursside"
+
+# @ wplms_modern
+#~ msgid "Admin Approval for Course"
+#~ msgstr "Administratorgodkjenning for Course"
+
+# @ wplms_modern
+#~ msgid "Force instructors for Admin approval for new course"
+#~ msgstr "Force instruktører for Admin godkjenning for ny kurs"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr ""
+#~ "Force Kurs opprettet av Instruktører er først sendt til administrator for "
+#~ "godkjenning."
+
+# @ wplms_modern
+#~ msgid "Yes, require approval"
+#~ msgstr "Ja, krever godkjenning"
+
+# @ wplms_modern
+#~ msgid "No, allow publish"
+#~ msgstr "Nei, la publisere"
+
+# @ wplms_modern
+#~ msgid "Unit Locking"
+#~ msgstr "Modul Lås "
+
+# @ wplms_modern
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr "Angi tilgang til neste enheter basert på forrige enhet status"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "Tvinge brukerne til å fullføre tidligere enheter og quiz evalution før du "
+#~ "ser de neste enhetene"
+
+# @ wplms_modern
+#~ msgid "Force prev Unit/Quiz Complete"
+#~ msgstr "Tving forrige Modul / Prøve Gjennomført"
+
+# @ wplms_modern
+#~ msgid "Unit Media Lock"
+#~ msgstr "Modul Media Lock"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr ""
+#~ "Skjule modul ferdigstillelse knappen med mindre Media (Audio / Video) er "
+#~ "fullført"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr ""
+#~ "Tvinge brukerne til å se / høre Media, Audio / Video i moduler før "
+#~ "merking av modulen som gjennomført"
+
+# @ wplms_modern
+#~ msgid "Assignment Locking"
+#~ msgstr "Overdragelse Locking"
+
+# @ wplms_modern
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr "Tvinge brukerne til å fullføre oppgaver å fullføre moduler"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr ""
+#~ "Merk fullført knappen for en modul vises kun etter at studenten har "
+#~ "fullført modulen  i oppgaven."
+
+# @ wplms_modern
+#~ msgid "Do not lock"
+#~ msgstr "Ikke lås"
+
+# @ wplms_modern
+#~ msgid "Lock Unit Completion"
+#~ msgstr "Lås Modul Gjennomføring"
+
+# @ wplms_modern
+#~ msgid "Show Course Progressbar"
+#~ msgstr "Vis kurs fremdriftslinje"
+
+# @ wplms_modern
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "Vis kurs fremdriftslinje over kurs tidslinje"
+
+# @ wplms_modern
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "Kurs fremdriftslinje vises i Kurs curriculum side"
+
+# @ wplms_modern
+#~ msgid "Instructors can Add Students"
+#~ msgstr "Instruktører kan legge til studenter"
+
+# @ wplms_modern
+#~ msgid "Enable Instructors to be able to add students"
+#~ msgstr "Aktiver at instruktører kan legge til studenter"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr ""
+#~ "En Bulk Handling er lagt i Course -> Administrasjon -> Medlemmer som gjør "
+#~ "Instructos å legge studenter til kurset"
+
+# @ wplms_modern
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr "Instruktører kan tildele / fjern Sertifikater og Skilt"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr ""
+#~ "Aktiver instruktører for å kunne tildele Sertifikater og Merker til "
+#~ "Studenter"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "En Bulk Handling er lagt i Course -> Administrasjon -> Medlemmer som gjør "
+#~ "at Intruktører kan tildele Sertifikater og merker til studenter for kurset"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to extend subscriptions of Students for the course"
+#~ msgstr ""
+#~ "En Bulk Handling er lagt til i Kurs -> Administrasjon -> Medlemmer som "
+#~ "gjør at instruktører kan forlenge abonnementer for Studenter av kurset"
+
+# @ wplms_modern
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "Tving instruktør til privat innhold"
+
+# @ wplms_modern
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr "Velg bokser vis bare instruktør moduler/prøver/spørsmål"
+
+# @ wplms_modern
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr "Instruktører kan vise titler, men kan ikke åpne innhold"
+
+# @ wplms_modern
+#~ msgid "Leaderboard/Stats Visibility"
+#~ msgstr "Leaderboard / Stats Sikt"
+
+# @ wplms_modern
+#~ msgid "Stats & Leaderboard visible to"
+#~ msgstr "Stats og Leader synlig for"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Stats displaying average, maxmium, minimum and top 10 students for a "
+#~ "module"
+#~ msgstr ""
+#~ "Statistikk viser gjennomsnitt, maxmium, minimum og topp 10 studenter for "
+#~ "en modul"
+
+# @ wplms_modern
+#~ msgid "A Page with become a teacher form."
+#~ msgstr "En side med bli lærer skjema."
+
+# @ wplms_modern
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "Fallback Certificate Page"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr ""
+#~ "En side med sertifikat side mal, fallback til kurs uten sertifikat Maler."
+
+# @ wplms_modern
+#~ msgid "Student Field"
+#~ msgstr "Studentfelt"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "Skriv inn navnet på Student Feltet vise nedenfor navnet."
+
+# @ wplms_modern
+#~ msgid "Instructor Field"
+#~ msgstr "Instruktørfelt"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr "Skriv inn navnet på den Instructor Feltet vise nedenfor navnet."
+
+# @ wplms_modern
+#~ msgid "Instructor Field Group"
+#~ msgstr "Instruktør Feltet Gruppe"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "Skriv inn navnet på Instruktør Feltet gruppen du ønsker å skjule fra "
+#~ "Studenter fra visning i profil -> rediger (* Ingen Obligatoriske felt og "
+#~ "sak senstitive)."
+
+# @ wplms_modern
+#~ msgid "Instructor Description Field"
+#~ msgstr "Instruktør Beskrivelse Felt"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr ""
+#~ "Instruktør Beskrivelse er plukket fra dette feltet i Instruktør Widget"
+
+# @ wplms_modern
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "Auto-Evaluering Spørsmål Typer"
+
+# @ wplms_modern
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "Spørsmålstyper som vil bli evaluert av Auto-Evaluering"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+#~ msgstr ""
+#~ "Disse spørsmålstyper vil bli vurdert av auto quiz evalueringsprosessen "
+#~ "for eksakt match."
+
+# @ wplms_modern
+#~ msgid "True False"
+#~ msgstr "Sann False"
+
+# @ wplms_modern
+#~ msgid "Multiple Choice"
+#~ msgstr "Flervalgstest"
+
+# @ wplms_modern
+#~ msgid "Multiple Correct"
+#~ msgstr "Multippel Riktig"
+
+# @ wplms_modern
+#~ msgid "Sort Answer Question"
+#~ msgstr "Sorter svarspørsmål"
+
+# @ wplms_modern
+#~ msgid "Dropdown select"
+#~ msgstr "Dropdown velger"
+
+# @ wplms_modern
+#~ msgid "Fill in the Blank"
+#~ msgstr "Fyll ut Blank"
+
+# @ wplms_modern
+#~ msgid "Small Text Answer"
+#~ msgstr "Lite tekstsvar"
+
+# @ wplms_modern
+#~ msgid "Hide courses from directory & pages, only accessible via direct link"
+#~ msgstr ""
+#~ "Skjul kurs fra katalogen & sider, som kun er tilgjengelige via direkte "
+#~ "link"
+
+# @ wplms_modern
+#~ msgid "Course duration parameter for display purpose"
+#~ msgstr "Kurs varighet parameter for visningsformål"
+
+# @ wplms_modern
+#~ msgid "Seconds"
+#~ msgstr "Sekunder"
+
+# @ wplms_modern
+#~ msgid "Days"
+#~ msgstr "Dager"
+
+# @ wplms_modern
+#~ msgid "Weeks"
+#~ msgstr "Uker"
+
+# @ wplms_modern
+#~ msgid "Months"
+#~ msgstr "Måneder"
+
+# @ wplms_modern
+#~ msgid "Years"
+#~ msgstr "År"
+
+# @ wplms_modern
+#~ msgid "Finished Course Access"
+#~ msgstr "Gjennomført Kurs Tilgang"
+
+# @ wplms_modern
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "Tillat elevene å se Gjennomførte kurs"
+
+# @ wplms_modern
+#~ msgid "Make finished courses secure area viewable to students"
+#~ msgstr "Lag ferdige kurs sikret området synlig for studenter"
+
+# @ wplms_modern
+#~ msgid "Display News"
+#~ msgstr "Vis Nyheter"
+
+# @ wplms_modern
+#~ msgid "Display News section in courses"
+#~ msgstr "Vis nyhets seksjon i kurset"
+
+# @ wplms_modern
+#~ msgid "Enables Level taxonomy"
+#~ msgstr "Aktiverer nivå kategorisering"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enables Level taxonomy in Course, Units, Quizzes, Questions, Assignment "
+#~ "and search page "
+#~ msgstr ""
+#~ "Aktiverer nivåbasert kategorisering i Kurs, Moduler, Prøver, Spørsmål, "
+#~ "Oppgaver og søkeside "
+
+# @ wplms_modern
+#~ msgid "Enable Linkage"
+#~ msgstr "Aktiver lenkeforbindelse "
+
+# @ wplms_modern
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr "Koble Kurs, Moduler, Prøver, Spørsmål med forbundet kategorisering"
+
+# @ wplms_modern
+#~ msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+#~ msgstr ""
+#~ "Korte ned listen over moduler, prøver, kurs vist i rullegardinlistene"
+
+# @ wplms_modern
+#~ msgid "Fonts Manager"
+#~ msgstr "Skrifttypebehandler"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+#~ msgstr ""
+#~ "Behandle fonter som skal brukes på nettstedet. Fonter valgt her vil være "
+#~ "tilgjengelig i Theme tilpasser font familie velge alternativer."
+
+# @ wplms_modern
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "Velg fonter for direkte- Theme Editor "
+
+# @ wplms_modern
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "Velge fonter og oppsett fonter Live Editor"
+
+# @ wplms_modern
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "Bruke disse oppsettene i PageBuilder."
+
+# @ wplms_modern
+#~ msgid "Select Google Fonts subsets"
+#~ msgstr "Velg Google Fonts undergrupper"
+
+# @ wplms_modern
+#~ msgid "Greek"
+#~ msgstr "gresk"
+
+# @ wplms_modern
+#~ msgid "Greek Ext"
+#~ msgstr "Gresk Ext"
+
+# @ wplms_modern
+#~ msgid "Cyrillic"
+#~ msgstr "Kyrillisk"
+
+# @ wplms_modern
+#~ msgid "Cyrillic Ext"
+#~ msgstr "Kyrillisk Ext"
+
+# @ wplms_modern
+#~ msgid "Vietnamese"
+#~ msgstr "Vietnamesisk"
+
+# @ wplms_modern
+#~ msgid "Arabic"
+#~ msgstr "Arabisk"
+
+# @ wplms_modern
+#~ msgid "Khmer"
+#~ msgstr "Khmer"
+
+# @ wplms_modern
+#~ msgid "Lao"
+#~ msgstr "Lao"
+
+# @ wplms_modern
+#~ msgid "Tamil"
+#~ msgstr "Tamil"
+
+# @ wplms_modern
+#~ msgid "Bengali"
+#~ msgstr "Bengali"
+
+# @ wplms_modern
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+# @ wplms_modern
+#~ msgid "Korean"
+#~ msgstr "Koreansk"
+
+# @ wplms_modern
+#~ msgid "Use these font subsets for better rendering of fonts."
+#~ msgstr "Bruk disse skrift undergrupper for bedre gjengivelse av skrifter."
+
+# @ wplms_modern
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "Tilpassede skrifter (Angi CSS Font Family navn)"
+
+# @ wplms_modern
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr " Tilpassede skrifter er lagt til Theme Customizer skriftliste .. "
+
+# @ wplms_modern
+#~ msgid "Customizer"
+#~ msgstr "Customizer"
+
+# @ wplms_modern
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "Import / Export Customizer innstillinger. Tilpass tema ved hjelp "
+
+# @ wplms_modern
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "Import / Export Customizer innstillinger "
+
+# @ wplms_modern
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "Import / Export Customizer innstillinger"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr ""
+#~ "Bruk import / eksport funksjonalitet for å importere / eksportere "
+#~ "Customizer innstillinger."
+
+# @ wplms_modern
+#~ msgid "PageBuilder Manager"
+#~ msgstr "PageBuilder sjef"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr ""
+#~ "Administrere PageBuilder lagrede layouter og Import / Export pagebuilder "
+#~ "Lagret oppsett"
+
+# @ wplms_modern
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "Administrere Eksempeloppsettene "
+
+# @ wplms_modern
+#~ msgid "Delete Sample Layouts"
+#~ msgstr "Slett eksempeloppsett"
+
+# @ wplms_modern
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "Import / Export Eksempeloppsettene "
+
+# @ wplms_modern
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "Import / Export eksisterende layouter"
+
+# @ wplms_modern
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "Bruk import / eksport-funksjonalitet for å lagre oppsett."
+
+# @ wplms_modern
+#~ msgid "Footer "
+#~ msgstr "Footer"
+
+# @ wplms_modern
+#~ msgid "Setup footer settings"
+#~ msgstr "Sett opp footer innstillinger"
+
+# @ wplms_modern
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "Bunntekst Øverst Sidebar kolonner"
+
+# @ wplms_modern
+#~ msgid "Footer Columns"
+#~ msgstr "Footer kolonner"
+
+# @ wplms_modern
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "Bottom Footer Sidebar kolonner"
+
+# @ wplms_modern
+#~ msgid "Copyright Text"
+#~ msgstr "Opphavsrett"
+
+# @ wplms_modern
+#~ msgid "Enter copyrighted text"
+#~ msgstr "Skriv inn opphavsrett"
+
+# @ wplms_modern
+#~ msgid "Also supports shotcodes."
+#~ msgstr "Støtter også shotcodes."
+
+# @ wplms_modern
+#~ msgid "Footer Bottom"
+#~ msgstr "Bunntekst Bottom"
+
+# @ wplms_modern
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "Velg et alternativ for FooterBottom"
+
+# @ wplms_modern
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr ""
+#~ "Velg Footer Bottom stil, satt Sosiale ikon koblinger i sosiale fanen"
+
+# @ wplms_modern
+#~ msgid "Show Social Icons"
+#~ msgstr "Vis Sosiale Ikoner"
+
+# @ wplms_modern
+#~ msgid "Google Analytics Code"
+#~ msgstr "Google Analytics-koden"
+
+# @ wplms_modern
+#~ msgid "Google Analytics account"
+#~ msgstr "Google Analytics-konto"
+
+# @ wplms_modern
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "Fyll inn alle kodene med javascript koder."
+
+# @ wplms_modern
+#~ msgid "Social Information"
+#~ msgstr "Sosial Informasjon"
+
+# @ wplms_modern
+#~ msgid "All Social media settings"
+#~ msgstr "Alle Sosiale medier innstillinger"
+
+# @ wplms_modern
+#~ msgid "Add Social Media Icons "
+#~ msgstr "Legg Social Media Icons "
+
+# @ wplms_modern
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "Dynamisk legge sosiale medier ikoner"
+
+# @ wplms_modern
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "Legg inn Full URL i sosiale medier."
+
+# @ wplms_modern
+#~ msgid "Social Icons Type"
+#~ msgstr "Social Icons Type"
+
+# @ wplms_modern
+#~ msgid "Social Icons Theme"
+#~ msgstr "Sosiale Icons Theme"
+
+# @ wplms_modern
+#~ msgid "Round"
+#~ msgstr "Round"
+
+# @ wplms_modern
+#~ msgid "Square"
+#~ msgstr "Square"
+
+# @ wplms_modern
+#~ msgid "Round Colored"
+#~ msgstr "Round Farget"
+
+# @ wplms_modern
+#~ msgid "Square Colored"
+#~ msgstr "Square Farget"
+
+# @ wplms_modern
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "Vis Tooltip på sosiale Ikoner"
+
+# @ wplms_modern
+#~ msgid "Social Sharing buttons"
+#~ msgstr "Sosiale delingsknapper"
+
+# @ wplms_modern
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "Vis innebygd deling knapper i temaet"
+
+# @ wplms_modern
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr "Legger Sosiale medier deling knapper på enkeltkurs etc."
+
+# @ wplms_modern
+#~ msgid "Miscellaneous"
+#~ msgstr "Diverse"
+
+# @ wplms_modern
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "Diverse innstillinger som brukes i temaet."
+
+# @ wplms_modern
+#~ msgid "Theme Layout"
+#~ msgstr "Temautseende"
+
+# @ wplms_modern
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "Konfigurere oppsett av temaet"
+
+# @ wplms_modern
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "Velg ut av forhåndsdefinerte oppsett for temaet"
+
+# @ wplms_modern
+#~ msgid "Wide"
+#~ msgstr "Wide"
+
+# @ wplms_modern
+#~ msgid "Boxed"
+#~ msgstr "Eske"
+
+# @ wplms_modern
+#~ msgid "Default Excerpt Length"
+#~ msgstr "Standard Utdrag Lengde"
+
+# @ wplms_modern
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "Utsnitt lengde i antall ord. "
+
+# @ wplms_modern
+#~ msgid "Default Instructor Commission"
+#~ msgstr "Standard Instruktør Commission"
+
+# @ wplms_modern
+#~ msgid "Insructor commission per sale of course/product (enter 0 to disable)"
+#~ msgstr ""
+#~ "Insructor provisjon per salg av kurs / produkt (skriv 0 for å deaktivere)"
+
+# @ wplms_modern
+#~ msgid "Direct Checkout"
+#~ msgstr "Hurtigutsjekk"
+
+# @ wplms_modern
+#~ msgid "Requires WooCommerce installed"
+#~ msgstr "Krever WooCommerce installert"
+
+# @ wplms_modern
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "Brukeren er omdirigert til kassen."
+
+# @ wplms_modern
+#~ msgid "Skip Cart"
+#~ msgstr "Hopp Handlekurv"
+
+# @ wplms_modern
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "Omdirigere til Course Page på Bestill ferdigstillelse"
+
+# @ wplms_modern
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "Bare dersom ordren inneholder ett produkt med ett kurs"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+#~ msgstr ""
+#~ "Hvis du tvinger den direkte kassa, og dine produkter har ett kurs per "
+#~ "produkt deretter bytte dette på ville sende brukere direkte til kurset "
+#~ "siden."
+
+# @ wplms_modern
+#~ msgid "Force complete orders"
+#~ msgstr "Tvinge komplett ordre"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr ""
+#~ "Tvinge alle WooCommerce virtuelle varer bestillinger fullføre på "
+#~ "takkesiden."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "Alle Betalte Ordre: Alle bestillinger med kun virtuelle produkter og "
+#~ "betalingskomplette ordrer, alle ikke-Fail Ordre: Alle bestillinger i "
+#~ "Processing, på vent, vil ventende ordre merkes komplett på Takk side."
+
+# @ wplms_modern
+#~ msgid "All Paid Orders"
+#~ msgstr "Alle Betalte bestillinger"
+
+# @ wplms_modern
+#~ msgid "All Non-Fail Orders"
+#~ msgstr "Alle ikke-Fail bestillinger"
+
+# @ wplms_modern
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "Fjern Ekstra Kasse Fields"
+
+# @ wplms_modern
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "Anbefales hvis du bare selger kurs / virtuelle produkter"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+#~ msgstr ""
+#~ "Fjerner følgende felt i WooCommerce Checkout: Billing Firma / Adresse "
+#~ "Stat / Town, Pinkode, telefon etc."
+
+# @ wplms_modern
+#~ msgid "Enable TinCan recording"
+#~ msgstr "Aktiver TinCan innspilling"
+
+# @ wplms_modern
+#~ msgid "Record TinCan/XAPI statements in External LRS"
+#~ msgstr "Record TinCan / xapi uttalelser i Ekstern LRS"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+#~ msgstr ""
+#~ "Lagre all aktivitet i en ekstern LRS, som andre xapi kompatible LMS kan "
+#~ "lese."
+
+# @ wplms_modern
+#~ msgid "TinCan API EndPoint"
+#~ msgstr "TinCan API endepunkt"
+
+# @ wplms_modern
+#~ msgid "Add a TinCan API endpoint"
+#~ msgstr "Legg en TinCan API endepunkt"
+
+# @ wplms_modern
+#~ msgid "Add Endpoint to track details in external LRS."
+#~ msgstr "Legg Endpoint å spore detaljer i eksterne LRS."
+
+# @ wplms_modern
+#~ msgid "TinCan compatible LRS authentication"
+#~ msgstr "TinCan kompatibel LRS autentisering"
+
+# @ wplms_modern
+#~ msgid "Enter Username for external LRS authentication."
+#~ msgstr "Skriv inn brukernavn for ekstern LRS godkjenning."
+
+# @ wplms_modern
+#~ msgid "Enter Password for external LRS authentication."
+#~ msgstr "Angi passord for ekstern LRS godkjenning."
+
+# @ wplms_modern
+#~ msgid "in seconds (0 to disable)"
+#~ msgstr "i sekunder (0 for å deaktivere)"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Small cache duration could impact adversely. High for stable websites."
+#~ msgstr ""
+#~ "Liten cache varighet kan påvirke negativt. Høy for stabile nettsteder."
+
+# @ wplms_modern
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "Kontaktside bredde- og lengdegrader"
+
+# @ wplms_modern
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "Ta tak i bredde- og lengdegrader fra."
+
+# @ wplms_modern
+#~ msgid "Link"
+#~ msgstr "Link"
+
+# @ wplms_modern
+#~ msgid "Contact Page Map Style"
+#~ msgstr "Kontakt Side Kart stil"
+
+# @ wplms_modern
+#~ msgid "Select the map style on contact page."
+#~ msgstr "Velg kartet stil på kontaktsiden."
+
+# @ wplms_modern
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "Innholdsområdet er beholderen der alt innhold er plassert."
+
+# @ wplms_modern
+#~ msgid "Satellite View"
+#~ msgstr "Satellittvisning"
+
+# @ wplms_modern
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "Google Map nivå"
+
+# @ wplms_modern
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "Angi zoomnivået i Google maps"
+
+# @ wplms_modern
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "Zoomnivå 0 - 19"
+
+# @ wplms_modern
+#~ msgid "Select 404 Page"
+#~ msgstr "Velg 404 side"
+
+# @ wplms_modern
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr "Denne siden vises når siden ikke funnet på nettstedet ditt."
+
+# @ wplms_modern
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr "Bruker omdirigert til denne siden når siden ikke funnet."
+
+# @ wplms_modern
+#~ msgid "Disable XMLRPC/RSD/WLWManifest"
+#~ msgstr "Deaktivere xmlrpc / RSD / WLWManifest"
+
+# @ wplms_modern
+#~ msgid "Remove security vulnerabilities"
+#~ msgstr "Fjern sikkerhetsproblemer"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Removes vulnerabilities at expense of ability to login via remote apps."
+#~ msgstr ""
+#~ "Fjerner sårbarheter på bekostning av evnen til å logge inn via fjern apps."
+
+# @ wplms_modern
+#~ msgid "Author & Credits"
+#~ msgstr "Forfatter & Kreditter"
+
+# @ wplms_modern
+#~ msgid "Credits and Author of the Website"
+#~ msgstr "Kreditter og forfatteren av nettstedet"
+
+# @ wplms_modern
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr "Endrer referanse til forfatteren {VibeThemes}"
+
+# @ wplms_modern
+#~ msgid "Theme Information"
+#~ msgstr "Temainformasjon"
+
+# @ wplms_modern
+#~ msgid "Please enter some content to post."
+#~ msgstr "Venligst legg til innhold for å publisere"
+
+# @ wplms_modern
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr ""
+#~ "Det var et problem ved å legge ut oppdateringen, vennligst prøv igjen."
+
+# @ wplms_modern
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "Vennligst ikke la kommentarfeltet være blankt."
+
+# @ wplms_modern
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr "Det oppsto en feil med å publisere svaret, vennligst prøv igjen."
+
+# @ wplms_modern
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "Det oppsto ett problem ved å slette. Vennligst prøv igjen."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s  har tidligere har tidligere bedt om å bli med i denne gruppen. Å "
+#~ "sende en invitasjon vil automatisk legge til medlemmet i gruppen."
+
+# @ wplms_modern
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "Vennskap kunne ikke bli kansellert."
+
+# @ wplms_modern
+#~ msgid "Add Friend"
+#~ msgstr "Legg til Venn"
+
+# @ wplms_modern
+#~ msgid " Friendship could not be requested."
+#~ msgstr "Vennskap kunne ikke bli forespurt."
+
+# @ wplms_modern
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "Avbryt vennskapsforespørsel"
+
+# @ wplms_modern
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "Vennskapsforespørsel kunne ikke kanselleres."
+
+# @ wplms_modern
+#~ msgid "Request Pending"
+#~ msgstr "Forespørsel venter"
+
+# @ wplms_modern
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr "Det var et problem å akseptere forespørselen. Vennligst prøv igjen."
+
+# @ wplms_modern
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr "Det var et problem å avvise forespørselen. Vennligst prøv igjen."
+
+# @ wplms_modern
+#~ msgid "Error joining group"
+#~ msgstr "Feil ved å bli med gruppen"
+
+# @ wplms_modern
+#~ msgid "Leave Group"
+#~ msgstr "Forlat Gruppe"
+
+# @ wplms_modern
+#~ msgid "Error requesting membership"
+#~ msgstr "Feil ved å forespørre medlemskap"
+
+# @ wplms_modern
+#~ msgid "Membership Requested"
+#~ msgstr "Medlemskap Påkrevd"
+
+# @ wplms_modern
+#~ msgid "Error leaving group"
+#~ msgstr "Feil ved å forlate gruppen"
+
+# @ wplms_modern
+#~ msgid "Join Group"
+#~ msgstr "Bli medlem av gruppen"
+
+# @ wplms_modern
+#~ msgid "Request Membership"
+#~ msgstr "Be om medlemskap"
+
+# @ wplms_modern
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "Det var et problem å lukke varsel."
+
+# @ wplms_modern
+#~ msgid "Sent %s"
+#~ msgstr "Sent %s"
+
+# @ wplms_modern
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr "Det var et problem å sende det svaret. Vennligst prøv igjen. "
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "Det var et problem å markere meldingene som ulest."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "Det var et problem å markere meldingene som lest."
+
+# @ wplms_modern
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "Det var et problem å slette meldingene."
+
+# @ wplms_modern
+#~ msgid "Messages deleted."
+#~ msgstr "Meldinger slettet."
+
+# @ wplms_modern
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr ""
+#~ "Beklager, ingen aktivitet ble funnet. Vennligst prøv et annet filter."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> svarte <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+
+# @ wplms_modern
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "Hva er nytt i %s , %s ?"
+
+# @ wplms_modern
+#~ msgid "What's new, %s?"
+#~ msgstr "Hva er nytt, %s ?"
+
+# @ wplms_modern
+#~ msgid "Post Update"
+#~ msgstr "Skriv oppdatering"
+
+# @ wplms_modern
+#~ msgid "Post in"
+#~ msgstr "Publiser i"
+
+# @ wplms_modern
+#~ msgid "My Profile"
+#~ msgstr "Min profil"
+
+# @ wplms_modern
+#~ msgid "You have not created any Course."
+#~ msgstr "Du har ikke opprettet noen Kurs."
+
+# @ wplms_modern
+#~ msgid "Submissions"
+#~ msgstr "Innsendte"
+
+# @ wplms_modern
+#~ msgid "Activity"
+#~ msgstr "Aktivitet"
+
+# @ wplms_modern
+#~ msgid "Stats"
+#~ msgstr "Statistikk"
+
+# @ wplms_modern
+#~ msgid "Total number of Students in course"
+#~ msgstr "Totalt antall studenter påmeldt dette kurset"
+
+# @ wplms_modern
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Studenter som for tiden tar dette kurset"
+
+# @ wplms_modern
+#~ msgid "Reset Course for User"
+#~ msgstr "Nullstill kurset for denne brukeren"
+
+# @ wplms_modern
+#~ msgid "See Course stats for User"
+#~ msgstr "Se Kurs statistikk for Bruker"
+
+# @ wplms_modern
+#~ msgid "See User Activity in Course"
+#~ msgstr "Se Bruker aktivitet i Kurs"
+
+# @ wplms_modern
+#~ msgid "Remove User from this Course"
+#~ msgstr "Fjern Bruker fra dette Kurset"
+
+# @ wplms_modern
+#~ msgid "BULK ACTIONS"
+#~ msgstr "BULK AKSJONER"
+
+# @ wplms_modern
+#~ msgid "Instructors"
+#~ msgstr "Instruktører"
+
+# @ wplms_modern
+#~ msgid "FREE"
+#~ msgstr "GRATIS"
+
+# @ wplms_modern
+#~ msgid "minutes"
+#~ msgstr "minutter"
+
+# @ wplms_modern
+#~ msgid " Events"
+#~ msgstr "Hendelser"
+
+# @ wplms_modern
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "Totalt antall studenter som tok dette kurset"
+
+# @ wplms_modern
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "Gjennomsnittlig prosent innhentet av Studenter"
+
+# @ wplms_modern
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "Antall studenter som fikk et Merke"
+
+# @ wplms_modern
+#~ msgid "Number of Passed Students"
+#~ msgstr "Antall Beståtte Studenter"
+
+# @ wplms_modern
+#~ msgid "Number of Students who did not pass "
+#~ msgstr "Antall studenter som ikke har bestått "
+
+# @ wplms_modern
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "Gjennomsnittlig Merker innhentet av Studenter"
+
+# @ wplms_modern
+#~ msgid "No curriculum defined"
+#~ msgstr "Ingen pensum definert"
+
+# @ wplms_modern
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "Gjennomsnittlig poeng i Prøve "
+
+# @ wplms_modern
+#~ msgid "Calculate :"
+#~ msgstr "Kalkuler:"
+
+# @ wplms_modern
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "Kalkuler statistikk for kurset"
+
+# @ wplms_modern
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "Oppdrag INNSENDING"
+
+# @ wplms_modern
+#~ msgid "Reset Assignment for User"
+#~ msgstr "Reset Oppgave for bruker"
+
+# @ wplms_modern
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "Evaluer oppgave :"
+
+# @ wplms_modern
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "PRØVE INNSENDELSER"
+
+# @ wplms_modern
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Tilbakestill Prøve for Bruker"
+
+# @ wplms_modern
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Evaluer prøve for bruker"
+
+# @ wplms_modern
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "KURS INNSENDELSER"
+
+# @ wplms_modern
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Evaluer kurs for bruker:"
+
+# @ wplms_modern
+#~ msgid "Groups Directory"
+#~ msgstr "Gruppekatalog"
+
+# @ wplms_modern
+#~ msgid "There were no groups found."
+#~ msgstr "Det var ingen grupper funnet."
+
+# @ wplms_modern
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "Varsle medlemmer av disse endringer via epost gruppe"
+
+# @ wplms_modern
+#~ msgid "Save Changes"
+#~ msgstr "Lagre"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Hvis du ønsker å fjerne den eksisterende avatar men ikke laste opp en ny "
+#~ "en, kan du bruke slette avatar knappen."
+
+# @ wplms_modern
+#~ msgid "Delete Avatar"
+#~ msgstr "Slett Avatar"
+
+# @ wplms_modern
+#~ msgid "Crop Avatar"
+#~ msgstr "Avling Avatar"
+
+# @ wplms_modern
+#~ msgid "Administrators"
+#~ msgstr "Administratorer"
+
+# @ wplms_modern
+#~ msgid "Profile picture of %s"
+#~ msgstr "Profilbildet til %s"
+
+# @ wplms_modern
+#~ msgid "Demote to Member"
+#~ msgstr "Degradere til Medlem"
+
+# @ wplms_modern
+#~ msgid "Promote to Admin"
+#~ msgstr "Promoter til Admin"
+
+# @ wplms_modern
+#~ msgid "(banned)"
+#~ msgstr "(Utestengt)"
+
+# @ wplms_modern
+#~ msgid "Unban this member"
+#~ msgstr "Unban dette medlem"
+
+# @ wplms_modern
+#~ msgid "Remove Ban"
+#~ msgstr "Fjern utestengelse"
+
+# @ wplms_modern
+#~ msgid "Kick and ban this member"
+#~ msgstr "Sparke og forby dette medlem"
+
+# @ wplms_modern
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "Kick & amp; Ban"
+
+# @ wplms_modern
+#~ msgid "Promote to Mod"
+#~ msgstr "Promoter til Mod"
+
+# @ wplms_modern
+#~ msgid "Remove this member"
+#~ msgstr "Fjern dette medlem"
+
+# @ wplms_modern
+#~ msgid "Remove from group"
+#~ msgstr "Fjern fra gruppe"
+
+# @ wplms_modern
+#~ msgid "This group has no members."
+#~ msgstr "Denne gruppen har ingen medlemmer."
+
+# @ wplms_modern
+#~ msgid "Accept"
+#~ msgstr "Aksepter"
+
+# @ wplms_modern
+#~ msgid "Reject"
+#~ msgstr "Avvis"
+
+# @ wplms_modern
+#~ msgid "There are no pending membership requests."
+#~ msgstr "Det er ingen ventende forespørsler om medlemskap."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "ADVARSEL: Hvis du sletter denne gruppen vil fjerne alt innhold knyttet "
+#~ "til den. Det er ingen vei tilbake, må du være forsiktig med dette "
+#~ "alternativet."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "Jeg forstår konsekvensene av å slette denne gruppen."
+
+# @ wplms_modern
+#~ msgid "Delete Group"
+#~ msgstr "Slett gruppe"
+
+# @ wplms_modern
+#~ msgid "Forum Directory"
+#~ msgstr "Forum Directory"
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr ""
+#~ "Du vil automatisk bli med i denne gruppen når du starter et nytt emne."
+
+# @ wplms_modern
+#~ msgid "Post a New Topic:"
+#~ msgstr "Post nytt tema:"
+
+# @ wplms_modern
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "Du ber om å bli medlem av gruppen ' %s '."
+
+# @ wplms_modern
+#~ msgid "Comments (optional)"
+#~ msgstr "Kommentarer (valgfritt)"
+
+# @ wplms_modern
+#~ msgid "Send Request"
+#~ msgstr "Send forespørsel"
+
+# @ wplms_modern
+#~ msgid "Send Invites"
+#~ msgstr "Send invitasjoner"
+
+# @ wplms_modern
+#~ msgid "Edit:"
+#~ msgstr "Rediger:"
+
+# @ wplms_modern
+#~ msgid "This topic does not exist."
+#~ msgstr "Dette emnet finnes ikke."
+
+# @ wplms_modern
+#~ msgid "New Reply"
+#~ msgstr "Ny Svar"
+
+# @ wplms_modern
+#~ msgid "Topic tags:"
+#~ msgstr "Emne tagger:"
+
+# @ wplms_modern
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s sa %2$s :"
+
+# @ wplms_modern
+#~ msgid "There are no posts for this topic."
+#~ msgstr "Det er ingen innlegg for dette emnet."
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr ""
+#~ "Du vil automatisk bli med i denne gruppen når du svare på dette emnet."
+
+# @ wplms_modern
+#~ msgid "Add a reply:"
+#~ msgstr "Legg et svar:"
+
+# @ wplms_modern
+#~ msgid "Post Reply"
+#~ msgstr "Skriv svar"
+
+# @ wplms_modern
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "Dette emnet er stengt, svar er ikke lenger akseptert."
+
+# @ wplms_modern
+#~ msgid "Badges"
+#~ msgstr "Merker"
+
+# @ wplms_modern
+#~ msgid "Certifications"
+#~ msgstr "Sertifiseringer"
+
+# @ wplms_modern
+#~ msgid "Check all Courses created by "
+#~ msgstr "Sjekk alle kurs opprettet av"
+
+# @ wplms_modern
+#~ msgid "Course "
+#~ msgstr "Kurs"
+
+# @ wplms_modern
+#~ msgid "Unknown error."
+#~ msgstr "Ukjent feil."
+
+# @ wplms_modern
+#~ msgid "Please save the changes again."
+#~ msgstr "Vennligst lagre endringene igjen."
+
+# @ wplms_modern
+#~ msgid "Some Uknown issue appeared, please contact us."
+#~ msgstr "Noen Uknown problemet dukket opp, kan du kontakte oss."
+
+# @ wplms_modern
+#~ msgid "Please save the Page Builder changes !"
+#~ msgstr "Vennligst lagre Page Builder endringer!"
+
+# @ wplms_modern
+#~ msgid "Requested Slider was not found, Please check slider post id !"
+#~ msgstr "Anmodet Slider ble ikke funnet, Sjekk glidebryteren post id!"
+
+# @ wplms_modern
+#~ msgid "No Posts Id's found in given Custom Post Type."
+#~ msgstr "Ingen innlegg Id er funnet i gitt Custom Post type."
+
+# @ wplms_modern
+#~ msgid "Author Information missing."
+#~ msgstr "Forfatterinformasjon mangler. "
+
+# @ wplms_modern
+#~ msgid "You do not have permission to do that."
+#~ msgstr "Du har ikke tillatelse til å gjøre det."
+
+# @ wplms_modern
+#~ msgid "Unable to get tweets from Twitter !"
+#~ msgstr "Kan ikke hente tweets fra Twitter!"
+
+# @ wplms_modern
+#~ msgid "No public tweets found on Twitter !"
+#~ msgstr "Ingen offentlige tweets funnet på Twitter!"
+
+# @ wplms_modern
+#~ msgid "Term : Taxonomy Mismatch: Selected Term does not exist in Taxonomy !"
+#~ msgstr "Term: Taksonomi Mismatch: Valgt Term ikke eksisterer i Taksonomi!"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Post Type : Taxonomy Mismatch: Selected Taxonomy does not exist in Post "
+#~ "Type !"
+#~ msgstr ""
+#~ "Post Type: Taksonomi Mismatch: Valgt Taksonomi ikke eksisterer i Post "
+#~ "Type!"
+
+# @ wplms_modern
+#~ msgid "Featured Component does not Exist !"
+#~ msgstr "Utvalgte Component ikke eksisterer!"
+
+# @ wplms_modern
+#~ msgid "Incorrect or Incompatible Audio Format !"
+#~ msgstr "Uriktige eller inkompatible Audio Format!"
+
+# @ wplms_modern
+#~ msgid "Incorrect or Incompatible Video Embed Code !"
+#~ msgstr "Uriktige eller inkompatible Video Embed koden!"
+
+# @ wplms_modern
+#~ msgid "Modal ID Incorrect, please recheck !"
+#~ msgstr "Modal ID Feil, kan du sjekker!"
+
+# @ wplms_modern
+#~ msgid "Testimonial ID Incorrect, please recheck !"
+#~ msgstr "Testimonial ID Feil, kan du sjekker!"
+
+# @ wplms_modern
+#~ msgid "Post ID Incorrect, please recheck !"
+#~ msgstr "Post ID Feil, kan sjekker!"
+
+# @ wplms_modern
+#~ msgid "Author Social profile information"
+#~ msgstr "Sosial profil forfatteren informasjon"
+
+# @ wplms_modern
+#~ msgid "Add Social Information"
+#~ msgstr "Legg Social Informasjon"
+
+# @ wplms_modern
+#~ msgid "Enter URL for social icon."
+#~ msgstr "Skriv inn URL for sosial ikon."
+
+# @ wplms_modern
+#~ msgid "Share on "
+#~ msgstr "Del på "
+
+# @ wplms_modern
+#~ msgid "User ID"
+#~ msgstr "Bruker-ID"
+
+# @ wplms_modern
+#~ msgid "ID"
+#~ msgstr "ID"
+
+# @ wplms_modern
+#~ msgid "Course Categories"
+#~ msgstr "Kurskategorier"
+
+# @ wplms_modern
+#~ msgid "Level"
+#~ msgstr "Nivå"
+
+# @ wplms_modern
+#~ msgid " SEATS"
+#~ msgstr "SETER"
+
+# @ wplms_modern
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "UBEGRENSET TILGANG"
+
+# @ wplms_modern
+#~ msgid "Become an Instructor"
+#~ msgstr "Bli instruktør"
+
+# @ wplms_modern
+#~ msgid "UNLIMITED TIME"
+#~ msgstr "UBEGRENSET TID"
+
+# @ wplms_modern
+#~ msgid "COURSE : "
+#~ msgstr "KURS:"
+
+# @ wplms_modern
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr "FULLFØR OPPGAVE FOR Å MARKERE MODULEN SOM FULLFØRT"
+
+# @ wplms_modern
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr "Fullfør Video / Lyd for å markere denne modulen som fullført."
+
+# @ wplms_modern
+#~ msgid "Setup Menus"
+#~ msgstr "Oppsett Menyer"
+
+# @ wplms_modern
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr "Noen problem oppstod under FJERNE student fra KURS"
+
+# @ wplms_modern
+#~ msgid "EXPIRED"
+#~ msgstr "UTLØPT"
+
+# @ wplms_modern
+#~ msgid "START"
+#~ msgstr "START"
+
+# @ wplms_modern
+#~ msgid "CONTINUE"
+#~ msgstr "FORTSETT"
+
+# @ wplms_modern
+#~ msgid "EVALUATION"
+#~ msgstr "EVALUERING"
+
+# @ wplms_modern
+#~ msgid "COURSE UNDER"
+#~ msgstr "KURS UNDER"
+
+# @ wplms_modern
+#~ msgid "FINISHED"
+#~ msgstr "FULLFØRT"
+
+# @ wplms_modern
+#~ msgid "Page"
+#~ msgstr "Side"
+
+# @ wplms_modern
+#~ msgid "of"
+#~ msgstr "av"
+
+# @ wplms_modern
+#~ msgid "Course"
+#~ msgstr "Kurs"
+
+# @ wplms_modern
+#~ msgid "Attachment"
+#~ msgstr "Vedlegg"
+
+# @ wplms_modern
+#~ msgid "Requires completion of course : "
+#~ msgstr "Krever gjennomføring av kurs: "
+
+# @ wplms_modern
+#~ msgid "All seats in course are full "
+#~ msgstr "Alle seter i kurs er fulle "
+
+# @ wplms_modern
+#~ msgid " LOGIN"
+#~ msgstr " INNLOGGING"
+
+# @ wplms_modern
+#~ msgid " REGISTER NOW"
+#~ msgstr "REGISTRER NÅ"
+
+# @ wplms_modern
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "Du må være logget inn for å ta dette kurset"
+
+# @ wplms_modern
+#~ msgid "Assign Badges/Certificates to Students"
+#~ msgstr "Tildele merker / sertifikater til Studenter"
+
+# @ wplms_modern
+#~ msgid "Student started course "
+#~ msgstr "Studenten startet kurset"
+
+# @ wplms_modern
+#~ msgid "Student "
+#~ msgstr "Student"
+
+# @ wplms_modern
+#~ msgid " started the course "
+#~ msgstr "startet kurset"
+
+# @ wplms_modern
+#~ msgid "This Course can not be taken. Contact Administrator."
+#~ msgstr "Dette kurset kan ikke startes. Kontakt Administrator. "
+
+# @ wplms_modern
+#~ msgid "Date (Joining)"
+#~ msgstr "Dato (Delta)"
+
+# @ wplms_modern
+#~ msgid "Process Stats"
+#~ msgstr "Prosess Stats"
+
+# @ wplms_modern
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "Oppsett Menyer i Admin Panel"
+
+# @ wplms_modern
+#~ msgid "Page %s"
+#~ msgstr "Side %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr ""
+#~ "LearnDash Aktiv. Du kan deaktivere følgende plugins for å unngå doble "
+#~ "funksjonaliteten i oppsettet"
+
+# @ wplms_modern
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "Gå til WP Admin -> Plugins -> Installert Plugins"
+
+# @ wplms_modern
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "Deaktivere Vibe Tilpassede typer"
+
+# @ wplms_modern
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "Deaktivere Vibe Course Module"
+
+# @ wplms_modern
+#~ msgid "Install Required Plugins"
+#~ msgstr "Installer nødvendige innstikk"
+
+# @ wplms_modern
+#~ msgid "Install Plugins"
+#~ msgstr "Installer innstikk"
+
+# @ wplms_modern
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installere innstikk: %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Noe gikk galt med Innstikk-API."
+
+# @ wplms_modern
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Tilbake til ønsket Innstikk installasjon"
+
+# @ wplms_modern
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Innstikk vellykket aktivert."
+
+# @ wplms_modern
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Alle innstikk er installert og aktivert på riktig måte. %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong."
+#~ msgstr "Noe gikk galt."
+
+# @ wplms_modern
+#~ msgid "Return to the dashboard"
+#~ msgstr "Gå tilbake til kontrollpanelet"
+
+# @ wplms_modern
+#~ msgid "The following plugin was activated successfully:"
+#~ msgstr "Følgende innstikk ble vellykket aktivert:"
+
+# @ wplms_modern
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Alle innstikk er installert og aktivert på riktig måte. %1$s"
+
+# @ wplms_modern
+#~ msgid "Dismiss this notice"
+#~ msgstr "Avvis dette varselet"
+
+# @ wplms_modern
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Returner til kontrollpanelet"
+
+# @ wplms_modern
+#~ msgid "Private Repository"
+#~ msgstr "Privat Arkiv"
+
+# @ wplms_modern
+#~ msgid "Pre-Packaged"
+#~ msgstr "Forhånds-pakket"
+
+# @ wplms_modern
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress Arkiv"
+
+# @ wplms_modern
+#~ msgid "Required"
+#~ msgstr "Obligatorisk"
+
+# @ wplms_modern
+#~ msgid "Recommended"
+#~ msgstr "Anbefalt"
+
+# @ wplms_modern
+#~ msgid "Not Installed"
+#~ msgstr "Ikke installert"
+
+# @ wplms_modern
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Installert men ikke aktivert"
+
+# @ wplms_modern
+#~ msgid "Install"
+#~ msgstr "Installer"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "Ingen programtillegg som skal installeres eller aktiveres. <a href=\"%1$s"
+#~ "\" title=\"Gå tilbake til kontrollpanelet\">Gå tilbake til "
+#~ "kontrollpanelet</a>"
+
+# @ wplms_modern
+#~ msgid "Plugin"
+#~ msgstr "Innstikk"
+
+# @ wplms_modern
+#~ msgid "Source"
+#~ msgstr "Kilde"
+
+# @ wplms_modern
+#~ msgid "Type"
+#~ msgstr "Type"
+
+# @ wplms_modern
+#~ msgid "Status"
+#~ msgstr "Status"
+
+# @ wplms_modern
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr ""
+#~ "Ingen plugins er tilgjengelige for å bli installert på dette tidspunktet."
+
+# @ wplms_modern
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr ""
+#~ "Ingen plugins er tilgjengelige for å bli aktivert på dette tidspunktet."
+
+# @ wplms_modern
+#~ msgid "Install package not available."
+#~ msgstr "Installasjonspakken er ikke tilgjengelig."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Laster ned installasjonspakken fra <span class=\"code\">%s</span>&#8230;"
+
+# @ wplms_modern
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Pakker ut pakken&#8230;"
+
+# @ wplms_modern
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Installerer innstikk&#8230;"
+
+# @ wplms_modern
+#~ msgid "Plugin install failed."
+#~ msgstr "Installasjon av innstikk mislyktes."
+
+# @ wplms_modern
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Innstikk installert."
+
+# @ wplms_modern
+#~ msgid "Plugin activation failed."
+#~ msgstr "Aktivering av innstikk mislyktes."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "Installasjon og aktiverings prosessen er i gang. Denne prosessen kan ta "
+#~ "en stund på enkelte verter, så vær tålmodig."
+
+# @ wplms_modern
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s er installert og aktivert med suksess."
+
+# @ wplms_modern
+#~ msgid "Show Details"
+#~ msgstr "Vis detaljer"
+
+# @ wplms_modern
+#~ msgid "Hide Details"
+#~ msgstr "Skjul detaljer"
+
+# @ wplms_modern
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Alle installasjoner og aktiveringer er gjennomført."
+
+# @ wplms_modern
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installerer og aktiverer instikk %1$s (%2$d/%3$d)"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "Installasjonsprosessen starter. Denne prosessen kan ta en stund på "
+#~ "enkelte verter, så vær tålmodig."
+
+# @ wplms_modern
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Det oppstod en feil under installasjonen av %1$s: <strong>%2$s</strong>."
+
+# @ wplms_modern
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "Installasjonen av %1$s mislyktes."
+
+# @ wplms_modern
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s ble installert."
+
+# @ wplms_modern
+#~ msgid "All installations have been completed."
+#~ msgstr "Alle installasjoner er ferdigstilt."
+
+# @ wplms_modern
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installerer innstikk%1$s (%2$d/%3$d)"
+
+# @ wplms_modern
+#~ msgid "Review Title"
+#~ msgstr "Anmeldelsetittel"
+
+# @ wplms_modern
+#~ msgid "Review Rating"
+#~ msgstr "Anmenldelserangering"
+
+# @ wplms_modern
+#~ msgid "Review Details"
+#~ msgstr "Anmeldelsedetaljer"
+
+# @ wplms_modern
+#~ msgid "Rating "
+#~ msgstr "Rangering"
+
+# @ wplms_modern
+#~ msgid "Student"
+#~ msgstr "Student"
+
+# @ wplms_modern
+#~ msgid "Instructor"
+#~ msgstr "Instruktør"
+
+# @ wplms_modern
+#~ msgid "Are you sure you want to leave this group?"
+#~ msgstr "Er du sikker på at du vil forlate denne gruppen?"
+
+# @ wplms_modern
+#~ msgid "Show all comments for this thread"
+#~ msgstr "Vis alle kommentarer til denne tråden"
+
+# @ wplms_modern
+#~ msgid "Show all %d comments"
+#~ msgstr "Vis alle %d kommentarer"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your profile has unsaved changes. If you leave the page, the changes will "
+#~ "be lost."
+#~ msgstr ""
+#~ "Profilen din har ulagrede endringer. Hvis du forlater siden, vil "
+#~ "endringene bli tapt."
+
+# @ wplms_modern
+#~ msgid "Please fill in all the required fields (indicated by *)"
+#~ msgstr "Vennligst fyll ut alle obligatoriske felt (merket med *)"
+
+# @ wplms_modern
+#~ msgid "Top Menu"
+#~ msgstr "Toppmeny"
+
+# @ wplms_modern
+#~ msgid "Main Menu"
+#~ msgstr "Hovedmeny"
+
+# @ wplms_modern
+#~ msgid "Mobile Menu"
+#~ msgstr "Mobilmeny"
+
+# @ wplms_modern
+#~ msgid "Footer Menu"
+#~ msgstr "Fotmeny"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr ""
+#~ "Dette er den globale standard widget område / sidebar for sider, innlegg, "
+#~ "kategorier, tags og arkivsider"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr ""
+#~ "Dette er standard widget område / sidebar vist i emnesider og gratis "
+#~ "moduler"
+
+# @ wplms_modern
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr "Dette er den widget område / sidebar vist på søkeresultatsiden."
+
+# @ wplms_modern
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "Dette er den widget område / sidebar vist i butikken siden "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr ""
+#~ "Dette er standard widget område / sidebar vist i enkeltproduktsider og "
+#~ "produktkategorier"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "Dette er standard widget område / sidebar vist i Buddypress sider liker: "
+#~ "All aktivitet, alle grupper, Alle medlemmer, alle kurs, Alle blogger"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr ""
+#~ "Dette er standard widget område / sidebar vist i Kasse sidene under "
+#~ "kuponger."
+
+# @ wplms_modern
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "Top Footer widget område / sidebar"
+
+# @ wplms_modern
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "Bottom Footer widget område / sidebar"
+
+# @ wplms_modern
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "Custom sidebar, opprettet fra Sidebar sjef"
+
+# @ wplms_modern
+#~ msgid " in "
+#~ msgstr " i "
+
+# @ wplms_modern
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (Ugyldig)"
+
+# @ wplms_modern
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (Venter)"
+
+# @ wplms_modern
+#~ msgid "Edit Menu Item"
+#~ msgstr "Edit Menu Item"
+
+# @ wplms_modern
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ wplms_modern
+#~ msgid "Navigation Label"
+#~ msgstr "Navigasjon Etikett"
+
+# @ wplms_modern
+#~ msgid "Title Attribute"
+#~ msgstr "Tittel attribut"
+
+# @ wplms_modern
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Åpne lenken i et nytt vindu/tab"
+
+# @ wplms_modern
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS klasser (valgfritt)"
+
+# @ wplms_modern
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "Link forholdet (XFN)"
+
+# @ wplms_modern
+#~ msgid "Description"
+#~ msgstr "Beskrivelse"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr ""
+#~ "Beskrivelsen vil bli vist i menyen dersom den aktuelle temaet støtter det."
+
+# @ wplms_modern
+#~ msgid "Enable Widgetized Mega Menu"
+#~ msgstr "Aktiver Widgetized Mega Meny"
+
+# @ wplms_modern
+#~ msgid "Select Sidebar"
+#~ msgstr "Velg Sidebar"
+
+# @ wplms_modern
+#~ msgid "Sidebar Columns"
+#~ msgstr "Sidebar kolonner"
+
+# @ wplms_modern
+#~ msgid "Original: %s"
+#~ msgstr "Original: %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "Viser en tilpasset attributt i en widget som lar deg begrense listen over "
+#~ "produkter når du ser på produktkategorier."
+
+# @ wplms_modern
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "Vibe Avansert Layered Nav"
+
+# @ wplms_modern
+#~ msgid "Attribute:"
+#~ msgstr "Attributt:"
+
+# @ wplms_modern
+#~ msgid "Query Type:"
+#~ msgstr "Spørsmålstype:"
+
+# @ wplms_modern
+#~ msgid "AND"
+#~ msgstr "OG"
+
+# @ wplms_modern
+#~ msgid "OR"
+#~ msgstr "ELLER"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr ""
+#~ "Viser aktive lagdelte nav filtre slik at brukerne kan se og deaktivere "
+#~ "dem."
+
+# @ wplms_modern
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "Vibe Avansert Layered Nav Filters"
+
+# @ wplms_modern
+#~ msgid "Active filters"
+#~ msgstr "Aktive filter"
+
+# @ wplms_modern
+#~ msgid "Remove filter"
+#~ msgstr "Fjern filter"
+
+# @ wplms_modern
+#~ msgid "Greater than"
+#~ msgstr "Større enn"
+
+# @ wplms_modern
+#~ msgid "Less than"
+#~ msgstr "Mindre enn"
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Carousels "
+#~ msgstr "Vibe WooCommerce Karuseller "
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Carousels"
+#~ msgstr "Vibe WooCommerce Karuseller"
+
+# @ wplms_modern
+#~ msgid "WooCommerce Function "
+#~ msgstr "WooCommerce Funksjon "
+
+# @ wplms_modern
+#~ msgid "Product Columns"
+#~ msgstr "Produktkolonner"
+
+# @ wplms_modern
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "Antall produkter i Carousel:"
+
+# @ wplms_modern
+#~ msgid "Carousel Controls"
+#~ msgstr "Karusell kontroller"
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Mega Carousel "
+#~ msgstr "Vibe WooCommerce Mega Carousel "
+
+# @ wplms_modern
+#~ msgid "Vibe WooCommerce Mega Carousel"
+#~ msgstr "Vibe WooCommerce Mega Carousel"
+
+# @ wplms_modern
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "Ovenfor utvalgte WooCommerce Funksjoner Titler (kommadelt)"
+
+# @ wplms_modern
+#~ msgid "Vibe BuddyPress Login"
+#~ msgstr "Vibe Buddypress Pålogging"
+
+# @ wplms_modern
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "Vibe Buddypress Logg Widget"
+
+# @ wplms_modern
+#~ msgid "View profile"
+#~ msgstr "Vis profil"
+
+# @ wplms_modern
+#~ msgid "Log Out"
+#~ msgstr "Logg ut"
+
+# @ wplms_modern
+#~ msgid "LOGOUT"
+#~ msgstr "LOGG UT"
+
+# @ wplms_modern
+#~ msgid "Access admin panel"
+#~ msgstr "Tilgang admin panel"
+
+# @ wplms_modern
+#~ msgid "Inbox"
+#~ msgstr "Innboks"
+
+# @ wplms_modern
+#~ msgid "Notifications"
+#~ msgstr "Varsel"
+
+# @ wplms_modern
+#~ msgid "Groups"
+#~ msgstr "Grupper"
+
+# @ wplms_modern
+#~ msgid "Remember Me"
+#~ msgstr "Husk meg"
+
+# @ wplms_modern
+#~ msgid "Log In"
+#~ msgstr "Logg inn"
+
+# @ wplms_modern
+#~ msgid "Course Categories "
+#~ msgstr "Kurskategorier"
+
+# @ wplms_modern
+#~ msgid "View all Courses in %s"
+#~ msgstr "Vis alle kurs i %s"
+
+# @ wplms_modern
+#~ msgid "Order by"
+#~ msgstr "Ordne etter"
+
+# @ wplms_modern
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+# @ wplms_modern
+#~ msgid "Course Count"
+#~ msgstr "Kursantall"
+
+# @ wplms_modern
+#~ msgid "Hierarchial"
+#~ msgstr "Hierarkisk"
+
+# @ wplms_modern
+#~ msgid "Sort Order "
+#~ msgstr "Sortereringsrekkefølge"
+
+# @ wplms_modern
+#~ msgid "Ascending"
+#~ msgstr "Stigende"
+
+# @ wplms_modern
+#~ msgid "Descending"
+#~ msgstr "Synkende"
+
+# @ wplms_modern
+#~ msgid "Exclude Course Category Terms Ids (comma saperated):"
+#~ msgstr "Utelukke Course Kategori Vilkår Ids (komma saperated):"
+
+# @ wplms_modern
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "Vibe Certificate kode validator"
+
+# @ wplms_modern
+#~ msgid "Enter Certificate Code"
+#~ msgstr "Tast sertifikatkode"
+
+# @ wplms_modern
+#~ msgid "Validate"
+#~ msgstr "Valider"
+
+# @ wplms_modern
+#~ msgid "Vibe Tabs"
+#~ msgstr "Vibefaner"
+
+# @ wplms_modern
+#~ msgid "Recent Posts"
+#~ msgstr "Siste innlegg"
+
+# @ wplms_modern
+#~ msgid "thumbnail"
+#~ msgstr "miniatyrbilde"
+
+# @ wplms_modern
+#~ msgid "Theme:"
+#~ msgstr "Tema:"
+
+# @ wplms_modern
+#~ msgid "Light"
+#~ msgstr "Lys"
+
+# @ wplms_modern
+#~ msgid "Dark"
+#~ msgstr "Mørk"
+
+# @ wplms_modern
+#~ msgid "Show Tab"
+#~ msgstr "Vis fane"
+
+# @ wplms_modern
+#~ msgid "Title"
+#~ msgstr "Tittel"
+
+# @ wplms_modern
+#~ msgid "Content & Style"
+#~ msgstr "Innhold & stil"
+
+# @ wplms_modern
+#~ msgid "Thumbnail Posts"
+#~ msgstr "Miniatyrbilde innlegg"
+
+# @ wplms_modern
+#~ msgid "Number of items"
+#~ msgstr "Antall elementer"
+
+# @ wplms_modern
+#~ msgid "Posts Carousel "
+#~ msgstr "Innlegg Carousel "
+
+# @ wplms_modern
+#~ msgid "Vibe Carousel"
+#~ msgstr "Vibe Carousel"
+
+# @ wplms_modern
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+# @ wplms_modern
+#~ msgid "Post Type"
+#~ msgstr "Innleggstype"
+
+# @ wplms_modern
+#~ msgid "Sort"
+#~ msgstr "Sorter"
+
+# @ wplms_modern
+#~ msgid "Style"
+#~ msgstr "Stil"
+
+# @ wplms_modern
+#~ msgid "Image with Title"
+#~ msgstr "Bilde med tittel"
+
+# @ wplms_modern
+#~ msgid "Image Only"
+#~ msgstr "Bare bilde"
+
+# @ wplms_modern
+#~ msgid "Title Only"
+#~ msgstr "Bare tittel"
+
+# @ wplms_modern
+#~ msgid "Excerpt length"
+#~ msgstr "Utsnitt lengde"
+
+# @ wplms_modern
+#~ msgid "Auto Start"
+#~ msgstr "Autostart"
+
+# @ wplms_modern
+#~ msgid "Loop back, after completion"
+#~ msgstr "Sløyfe tilbake etter fullfør"
+
+# @ wplms_modern
+#~ msgid "Number of Posts"
+#~ msgstr "Antall innlegg"
+
+# @ wplms_modern
+#~ msgid "Posts Widget "
+#~ msgstr "Innlegg Widget "
+
+# @ wplms_modern
+#~ msgid "Vibe Posts"
+#~ msgstr "Vibe innlegg"
+
+# @ wplms_modern
+#~ msgid " Title"
+#~ msgstr "Tittel"
+
+# @ wplms_modern
+#~ msgid "Recent"
+#~ msgstr "Siste"
+
+# @ wplms_modern
+#~ msgid "Popular"
+#~ msgstr "Populære"
+
+# @ wplms_modern
+#~ msgid " Image Size"
+#~ msgstr "Bildestørrelse"
+
+# @ wplms_modern
+#~ msgid "Big"
+#~ msgstr "Stor"
+
+# @ wplms_modern
+#~ msgid "Small"
+#~ msgstr "Liten"
+
+# @ wplms_modern
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "Antall tegn i Utdrag [Post stil]"
+
+# @ wplms_modern
+#~ msgid "Vibe Gallery"
+#~ msgstr "Vibe galleri"
+
+# @ wplms_modern
+#~ msgid "Size "
+#~ msgstr "Størrelse"
+
+# @ wplms_modern
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+# @ wplms_modern
+#~ msgid " Small"
+#~ msgstr "Liten"
+
+# @ wplms_modern
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+# @ wplms_modern
+#~ msgid "Enter Attachment Ids "
+#~ msgstr "Tast Vedlegg Ids "
+
+# @ wplms_modern
+#~ msgid "Vibe Testimonials "
+#~ msgstr "Vibe Uttalelser "
+
+# @ wplms_modern
+#~ msgid "Vibe Testimonials"
+#~ msgstr "Vibe Uttalelser"
+
+# @ wplms_modern
+#~ msgid "Testimonial Id "
+#~ msgstr "Testimonial Id "
+
+# @ wplms_modern
+#~ msgid "Random"
+#~ msgstr "Tilfeldig"
+
+# @ wplms_modern
+#~ msgid "Length of excerpt:"
+#~ msgstr "Lengden på utdrag:"
+
+# @ wplms_modern
+#~ msgid "Username or RSS:"
+#~ msgstr "Brukernavn eller RSS:"
+
+# @ wplms_modern
+#~ msgid "Tags:"
+#~ msgstr "Tagger:"
+
+# @ wplms_modern
+#~ msgid "Count:"
+#~ msgstr "Antall:"
+
+# @ wplms_modern
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "Instagram AccessToken:"
+
+# @ wplms_modern
+#~ msgid "Instagram Client ID:"
+#~ msgstr "Instagram klient-ID:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "Instagram Brukernavn (<small> Hvis tomme deretter Instagram populære "
+#~ "bildene blir vist </ small>):"
+
+# @ wplms_modern
+#~ msgid "Size:"
+#~ msgstr "Størrelse:"
+
+# @ wplms_modern
+#~ msgid "Select Twitter Style"
+#~ msgstr "Velg Twitter stil"
+
+# @ wplms_modern
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "Linken over tittel med Twitter-bruker"
+
+# @ wplms_modern
+#~ msgid "Consumer Key"
+#~ msgstr "Forbruker Key"
+
+# @ wplms_modern
+#~ msgid "Create your Twitter Application"
+#~ msgstr "Lag din Twitter Application"
+
+# @ wplms_modern
+#~ msgid "here"
+#~ msgstr "her"
+
+# @ wplms_modern
+#~ msgid "Consumer Secret"
+#~ msgstr "Forbruker Secret"
+
+# @ wplms_modern
+#~ msgid "Access Token"
+#~ msgstr "Tilgang Token"
+
+# @ wplms_modern
+#~ msgid "Access Token Secret"
+#~ msgstr "Tilgang Token Secret"
+
+# @ wplms_modern
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter brukernavn"
+
+# @ wplms_modern
+#~ msgid "Show # of Tweets"
+#~ msgstr "Vis # av Tweets"
+
+# @ wplms_modern
+#~ msgid "Show timestamps"
+#~ msgstr "Vis tidsstempler"
+
+# @ wplms_modern
+#~ msgid "Find and show hyperlinks"
+#~ msgstr "Finne og vise hyperkoblinger"
+
+# @ wplms_modern
+#~ msgid "Find Replies in Tweets"
+#~ msgstr "Finn Svar i Tweets"
+
+# @ wplms_modern
+#~ msgid "Create links on new window / tab"
+#~ msgstr "Lag linker på nytt vindu / tab"
+
+# @ wplms_modern
+#~ msgid "Twitter username is not configured"
+#~ msgstr "Twitter-brukernavnet er ikke konfigurert"
+
+# @ wplms_modern
+#~ msgid "Number of tweets is not valid"
+#~ msgstr "Antall tweets er ikke gyldig"
+
+# @ wplms_modern
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "Twitter autentisering data er ufullstendig"
+
+# @ wplms_modern
+#~ msgid "Fetching data from Twitter"
+#~ msgstr "Henter data fra Twitter"
+
+# @ wplms_modern
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "Slette bufrede data alternativet aktivert"
+
+# @ wplms_modern
+#~ msgid "Error retrieving tweets"
+#~ msgstr "Feil hente tweets"
+
+# @ wplms_modern
+#~ msgid "Twitter data error:"
+#~ msgstr "Twitter datafeil:"
+
+# @ wplms_modern
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "Feil ved henting av twitter-grense"
+
+# @ wplms_modern
+#~ msgid "Requested items"
+#~ msgstr "Forespurte varer"
+
+# @ wplms_modern
+#~ msgid "API calls left"
+#~ msgstr "API kall som gjenstår"
+
+# @ wplms_modern
+#~ msgid "Seconds until reset"
+#~ msgstr "Sekunder til omstart"
+
+# @ wplms_modern
+#~ msgid "Using cached Twitter data"
+#~ msgstr "Med bufret Twitter data"
+
+# @ wplms_modern
+#~ msgid "Twitter cache error:"
+#~ msgstr "Twitter cache feil:"
+
+# @ wplms_modern
+#~ msgid "No public tweets"
+#~ msgstr "Ingen offentlige tweets"
+
+# @ wplms_modern
+#~ msgid "Unable to get tweets"
+#~ msgstr "Kan ikke hente tweets"
+
+# @ wplms_modern
+#~ msgid "%s ago"
+#~ msgstr "%S ago"
+
+# @ wplms_modern
+#~ msgid "M d"
+#~ msgstr "M d"
+
+# @ wplms_modern
+#~ msgid "Y/m/d H:i"
+#~ msgstr "Å/m/d D:i"
+
+# @ wplms_modern
+#~ msgid "Last Tweets"
+#~ msgstr "Siste tweets"
+
+# @ wplms_modern
+#~ msgid "student"
+#~ msgstr "student"
+
+# @ wplms_modern
+#~ msgid "instructor"
+#~ msgstr "instruktør"
+
+# @ wplms_modern
+#~ msgid "administrator"
+#~ msgstr "administrator"
+
+# @ wplms_modern
+#~ msgid "Sorry, no members were found."
+#~ msgstr "Beklager, ingen medlemmer funnet"
+
+# @ wplms_modern
+#~ msgid "Invalid Results"
+#~ msgstr "Ugyldige resultat"
+
+# @ wplms_modern
+#~ msgid "My Submission"
+#~ msgstr "Min innlevering"
+
+# @ wplms_modern
+#~ msgid "Download Attachment"
+#~ msgstr "Last ned vedlegg"
+
+# @ wplms_modern
+#~ msgid "See Instructor Remarks"
+#~ msgstr "Se instruktørens merknader"
+
+# @ wplms_modern
+#~ msgid "Marks Obtained"
+#~ msgstr "Marks innhentet"
+
+# @ wplms_modern
+#~ msgid "Marked Answer :"
+#~ msgstr "Merket svar:"
+
+# @ wplms_modern
+#~ msgid "FALSE"
+#~ msgstr "Ikke Sant"
+
+# @ wplms_modern
+#~ msgid "TRUE"
+#~ msgstr "TRUE"
+
+# @ wplms_modern
+#~ msgid "Correct Answer :"
+#~ msgstr "Rett svar :"
+
+# @ wplms_modern
+#~ msgid "View answer explaination"
+#~ msgstr "Vis svar forklaring"
+
+# @ wplms_modern
+#~ msgid "Total Marks :"
+#~ msgstr "Totale markeringer :"
+
+# @ wplms_modern
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "MERKER OPPTJENT"
+
+# @ wplms_modern
+#~ msgid "Total Marks"
+#~ msgstr "Totalt poeng"
+
+# @ wplms_modern
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "TA PRØVE PÅ NYTT"
+
+# @ wplms_modern
+#~ msgid " out of "
+#~ msgstr "ut av"
+
+# @ wplms_modern
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "Tidligere resultat for prøven"
+
+# @ wplms_modern
+#~ msgid "Results not Available"
+#~ msgstr "Resultat ikke tilgjengelig"
+
+# @ wplms_modern
+#~ msgid "Quiz Results"
+#~ msgstr "Prøve resultater"
+
+# @ wplms_modern
+#~ msgid "Results Available"
+#~ msgstr "Resultater tilgjengelig"
+
+# @ wplms_modern
+#~ msgid "Results Awaited"
+#~ msgstr "Resultater etterlengtede"
+
+# @ wplms_modern
+#~ msgid "Submitted "
+#~ msgstr "Innsendt"
+
+# @ wplms_modern
+#~ msgid " ago"
+#~ msgstr " siden"
+
+# @ wplms_modern
+#~ msgid "Assignment Results"
+#~ msgstr "Oppgaveresultater"
+
+# @ wplms_modern
+#~ msgid "NOT AVAILABLE"
+#~ msgstr "IKKE TILGJENGELIG"
+
+# @ wplms_modern
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "GJENNOMSNITTLIG PROSENT:"
+
+# @ wplms_modern
+#~ msgid "TAKING"
+#~ msgstr "TAR"
+
+# @ wplms_modern
+#~ msgid "MY COURSE PERCENTAGE : "
+#~ msgstr "MIN KURSPROSENT :"
+
+# @ wplms_modern
+#~ msgid "Average Marks in"
+#~ msgstr "Gjennomsnittskarakter"
+
+# @ wplms_modern
+#~ msgid "My Marks"
+#~ msgstr "Mine Poeng"
+
+# @ wplms_modern
+#~ msgid "User is taking this Course"
+#~ msgstr "Brukeren tar dette kurset"
+
+# @ wplms_modern
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "Du har ingen ventende vennskapsforespørsler. "
+
+# @ wplms_modern
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "Du har ingen utestående gruppeinvitasjoner"
+
+# @ wplms_modern
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "Send til (brukernavn eller vennen sitt navn)"
+
+# @ wplms_modern
+#~ msgid "This is a notice to all users."
+#~ msgstr "Dette er en melding til alle brukere"
+
+# @ wplms_modern
+#~ msgid "Subject"
+#~ msgstr "Emne"
+
+# @ wplms_modern
+#~ msgid "Message"
+#~ msgstr "Melding"
+
+# @ wplms_modern
+#~ msgid "Send Message"
+#~ msgstr "Send melding"
+
+# @ wplms_modern
+#~ msgid "From:"
+#~ msgstr "Fra:"
+
+# @ wplms_modern
+#~ msgid "To:"
+#~ msgstr "Til:"
+
+# @ wplms_modern
+#~ msgid "View Message"
+#~ msgstr "Vis melding"
+
+# @ wplms_modern
+#~ msgid "Delete Message"
+#~ msgstr "Slett melding"
+
+# @ wplms_modern
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Beklager, ingen meldinger ble funnet. "
+
+# @ wplms_modern
+#~ msgid "Sent:"
+#~ msgstr "Sendt:"
+
+# @ wplms_modern
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "Beklager, ingen varsel ble funnet. "
+
+# @ wplms_modern
+#~ msgid "You are alone in this conversation."
+#~ msgstr "Du er alene i denne samtalen. "
+
+# @ wplms_modern
+#~ msgid "Conversation between %s and you."
+#~ msgstr "Samtale mellom %s  og deg."
+
+# @ wplms_modern
+#~ msgid "Send a Reply"
+#~ msgstr "Send ett svar"
+
+# @ wplms_modern
+#~ msgid "Send Reply"
+#~ msgstr "Send svar"
+
+# @ wplms_modern
+#~ msgid "You have no unread notifications."
+#~ msgstr "Du har ingen uleste varsel. "
+
+# @ wplms_modern
+#~ msgid "This member has no unread notifications."
+#~ msgstr "Dette medlem har ingen uleste meldinger."
+
+# @ wplms_modern
+#~ msgid "You have no notifications."
+#~ msgstr "Du har ingen varsler."
+
+# @ wplms_modern
+#~ msgid "This member has no notifications."
+#~ msgstr "Dette medlemmet har ingen varsler."
+
+# @ wplms_modern
+#~ msgid "Notification"
+#~ msgstr "Varsel"
+
+# @ wplms_modern
+#~ msgid "Date Received"
+#~ msgstr "Dato mottat"
+
+# @ wplms_modern
+#~ msgid "Actions"
+#~ msgstr "Aksjoner"
+
+# @ wplms_modern
+#~ msgid "Change Avatar"
+#~ msgstr "Endre avatar"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "Avataren din vil bli brukt på profilen din og i hele området. Hvis det er "
+#~ "en <a href=\"http://gravatar.com\"> Gravatar </a> tilknyttet kontoen e-"
+#~ "post vil vi bruke det, eller du kan laste opp et bilde fra din datamaskin."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Hvis du ønsker å slette din nåværende avatar, men ikke laste opp en ny "
+#~ "en, kan du bruke slette avatar knappen."
+
+# @ wplms_modern
+#~ msgid "Delete My Avatar"
+#~ msgstr "Slett min avatar"
+
+# @ wplms_modern
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "Beskjær din nye avatar"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "Avataren din vil bli brukt på profilen din og i hele området. For å endre "
+#~ "din avatar, kan du opprette en konto hos <a href=\"http://gravatar.com\"> "
+#~ "Gravatar betaler med samme e-postadresse som du brukte til å registrere "
+#~ "med dette nettstedet."
+
+# @ wplms_modern
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "Redigering ' %s 'Profil Gruppe"
+
+# @ wplms_modern
+#~ msgid "Clear"
+#~ msgstr "Rensk"
+
+# @ wplms_modern
+#~ msgid "Change"
+#~ msgstr "Endre"
+
+# @ wplms_modern
+#~ msgid "%s's Profile"
+#~ msgstr "%s's Profil"
+
+# @ wplms_modern
+#~ msgid "About Me"
+#~ msgstr "Om meg"
+
+# @ wplms_modern
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ wplms_modern
+#~ msgid "AOL Messenger"
+#~ msgstr "AOL Messenger"
+
+# @ wplms_modern
+#~ msgid "Yahoo Messenger"
+#~ msgstr "Yahoo Messenger"
+
+# @ wplms_modern
+#~ msgid "Capabilities"
+#~ msgstr "Evner"
+
+# @ wplms_modern
+#~ msgid "This user is a spammer."
+#~ msgstr "Dette er en spambruker"
+
+# @ wplms_modern
+#~ msgid "Save"
+#~ msgstr "Lagre"
+
+# @ wplms_modern
+#~ msgid "Delete Account"
+#~ msgstr "Slett konto"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Å slette kontoen din vil slette alt innholdet du har laget. Det vil være "
+#~ "helt irrecoverable."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Slette denne kontoen vil slette alt innholdet den har skapt. Det vil være "
+#~ "helt irrecoverable."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences."
+#~ msgstr "Jeg forstår konsekvensene"
+
+# @ wplms_modern
+#~ msgid "General Settings"
+#~ msgstr "Generelle innstillinger"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "Nåværende passord <span>(påkrevd for å oppdatere e-post eller endre "
+#~ "gjeldende passord)</span>"
+
+# @ wplms_modern
+#~ msgid "Password Lost and Found"
+#~ msgstr "Passord tapt og funnet"
+
+# @ wplms_modern
+#~ msgid "Lost your password?"
+#~ msgstr "Glemt passord?"
+
+# @ wplms_modern
+#~ msgid "Account Email"
+#~ msgstr "Konto e-post"
+
+# @ wplms_modern
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr "Endre passord <span>(la stå tomt for ingen endring)</span>"
+
+# @ wplms_modern
+#~ msgid "New Password"
+#~ msgstr "Nytt passord"
+
+# @ wplms_modern
+#~ msgid "Repeat New Password"
+#~ msgstr "Gjenta nytt passord"
+
+# @ wplms_modern
+#~ msgid "Email Notification"
+#~ msgstr "E-post varsel"
+
+# @ wplms_modern
+#~ msgid "Send an email notice when:"
+#~ msgstr "Send e-post varsel når:"
+
+# @ wplms_modern
+#~ msgid "Visibility"
+#~ msgstr "Synlighet"
+
+# @ wplms_modern
+#~ msgid "Options"
+#~ msgstr "Alternativer"
+
+# @ wplms_modern
+#~ msgid "Options Panel created using"
+#~ msgstr "Alternativer Panel opprettet ved hjelp"
+
+# @ wplms_modern
+#~ msgid "Import / Export"
+#~ msgstr "Importer / eksporter"
+
+# @ wplms_modern
+#~ msgid "Dev Mode Info"
+#~ msgstr "Dev Mode Info"
+
+# @ wplms_modern
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "Er du sikker? Tilbakeføring vil miste alle egendefinerte verdier."
+
+# @ wplms_modern
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong> Innstillinger Importert! </ strong>"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<Strong> Innstillinger Saved! </ Strong>"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<Strong> Innstillinger har endret !, bør du lagre dem! </ Strong>"
+
+# @ wplms_modern
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<Strong> <span> </ span> feil (er) ble funnet! </ Strong>"
+
+# @ wplms_modern
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<Strong> <span> </ span> advarsel (er) ble funnet! </ Strong>"
+
+# @ wplms_modern
+#~ msgid "Import / Export Options"
+#~ msgstr "Import / Export alternativer"
+
+# @ wplms_modern
+#~ msgid "Import Options"
+#~ msgstr "Importalternativer"
+
+# @ wplms_modern
+#~ msgid "Import from file"
+#~ msgstr "Import fra fil"
+
+# @ wplms_modern
+#~ msgid "Import from URL"
+#~ msgstr "Import fra URL"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Input sikkerhetskopifilen under og trykk Importer for å gjenopprette dine "
+#~ "nettsteder alternativer fra en sikkerhetskopi."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Tast inn URL til en annen plass vil valg og treffer Import å laste "
+#~ "alternativene fra det området."
+
+# @ wplms_modern
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr ""
+#~ "ADVARSEL! Dette vil overskrive eventuelle eksisterende alternativer, "
+#~ "fortsett med forsiktighet!"
+
+# @ wplms_modern
+#~ msgid "Export Options"
+#~ msgstr "Eksportvalg"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "Her kan du kopiere / laste ned temaer gjeldende innstillinger for "
+#~ "alternativer. Hold dette trygt som du kan bruke den som en backup skulle "
+#~ "noe gå galt. Eller du kan bruke den til å gjenopprette innstillingene på "
+#~ "dette nettstedet (eller et annet sted). Du har også praktisk alternativ "
+#~ "for å kopiere linken til din nettsteder innstillinger. Som du så kan "
+#~ "bruke til å kopiere på et annet nettsted"
+
+# @ wplms_modern
+#~ msgid "Download"
+#~ msgstr "Last ned"
+
+# @ wplms_modern
+#~ msgid "Reset to Defaults"
+#~ msgstr "Tilbakestill til standard"
+
+# @ wplms_modern
+#~ msgid " To:"
+#~ msgstr "Til:"
+
+# @ wplms_modern
+#~ msgid "Add New List Field"
+#~ msgstr "Legg til nytt listefelt"
+
+# @ wplms_modern
+#~ msgid "Add More"
+#~ msgstr "Legg til mer"
+
+# @ wplms_modern
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "Legg Ny oppføring Taksonomi"
+
+# @ wplms_modern
+#~ msgid "Upload Font"
+#~ msgstr "Last opp skrifttype"
+
+# @ wplms_modern
+#~ msgid "Font Preview"
+#~ msgstr "Skrifttype forhåndsvisning"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "(Copy export code and paste it in import area of other WordPress "
+#~ "isntallation)"
+#~ msgstr ""
+#~ "(Kopier eksport koden og lim den inn import område av andre WordPress "
+#~ "isntallation)"
+
+# @ wplms_modern
+#~ msgid "Browse"
+#~ msgstr "Utforsk"
+
+# @ wplms_modern
+#~ msgid "Remove Upload"
+#~ msgstr "Fjern opplasting"
+
+# @ wplms_modern
+#~ msgid "Add Custom Posts"
+#~ msgstr "Legg Custom innlegg"
+
+# @ wplms_modern
+#~ msgid "Enter Full URL of the page"
+#~ msgstr "Enter Full nettadressen til siden"
+
+# @ wplms_modern
+#~ msgid "Add Social Icons"
+#~ msgstr "Legg Sosiale Ikoner"
+
+# @ wplms_modern
+#~ msgid " Plugin is Inactive"
+#~ msgstr " Plugin er Inaktiv"
+
+# @ wplms_modern
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Dette feltet må være en gyldig fargeverdi."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr "Du må gi en kommadelt liste med tallverdier for dette alternativet."
+
+# @ wplms_modern
+#~ msgid "This field must be a valid date."
+#~ msgstr "Dette feltet må være en gyldig dato."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Du må oppgi en gyldig e-post for dette alternativet."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "Du må oppgi en gyldig API-nøkkel for dette alternativet."
+
+# @ wplms_modern
+#~ msgid "Unable to upload font."
+#~ msgstr "Kan ikke laste opp skrift."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "Du må ikke oppgi noen HTML i dette feltet, har alle HTML-koder er fjernet."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "Du må ikke bruk spesialtegn i dette feltet, har alle spesialtegn er "
+#~ "fjernet."
+
+# @ wplms_modern
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Du må gi en numerisk verdi for dette alternativet."
+
+# @ wplms_modern
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "Skriv inn Envato Market Brukernavn."
+
+# @ wplms_modern
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "Skriv inn Envato Market API-nøkkel."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "Du må oppgi en gyldig URL for dette valget. "
+
+# @ wplms_modern
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "Ditt medlemskap er <strong>aktivt</strong>."
+
+# @ wplms_modern
+#~ msgid "Membership Fee"
+#~ msgstr "Medlemsavgift"
+
+# @ wplms_modern
+#~ msgid "Duration"
+#~ msgstr "Lengde"
+
+# @ wplms_modern
+#~ msgid "Membership Expires"
+#~ msgstr "Medlemskap utløper"
+
+# @ wplms_modern
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "Din første betaling vil koste %s."
+
+# @ wplms_modern
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "Dine første %d betalinger vil koste %s."
+
+# @ wplms_modern
+#~ msgid "Billing Information"
+#~ msgstr "Betalingsinformasjon"
+
+# @ wplms_modern
+#~ msgid "Payment Method"
+#~ msgstr "Betalingsmåte"
+
+# @ wplms_modern
+#~ msgid "Edit Billing Information"
+#~ msgstr "Edit Faktureringsinformasjon"
+
+# @ wplms_modern
+#~ msgid "Past Invoices"
+#~ msgstr "Siste Fakturaer"
+
+# @ wplms_modern
+#~ msgid "View All Invoices"
+#~ msgstr "Vis alle fakturaer"
+
+# @ wplms_modern
+#~ msgid "Member Links"
+#~ msgstr "Medlems Lenker"
+
+# @ wplms_modern
+#~ msgid "Update Billing Information"
+#~ msgstr "Oppdatering Faktureringsinformasjon"
+
+# @ wplms_modern
+#~ msgid "Change Membership Level"
+#~ msgstr "Endre medlemskapsnivå"
+
+# @ wplms_modern
+#~ msgid "Cancel Membership"
+#~ msgstr "Kanseller medlemskap"
+
+# @ wplms_modern
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "Logget inn som <strong> %s </ strong>."
+
+# @ wplms_modern
+#~ msgid "logout"
+#~ msgstr "logg ut"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "Ditt betalte abonnement forvaltes av PayPal. <a Href=\"http://www.paypal."
+#~ "com\"> Logg inn på PayPal her </a> for å oppdatere "
+#~ "faktureringsinformasjonen."
+
+# @ wplms_modern
+#~ msgid "First Name"
+#~ msgstr "Fornavn"
+
+# @ wplms_modern
+#~ msgid "Last Name"
+#~ msgstr "Etternavn"
+
+# @ wplms_modern
+#~ msgid "Address 1"
+#~ msgstr "Addresse 1"
+
+# @ wplms_modern
+#~ msgid "Address 2"
+#~ msgstr "Addresse 2"
+
+# @ wplms_modern
+#~ msgid "optional"
+#~ msgstr "valgfritt"
+
+# @ wplms_modern
+#~ msgid "City"
+#~ msgstr "By"
+
+# @ wplms_modern
+#~ msgid "State"
+#~ msgstr "Sted"
+
+# @ wplms_modern
+#~ msgid "Postal Code"
+#~ msgstr "Postnummer"
+
+# @ wplms_modern
+#~ msgid "City, State Zip"
+#~ msgstr "Sted, Postnummer"
+
+# @ wplms_modern
+#~ msgid "Country"
+#~ msgstr "Land"
+
+# @ wplms_modern
+#~ msgid "Phone"
+#~ msgstr "Telefon"
+
+# @ wplms_modern
+#~ msgid "E-mail Address"
+#~ msgstr "E-post adresse"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail"
+#~ msgstr "Bekreft e-post"
+
+# @ wplms_modern
+#~ msgid "We accept %s"
+#~ msgstr "Vi aksepterer %s"
+
+# @ wplms_modern
+#~ msgid "Credit Card Information"
+#~ msgstr "Kredittkortinformasjon"
+
+# @ wplms_modern
+#~ msgid "Card Type"
+#~ msgstr "Korttype"
+
+# @ wplms_modern
+#~ msgid "Card Number"
+#~ msgstr "Kortnummer"
+
+# @ wplms_modern
+#~ msgid "Expiration Date"
+#~ msgstr "Utløpsdato"
+
+# @ wplms_modern
+#~ msgid "Update"
+#~ msgstr "Oppdater"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr ""
+#~ "Dette abonnementet er ikke tilbakevendende. Slik at du ikke trenger å "
+#~ "oppdatere faktureringsinformasjonen."
+
+# @ wplms_modern
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "Er du sikker på at du vil avbryte ditt medlemskap?"
+
+# @ wplms_modern
+#~ msgid "Yes, cancel my account"
+#~ msgstr "Ja, kanseller min konto"
+
+# @ wplms_modern
+#~ msgid "No, keep my account"
+#~ msgstr "Nei, behold min konto"
+
+# @ wplms_modern
+#~ msgid "Click here to go to the home page."
+#~ msgstr "Klikk her for å gå til hjemmesiden."
+
+# @ wplms_modern
+#~ msgid "Membership Level"
+#~ msgstr "Medlemskapsnivå"
+
+# @ wplms_modern
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "Du har valgt <strong>%s</strong> medlemskapsnivå. "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p class=\"pmpro_level_discount_applied\">Denne <strong>%s</strong> koden "
+#~ "har blitt lagt til din ordre.</p>"
+
+# @ wplms_modern
+#~ msgid "Click here to change your discount code"
+#~ msgstr "Klikk her for å endre din rabattkode"
+
+# @ wplms_modern
+#~ msgid "Do you have a discount code?"
+#~ msgstr "Har du en rabattkode?"
+
+# @ wplms_modern
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "Klikk her for å legge inn din rabattkode"
+
+# @ wplms_modern
+#~ msgid "Discount Code"
+#~ msgstr "Rabattkode"
+
+# @ wplms_modern
+#~ msgid "Apply"
+#~ msgstr "Bruk"
+
+# @ wplms_modern
+#~ msgid "Already have an account?"
+#~ msgstr "Har du allerede en konto?"
+
+# @ wplms_modern
+#~ msgid "Log in here"
+#~ msgstr "Logg inn her"
+
+# @ wplms_modern
+#~ msgid "Account Information"
+#~ msgstr "Kontoinformasjon"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "Bekrest e-post adresse"
+
+# @ wplms_modern
+#~ msgid "Full Name"
+#~ msgstr "Fullt Navn"
+
+# @ wplms_modern
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "LA DETTE VÆRE BLANKT"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "Du er logget inn som <strong>%s</strong>. Hvis du vil bruke en annen "
+#~ "konto for dette medlemskapet, <a href=\"%s\">logg ut nå</a>."
+
+# @ wplms_modern
+#~ msgid "Choose your Payment Method"
+#~ msgstr "Velg din betalingsmetode"
+
+# @ wplms_modern
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "Betal med kredittkort her"
+
+# @ wplms_modern
+#~ msgid "Check Out with PayPal"
+#~ msgstr "Betal med PayPal"
+
+# @ wplms_modern
+#~ msgid "We Accept %s"
+#~ msgstr "Vi akspeterer %s"
+
+# @ wplms_modern
+#~ msgid "Payment Information"
+#~ msgstr "Betalingsinformasjon"
+
+# @ wplms_modern
+#~ msgid "I agree to the %s"
+#~ msgstr "Jeg er enig i %s"
+
+# @ wplms_modern
+#~ msgid "Complete Payment"
+#~ msgstr "Fullfør betaling"
+
+# @ wplms_modern
+#~ msgid "Submit and Pay with 2CheckOut"
+#~ msgstr "Send og betal med 2CheckOut"
+
+# @ wplms_modern
+#~ msgid "Submit and Check Out"
+#~ msgstr "Send og sjekk ut"
+
+# @ wplms_modern
+#~ msgid "Submit and Confirm"
+#~ msgstr "Send og bekreft"
+
+# @ wplms_modern
+#~ msgid "Processing..."
+#~ msgstr "Behandler..."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr ""
+#~ "Betalingen er sendt inn. Ditt medlemskap vil bli aktivert innen kort tid."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr "Takk for ditt medlemskap til %s . Din %s medlemskap er nå aktiv."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "Nedenfor finner du detaljer om din medlemskonto og en kvittering for ditt "
+#~ "første medlemskap faktura. En velkomst e-post med en kopi av ditt "
+#~ "opprinnelige medlems faktura er sendt til %s ."
+
+# @ wplms_modern
+#~ msgid "Print"
+#~ msgstr "Skriv ut"
+
+# @ wplms_modern
+#~ msgid "Account"
+#~ msgstr "Konto"
+
+# @ wplms_modern
+#~ msgid "Total Billed"
+#~ msgstr "Totalt fakturert"
+
+# @ wplms_modern
+#~ msgid "Expiration"
+#~ msgstr "Utløper"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "Nedenfor finner du detaljer om din medlemskonto. En velkomst e-post med "
+#~ "har blitt sendt til %s ."
+
+# @ wplms_modern
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "Vis din medlemskonto & rarr;"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr ""
+#~ "Hvis kontoen din ikke er aktivert i løpet av få minutter, kan du kontakte "
+#~ "eieren av nettstedet."
+
+# @ wplms_modern
+#~ msgid "Subtotal"
+#~ msgstr "Delsum"
+
+# @ wplms_modern
+#~ msgid "Tax"
+#~ msgstr "Skatt"
+
+# @ wplms_modern
+#~ msgid "Coupon"
+#~ msgstr "Kupong"
+
+# @ wplms_modern
+#~ msgid "Date"
+#~ msgstr "Dato"
+
+# @ wplms_modern
+#~ msgid "Invoice #"
+#~ msgstr "Faktura #"
+
+# @ wplms_modern
+#~ msgid "View Invoice"
+#~ msgstr "Vis faktura"
+
+# @ wplms_modern
+#~ msgid "No invoices found."
+#~ msgstr "Ingen faktura funnet."
+
+# @ wplms_modern
+#~ msgid "&larr; View All Invoices"
+#~ msgstr "&larr; Vis alle faktura"
+
+# @ wplms_modern
+#~ msgid "Price"
+#~ msgstr "Pris"
+
+# @ wplms_modern
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "& Nbsp; nivå"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "&larr; Returner til din konto"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Home"
+#~ msgstr "&larr; Returner til hjem"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Registering for this site is easy, just fill in the fields below and "
+#~ "we'll get a new account set up for you in no time."
+#~ msgstr ""
+#~ "Registrere for dette nettstedet er lett, bare fyll ut feltene nedenfor og "
+#~ "vi vil få en ny konto satt opp for deg på kort tid."
+
+# @ wplms_modern
+#~ msgid "Change profile field visibility level"
+#~ msgstr "Endre profil felt synlighet nivå"
+
+# @ wplms_modern
+#~ msgid "Complete Sign Up"
+#~ msgstr "Fullfør registreringen"
+
+# @ wplms_modern
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "Sjekk e-posten for å aktivere din konto!"
+
+# @ wplms_modern
+#~ msgid "Thanks, all done!"
+#~ msgstr "Takk, alle gjort!"
+
+# @ wplms_modern
+#~ msgid "Thank you for updating to the latest version!"
+#~ msgstr "Takk for å oppdatere til den nyeste versjonen!"
+
+# @ wplms_modern
+#~ msgid "Thanks for installing!"
+#~ msgstr "Takk for at du installerer!"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s WPLMS is the best Learning Management platform for WordPress. The "
+#~ "latest version %s now contains following features."
+#~ msgstr ""
+#~ "%s WPLMS er den beste Learning Management plattform for WordPress. Den "
+#~ "nyeste versjonen %s inneholder nå følgende funksjoner."
+
+# @ wplms_modern
+#~ msgid "FAQs"
+#~ msgstr "Ofte stilte spørsmål"
+
+# @ wplms_modern
+#~ msgid "Docs"
+#~ msgstr "Dokumenter"
+
+# @ wplms_modern
+#~ msgid "Customization Tips"
+#~ msgstr "Tilpasning tips"
+
+# @ wplms_modern
+#~ msgid "Installation and Setup"
+#~ msgstr "Installasjon og oppsett"
+
+# @ wplms_modern
+#~ msgid "What's New"
+#~ msgstr "Hva er nytt"
+
+# @ wplms_modern
+#~ msgid "One Click installation and Setup"
+#~ msgstr "Ett klikk installasjon og oppsett"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You can now install WPLMS in one single click, select the setup procedure "
+#~ "from the options given in the right. You just need to Click the button "
+#~ "once and everything would be automatically installed and setup, after "
+#~ "which your WPLMS Site would be ready to use and configure."
+#~ msgstr ""
+#~ "Du kan nå installere WPLMS i ett enkelt klikk, velg "
+#~ "installasjonsprosedyren fra de gitte i riktig alternativer. Du trenger "
+#~ "bare å klikke på knappen en gang, og alt vil bli automatisk installert og "
+#~ "oppsett, etter som din WPLMS nettstedet vil være klar til å bruke og "
+#~ "konfigurere."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Please deactivate WordPress importer plugin to avoid conflicts with Vibe "
+#~ "one click installer."
+#~ msgstr ""
+#~ "Vennligst deaktivere WordPress importør plugin for å unngå konflikter med "
+#~ "Vibe ett klikk installatør."
+
+# @ wplms_modern
+#~ msgid "Setup Theme without Sample Data"
+#~ msgstr "Oppsett Theme uten eksempeldata"
+
+# @ wplms_modern
+#~ msgid "Setup Theme with Sample Data"
+#~ msgstr "Oppsett Theme med eksempeldata"
+
+# @ wplms_modern
+#~ msgid "Please enable all the plugins"
+#~ msgstr "Vennligst aktiver alle plugins"
+
+# @ wplms_modern
+#~ msgid "Install all plugins for Full Sample Data import % slink %s"
+#~ msgstr "Installer alle plugins for Full Sample Data import% slink% s"
+
+# @ wplms_modern
+#~ msgid "Please activate all/required plugins bundled with the theme."
+#~ msgstr "Vennligst aktiver alle / nødvendige plugins buntet med temaet."
+
+# @ wplms_modern
+#~ msgid "Install & Activate plugins"
+#~ msgstr "Installere & Aktiver plugins"
+
+# @ wplms_modern
+#~ msgid "Video Tutorial of Installing theme"
+#~ msgstr "Video Tutorial av Installere tema"
+
+# @ wplms_modern
+#~ msgid "Setup Issues"
+#~ msgstr "Problemer setup"
+
+# @ wplms_modern
+#~ msgid "Facing issues while setting up? Try out suggested links below."
+#~ msgstr ""
+#~ "Facing problemer mens du setter opp? Prøve ut foreslåtte linkene nedenfor."
+
+# @ wplms_modern
+#~ msgid "WPLMS manual installation & setup"
+#~ msgstr "WPLMS manuell installasjon og oppsett"
+
+# @ wplms_modern
+#~ msgid "WPLMS System Status"
+#~ msgstr "WPLMS Systemstatus"
+
+# @ wplms_modern
+#~ msgid "WPLMS FAQs"
+#~ msgstr "WPLMS Spørsmål og svar"
+
+# @ wplms_modern
+#~ msgid "Popular Setup issues"
+#~ msgstr "Populære spørsmålene Setup"
+
+# @ wplms_modern
+#~ msgid "Following is the list of most frequent setup issues faced by users"
+#~ msgstr ""
+#~ "Her følger en liste over de fleste hyppige oppsetts problemstillinger "
+#~ "overfor brukere"
+
+# @ wplms_modern
+#~ msgid "White screen when installed"
+#~ msgstr "Hvit skjerm når den er installert"
+
+# @ wplms_modern
+#~ msgid "Start Course/Take this Course not working"
+#~ msgstr "Starte Kurs / ta dette kurset ikke fungerer"
+
+# @ wplms_modern
+#~ msgid "Other popular issues"
+#~ msgstr "Andre populære spørsmålene"
+
+# @ wplms_modern
+#~ msgid "Following is the list of most frequent issues faced by users"
+#~ msgstr ""
+#~ "Her følger en liste over de vanligste problemstillinger overfor brukere"
+
+# @ wplms_modern
+#~ msgid "Quizzes not saving answers"
+#~ msgstr "Prøver ikke sparer svar"
+
+# @ wplms_modern
+#~ msgid "Visual composer not updating"
+#~ msgstr "Visuell komponist ikke oppdatere"
+
+# @ wplms_modern
+#~ msgid "Getting 404 page on editing course"
+#~ msgstr "Får 404 side på redigering kurs"
+
+# @ wplms_modern
+#~ msgid "Unable to setup ? Get help on our Support forums."
+#~ msgstr "Ute av stand til å sette opp? Få hjelp på våre støttefora."
+
+# @ wplms_modern
+#~ msgid "35 Bugs fixes and Updates"
+#~ msgstr "35 Bugs fikser og oppdateringer"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "We fixed some pending issues. Refer to change log for complete list of "
+#~ "issues/bugs fixed in the update."
+#~ msgstr ""
+#~ "Vi fikset noen uavklarte spørsmål. Referere til endringslogg for "
+#~ "fullstendig liste over problemer / feil som er løst i oppdateringen."
+
+# @ wplms_modern
+#~ msgid "4 New features added"
+#~ msgstr "4 Nye funksjoner lagt til"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "We added 4 new features in the theme and plugins.<br />WPLMS in-Theme "
+#~ "Caching,Course News, Multiple Pricing, . Enable this feature from the "
+#~ "options panel course manager."
+#~ msgstr ""
+#~ "Vi har lagt til fire nye funksjoner i tema og plugins. <br /> WPLMS i-"
+#~ "Theme Caching, Kurs News, Multiple Pricing,. Aktivere denne funksjonen "
+#~ "fra alternativpanelet kursleder."
+
+# @ wplms_modern
+#~ msgid "Check update log "
+#~ msgstr "Sjekk oppdatering log "
+
+# @ wplms_modern
+#~ msgid "WPLMS Latest Tutorials"
+#~ msgstr "WPLMS Nyeste Tutorials"
+
+# @ wplms_modern
+#~ msgid "WPLMS Video Playlist"
+#~ msgstr "WPLMS Video spilleliste"
+
+# @ wplms_modern
+#~ msgid "WPLMS in-theme Caching and optimization"
+#~ msgstr "WPLMS i-tema Caching og optimalisering"
+
+# @ wplms_modern
+#~ msgid "Tutorial"
+#~ msgstr "Veiledning"
+
+# @ wplms_modern
+#~ msgid "Add a News/blog section to Course"
+#~ msgstr "Legg en Nyheter / blogg-delen til Course"
+
+# @ wplms_modern
+#~ msgid "Generate Shortcode feature in Page Builder"
+#~ msgstr "Generere Kortnummer funksjonen i Page Builder"
+
+# @ wplms_modern
+#~ msgid "Multiple Course Pricing and featured block"
+#~ msgstr "Multiple Course Priser og kjennetegnet blokk"
+
+# @ wplms_modern
+#~ msgid "MyCred Points system for WordPress"
+#~ msgstr "MyCred poeng system for WordPress"
+
+# @ wplms_modern
+#~ msgid "WPLMS CoAuthors plus integration"
+#~ msgstr "WPLMS medforfattere pluss integrering"
+
+# @ wplms_modern
+#~ msgid "WPLMS MyCred Addon plugin"
+#~ msgstr "WPLMS MyCred Addon plugin"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "To install and setup MyCred with WPLMS, you need to install the WPLMS "
+#~ "MyCred add on plugin. Which you can download from below link. Make sure "
+#~ "you rename and remove the label master from the downloaded zip file."
+#~ msgstr ""
+#~ "Å installere og konfigurere MyCred med WPLMS, må du installere den WPLMS "
+#~ "MyCred legge på plugin. Som du kan laste ned fra linken nedenfor. Sørg "
+#~ "for at du endre navn og fjerne etiketten mester fra den nedlastede zip-"
+#~ "fil."
+
+# @ wplms_modern
+#~ msgid "WPLMS Coauthors Plus addon Updated"
+#~ msgstr "WPLMS Medforfatterne Plus addon Oppdatert"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Coauthors Plus addon has been updated with several fixes. You need to re-"
+#~ "download the plugin, delete the existing one and upload the new one to "
+#~ "update the plugin."
+#~ msgstr ""
+#~ "Medforfatterne Plus addon har blitt oppdatert med flere feilrettinger. Du "
+#~ "trenger å re-laste ned plugin, slette den eksisterende og laste opp den "
+#~ "nye for å oppdatere plugin."
+
+# @ wplms_modern
+#~ msgid "Translation Collaboration"
+#~ msgstr "Oversettelse Collaboration"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Let me admit, it is a cumbersome task to maintain translation files. "
+#~ "Therefore we're asking for the WPLMS community to participate. Check the "
+#~ "below link and participate in the WPLMS Google Translation project."
+#~ msgstr ""
+#~ "La meg innrømme, er det en tungvint oppgave å opprettholde "
+#~ "oversettelsesfiler. Derfor ber vi for WPLMS samfunnet til å delta. Sjekk "
+#~ "linken nedenfor og delta i WPLMS nyttig prosjekt."
+
+# @ wplms_modern
+#~ msgid "Link for invitation"
+#~ msgstr "Link til invitasjon"
+
+# @ wplms_modern
+#~ msgid "Go to WPLMS Options panel"
+#~ msgstr "Gå til WPLMS alternativer panel"
+
+# @ wplms_modern
+#~ msgid "Environment"
+#~ msgstr "Miljø"
+
+# @ wplms_modern
+#~ msgid "Site URL"
+#~ msgstr "Side URL"
+
+# @ wplms_modern
+#~ msgid "WP Version"
+#~ msgstr "WP versjon"
+
+# @ wplms_modern
+#~ msgid "WP Multisite Enabled"
+#~ msgstr "WP Multisite Aktivert"
+
+# @ wplms_modern
+#~ msgid "Web Server Info"
+#~ msgstr "Web Server Info"
+
+# @ wplms_modern
+#~ msgid "PHP Version"
+#~ msgstr "PHP versjon"
+
+# @ wplms_modern
+#~ msgid "MySQL Version"
+#~ msgstr "MySQL versjon"
+
+# @ wplms_modern
+#~ msgid "WP Active Plugins"
+#~ msgstr "WP Active Plugins"
+
+# @ wplms_modern
+#~ msgid "WP Memory Limit"
+#~ msgstr "WP Memory Limit"
+
+# @ wplms_modern
+#~ msgid "WP Debug Mode"
+#~ msgstr "WP Debug Mode"
+
+# @ wplms_modern
+#~ msgid "WP Language"
+#~ msgstr "WP Språk"
+
+# @ wplms_modern
+#~ msgid "WP Max Upload Size"
+#~ msgstr "WP Max Last opp Størrelse"
+
+# @ wplms_modern
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP Post Max Size"
+
+# @ wplms_modern
+#~ msgid "PHP Time Limit"
+#~ msgstr "PHP Tidsbegrensning"
+
+# @ wplms_modern
+#~ msgid "PHP Max Input Vars"
+#~ msgstr "PHP Max Input Vars"
+
+# @ wplms_modern
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "Suhosin Installert"
+
+# @ wplms_modern
+#~ msgid "Default Timezone"
+#~ msgstr "Standard tidssone"
+
+# @ wplms_modern
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "Standard tidssone er %s - det skal være UTC"
+
+# @ wplms_modern
+#~ msgid "Default timezone is %s"
+#~ msgstr "Standard tidssone er %s"
+
+# @ wplms_modern
+#~ msgid "WPLMS Pages"
+#~ msgstr "WPLMS Sider"
+
+# @ wplms_modern
+#~ msgid "Page not set"
+#~ msgstr "Side ikke satt"
+
+# @ wplms_modern
+#~ msgid "Template Overrides"
+#~ msgstr "Mal Styrer"
+
+# @ wplms_modern
+#~ msgid "No overrides present in theme."
+#~ msgstr "Ingen overstyrer presentere i tema. "
+
+# @ wplms_modern
+#~ msgid "Full Changelog of WPLMS Theme"
+#~ msgstr "Full endringslog av WPLMS Theme"
+
+# @ wplms_modern
+#~ msgid "View WPLMS Options panel"
+#~ msgstr "Vis WPLMS Alternativer panel "
+
+# @ wplms_modern
+#~ msgid "View WPLMS Documentation"
+#~ msgstr "Vis WPLMS Dokumentasjon"
+
+# @ wplms_modern
+#~ msgid "Visit Premium Customer Support Forum"
+#~ msgstr "Besøk Premium Customer Support Forum"
+
+# @ wplms_modern
+#~ msgid "Please activate all the required plugins"
+#~ msgstr "Vennligst aktiver alle nødvendige plugins"
+
+# @ wplms_modern
+#~ msgid "(Unnamed Slider)"
+#~ msgstr "(Unnamed Slider)"
+
+# @ wplms_modern
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "Det oppstod en feil ved lesing av denne WXR fil"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "Detaljer er vist ovenfor. Importøren vil nå prøve på nytt med en annen "
+#~ "parser ..."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr ""
+#~ "Dette ser ikke ut til å være en WXR fil, mangler / ugyldig WXR "
+#~ "versjonsnummer"
+
+# @ wplms_modern
+#~ msgid "Import Complete !"
+#~ msgstr "Import Complete!"
+
+# @ wplms_modern
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "Kan ikke finne eksempeldata fil."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
+#~ msgstr ""
+#~ "Kunne ikke installere testen demo data som vi ikke var i stand til å "
+#~ "bruke WP_Import klasse."
+
+# @ wplms_modern
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "Beklager, det har oppstått en feil."
+
+# @ wplms_modern
+#~ msgid "All done."
+#~ msgstr "Alt gjort."
+
+# @ wplms_modern
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "Husk å oppdatere passord og roller importerte brukere."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "Eksportfilen ble ikke funnet på <code> %s </ code>. Det er sannsynlig at "
+#~ "dette var forårsaket av et problem med rettigheter."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "Dette WXR fil (versjon %s ) er kanskje ikke støttes av denne versjonen av "
+#~ "importøren. Vennligst vurdere å oppdatere."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "Klarte ikke å importere forfatter %s . Deres innlegg vil bli tilskrevet "
+#~ "den aktuelle brukeren."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "For å gjøre det enklere for deg å redigere og lagre importerte innholdet, "
+#~ "kan du bruke kombinasjonen forfatteren av den importerte elementet i en "
+#~ "eksisterende bruker av dette nettstedet. For eksempel, kan det være lurt "
+#~ "å importere alle oppføringene som <code> admin </ code> s oppføringer."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "Hvis en ny bruker er skapt av WordPress, vil et nytt passord være "
+#~ "tilfeldig generert og den nye brukeren & # 8217; s rolle vil bli satt som "
+#~ "%s . Manuell endring av ny bruker & # 8217; s detaljer vil være nødvendig."
+
+# @ wplms_modern
+#~ msgid "or create new user with login name:"
+#~ msgstr "eller lage ny bruker med påloggingsnavn:"
+
+# @ wplms_modern
+#~ msgid "as a new user:"
+#~ msgstr "som ny bruker:"
+
+# @ wplms_modern
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "tildele innlegg til en eksisterende bruker:"
+
+# @ wplms_modern
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "eller tildele innlegg til en eksisterende bruker:"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "Kunne ikke opprette ny bruker for %s . Deres innlegg vil bli tilskrevet "
+#~ "den aktuelle brukeren."
+
+# @ wplms_modern
+#~ msgid "Failed to import category %s"
+#~ msgstr "Klarte ikke å importere kategorien %s"
+
+# @ wplms_modern
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "Klarte ikke å importere post tag %s"
+
+# @ wplms_modern
+#~ msgid "Failed to import %s %s"
+#~ msgstr "Klarte ikke å importere %s %s"
+
+# @ wplms_modern
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr ""
+#~ "Klarte ikke å importere & # 8220; %s & # 8221 ;: Ugyldig innleggstype %s"
+
+# @ wplms_modern
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s & # 8220; %s & # 8221; allerede eksisterer."
+
+# @ wplms_modern
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "Klarte ikke å importere %s & # 8220; %s & # 8221;"
+
+# @ wplms_modern
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "Menyvalget hoppet på grunn av manglende meny slug"
+
+# @ wplms_modern
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "Menyvalget hoppet på grunn av ugyldig meny slug: %s"
+
+# @ wplms_modern
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "Henter vedlegg er ikke aktivert"
+
+# @ wplms_modern
+#~ msgid "Remote server did not respond"
+#~ msgstr "Ekstern server svarte ikke"
+
+# @ wplms_modern
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "Ekstern server returnert feilrespons %1$d %2$s"
+
+# @ wplms_modern
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "Ekstern fil er feil størrelse"
+
+# @ wplms_modern
+#~ msgid "Zero size file downloaded"
+#~ msgstr "Null størrelse fil lastet ned"
+
+# @ wplms_modern
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "Remote filen er for stor, er grensen %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "En ny versjon av denne importøren er tilgjengelig. Oppdater til versjon "
+#~ "%s for å sikre kompatibilitet med nyere eksportere filer."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "Hallo! Last opp din WordPress eXtended RSS (WXR fil), og vi vil importere "
+#~ "innlegg, sider, kommentarer, egendefinerte felt, kategorier og koder inn "
+#~ "i dette området."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "Velg en WXR (XML fil) for å laste opp, og klikk deretter på Last opp fil "
+#~ "og import."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "Import <strong> innlegg, sider, kommentarer, egendefinerte felt, "
+#~ "kategorier og tags </ strong> fra en WordPress eksportfilen."

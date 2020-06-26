@@ -1,0 +1,7769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:39+0530\n"
+"PO-Revision-Date: 2017-02-01 14:39+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: Vibethemes <Vibethemes@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "در پاسخ به:"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "مشاهده رشته/لینک ثابت"
+
+# @ wplms_modern
+#: activity/entry.php:65
+msgid "View"
+msgstr "مشاهده"
+
+# @ wplms_modern
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "دیدگاه <span>%s</span>"
+
+# @ wplms_modern
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "علاقه مندی"
+
+# @ wplms_modern
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "حذف از علاقه مندی"
+
+# @ wplms_modern
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "ارسال"
+
+# @ wplms_modern
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "یا برای لغو دکمه esc را کلیک کنید."
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "فعالیت عمومی همه افراد در سایت"
+
+# @ wplms_modern
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "همه اعضاء <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "فقط فعالیت دوستان من."
+
+# @ wplms_modern
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "دوستان من <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "فعالیت گروه هایی که عضو هستم."
+
+# @ wplms_modern
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "گروه های من <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "فعالیت مورد علاقه من"
+
+# @ wplms_modern
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "علاقه مندی های من <span>%s</span>"
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "فعالیتی که در آن به من اشاره شده است."
+
+# @ wplms_modern
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "اشارات"
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "خوراک RSS"
+
+# @ wplms_modern
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr ""
+
+# @ wplms_modern
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "نمایش:"
+
+# @ wplms_modern
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "همه موارد"
+
+# @ wplms_modern
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "مطالب"
+
+# @ wplms_modern
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "ارسال ها"
+
+# @ wplms_modern
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+# @ wplms_modern
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "موضوعات انجمن"
+
+# @ wplms_modern
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "پاسخ های انجمن"
+
+# @ wplms_modern
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "گروه های خبری"
+
+# @ wplms_modern
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "عضویت های گروه"
+
+# @ wplms_modern
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "دوستی ها"
+
+# @ wplms_modern
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "اعضای جدید"
+
+# @ wplms_modern
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "دوره های استاد"
+
+# @ wplms_modern
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "هیج استادی پیدا نشد."
+
+# @ wplms_modern
+#: archive.php:3
+msgid "Permission denied"
+msgstr "دسترسی وجود ندارد"
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ wplms_modern
+#: author.php:18
+msgid "All posts by "
+msgstr "همه مطالب ارسال شده توسط "
+
+# @ wplms_modern
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "مشاهده همه مطالب در  %s"
+
+# @ wplms_modern
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+# @ wplms_modern
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "متاسفانه، سایتی پیدا نشد."
+
+# @ wplms_modern
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "فهرست سایت"
+
+# @ wplms_modern
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "ثبت نام در سایت در حال حاضر غیر فعال است."
+
+# @ wplms_modern
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "همه سایت ها <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "سایت های من <span>%s</span>"
+
+# @ wplms_modern
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "ایجاد یک سایت"
+
+# @ wplms_modern
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "به ترتیب: "
+
+# @ wplms_modern
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "اخیرا فعال بوده"
+
+# @ wplms_modern
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "جدیدترین"
+
+# @ wplms_modern
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "حروف الفبا"
+
+# @ wplms_modern
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr "کد نامعتبر گواهی پایان دوره"
+
+# @ wplms_modern
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "گواهی پایان دوره"
+
+# @ wplms_modern
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "اعطا شده به"
+
+# @ wplms_modern
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "برای اتمام موفقیت آمیز دوره"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ wplms_modern
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "نام"
+
+# @ wplms_modern
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "ایمیل"
+
+# @ wplms_modern
+#: comments.php:29
+msgid "Comment"
+msgstr "دیدگاه"
+
+# @ wplms_modern
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "وبسایت"
+
+# @ wplms_modern
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "ارسال نقد و بررسی"
+
+# @ wplms_modern
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "نقد و بررسی خود را بنویسید"
+
+# @ wplms_modern
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "نقد و بررسی دوره"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ wplms_modern
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "هیچ نقد و بررسی برای این دوره ثبت نشده است."
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ wplms_modern
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "بیشتر بخوانید"
+
+# @ wplms_modern
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "کمتر"
+
+# @ wplms_modern
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr " دانشجو ثبت نام کرده"
+
+# @ wplms_modern
+#: footer.php:19
+msgid "top"
+msgstr "بالا"
+
+# @ wplms_modern
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "موضوع"
+
+# @ wplms_modern
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "زمان"
+
+# @ wplms_modern
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "لینک ثابت به این مطلب"
+
+# @ wplms_modern
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "آغاز شده توسط  %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "در %1$s"
+
+# @ wplms_modern
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "متاسفانه، هیچ موضوع انجمنی پیدا نشد."
+
+# @ wplms_modern
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "فهرست انجمن ها"
+
+# @ wplms_modern
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "موضوع جدید"
+
+# @ wplms_modern
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "همه موضوع ها <span>%s</span>"
+
+# @ wplms_modern
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "موضوعات من <span>%s</span>"
+
+# @ wplms_modern
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "دارای بیشترین مطلب"
+
+# @ wplms_modern
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "بدون پاسخ"
+
+# @ wplms_modern
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "ایجاد موضوع جدید:"
+
+# @ wplms_modern
+#: forums/index.php:107
+msgid "Title:"
+msgstr "عنوان:"
+
+# @ wplms_modern
+#: forums/index.php:110
+msgid "Content:"
+msgstr "محتوا:"
+
+# @ wplms_modern
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "برچسب ها (جدا شده با کاما)"
+
+# @ wplms_modern
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "ارسال در انجمن گروه:"
+
+# @ wplms_modern
+#: forums/index.php:119
+msgid "----"
+msgstr ""
+
+# @ wplms_modern
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "ارسال موضوع"
+
+# @ wplms_modern
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "لغو"
+
+# @ wplms_modern
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"شما عضو هیچ گروهی نمی باشید. بنابرین در هیچ یک از انجمن های گروه ها نمی "
+"توانید مطلب ارسال کنید. برای ارسال مطلب ابتدا باید گروهی که در مورد موضوع "
+"مورد نظرتان است را پیدا کرده و عضوش شوید. در صورتیکه گروه مورد نظر شما وجود "
+"نداشت، <a href='%s'>یک گروه جدید ایجاد کنید</a> سپس شما قادر خواهید بود در "
+"انجمن های گروه، در مورد موضوعات دلخواه خود مطلب ارسال کنید."
+
+# @ wplms_modern
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "فقط اساتید قادر به ایجاد گروه می باشند."
+
+# @ wplms_modern
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "فقط مدیران قادر به ایجاد گروه می باشند."
+
+# @ wplms_modern
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "اسم گروه (اجباری)"
+
+# @ wplms_modern
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "توضیح گروه (اجباری)"
+
+# @ wplms_modern
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "تنظیمات حریم خصوصی"
+
+# @ wplms_modern
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "این یک گروه عمومی است"
+
+# @ wplms_modern
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "همه اعضای سایت می توانند به این گروه ملحق شوند."
+
+# @ wplms_modern
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "این گروه در فهرست گروه ها و نتایج جستجو، نمایش داده خواهد شد."
+
+# @ wplms_modern
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr "محتوا و فعالیت گروه برای همه اعضای سایت قابل مشاهده خواهد بود."
+
+# @ wplms_modern
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "این یک گروه خصوصی است"
+
+# @ wplms_modern
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"فقط کاربرانی که درخواست عضویت داده و پذیرفته شده اند، می توانند به گروه ملحق "
+"شوند."
+
+# @ wplms_modern
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "محتوا و فعالیت گروه، فقط برای اعضای گروه قابل مشاهده است."
+
+# @ wplms_modern
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "این یک گروه مخفی است"
+
+# @ wplms_modern
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "فقط کاربرانی که دعوت شده اند می توانند به گروه ملحق شوند."
+
+# @ wplms_modern
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "این گروه در فهرست گروه ها و نتایج جستجو، نمایش داده نخواهد شد."
+
+# @ wplms_modern
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "دعوتنامه های گروه"
+
+# @ wplms_modern
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "کدام یک از اعضای این گروه قادر به دعوت کردن دیگران باشند؟"
+
+# @ wplms_modern
+#: groups/create.php:107
+msgid "All group members"
+msgstr "همه اعضای گروه"
+
+# @ wplms_modern
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "فقط مدیران و ناظم های گروه"
+
+# @ wplms_modern
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "فقط مدیران گروه"
+
+# @ wplms_modern
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "انجمن های گروه"
+
+# @ wplms_modern
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "آیا این گروه باید یک انجمن داشته باشد؟"
+
+# @ wplms_modern
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "فعال سازی انجمن گفتگو"
+
+# @ wplms_modern
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>قابل توجه مدیر سایت:</strong> انجمن های گروه <a href=\"%s\">نیاز به "
+"نصب صحیح و پیکربندی </a> bbPress دارند."
+
+# @ wplms_modern
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"یک تصویر را برای استفاده به عنوان اواتار گروه آپلود کنید. این تصویر در صفحه "
+"اصلی گروه و همچنین نتایج جستجو نمایش داده خواهد شد."
+
+# @ wplms_modern
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+# @ wplms_modern
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "برای رد شدن از مرحله آپلود اواتار, دکمه \"مرحله بعد\" را کلیک کنید."
+
+# @ wplms_modern
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "برش تصویر اواتار"
+
+# @ wplms_modern
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "تصویر برای برش"
+
+# @ wplms_modern
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "پیش نمایش اواتار"
+
+# @ wplms_modern
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "بریدن تصویر"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ wplms_modern
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr ""
+"از لیست دوستان خود، افرادی را که می خواهید به گروه دعوت کنید را انتخاب "
+"نمائید."
+
+# @ wplms_modern
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "حذف دعوت"
+
+# @ wplms_modern
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"بعد از ایجاد رابطه های دوستی قادر به دعوت از دوستان به گروه خود خواهید بود."
+
+# @ wplms_modern
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "بازگشت به مرحله قبل"
+
+# @ wplms_modern
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "مرحله بعد"
+
+# @ wplms_modern
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "ایجاد گروه و ادامه"
+
+# @ wplms_modern
+#: groups/create.php:329
+msgid "Finish"
+msgstr "پایان"
+
+# @ wplms_modern
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "فعال  %s"
+
+# @ wplms_modern
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "ناظم ها"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ wplms_modern
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "برای جستجو کلیک کنید ..."
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ wplms_modern
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما منتظر تائید مدیریت است."
+
+# @ wplms_modern
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr "بررسی امنیتی شکست خورد. با مدیر تماس بگیرید."
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr "همه یادداشت ها، مباحث و گفتگو ها"
+
+# @ wplms_modern
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr "همه مباحث و گفتگو ها"
+
+# @ wplms_modern
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr "یادداشت های جلسه"
+
+# @ wplms_modern
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr "مباحث و گفتگو های جلسه"
+
+# @ wplms_modern
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr "مباحث و گفتگو های من"
+
+# @ wplms_modern
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr "یادداشت های من"
+
+# @ wplms_modern
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr "این صفحه تنها برای اعضاء قابل دسترسی است"
+
+# @ wplms_modern
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+"این صفحه تنها برای کاربران سایت قابل دسترسی است. برای مشاهده این محتوا لطفا "
+"در سایت ثبت نام کنید."
+
+# @ wplms_modern
+#: page-members.php:7
+msgid "Members only page"
+msgstr "صفحه تنها برای اعضاء"
+
+# @ wplms_modern
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "حساب کاربری فعال شد"
+
+# @ wplms_modern
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "فعالسازی حساب کاربری"
+
+# @ wplms_modern
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"حساب کاربری شما با موفقیت فعال شد! مشخصات حساب کاربریتان در ایمیلی جداگانه "
+"برایتان ارسال شده است."
+
+# @ wplms_modern
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"حساب کاربریتان با موفقیت فعال شد!  شما اکنون میتوانید با نام کاربری و رمز "
+"عبوری که ثبت نام کرده اید <a href=\"%s\"> وارد شوید </a>."
+
+# @ wplms_modern
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "لطفا یک کلید فعالسازی معتبر وارد کنید."
+
+# @ wplms_modern
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "کلید فعالسازی:"
+
+# @ wplms_modern
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "فعالسازی"
+
+# @ wplms_modern
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "ثبت نام کاربر در حال حاظر امکان پذیر نمی باشد."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "مشخصات حساب کاربری"
+
+# @ wplms_modern
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "نام کاربری"
+
+# @ wplms_modern
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(اجباری)"
+
+# @ wplms_modern
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+# @ wplms_modern
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "انتخاب یک رمز عبور"
+
+# @ wplms_modern
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "تائید رمز عبور"
+
+# @ wplms_modern
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "مشخصات پروفایل"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ wplms_modern
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "چه کسانی این فیلد را ببینند؟"
+
+# @ wplms_modern
+#: registration/register.php:211
+msgid "Close"
+msgstr "بستن"
+
+# @ wplms_modern
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "مشخصات بلاگ"
+
+# @ wplms_modern
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "بلی، مایل هستم یک سایت جدید ایجاد کنم"
+
+# @ wplms_modern
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "بلاگ URL"
+
+# @ wplms_modern
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "عنوان سایت"
+
+# @ wplms_modern
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"تمایل دارم سایت من در نتایج موتور های جستجو و همچنین در تمام لیست عموی سراسر "
+"این شبکه دیده شود."
+
+# @ wplms_modern
+#: registration/register.php:324
+msgid "Yes"
+msgstr "بلی"
+
+# @ wplms_modern
+#: registration/register.php:325
+msgid "No"
+msgstr "خیر"
+
+# @ wplms_modern
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"شما با موفقیت یک حساب کاربری جدید ایجاد کرده اید! برای استفاده از این سایت "
+"می بایست حساب کاربریتان را از طریق ایمیلی که هم اکنون برایتان ارسال شد، فعال "
+"نمائید."
+
+# @ wplms_modern
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"شما باموفقیت حساب کاربری خود را ایجاد کرده اید! لطفا با نام کاربری و رمزی "
+"خود وارد سایت شوید."
+
+# @ wplms_modern
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "نتایج جستجو برای \""
+
+# @ wplms_modern
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr "نتایج یافت شده"
+
+# @ wplms_modern
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "با عرض پوزش، هیچ نتیجه ای پیدا نشد."
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ wplms_modern
+#: single-course.php:38
+msgid "Home"
+msgstr "خانه"
+
+# @ wplms_modern
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "برنامه درسی"
+
+# @ wplms_modern
+#: single-course.php:40
+msgid "Members"
+msgstr "اعضاء"
+
+# @ wplms_modern
+#: single-course.php:48
+msgid "Group"
+msgstr "گروه"
+
+# @ wplms_modern
+#: single-course.php:55
+msgid "Forum"
+msgstr "انجمن"
+
+# @ wplms_modern
+#: single-course.php:60
+msgid "Admin"
+msgstr "مدیر"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ wplms_modern
+#: single-post.php:104
+msgid "Courses"
+msgstr "دوره ها"
+
+# @ wplms_modern
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "ادامه آزمون"
+
+# @ wplms_modern
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "مشاهده نتیجه آزمون"
+
+# @ wplms_modern
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "بازگشت به دوره"
+
+# @ wplms_modern
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "شروع آزمون"
+
+# @ wplms_modern
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "برای شروع آزمون؛ در یک دوره شرکت کنید"
+
+# @ wplms_modern
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "ضمائم"
+
+# @ wplms_modern
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "اگر سوالی دارید در انجمن های جلسه مطرح کنید"
+
+# @ wplms_modern
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr "مشاهده همه"
+
+# @ wplms_modern
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr "ویرایش"
+
+# @ wplms_modern
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr "عمومی شود"
+
+# @ wplms_modern
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr "خصوصی شود"
+
+# @ wplms_modern
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "پاسخ"
+
+# @ wplms_modern
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr "درخواست پاسخ استاد"
+
+# @ wplms_modern
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr "باز شدن در پاپ آپ"
+
+# @ wplms_modern
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "برداشتن"
+
+# @ wplms_modern
+#: single-unit.php:152
+msgid "Add a note"
+msgstr "افزودن یک یادداشت"
+
+# @ wplms_modern
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr "شما"
+
+# @ wplms_modern
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr "دیدگاه خود را وارد کنید"
+
+# @ wplms_modern
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "همه تکالیف ارسال شده"
+
+# @ wplms_modern
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "بالاترین نمره"
+
+# @ wplms_modern
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "دوره اشتباه. با مدیر سایت تماس بگیرید."
+
+# @ wplms_modern
+#: start.php:74
+msgid " Minutes"
+msgstr "دقیقه"
+
+# @ wplms_modern
+#: start.php:74
+msgid " seconds"
+msgstr "ثانیه"
+
+# @ wplms_modern
+#: start.php:76
+msgid " Hours"
+msgstr " ساعت"
+
+# @ wplms_modern
+#: start.php:76
+msgid " minutes"
+msgstr "دقیقه"
+
+# @ wplms_modern
+#: start.php:78
+msgid " Days"
+msgstr "روز"
+
+# @ wplms_modern
+#: start.php:78
+msgid " hours"
+msgstr "ساعت"
+
+# @ wplms_modern
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "برنامه درسی دوره تنظیم نشده است."
+
+# @ wplms_modern
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "برنامه درسی دوره تنظیم نشده"
+
+# @ wplms_modern
+#: start.php:137
+msgid "Start Course"
+msgstr "شروع دوره"
+
+# @ wplms_modern
+#: start.php:155
+msgid "Previous Quiz"
+msgstr "آزمون قبلی"
+
+# @ wplms_modern
+#: start.php:157
+msgid "Previous Unit"
+msgstr "جلسه قبلی"
+
+# @ wplms_modern
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr "مشاهده نتیجه"
+
+# @ wplms_modern
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "اتمام جلسه"
+
+# @ wplms_modern
+#: start.php:222
+msgid "Next Quiz"
+msgstr "آزمون بعدی"
+
+# @ wplms_modern
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "جلسه بعدی"
+
+# @ wplms_modern
+#: start.php:271
+msgid "Add a Note"
+msgstr "افزودن یک یادداشت"
+
+# @ wplms_modern
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "بازگشت به دوره"
+
+# @ wplms_modern
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "نقد و بررسی دوره"
+
+# @ wplms_modern
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "اتمام دوره"
+
+#  include the HTML <span>%s</span>
+# @ wplms_modern
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "همه دوره ها <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "دوره هایی که شرکت کرده ام <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "دوره هایی که تدریس کردم <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr "انتخاب ترتیب"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "جدیدا منتشر شده"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "دارای بیشترین عضو"
+
+# @ wplms_modern
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "بالاترین امتیاز"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "همه گروه ها <span>%s</span>"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "ایجاد یک گروه"
+
+# @ wplms_modern
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "جدیدا ایجاد شده"
+
+# @ wplms_modern
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "جدیدترین ثبت نام کرده ها"
+
+# @ wplms_modern
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "ورود"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ wplms_modern
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "رمز عبور"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "نتایج جستجو: &ldquo;%s&rdquo;"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; صفحه %s"
+
+# @ wplms_modern
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "هیچ محصولی که منطبق با انتخاب شما باشد پیدا نشد."
+
+# @ wplms_modern
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "دوره های موجود"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"برخی از اقلام در سبد خرید شما دارای مشکل می باشند (در بالا نشان داده شده). "
+"قبل از پرداخت، لطفا به صفحه سبد خرید بازگشته و مشکلات را برطرف کنید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "&rarr; بازگشت به سبد خرید"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "صدور صورتحساب &amp; ارسال"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "آدرس صورت حساب"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "برای پرداخت باید وارد شوید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "ادامه"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "سفارش شما"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "برای ادامه کلیک کنید"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "برای خروج و وارد شدن با یک کاربری متفاوت اینجا را کلیک کنید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "آیا مشتری بازگشتی هستید؟"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "برای ورود اینجا را کلیک کنید"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "مشتری بازگشتی"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+"درصورتیکه قبلا از ما خرید کرده اید، لطفا مشخصات خود را در زیر وارد کنید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "مشتری جدید"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "به عنوان مهمان ادامه دهید"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "با وارد کردن اطلاعات در زیر، یک حساب کاربری ایجاد کنید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "محصول"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "مجموع"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "سرجمع سبد خرید"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "کوپن:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "مجموع سفارش"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"با عرض پوزش، به نظر می رسد هیچ روش پرداختی برای محل شما وجود ندارد. لطفا "
+"برای راهنمایی یا تعیین قرار حضوری با ما تماس بگیرید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "پرداخت سفارش"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "به آدرس دیگری ارسال شود؟"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "اطلاعات بیشتر"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"برای مشاهده روش های پرداخت موجود، لطفا مشخصات خود را در بالا وارد کنید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"با عرض پوزش، به نظر می رسد که هیچ روش پرداختی برای استان شما وجود ندارد. در "
+"صورت نیاز به راهنمایی یا درخواست جلسه حضوری لطفا با ما تماس بگیرید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"چون مرورگر شما از جاوا اسکریپت پشتیبانی نمیکند و یا پشتیبانی آن غیر فعال "
+"شده، لطفا قبل ازسفارش مطمئن شوید که دکمه <em>بروزرسانی سر جمع</em> را کلیک "
+"کرده اید. "
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "بروز رسانی سرجمع"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "سفارش"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "من خوانده ام و قبول دارم"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "شرایط و قوانین"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"متاسفانه، سفارش شما به علت تائید نشدن از طرف بانک یا فروشنده، قادر به پردازش "
+"نمی باشد."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "لطفا مجددا اقدام به خرید کرده با به صفحه حساب کاربری خود بروید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "لطفا مجددا اقدام به خرید کنید."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "پرداخت"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "با تشکر از شما، سفارش شما دریافت شد."
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "سفارش:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "تاریخ:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "مجموع:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "روش پرداخت:"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "دوره گرفته شده برای "
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "اشتراک برای دوره کامل"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "دوره های شرکت کرده"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "دوره"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "اشتراک"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "شروع دوره"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "منتظر تایید برای شروع دوره"
+
+# @ wplms_modern
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "منتظر تائید مدیریت"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ wplms_modern
+#~ msgid "Save Answer"
+#~ msgstr "ذخیره پاسخ"
+
+# @ wplms_modern
+#~ msgid "Answer"
+#~ msgstr "پاسخ دهید"
+
+# @ wplms_modern
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "پاسخ های قبلی به این سوال"
+
+# @ wplms_modern
+#~ msgid "Clear Answer"
+#~ msgstr "پاک کردن پاسخ"
+
+# @ wplms_modern
+#~ msgid "Clear saved Answer"
+#~ msgstr "پاک کردن پاسخ ذخیره شده"
+
+# @ wplms_modern
+#~ msgid "Course Directory"
+#~ msgstr "فهرست دوره ها"
+
+# @ wplms_modern
+#~ msgid "All Courses by all instructors"
+#~ msgstr "همه دوره های ارائه شده توسط همه اساتید"
+
+# @ wplms_modern
+#~ msgid "You have not subscribed to any courses."
+#~ msgstr "شما در هیچ دوره ای شرکت نکرده اید."
+
+# @ wplms_modern
+#~ msgid "All Events in "
+#~ msgstr "همه رویدادهای "
+
+# @ wplms_modern
+#~ msgid "Answer Assignment"
+#~ msgstr "پاسخ به تکلیف"
+
+# @ wplms_modern
+#~ msgid "Assignment submitted !"
+#~ msgstr "تکلیف ارسال شد !"
+
+# @ wplms_modern
+#~ msgid "Submit Assignment"
+#~ msgstr "ارسال تکلیف"
+
+# @ wplms_modern
+#~ msgid "Upload Assignment"
+#~ msgstr "آپلود تکلیف"
+
+# @ wplms_modern
+#~ msgid "All Courses by "
+#~ msgstr "همه دوره های تدریس شده توسط "
+
+# @ wplms_modern
+#~ msgid "%s profile"
+#~ msgstr "پروفایل %s"
+
+# @ wplms_modern
+#~ msgid " Responses on "
+#~ msgstr " پاسخ به "
+
+# @ wplms_modern
+#~ msgid "Leave a Message"
+#~ msgstr "ارسال یک پیغام"
+
+# @ wplms_modern
+#~ msgid "Course specific instructions"
+#~ msgstr "دستورالعمل های ویژه دوره"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter a course completion message for students passing this course. This "
+#~ "message is shown to students when students submit their course. The "
+#~ "message is shown above the Course review form"
+#~ msgstr ""
+#~ "یک پیغام برای دانشجویانی که دوره را به پایان می رسانند، وارد کنید. این "
+#~ "پیغام زمانی که دانشجویان دوره را تمام کرد، بالای فرم نقد و بررسی دوره، "
+#~ "نمایش داده می شود."
+
+# @ wplms_modern
+#~ msgid "EDIT COURSE"
+#~ msgstr "ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "CREATE COURSE"
+#~ msgstr "ایجاد دوره"
+
+# @ wplms_modern
+#~ msgid "Start building a course"
+#~ msgstr "شروع به ساختن یک دوره"
+
+# @ wplms_modern
+#~ msgid "SETTINGS"
+#~ msgstr "تنظیمات"
+
+# @ wplms_modern
+#~ msgid "Course settings"
+#~ msgstr "تنظیمات دوره"
+
+# @ wplms_modern
+#~ msgid "SET CURRICULUM"
+#~ msgstr "تنظیم برنامه درسی"
+
+# @ wplms_modern
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "افزودن جلسات و آزمون ها"
+
+# @ wplms_modern
+#~ msgid "PRICING"
+#~ msgstr "قیمت گذاری"
+
+# @ wplms_modern
+#~ msgid "Set Price for Course"
+#~ msgstr "قیمت گذاری دوره"
+
+# @ wplms_modern
+#~ msgid "MODIFY COURSE"
+#~ msgstr "ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "Change Course status"
+#~ msgstr "تغییر وضعیت دوره"
+
+# @ wplms_modern
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "انتشار دوره"
+
+# @ wplms_modern
+#~ msgid "Go Live !"
+#~ msgstr "انتشار در سایت!"
+
+# @ wplms_modern
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "ویرایش در پنل مدیریت"
+
+# @ wplms_modern
+#~ msgid "COURSE TITLE"
+#~ msgstr "عنوان دوره"
+
+# @ wplms_modern
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "وارد کردن عنوان دوره"
+
+# @ wplms_modern
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "دسته بندی دوره"
+
+# @ wplms_modern
+#~ msgid "Select a Course Category"
+#~ msgstr "انتخاب یک دسته بندی دوره"
+
+# @ wplms_modern
+#~ msgid "Add new category"
+#~ msgstr "افزودن دسته بندی جدید"
+
+# @ wplms_modern
+#~ msgid "Enter a new Course Category"
+#~ msgstr "یک دسته بندی جدید وارد کنید"
+
+# @ wplms_modern
+#~ msgid "COURSE IMAGE"
+#~ msgstr "تصویر دوره"
+
+# @ wplms_modern
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "توضیحات دوره"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "یک توضیح کوتاه در کمتر از 30 کلمه برای دوره وارد کنید. برای ویرایش روی "
+#~ "متن کلیک کرده و \n"
+#~ " متن را پاک کنید. توضیحات کامل دوره بعدا افزوده خواهد شد."
+
+# @ wplms_modern
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "Linkage دوره"
+
+# @ wplms_modern
+#~ msgid "Select Linkage term"
+#~ msgstr "انتخاب عبارت Linkage"
+
+# @ wplms_modern
+#~ msgid "Add new Linkage term"
+#~ msgstr "افزودن عبارت Linkage جدید"
+
+# @ wplms_modern
+#~ msgid "Enter a new Linkage"
+#~ msgstr "افزودن یک Linkage جدید"
+
+# @ wplms_modern
+#~ msgid "Change Course Status"
+#~ msgstr " تغییر وضعیت دوره "
+
+# @ wplms_modern
+#~ msgid "Online"
+#~ msgstr "آنلاین"
+
+# @ wplms_modern
+#~ msgid "Offline"
+#~ msgstr "آفلاین"
+
+# @ wplms_modern
+#~ msgid "SAVE COURSE"
+#~ msgstr "ذخیره دوره"
+
+# @ wplms_modern
+#~ msgid "Course Settings"
+#~ msgstr "تنظیمات دوره"
+
+# @ wplms_modern
+#~ msgid "Course Duration"
+#~ msgstr "مدت زمان دوره"
+
+# @ wplms_modern
+#~ msgid "Maximum Course Duration"
+#~ msgstr "حداکثر مدت زمان دوره"
+
+# @ wplms_modern
+#~ msgid "Course Evaluation"
+#~ msgstr "ارزیابی دوره"
+
+# @ wplms_modern
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "نحوه ارزیابی دوره"
+
+# @ wplms_modern
+#~ msgid "Manual"
+#~ msgstr "دستی"
+
+# @ wplms_modern
+#~ msgid "Automatic"
+#~ msgstr "خودکار"
+
+# @ wplms_modern
+#~ msgid "Pre-required Course"
+#~ msgstr "دوره پیش نیاز"
+
+# @ wplms_modern
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "تنظیم یک دوره پیش نیاز"
+
+# @ wplms_modern
+#~ msgid "None"
+#~ msgstr "نامشخص"
+
+# @ wplms_modern
+#~ msgid "Drip Feed"
+#~ msgstr "قطره چکان"
+
+# @ wplms_modern
+#~ msgid "Disable"
+#~ msgstr "غیرفعال کردن"
+
+# @ wplms_modern
+#~ msgid "Enable"
+#~ msgstr "فعال کردن"
+
+# @ wplms_modern
+#~ msgid "Set Drip Feed Duration"
+#~ msgstr "تنظیم مدت زمان قطره چکان"
+
+# @ wplms_modern
+#~ msgid "Course Certificate"
+#~ msgstr "گواهی پایان دوره"
+
+# @ wplms_modern
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "تنظیم درصد نمره برای دریافت گواهی پایان دوره"
+
+# @ wplms_modern
+#~ msgid "out of 100"
+#~ msgstr "از 100"
+
+# @ wplms_modern
+#~ msgid "Set Certificate Template"
+#~ msgstr "تنظیم قالب گواهی پایان دوره"
+
+# @ wplms_modern
+#~ msgid "Default Template"
+#~ msgstr "قالب پیش فرض"
+
+# @ wplms_modern
+#~ msgid "Course Badge"
+#~ msgstr "نشان دوره"
+
+# @ wplms_modern
+#~ msgid "Set Badge Percentage"
+#~ msgstr "تنظیم درصد نمره برای کسب نشان دوره"
+
+# @ wplms_modern
+#~ msgid " out of 100"
+#~ msgstr "از 100"
+
+# @ wplms_modern
+#~ msgid "Set Badge Title"
+#~ msgstr "تنظیم عنوان نشان دوره"
+
+# @ wplms_modern
+#~ msgid "Upload Badge Image"
+#~ msgstr "آپلود تصویر نشان دوره"
+
+# @ wplms_modern
+#~ msgid "Student Seats"
+#~ msgstr "تعداد دانشجو"
+
+# @ wplms_modern
+#~ msgid "Number of seats in course"
+#~ msgstr "ظرفیت پذیرش دانشجو در دوره"
+
+# @ wplms_modern
+#~ msgid "Course Start Date"
+#~ msgstr "تاریخ آغاز دوره"
+
+# @ wplms_modern
+#~ msgid "Set Course Start Date"
+#~ msgstr "تنظیم تاریخ آغاز دوره"
+
+# @ wplms_modern
+#~ msgid "Coure Retakes"
+#~ msgstr "تعداد شرکت مجدد در دوره"
+
+# @ wplms_modern
+#~ msgid "Number of Student re-takes"
+#~ msgstr "تعداد شرکت های مجدد دانشجو در دوره"
+
+# @ wplms_modern
+#~ msgid "Course Group"
+#~ msgstr "گروه دوره"
+
+# @ wplms_modern
+#~ msgid "Connect a Course Group"
+#~ msgstr "اتصال گروه دروه"
+
+# @ wplms_modern
+#~ msgid "Add new Group"
+#~ msgstr "افزودن گروه جدید"
+
+# @ wplms_modern
+#~ msgid "Course Forum"
+#~ msgstr "انجمن دوره"
+
+# @ wplms_modern
+#~ msgid "Connect a Course Forum"
+#~ msgstr "اتصال یک انجمن"
+
+# @ wplms_modern
+#~ msgid "Connect the Group forum"
+#~ msgstr "اتصال انجمن گروه"
+
+# @ wplms_modern
+#~ msgid "Add new forum"
+#~ msgstr "افزودن انجمن جدید"
+
+# @ wplms_modern
+#~ msgid "Course Completion Message"
+#~ msgstr "پیغام اتمام دوره"
+
+# @ wplms_modern
+#~ msgid "Course Level"
+#~ msgstr "سطح دوره"
+
+# @ wplms_modern
+#~ msgid "Select a Course Level"
+#~ msgstr "انتخاب سطح دوره"
+
+# @ wplms_modern
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "ذخیره تنظیمات"
+
+# @ wplms_modern
+#~ msgid "Course Curriculum"
+#~ msgstr "برنامه درسی دوره"
+
+# @ wplms_modern
+#~ msgid "ADD SECTION"
+#~ msgstr "افزودن بخش"
+
+# @ wplms_modern
+#~ msgid "ADD UNIT"
+#~ msgstr "افزودن جلسه"
+
+# @ wplms_modern
+#~ msgid "ADD QUIZ"
+#~ msgstr "افزودن آزمون"
+
+# @ wplms_modern
+#~ msgid "Edit Unit"
+#~ msgstr "ویرایش جلسه"
+
+# @ wplms_modern
+#~ msgid "Preview"
+#~ msgstr "پیش نمایش"
+
+# @ wplms_modern
+#~ msgid "Delete"
+#~ msgstr "حذف"
+
+# @ wplms_modern
+#~ msgid "Edit Quiz"
+#~ msgstr "ویرایش آزمون"
+
+# @ wplms_modern
+#~ msgid "SELECT A UNIT"
+#~ msgstr "انتخاب یک جلسه"
+
+# @ wplms_modern
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "افزودن جلسه جدید"
+
+# @ wplms_modern
+#~ msgid "Add a unit title"
+#~ msgstr "افزودن یک عنوان جلسه"
+
+# @ wplms_modern
+#~ msgid "Publish"
+#~ msgstr "انتشار"
+
+# @ wplms_modern
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "انتخاب یک آزمون"
+
+# @ wplms_modern
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "افزودن آزمون جدید"
+
+# @ wplms_modern
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "ذخیره برنامه درسی"
+
+# @ wplms_modern
+#~ msgid "COURSE PRICING"
+#~ msgstr "قیمت گذاری دوره"
+
+# @ wplms_modern
+#~ msgid "Free Course"
+#~ msgstr "دوره رایگان"
+
+# @ wplms_modern
+#~ msgid "Set a Course Product"
+#~ msgstr "تنظیم محصول مرتبط با دوره"
+
+# @ wplms_modern
+#~ msgid "Select a Course Product"
+#~ msgstr "انتخاب محصول برای ارتباط با دوره"
+
+# @ wplms_modern
+#~ msgid "No Product"
+#~ msgstr "بدون محصول"
+
+# @ wplms_modern
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "افزودن محصول جدید"
+
+# @ wplms_modern
+#~ msgid "Set Product type"
+#~ msgstr "تعیین نوع محصول"
+
+# @ wplms_modern
+#~ msgid "Full Course"
+#~ msgstr "دوره کامل"
+
+# @ wplms_modern
+#~ msgid "Subscription"
+#~ msgstr "اشتراک"
+
+# @ wplms_modern
+#~ msgid "Set Product Price"
+#~ msgstr "تنظیم قیمت محصول"
+
+# @ wplms_modern
+#~ msgid "Set Subscription duration"
+#~ msgstr "تنظیم مدت زمان اشتراک"
+
+# @ wplms_modern
+#~ msgid "Set Course Memberships"
+#~ msgstr "تعیین عضویت های دوره"
+
+# @ wplms_modern
+#~ msgid "Save Course Pricing"
+#~ msgstr "ذخیره قیمت گذاری دوره"
+
+# @ wplms_modern
+#~ msgid "Modify Course"
+#~ msgstr "ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "Back to course"
+#~ msgstr "بازگشت به دوره"
+
+# @ wplms_modern
+#~ msgid "TAKE OFFLINE"
+#~ msgstr "شرکت به صورت آفلاین"
+
+# @ wplms_modern
+#~ msgid "DELETE COURSE"
+#~ msgstr "حذف دوره"
+
+# @ wplms_modern
+#~ msgid "SHOW OPTIONS"
+#~ msgstr "نمایش تنظیمات"
+
+# @ wplms_modern
+#~ msgid "Delete Units"
+#~ msgstr "حذف جلسات"
+
+# @ wplms_modern
+#~ msgid "Delete Quizzes"
+#~ msgstr "حذف آزمون ها"
+
+# @ wplms_modern
+#~ msgid "Delete Assignments"
+#~ msgstr "حذف تکالیف"
+
+# @ wplms_modern
+#~ msgid "Course not set"
+#~ msgstr "دوره تنظیم نشده"
+
+# @ wplms_modern
+#~ msgid "Go Live"
+#~ msgstr "انتشار در سایت"
+
+# @ wplms_modern
+#~ msgid "GO LIVE"
+#~ msgstr "انتشار در سایت"
+
+# @ wplms_modern
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "ارسال برای تائید"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Click on text to enter a Course title, delete the existing text in the "
+#~ "title"
+#~ msgstr ""
+#~ "برای وارد کردن عنوان دوره، روی متن موجود کلیک کرده و آن را پاک کنید."
+
+# @ wplms_modern
+#~ msgid "Select a Course Category, or Add a New one"
+#~ msgstr "انتخاب یک دسته بندی دوره یا افزودن یک دسته بندی جدید"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Select or upload a course image, this image is used as Course avatar."
+#~ msgstr ""
+#~ "انتخاب یا آپلود تصویر دوره، این تصویر به عنوان اواتار دوره استفاده می شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter a Short description about the course, the full description can be "
+#~ "added later on. Start by deleting the existing text in the title"
+#~ msgstr ""
+#~ "یک شرح کوتاه در مورد دوره وارد کنید. توضیحات کامل بعدا اضافه خواهد شد. "
+#~ "برای شروع، بر روی متن موجود در عنوان کلیک کرده و آن را پاک کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "Linkage تا حدود زیادی لیست های جلسه/آزمون/سوال لود شده در صفحه شما را "
+#~ "کاهش می دهد. هنگامی که یک عبارت Linkage انتخاب می شود، لیست های جلسات/"
+#~ "آزمون ها/سوالات، فقط مرتبط با همان عبارت پیوندی خواهند بود. درصورتیکه "
+#~ "دوره ای را ویرایش کردید، بعد از انتخاب یک عبارت Linkage ذخیره و رفرش کنید."
+
+# @ wplms_modern
+#~ msgid "A Offline Course is not visible to students in the course directory."
+#~ msgstr ""
+#~ "یک دوره آفلاین در فهرست دوره های سایت قرار نگرفته و برای دانشجویان، غیر "
+#~ "قابل مشاهده می باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter the maximum duration for the course in days. This is the maximum "
+#~ "duration within which the student should complete the course. Use 9999 "
+#~ "for unlimited access to course."
+#~ msgstr ""
+#~ "حداکثر مدت زمان دوره را به روز وارد کنید. این مدت زمانی است که دانشجو "
+#~ "باید در طول آن، دوره را به اتمام برساند. برای دسترسی نامحدود به دوره، عدد "
+#~ "9999 را وارد کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set Evaluation mode, Manual evaluation (from Course -> Admin ) or "
+#~ "Automatic  "
+#~ msgstr ""
+#~ "تنظیم نحوه ارزیابی دوره، ارزیابی دستی (از طریق دوره -> مدیریت) یا ارزیابی "
+#~ "خودکار"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr ""
+#~ "تنظیم یک دوره پیش نیاز. در صورتیکه برای این دوره، یک دوره پیش نیاز تنظیم "
+#~ "شود، دانشجو قبل از دسترسی به این دوره می بایست در دوره پیش نیاز آن شرکت "
+#~ "کرده و آن را به اتمام رسانیده باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enable Drip Feed course. Students see next lesson after x days. X is "
+#~ "Duration of Drip. "
+#~ msgstr ""
+#~ "فعال کردن حالت قطره چکانی دوره. دانشجویان بعد از x روز می توانند جلسه "
+#~ "بعدی را مشاهده کنند. X فاصله بین نمایش جلسات است."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "تنظیم گواهی پایان دوره. درصد نمره مورد نیاز برای دریافت گواهی پایان دوره "
+#~ "را وارد کنید. یک قالب گواهی پایان دوره را انتخاب کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a course Badge. Set percentage marks which a student should get to "
+#~ "get the course badge. Upload the Badge image."
+#~ msgstr ""
+#~ "تنظیم نشان دوره. درصد نمره مورد نیاز برای دریافت نشان دوره را وارد کنید. "
+#~ "تصویر نشان را آپلود کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set number of seats available for students to take the course. Once full "
+#~ "students can not join the course. Enter 9999 for unlimited seats."
+#~ msgstr ""
+#~ "تنظیم ظرفیت دوره. بعد از تکمیل ظرفیت، دانشجوی دیگری نمی تواند در دوره "
+#~ "شرکت کند. برای ظرفیت نامحدود 9999 را وارد کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join "
+#~ "the course on/after the start date."
+#~ msgstr ""
+#~ "تاریخ شروع دوره را تنظیم کنید. در صورت تنظیم به تاریخ یک نوشته، دانشجویان "
+#~ "تنها می توانند از آن تاریخ به بعد در دوره شرکت کنند."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Number of times a student can re-take this course. Student can retake "
+#~ "course after finishing it. 0 to disable."
+#~ msgstr ""
+#~ "تعداد دفعاتی که یک دانشجو می تواند در این دوره شرکت کند. دانشجو بعد از "
+#~ "اتمام دوره می تواند مجددا در دوره شرکت کند. برای غیرفعال کردن این قابلیت "
+#~ "0 را وارد کنید."
+
+# @ wplms_modern
+#~ msgid "Connect a Course Group OR Create a new one"
+#~ msgstr ""
+#~ "دوره را به یک گروه متصل کنید (شما می توانید یک گروه جدید ایجاد کرده و "
+#~ "دوره را به آن متصل کنید)"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Connect a Course forum Or Create a new one or Create a Course Group Forum"
+#~ msgstr ""
+#~ "دوره را به یک انجمن متصل کنید ( شما میتوانید یک انجمن جدید یا یک \"انجمن "
+#~ "گروه\" جدید ایجاد کرده و دوره را به آن متصل کنید)"
+
+# @ wplms_modern
+#~ msgid "Enter Course specific instructions for students to take this course."
+#~ msgstr ""
+#~ "دستورالعمل های ویژه دوره را برای نمایش به دانشجویانی که می خواهند در این "
+#~ "دوره شرکت کنند، وارد کنید."
+
+# @ wplms_modern
+#~ msgid "Enter message which student see after submitting the course."
+#~ msgstr "پیغامی را وارد کنید تا بعد از اتمام دوره به دانشجو نمایش داده شود."
+
+# @ wplms_modern
+#~ msgid "Select a level for the course."
+#~ msgstr "یک سطح برای دوره انتخاب کنید."
+
+# @ wplms_modern
+#~ msgid "Start building curriculum by adding Units, Quizzes and sections."
+#~ msgstr "با افزودن بخش ها، جلسات و آزمون ها شروع به ساختن برنامه درسی کنید."
+
+# @ wplms_modern
+#~ msgid "After adding a new unit or quiz, make sure you publish it"
+#~ msgstr ""
+#~ "بعد از افزودن یک جلسه یا آزمون جدید، منوی کشویی روبروی آن را باز کرده و "
+#~ "بر روی انتشار کلیک کنید"
+
+# @ wplms_modern
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "وقتی دکمه پایین صفحه به رنگ سبز شد، برنامه درسی را ذخیره کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Connect the course with a product. A product defines the pricing of a "
+#~ "course.<br /><br />a. Enter the Price of the product to set the price of "
+#~ "your course.<br />b. Select the type of product.<br /><br /> If product "
+#~ "is set to subscription mode, you need to set the subscription duration "
+#~ "for the product. <br />A student purchasing a Product with subscription "
+#~ "gets access for the course for the subscription duration.<br /> A student "
+#~ "purchasing a product without subscription gets access for the course for "
+#~ "full course duration as entered in course settings."
+#~ msgstr ""
+#~ "دوره را به یک محصول وصل کنید. یک محصول قیمت یک دوره را تعیین می کند. <br /"
+#~ "><br />الف. قیمت محصول را وارد کنید تا دوره شما قیمت دار شود.<br /> ب. "
+#~ "نوع محصول را انتخاب کنید <br /><br /> اگر محصول از نوع اشتراک زمانی باشد، "
+#~ "می بایست مدت زمان اشتراک دوره را تنظیم کنید. <br /> دانشجوئی که محصولی با "
+#~ "اشتراک زمانی را خریداری کند، تنها در مدت زمان تنظیم شده به آن دسترسی "
+#~ "خواهد داشت. <br /> دانشجوئی که دوره ای بدون اشتراک زمانی را خریداری کند "
+#~ "در تمام مدت زمان تنظیم شده در تنظیمات دوره به آن دسترسی خواهد داشت."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Go live with your course if \"Publish\" access is granted by "
+#~ "Administrator you course will be live as soon as you click on Go Live "
+#~ "button."
+#~ msgstr ""
+#~ "اگر دسترسی \"انتشار\" به مدیران داده شده باشد با کلیک کردن دکمه \"انتشار "
+#~ "در سایت\"، دوره شما در سایت نمایش داده خواهد شد."
+
+# @ wplms_modern
+#~ msgid "Create an account"
+#~ msgstr "ایجاد یک حساب کاربری"
+
+# @ wplms_modern
+#~ msgid "Sign Up"
+#~ msgstr "ثبت نام"
+
+# @ wplms_modern
+#~ msgid "This Page is only accessible to Instructors"
+#~ msgstr "این صفحه تنها در دسترس اساتید است."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The page is only accessible to site Users with Instructor or above "
+#~ "capabilites."
+#~ msgstr "این صفحه تنها برای کاربرانی با نقش استاد با بالاتر در دسترس است."
+
+# @ wplms_modern
+#~ msgid "Instructors only page"
+#~ msgstr "صفحه مخصوص اساتید"
+
+# @ wplms_modern
+#~ msgid "INSTRUCTORS"
+#~ msgstr "اساتید"
+
+# @ wplms_modern
+#~ msgid "Course Info"
+#~ msgstr "اطلاعات دوره"
+
+# @ wplms_modern
+#~ msgid "Back to Edit Course"
+#~ msgstr "بازگشت به ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "دعوت مجدد از دانشجویان"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATION"
+#~ msgstr "ارسال دعوتنامه"
+
+# @ wplms_modern
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "ارسال ایمیل یادآور "
+
+# @ wplms_modern
+#~ msgid "SUBJECT"
+#~ msgstr "موضوع"
+
+# @ wplms_modern
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "پیغام دعوت"
+
+# @ wplms_modern
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "ارسال دعوتنامه ها"
+
+# @ wplms_modern
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "پیغام یادآور"
+
+# @ wplms_modern
+#~ msgid "SEND REMINDER"
+#~ msgstr "ارسال یادآور"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr ""
+#~ "یادآورها به صورت ایمیل به دانشجویانی که دعوت به رویداد را پذیرفته اند، "
+#~ "ارسال شده اند."
+
+# @ wplms_modern
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "قبول دعوت"
+
+# @ wplms_modern
+#~ msgid "REJECT INVITE"
+#~ msgstr "رد دعوت"
+
+# @ wplms_modern
+#~ msgid "Event Location"
+#~ msgstr "محل رویداد"
+
+# @ wplms_modern
+#~ msgid "Course"
+#~ msgstr "دوره"
+
+# @ wplms_modern
+#~ msgid "A Section added by hook"
+#~ msgstr "یک بخش بوسیله یک hook افزوده شد"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr ""
+#~ "این بخش با افزودن یک فیلتر به آرایه بخش ها ایجاد شده و به child theme ها "
+#~ "این امکان را می دهد تا بخش هایی به تنظیمات اضافه یا حذف کنند."
+
+# @ wplms_modern
+#~ msgid "Folow me on Twitter"
+#~ msgstr "من را در توئیتر دنبال کنید"
+
+# @ wplms_modern
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "طرفدار ما در فیس بوک شوید"
+
+# @ wplms_modern
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "ما را در گوگل پلاس دنبال کنید"
+
+# @ wplms_modern
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "جدیدترین اخبار از VibeThemes"
+
+# @ wplms_modern
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr "پنل تنظیمات Vibe v 2.0"
+
+# @ wplms_modern
+#~ msgid "Support"
+#~ msgstr "پشتیبانی"
+
+# @ wplms_modern
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "ما از طریق سه رسانه پیشتیبانی ارائه می دهیم (به ترتیب اولویت)"
+
+# @ wplms_modern
+#~ msgid "Support Email: VibeThemes@gmail.com"
+#~ msgstr "ایمیل پشتیبانی :  VibeThemes@gmail.com"
+
+# @ wplms_modern
+#~ msgid "ThemeForest Item Comments"
+#~ msgstr "دیدگاه های ThemeForest "
+
+# @ wplms_modern
+#~ msgid "Documentation & Links"
+#~ msgstr "مستندات و لینک ها"
+
+# @ wplms_modern
+#~ msgid "Or email us at"
+#~ msgstr "یا به ما ایمیل بزنید "
+
+# @ wplms_modern
+#~ msgid "Getting Started"
+#~ msgstr "شروع"
+
+# @ wplms_modern
+#~ msgid "Welcome to "
+#~ msgstr "خوش آمدید به "
+
+# @ wplms_modern
+#~ msgid "See Theme documentation : "
+#~ msgstr "مشاهده مستندات پوسته : "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "افزونه های مورد نیاز برای اجرای این پوسته را نصب کنید : BuddyPress, Vibe "
+#~ "Course Module, Vibe Shortcodes, Vibe CustomTypes."
+
+# @ wplms_modern
+#~ msgid "Setup in One Click "
+#~ msgstr "نصب با یک کلیک"
+
+# @ wplms_modern
+#~ msgid "Setup WPLMS"
+#~ msgstr "نصب WPLMS"
+
+# @ wplms_modern
+#~ msgid "Other important setups. "
+#~ msgstr "نصب های مهم دیگر."
+
+# @ wplms_modern
+#~ msgid "Full Theme Guide"
+#~ msgstr "راهنمای کامل پوسته"
+
+# @ wplms_modern
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "چگونه بروزرسانی کنید؟ مواجهه با مشکلات هنگام بروزرسانی؟"
+
+# @ wplms_modern
+#~ msgid "Details required for Auto-Update"
+#~ msgstr "اطلاعات مورد نیاز برای بروزرسانی خودکار"
+
+# @ wplms_modern
+#~ msgid "Enter Your Themeforest Username"
+#~ msgstr "نام کاربری Themeforest  خود را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Required for Automatic Upgrades."
+#~ msgstr "برای بروزرسانی خودکار مورد نیاز است."
+
+# @ wplms_modern
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr "Themeforest API KEY خود را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr ""
+#~ "لطفا API Key خود را وارد کنید. برای بروز رسانی خودکار مورد نیاز است."
+
+# @ wplms_modern
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "API KEY چیست؟ از کجا میتوانم پیدا کنم؟"
+
+# @ wplms_modern
+#~ msgid "Header"
+#~ msgstr "سربرگ"
+
+# @ wplms_modern
+#~ msgid "Header settings"
+#~ msgstr "تنطیمات سربرگ"
+
+# @ wplms_modern
+#~ msgid "Upload Logo"
+#~ msgstr "آپلود لوگو"
+
+# @ wplms_modern
+#~ msgid "Upload your logo"
+#~ msgstr "لوگوی خود را آپلود کنید"
+
+# @ wplms_modern
+#~ msgid "This Logo is shown in header."
+#~ msgstr "این لوگو در سربرگ نمایش داده شده است."
+
+# @ wplms_modern
+#~ msgid "Upload Favicon"
+#~ msgstr "آپلود Favicon"
+
+# @ wplms_modern
+#~ msgid "Upload 16x16px Favicon"
+#~ msgstr "آپلود  16x16px Favicon"
+
+# @ wplms_modern
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "آپلود 16x16px Favicon."
+
+# @ wplms_modern
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "ثابت ماندن سربرگ بالا هنگام اسکرول"
+
+# @ wplms_modern
+#~ msgid "Fix header on top of screen"
+#~ msgstr "ثابت ماندن سربرگ در بالای صفحه نمایش"
+
+# @ wplms_modern
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr "سربرگ هنگام اسکرول به پایین کاربر، ثابت بماند"
+
+# @ wplms_modern
+#~ msgid "Static"
+#~ msgstr "ثابت"
+
+# @ wplms_modern
+#~ msgid "Fixed on Scroll"
+#~ msgstr "ثابت هنگام اسکرول"
+
+# @ wplms_modern
+#~ msgid "Navigation Search as Course Search"
+#~ msgstr "جستجوی فهرست به عنوان جستجوی دوره"
+
+# @ wplms_modern
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "محدود کردن جستجوی سربرگ به دوره ها"
+
+# @ wplms_modern
+#~ msgid "Sidebar Manager"
+#~ msgstr "مدیریت نوار کناری"
+
+# @ wplms_modern
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr ""
+#~ "نوارهای کناری بیشتری بصورت پویا ایجاد کرده و از آنها در طرح های مختلف "
+#~ "استفاده کنید"
+
+# @ wplms_modern
+#~ msgid "Create New sidebars "
+#~ msgstr "ایجاد نوارهای کناری جدید"
+
+# @ wplms_modern
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "ایجاد نوارهای کناری به صورت پویا"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use these sidebars in various layouts. DO NOT ADD ANY SPECIAL CHARACTERS "
+#~ "in Sidebar name"
+#~ msgstr ""
+#~ "از این نوارهای کناری در طرح های مختلف استفاده کنید. لطفا در نام نوارکناری "
+#~ "هیچ کاراکتر خاصی را وارد نکنید"
+
+# @ wplms_modern
+#~ msgid "All Events page Sidebar"
+#~ msgstr "نوار کناری صفحه همه رویدادها"
+
+# @ wplms_modern
+#~ msgid "Select All events page sidebar"
+#~ msgstr "انتخاب نوار کناری صفحه همه رویدادها"
+
+# @ wplms_modern
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "انتخاب یک نوار کناری برای صفحه همه رویدادها"
+
+# @ wplms_modern
+#~ msgid "Import/Export Sidebar settings "
+#~ msgstr "درون ریزی/برون ریزی تنظیمات نوار کناری"
+
+# @ wplms_modern
+#~ msgid "Import/Export sidebars settings"
+#~ msgstr "درون ریزی/برون ریزی تنظیمات نوارهای کناری"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use import/export functionality to import/export your Sidebar settings "
+#~ "like Widgets included in sidebars."
+#~ msgstr ""
+#~ "با استفاده از قابلیت درون ریزی/برون ریزی، تنظیمات نوار کناری خود را مانند "
+#~ "ابزارک های داخل نوارهای کناری درون ریزی/برون ریزی کنید."
+
+# @ wplms_modern
+#~ msgid "Import/Export Widget settings "
+#~ msgstr "درون ریزی/برون ریزی تنظیمات ابزارک"
+
+# @ wplms_modern
+#~ msgid "Import/Export widgets settings"
+#~ msgstr "درون ریزی/برون ریزی تنظیمات ابزارک ها"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use import/export functionality to import/export your widget settings."
+#~ msgstr ""
+#~ "با استفاده از قابلیت درون ریزی/برون ریزی، تنظیمات ابزارک خود را درون ریزی/"
+#~ "برون ریزی کنید."
+
+# @ wplms_modern
+#~ msgid "Buddypress"
+#~ msgstr "بادی پرس"
+
+# @ wplms_modern
+#~ msgid "BuddyPress settings and Variables"
+#~ msgstr "تنظیمات و متغیرهای بادی پرس"
+
+# @ wplms_modern
+#~ msgid "Upload BuddyPress Default avatar"
+#~ msgstr "آپلود اواتار پیش فرض بادی پرس"
+
+# @ wplms_modern
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "اواتار پیش فرض اعضای بادی پرس"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This avatar is shown for members who have not uploaded any custom avatar."
+#~ msgstr ""
+#~ "این اواتار برای اعضایی که هنوز اواتار شخصی خود را آپلود نکرده اند، نمایش "
+#~ "داده می شود."
+
+# @ wplms_modern
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "آیتم های بادی پرس در هر صفحه"
+
+# @ wplms_modern
+#~ msgid "number of items shown per page"
+#~ msgstr "تعداد آیتم ها در هر صفحه"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr ""
+#~ "تعداد آیتم های بادی پرس (دوره ها، اعضاء، گروه ها، انجمن ها، بلاگ ها و "
+#~ "غیره ...)"
+
+# @ wplms_modern
+#~ msgid "Show Members Meta info"
+#~ msgstr "نمایش Meta info اعضاء"
+
+# @ wplms_modern
+#~ msgid "Members meta-info is shown below the name"
+#~ msgstr "meta-info اعضاء در زیر نام آنها نمایش داده شده"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Members activity, Friendship , Message button is shown in Single & "
+#~ "members directory."
+#~ msgstr ""
+#~ "دکمه فعالیت کاربر، دوستی، پیغام در فهرست اعضا و صفحات تکی نمایش داده شده "
+#~ "است."
+
+# @ wplms_modern
+#~ msgid "All Members View"
+#~ msgstr "مشاهده همه اعضاء"
+
+# @ wplms_modern
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "صفحات همه اعضاء قابل مشاهده هستند توسط : "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "قابلیت مشاهده پروفایل : همه {کسانیکه لاگین نکرده اند}، اعضاء{اعضاء لاگین "
+#~ "کرده}، اساتید{اساتید، مدیران و ویرایشگران}"
+
+# @ wplms_modern
+#~ msgid "All"
+#~ msgstr "همه"
+
+# @ wplms_modern
+#~ msgid "Members only"
+#~ msgstr "فقط اعضاء"
+
+# @ wplms_modern
+#~ msgid "Teachers only"
+#~ msgstr "فقط اساتید"
+
+# @ wplms_modern
+#~ msgid "Admins only"
+#~ msgstr "فقط مدیران"
+
+# @ wplms_modern
+#~ msgid "Single Member Profile View"
+#~ msgstr "مشاهده پروفایل تکی عضو"
+
+# @ wplms_modern
+#~ msgid "Single members profile can be viewed by:"
+#~ msgstr "پروفایل تکی اعضاء قابل مشاهده است توسط : "
+
+# @ wplms_modern
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "صفحه هدایت هنگام عدم دسترسی به همه اعضاء"
+
+# @ wplms_modern
+#~ msgid "User is redirected to this page on error."
+#~ msgstr "هنگام بروز خطا، کاربر به این صفحه هدایت شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr "در صورت عدم دسترسی کاربر به مشاهده اعضاء، به این صفحه هدایت شود."
+
+# @ wplms_modern
+#~ msgid "Activity View"
+#~ msgstr "مشاهده فعالیت"
+
+# @ wplms_modern
+#~ msgid "Activity can be viewed by :"
+#~ msgstr "فعالیت قابل مشاهده است توسط :"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "قابلیت مشاهده فعالیت: همه {کاربرانی که لاگین نکرده اند}، اعضاء{اعضاء "
+#~ "لاگین کرده}، اساتید{اساتید، مدیران، ویرایشگران}"
+
+# @ wplms_modern
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "صفحه هدایت هنگام عدم دسترسی به فعالیت"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr "در صورت عدم دسترسی کاربر به مشاهده فعالیت، به این صفحه هدایت شود."
+
+# @ wplms_modern
+#~ msgid "Create Groups"
+#~ msgstr "ایجاد گروه ها"
+
+# @ wplms_modern
+#~ msgid "Groups can be created by :"
+#~ msgstr "گروه ها می توانند ایجاد شوند توسط :"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr ""
+#~ "ایجاد گروه: اعضاء{اعضای لاگین کرده}، اساتید{اساتید، مدیران، ویرایشگران}"
+
+# @ wplms_modern
+#~ msgid "Profile Activity Tab"
+#~ msgstr "تب فعالیت پروفایل"
+
+# @ wplms_modern
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "فعالیت پروفایل تکی قابل مشاهده اند توسط : "
+
+# @ wplms_modern
+#~ msgid "Profile Group View"
+#~ msgstr "مشاهده گروه پروفایل"
+
+# @ wplms_modern
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "گروه های پروفایل تکی قابل مشاهده اند توسط : "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "قابلست مشاهده گروه: همه {کسانی که لاگین نکرده اند}، اعضاء{اعضاء لاگین "
+#~ "کرده}، اساتید{اساتید، مدیران، ویرایشگران}"
+
+# @ wplms_modern
+#~ msgid "Profile Forums View"
+#~ msgstr "مشاهده انجمن های پروفایل"
+
+# @ wplms_modern
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "انجمن های تک پروفایلی قابل مشاهده هستند توسط :"
+
+# @ wplms_modern
+#~ msgid "Redirect Page on User Activation"
+#~ msgstr "صفحه هدایت در فعالسازی کاربر"
+
+# @ wplms_modern
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr "کاربر هنگام فعال کردن حساب کاربری خود به این صفحه هدایت شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr "بعد از ثبت نام و فعالسازی حساب کاربری، کاربر به این صفحه هدایت شود."
+
+# @ wplms_modern
+#~ msgid "Enable Join Group/Request Membership button"
+#~ msgstr "فعال کردن دکمه  پیوستن به گروه یا درخواست عضویت"
+
+# @ wplms_modern
+#~ msgid "Button is shown in Groups directory"
+#~ msgstr "دکمه در فهرست گروه ها نمایش داده شود"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr ""
+#~ "دکمه پیوستن به گروه برای گروه های عمومی و درخواست عضویت برای گروه های "
+#~ "خصوصی"
+
+# @ wplms_modern
+#~ msgid "Restrict Student activity view"
+#~ msgstr "محدود کردن نمایش فعالیت دانشجویی"
+
+# @ wplms_modern
+#~ msgid "Restrict student view of activity"
+#~ msgstr "محدود کردن مشاهده فعالیت برای دانشجو"
+
+# @ wplms_modern
+#~ msgid "Student can view only her activity"
+#~ msgstr "دانشجو تنها قادر به دیدن فعالیت های خود باشد"
+
+# @ wplms_modern
+#~ msgid "All Activity"
+#~ msgstr "همه فعالیت ها"
+
+# @ wplms_modern
+#~ msgid "Student Activity"
+#~ msgstr "فعالیت دانشجو"
+
+# @ wplms_modern
+#~ msgid "Student Field"
+#~ msgstr "فیلد دانشجو"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "نام فیلد دانشجو که در زیر نام نمایش داده می شود را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Instructor Field Group"
+#~ msgstr "گروه فیلد استاد"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "نام گروه فیلد استاد، که می خواهید از دید دانشجویان در پروفایل -> ویرایش "
+#~ "مخفی بماند را وارد کنید (* فیلد اجباری نیست و به بزرگی و کوچکی حروف حساس "
+#~ "نمی باشد)"
+
+# @ wplms_modern
+#~ msgid "Instructor Field"
+#~ msgstr "فیلد استاد"
+
+# @ wplms_modern
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr "نام فیلد استاد که در زیر نام نمایش داده  می شود را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Instructor Paypal Field"
+#~ msgstr "فیلد Paypal استاد"
+
+# @ wplms_modern
+#~ msgid "Enter \"Field Name\" for Instructor PayPal ID"
+#~ msgstr "وارد کردن \"Field Name\" برای شناسه PayPal  استاد"
+
+# @ wplms_modern
+#~ msgid "Instructor Description Field"
+#~ msgstr "فیلد توضیحات استاد"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr "توضیحات استاد در ابزارک استاد از این فیلد گرفته می شود"
+
+# @ wplms_modern
+#~ msgid "Course Manager"
+#~ msgstr "مدیریت دوره"
+
+# @ wplms_modern
+#~ msgid "Manage Course Options from here."
+#~ msgstr "تنظیمات دوره را از اینجا مدیریت کنید."
+
+# @ wplms_modern
+#~ msgid "Take This Course Page"
+#~ msgstr "صفحه شرکت در دوره"
+
+# @ wplms_modern
+#~ msgid "A Page with Start Course Page Template"
+#~ msgstr "یک صفحه با قالب صفحه شروع دوره"
+
+# @ wplms_modern
+#~ msgid "Connect Edit Course Page"
+#~ msgstr "اتصال صفحه ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "Notes & Discussion Page"
+#~ msgstr "صفحه یادداشت ها و مباحث"
+
+# @ wplms_modern
+#~ msgid "A Page with \"Notes & Discussion\" Page Template"
+#~ msgstr "یک صفحه با قالب \"Notes & Discussion\""
+
+# @ wplms_modern
+#~ msgid "Email page"
+#~ msgstr "صفحه ایمیل"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Connect page for \"View email in Borwser\" in emails, use page template "
+#~ "\"Email Page\""
+#~ msgstr ""
+#~ "اتصال صفحه برای \"مشاهده ایمیل در مرورگر\" در ایمیل ها، از قالب \"Email "
+#~ "Page\" استفاده کنید"
+
+# @ wplms_modern
+#~ msgid "Maintain accurate Student Count"
+#~ msgstr "شمارش صحیح دانشجویان"
+
+# @ wplms_modern
+#~ msgid "Maintains accurate student count for course"
+#~ msgstr "شمارش صحیح دانشجویان دوره"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The Number of Student in Course count gets verified everytime user visits "
+#~ "the Course - admin section"
+#~ msgstr ""
+#~ "تعداد شمارش دانشجویان در دوره با هر بار بازدید کاربر از بخش مدیریت دوره "
+#~ "تائید می شود."
+
+# @ wplms_modern
+#~ msgid "Admin Approval for Course"
+#~ msgstr "تائیدیه مدیریت برای دوره"
+
+# @ wplms_modern
+#~ msgid "Force instructors for Admin approval for new course"
+#~ msgstr "ملزم کردن اساتید به دریافت تائیدیه مدیریت برای دوره جدید"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr ""
+#~ "دوره های ایجاد شده توسط اساتید برای دریافت تائیدیه به مدیریت ارسال شوند."
+
+# @ wplms_modern
+#~ msgid "Yes, require approval"
+#~ msgstr "بلی، نیاز به تائید دارد"
+
+# @ wplms_modern
+#~ msgid "No, allow publish"
+#~ msgstr "خیر، اجازه انتشار داده شود"
+
+# @ wplms_modern
+#~ msgid "Unit Locking"
+#~ msgstr "قفل گذاری جلسه"
+
+# @ wplms_modern
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr "تنظیم دسترسی به جلسه های بعدی بر اساس وضعیت جلسه قبلی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "الزام کاربران به اتمام جلسات و ارزیابی آزمون های قبلی قبل از مشاهده جلسات "
+#~ "بعدی"
+
+# @ wplms_modern
+#~ msgid "Free Access"
+#~ msgstr "دسترسی رایگان"
+
+# @ wplms_modern
+#~ msgid "Force prev Unit/Quiz Complete"
+#~ msgstr "الزام یه تکمیل جلسه/آزمون قبلی"
+
+# @ wplms_modern
+#~ msgid "Unit Media Lock"
+#~ msgstr "قفل رسانه ای جلسه"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr ""
+#~ "دکمه اتمام جلسه تا قبل از دیدن/شنیدن کامل فایل های ویدئویی/تصویری، مخفی "
+#~ "بماند."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr ""
+#~ "الزام کاربران به دیدن/شنیدن فایل های ویدئویی/صوتی جلسات قبل از اتمام جلسه"
+
+# @ wplms_modern
+#~ msgid "Assignment Locking"
+#~ msgstr "قفل تکلیف"
+
+# @ wplms_modern
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr "الزام کاربران به انجام تکالیف قبل از اتمام جلسات"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr "دکمه اتمام جلسه تنها بعد از اتمام تکلیف جلسه توسط دانشجو ظاهر شود"
+
+# @ wplms_modern
+#~ msgid "Do not lock"
+#~ msgstr "قفل نشود"
+
+# @ wplms_modern
+#~ msgid "Lock Unit Completion"
+#~ msgstr "قفل تکمیل جلسه"
+
+# @ wplms_modern
+#~ msgid "Show Course Progressbar"
+#~ msgstr "نمایش نوار پیشرفت دوره"
+
+# @ wplms_modern
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "نمایش نوار پیشرفت دوره بالای جدول زمانی دوره"
+
+# @ wplms_modern
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "نوار پیشرفت دوره در صفحه برنامه درسی دوره نمایش داده شود"
+
+# @ wplms_modern
+#~ msgid "Instructors can Add Students"
+#~ msgstr "اساتید بتوانند دانشجو به دوره اضافه کنند"
+
+# @ wplms_modern
+#~ msgid "Enable Instructors to be able to add students"
+#~ msgstr "قادر ساختن اساتید به افزودن دانشجو به دوره"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr ""
+#~ "اساتید از طریق عملیات گروهی افزوده شده به  \"دوره -> مدیر -> اعضاء\" قادر "
+#~ "به افزودن دانشجویان به دوره می باشند"
+
+# @ wplms_modern
+#~ msgid "Instructors can Manage Student Course status "
+#~ msgstr "اساتید می توانند وضعیت دوره دانشجویان را مدیریت کنند."
+
+# @ wplms_modern
+#~ msgid "Enable Instructors to be change Students course status"
+#~ msgstr "قادر ساختن اساتید به تغییر وضعیت دوره دانشجویان"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to manage students course status in the course"
+#~ msgstr ""
+#~ "عملیات گروهی افزوده شده به دوره -> مدیریت -> اعضاء اساتید را قادر ساخته "
+#~ "تا وضعیت دوره دانشجویان را در دوره مدیریت کنند."
+
+# @ wplms_modern
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr ""
+#~ "اساتید بتوانند گواهی پایان دوره و نشان دوره به دانشجو داده یا از او باز "
+#~ "پس گیرند."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr ""
+#~ "قادر ساختن اساتید به اعطاء گواهی پایان دوره و نشان دوره به دانشجویان"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "اساتید با استفاده از عملیات گروهی افزوده شده در \"دوره -> مدیر -> اعضاء "
+#~ "\" قادر به اعطاء گواهی پایان دوره و نشان دوره به دانشجویان  می باشند"
+
+# @ wplms_modern
+#~ msgid "Instructors can Extend subscription"
+#~ msgstr "اساتید قادر به تمدید اشتراک می باشند"
+
+# @ wplms_modern
+#~ msgid "Enable Instructors to extend subscriptions of Students"
+#~ msgstr "قادر ساختن اساتید به تمدید اشتراک دانشجویان"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to extend subscriptions of Students for the course"
+#~ msgstr ""
+#~ "اساتید با استفاده از عملیات گروهی افزوده شده در  \"دوره -> مدیر -> اعضاء"
+#~ "\" قادر به تمدید زمان اشتراک دانشجویان در دوره می باشند"
+
+# @ wplms_modern
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "الزام استاد به حفظ حریم شخصی محتوا"
+
+# @ wplms_modern
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr "انتخاب جعبه های نمایش جلسات/آزمون ها/سوالات استاد"
+
+# @ wplms_modern
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr "اساتید قادر به دیدن عناوین بوده ولی نمیتوانند محتوا را باز کنند"
+
+# @ wplms_modern
+#~ msgid "Leaderboard/Stats Visibility"
+#~ msgstr "سطح مشاهده Leaderboard/آمار"
+
+# @ wplms_modern
+#~ msgid "Stats & Leaderboard visible to"
+#~ msgstr "آمار و Leaderboard قابل مشاهده باشد برای"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Stats displaying average, maxmium, minimum and top 10 students for a "
+#~ "module"
+#~ msgstr ""
+#~ "آمار میانگین، حداکثر، حداقل و 10 دانشجوی برتر یک ماژول را نمایش می دهد."
+
+# @ wplms_modern
+#~ msgid "Students"
+#~ msgstr "دانشجو"
+
+# @ wplms_modern
+#~ msgid "All Instructors"
+#~ msgstr "همه اساتید"
+
+# @ wplms_modern
+#~ msgid "Module Instructor & Administrators"
+#~ msgstr "ماژول اساتید و مدیران"
+
+# @ wplms_modern
+#~ msgid "Become an Instructor Page"
+#~ msgstr "صفحه درخواست تدریس"
+
+# @ wplms_modern
+#~ msgid "A Page with become a teacher form."
+#~ msgstr "یک صفحه با فرم درخواست تدریس."
+
+# @ wplms_modern
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "صفحه گواهی پایان دوره یدکی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr ""
+#~ "یک صفحه با قالب صفحه گواهی پایان دوره، یدکی برای دوره های فاقد گواهی "
+#~ "پایان دوره"
+
+# @ wplms_modern
+#~ msgid "Course default avatar"
+#~ msgstr "اواتار پیش فرض دوره"
+
+# @ wplms_modern
+#~ msgid "Default avatar for courses"
+#~ msgstr "اواتار پیش فرض برای دوره ها"
+
+# @ wplms_modern
+#~ msgid "This avatar is shown for courses which do not have any avatar"
+#~ msgstr "این اواتار برای دوره های بدون اواتار نشان داده می شود"
+
+# @ wplms_modern
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "انواع سوال با ارزیابی خودکار "
+
+# @ wplms_modern
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "سوالاتی که به صورت خودکار ارزیابی خواهند شد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+#~ msgstr ""
+#~ "این نوع سوالات در هر آزمونی که استفاده شوند، بصورت خودکار ارزیابی خواهند "
+#~ "شد."
+
+# @ wplms_modern
+#~ msgid "True False"
+#~ msgstr "درست غلط"
+
+# @ wplms_modern
+#~ msgid "Multiple Choice"
+#~ msgstr "چند گزینه ای"
+
+# @ wplms_modern
+#~ msgid "Multiple Correct"
+#~ msgstr "چند پاسخ صحیح"
+
+# @ wplms_modern
+#~ msgid "Sort Answer Question"
+#~ msgstr "مرتب کردن بر اساس پاسخ به سوال"
+
+# @ wplms_modern
+#~ msgid "Match Answers"
+#~ msgstr "پاسخ های منطبق"
+
+# @ wplms_modern
+#~ msgid "Dropdown select"
+#~ msgstr "انتخاب از منوی کشویی"
+
+# @ wplms_modern
+#~ msgid "Fill in the Blank"
+#~ msgstr "جای خالی را پر کنید"
+
+# @ wplms_modern
+#~ msgid "Small Text Answer"
+#~ msgstr "جواب با متن کوتاه"
+
+# @ wplms_modern
+#~ msgid "Hide Courses from Directory"
+#~ msgstr "پنهان کردن دوره ها از دایرکتوری"
+
+# @ wplms_modern
+#~ msgid "Hide courses from directory & pages, only accessible via direct link"
+#~ msgstr ""
+#~ "پنهان کردن دوره ها از صفحات و دایرکتوری. دسترسی تنها از طریق لینک مستقیم"
+
+# @ wplms_modern
+#~ msgid "Course Duration parameter"
+#~ msgstr "پارامتر مدت زمان"
+
+# @ wplms_modern
+#~ msgid "Set course duration parameter"
+#~ msgstr "تنظیم مدت زمان دوره"
+
+# @ wplms_modern
+#~ msgid "Course duration parameter for display purpose"
+#~ msgstr "پارامتر نمایشی مدت زمان دوره"
+
+# @ wplms_modern
+#~ msgid "Seconds"
+#~ msgstr "ثانیه"
+
+# @ wplms_modern
+#~ msgid "Minutes"
+#~ msgstr "دقیقه"
+
+# @ wplms_modern
+#~ msgid "Hours"
+#~ msgstr "ساعت"
+
+# @ wplms_modern
+#~ msgid "Days"
+#~ msgstr "روز"
+
+# @ wplms_modern
+#~ msgid "Weeks"
+#~ msgstr "هفته"
+
+# @ wplms_modern
+#~ msgid "Months"
+#~ msgstr "ماه"
+
+# @ wplms_modern
+#~ msgid "Years"
+#~ msgstr "سال"
+
+# @ wplms_modern
+#~ msgid "Finished Course Access"
+#~ msgstr "دسترسی به دوره های تمام شده"
+
+# @ wplms_modern
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "به دانشجویان اجازه مشاهده دوره های به اتمام رسیده داده شود"
+
+# @ wplms_modern
+#~ msgid "Make finished courses secure area viewable to students"
+#~ msgstr "منطقه امن دوره های تمام شده برای دانشجویان قابل مشاهده شود."
+
+# @ wplms_modern
+#~ msgid "Notes and Discussion styles"
+#~ msgstr "استایل مباحث و گفتگو ها"
+
+# @ wplms_modern
+#~ msgid "Set style for Notes & Discussion template"
+#~ msgstr "تنظیم استایل برای قالب یادداشت ها، مباحث و گفتگو ها"
+
+# @ wplms_modern
+#~ msgid "Display notes & Discussions"
+#~ msgstr "نمایش یادداشت ها، مباحث و گفتگو ها"
+
+# @ wplms_modern
+#~ msgid "Per paragraph in Unit"
+#~ msgstr "هر پاراگراف در جلسه"
+
+# @ wplms_modern
+#~ msgid "Per Unit"
+#~ msgstr "هر جلسه"
+
+# @ wplms_modern
+#~ msgid "Display News"
+#~ msgstr "نمایش اخبار"
+
+# @ wplms_modern
+#~ msgid "Display News section in courses"
+#~ msgstr "نمایش بخش اخبار در دوره ها"
+
+# @ wplms_modern
+#~ msgid "Enable Levels"
+#~ msgstr "فعال سازی سطوح"
+
+# @ wplms_modern
+#~ msgid "Enables Level taxonomy"
+#~ msgstr "تاکسونومی سطح را فعال می کند"
+
+# @ wplms_modern
+#~ msgid "Enable Linkage"
+#~ msgstr "فعال سازی Linkage"
+
+# @ wplms_modern
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr "اتصال دوره، جلسات، آزمون و سوالات با استفاده از تاکسونومی linkage"
+
+# @ wplms_modern
+#~ msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+#~ msgstr ""
+#~ "کوتاه کردن لیست جلسات، آزمونها و دوره های نمایش داده شده در منوی های کشویی"
+
+# @ wplms_modern
+#~ msgid "Fonts Manager"
+#~ msgstr "مدیریت فونت ها"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+#~ msgstr ""
+#~ "فونت های استفاده شده در سایت را مدیریت کنید. فونت های انتخاب شده در اینجا "
+#~ "در گزینه های انتخاب فونت سفارشی سازی پوسته قرار خواهند گرفت."
+
+# @ wplms_modern
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "انتخاب فونت برای ویرایش گر پوسته"
+
+# @ wplms_modern
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "انتخاب و نصب فونت در ویرایشگر"
+
+# @ wplms_modern
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "از این طرح های نمونه در صفحه ساز استفاده کنید."
+
+# @ wplms_modern
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "فونت های دلخواه (CSS Font Family را وارد کنید("
+
+# @ wplms_modern
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr "فونت های دلخواه به لیست فونت های سفارشی ساز پوسته افزوده شدند."
+
+# @ wplms_modern
+#~ msgid "Customizer"
+#~ msgstr "سفارشی سازی"
+
+# @ wplms_modern
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "درون ریزی/برون ریزی تنظیمات سفارشی . پوسته خود را سفارشی کنید با "
+
+# @ wplms_modern
+#~ msgid "WP Theme Customizer"
+#~ msgstr "سفارشی سازی پوسته WP "
+
+# @ wplms_modern
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "ورود/صدور تنظیمات سفارشی "
+
+# @ wplms_modern
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "درون ریزی/برون ریزی تنظیمات سفارشی "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr ""
+#~ "از امکان درون ریزی/برون ریزی برای درون ریزی/برون ریزی تنظیمات سفارشی "
+#~ "استفاده کنید."
+
+# @ wplms_modern
+#~ msgid "PageBuilder Manager"
+#~ msgstr "مدیریت صفحه ساز"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr ""
+#~ "مدیریت طرح های ذخیره شده صفحه ساز و درون ریزی/برون ریزی طرح های ذخیره شده "
+#~ "صفحه ساز"
+
+# @ wplms_modern
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "مدیریت طرح های نمونه"
+
+# @ wplms_modern
+#~ msgid "Delete Sample Layouts"
+#~ msgstr "پاک کردن طرح های نمونه"
+
+# @ wplms_modern
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "درون ریزی/برون ریزی طرح های نمونه"
+
+# @ wplms_modern
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "درون ریزی/برون ریزی طرح های موجود"
+
+# @ wplms_modern
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "از امکان درون ریزی/برون ریزی برای ذخیره طرح های خود استفاده کنید."
+
+# @ wplms_modern
+#~ msgid "Footer "
+#~ msgstr "پابرگ"
+
+# @ wplms_modern
+#~ msgid "Setup footer settings"
+#~ msgstr "نصب تنظیمات پابرگ"
+
+# @ wplms_modern
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "ستون های نوار کناری پابرگ بالایی"
+
+# @ wplms_modern
+#~ msgid "Footer Columns"
+#~ msgstr "ستون های پابرگ"
+
+# @ wplms_modern
+#~ msgid "Four Columns"
+#~ msgstr "چهار ستونه"
+
+# @ wplms_modern
+#~ msgid "Three Columns"
+#~ msgstr "سه ستونه"
+
+# @ wplms_modern
+#~ msgid "Two Columns"
+#~ msgstr "دو ستونه"
+
+# @ wplms_modern
+#~ msgid "One Columns"
+#~ msgstr "تک ستونه"
+
+# @ wplms_modern
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "ستون های نوار کناری پابرگ پایینی"
+
+# @ wplms_modern
+#~ msgid "Copyright Text"
+#~ msgstr "متن کپی رایت"
+
+# @ wplms_modern
+#~ msgid "Enter copyrighted text"
+#~ msgstr "متن کپی رایت را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Also supports shotcodes."
+#~ msgstr "از کدهای کوتاه نیز پشتیبانی میکند."
+
+# @ wplms_modern
+#~ msgid "Footer Bottom"
+#~ msgstr "پابرگ پایینی"
+
+# @ wplms_modern
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "انتخاب یک گزینه برای پابرگ پایینی"
+
+# @ wplms_modern
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr ""
+#~ "انتخاب استایل پابرگ پایین، تنظیم لینک آیکون های اجتماعی در تب اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Show Footer Menu"
+#~ msgstr "نمایش فهرست پابرگ"
+
+# @ wplms_modern
+#~ msgid "Show Social Icons"
+#~ msgstr "نمایش آیکون های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Google Analytics Code"
+#~ msgstr "کد Google Analytics"
+
+# @ wplms_modern
+#~ msgid "Google Analytics account"
+#~ msgstr "حساب کاربری Google Analytics"
+
+# @ wplms_modern
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "لطفا کد کامل را با تگ های جاوا اسکریپ وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Social Information"
+#~ msgstr "اطلاعات شبکه های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "All Social media settings"
+#~ msgstr "همه تنظیمات شبکه اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Add Social Media Icons "
+#~ msgstr "افزودن آیکون های شبکه های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "افزودن آیکون های اجتماعی بصورت پویا"
+
+# @ wplms_modern
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "آدرس کامل شبکه اجتماعی خود را وارد کنید."
+
+# @ wplms_modern
+#~ msgid "Social Icons Type"
+#~ msgstr "نوع آیکون های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Social Icons Theme"
+#~ msgstr "پوسته آیکون های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Minimal"
+#~ msgstr "حداقل"
+
+# @ wplms_modern
+#~ msgid "Round"
+#~ msgstr "گوشه های گرد"
+
+# @ wplms_modern
+#~ msgid "Square"
+#~ msgstr "چهارگوش"
+
+# @ wplms_modern
+#~ msgid "Round Colored"
+#~ msgstr "گوشه های گرد رنگی"
+
+# @ wplms_modern
+#~ msgid "Square Colored"
+#~ msgstr "چهارگوش رنگی"
+
+# @ wplms_modern
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "نمایش تول تیپ Tooltip روی آیکون های شبکه های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Social Sharing buttons"
+#~ msgstr "دکمه های اشتراک گذاری در شبکه های اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "نمایش دکمه های اشتراک گذاری خود پوسته"
+
+# @ wplms_modern
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr " افزودن دکمه های اشتراک گذاری در شبکه های اجتماعی به دوره های تکی."
+
+# @ wplms_modern
+#~ msgid "TinCan and LRS settings for WPLMS"
+#~ msgstr "تنظیمات LRS و TinCan برای WPLMS"
+
+# @ wplms_modern
+#~ msgid "Enable TinCan recording"
+#~ msgstr "فعالسازی ضبط TinCan "
+
+# @ wplms_modern
+#~ msgid "Record TinCan/XAPI statements in External LRS"
+#~ msgstr "ضبط حالات TinCan/XAPI در LRS خارجی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+#~ msgstr ""
+#~ "ذخیره همه فعالیت ها در یک LRS خارجی، تا LMS های سازگار با XAPI دیگر قادر "
+#~ "به خواندن آن باشند."
+
+# @ wplms_modern
+#~ msgid "Add a TinCan API endpoint"
+#~ msgstr "افزودن یک TinCan API endpoint"
+
+# @ wplms_modern
+#~ msgid "Add Endpoint to track details in external LRS."
+#~ msgstr "افزودن Endpoint به ردیابی اطلاعات در LRS خارجی."
+
+# @ wplms_modern
+#~ msgid "LRS User name"
+#~ msgstr "نام کاربری LRS "
+
+# @ wplms_modern
+#~ msgid "TinCan compatible LRS authentication"
+#~ msgstr "اعتبارسنجی LRS سازگار با TinCan"
+
+# @ wplms_modern
+#~ msgid "Enter Username for external LRS authentication."
+#~ msgstr "نام کاربری خود را برای اعتبارسنجی LRS خارجی وارد کنید"
+
+# @ wplms_modern
+#~ msgid "LRS Password"
+#~ msgstr "رمزعبور LRS "
+
+# @ wplms_modern
+#~ msgid "Enter Password for external LRS authentication."
+#~ msgstr "وارد کردن رمز عبور برای تعیین هویت LRS خارجی."
+
+# @ wplms_modern
+#~ msgid "Miscellaneous"
+#~ msgstr "متفرقه"
+
+# @ wplms_modern
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "تنظیمات متفرقه استفاده شده در پوسته."
+
+# @ wplms_modern
+#~ msgid "Theme Layout"
+#~ msgstr "طرح پوسته"
+
+# @ wplms_modern
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "پیکربندی طرح پوسته"
+
+# @ wplms_modern
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "انتخاب از بین طرح های از پیش تعریف شده پوسته"
+
+# @ wplms_modern
+#~ msgid "Wide"
+#~ msgstr "عریض"
+
+# @ wplms_modern
+#~ msgid "Boxed"
+#~ msgstr "جعبه ای "
+
+# @ wplms_modern
+#~ msgid "Unique Security Key"
+#~ msgstr "کلید امنیتی یکتا"
+
+# @ wplms_modern
+#~ msgid "Security key for every site. Longer keys are good"
+#~ msgstr "کلید امنیتی برای همه سایت ها. بهتر است از کلیدهای بلند استفاده شود."
+
+# @ wplms_modern
+#~ msgid "Unique key to avoid (logged in) users from bypassing the system."
+#~ msgstr ""
+#~ "کلید یکتا برای جلوگیری از bypass شدن سیستم توسط کاربران (لاگین کرده)"
+
+# @ wplms_modern
+#~ msgid "Default Excerpt Length"
+#~ msgstr "طول پیش فرض چکیده"
+
+# @ wplms_modern
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "طول چکیده به تعداد کلمات."
+
+# @ wplms_modern
+#~ msgid "Default Instructor Commission"
+#~ msgstr "کمیسیون پیش فرض استاد"
+
+# @ wplms_modern
+#~ msgid "Insructor commission per sale of course/product (enter 0 to disable)"
+#~ msgstr "کمیسیون استاد برای هر فروش دوره/محصول (0 برای غیرفعال کردن)"
+
+# @ wplms_modern
+#~ msgid "Direct Checkout"
+#~ msgstr "پرداخت مستقیم"
+
+# @ wplms_modern
+#~ msgid "Requires WooCommerce installed"
+#~ msgstr "نیاز به نصب  WooCommerce  میباشد"
+
+# @ wplms_modern
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "کاربر به صفحه پرداخت هدایت شود."
+
+# @ wplms_modern
+#~ msgid "Skip Product & Cart page"
+#~ msgstr "رد شدن از صفحه محصول و سبد خرید"
+
+# @ wplms_modern
+#~ msgid "Skip Product page"
+#~ msgstr "رد شدن از صفحه محصول"
+
+# @ wplms_modern
+#~ msgid "Skip Cart"
+#~ msgstr "رد شدن از سبد خرید"
+
+# @ wplms_modern
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "هدایت به صفحه دوره بعد از تکمیل سفارش"
+
+# @ wplms_modern
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "تنها در صورتیکه سفارش دارای یک محصول تک دوره ای باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+#~ msgstr ""
+#~ "در صورتیکه ملزم به پرداخت مستقیم هستید و محصولات شما هر کدام دارای تنها "
+#~ "یک دوره بودند، روشن کردن این گزینه باعث هدایت مستقیم کاربر به صفحه دوره "
+#~ "میشود."
+
+# @ wplms_modern
+#~ msgid "Force complete orders"
+#~ msgstr "اجبار به تکمیل سفارش ها"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr ""
+#~ "همه سفارشات محصولات مجازی WooCommerce  تنها با رسیدن به صفحه تشکر تکمیل "
+#~ "شوند."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "همه سفارشات پرداخت شده: همه سفارشاتی که تنها دارای محصولات مجازی بوده و "
+#~ "پرداختشان کامل شده، همه سفارشات شکست نخورده: همه سفارشات در حال پردازش، "
+#~ "در انتظار، سفارشات منتظر در صفحه تشکر کامل خواهند شد."
+
+# @ wplms_modern
+#~ msgid "All Paid Orders"
+#~ msgstr "همه سفارشات پرداخت شده"
+
+# @ wplms_modern
+#~ msgid "All Non-Fail Orders"
+#~ msgstr "همه سفارشات شکست نخورده"
+
+# @ wplms_modern
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "حذف فیلدهای اضافی پرداخت"
+
+# @ wplms_modern
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "در صورتیکه شما فقط دوره یا محصولات مجازی می فروشید، توصیه می شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+#~ msgstr ""
+#~ "حذف فیلدهای روبرو در صفحه پرداخت ووکامرس: شرکت/آدرس صورتحساب، شهر/استان، "
+#~ "پین کد، تلفن و غیره."
+
+# @ wplms_modern
+#~ msgid "Cache Duration"
+#~ msgstr "مدت زمان کش"
+
+# @ wplms_modern
+#~ msgid "in seconds (0 to disable)"
+#~ msgstr "به ثانیه (0 برای غیر فعال کردن)"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Small cache duration could impact adversely. High for stable websites."
+#~ msgstr ""
+#~ "مدت زمان کش کوتاه می تواند تاثیر منفی داشته باشد. مقدار بالا برای سایت "
+#~ "های باثبات"
+
+# @ wplms_modern
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "مقادیر طول و عرض جغرافیایی صفحه تماس"
+
+# @ wplms_modern
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "گرفتن مقادیر طول و عرض جغرافیایی از."
+
+# @ wplms_modern
+#~ msgid "Link"
+#~ msgstr "پیوند"
+
+# @ wplms_modern
+#~ msgid "Contact Page Map Style"
+#~ msgstr "استایل نقشه صفحه تماس"
+
+# @ wplms_modern
+#~ msgid "Select the map style on contact page."
+#~ msgstr "انتخاب استایل نقشه در صفحه تماس."
+
+# @ wplms_modern
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "ناحیه محتوا، کانتینری ست که در آن همه محتوا قرار گرفته است."
+
+# @ wplms_modern
+#~ msgid "Satellite View"
+#~ msgstr "نمایش ماهواره ای"
+
+# @ wplms_modern
+#~ msgid "Road map"
+#~ msgstr "نقشه راه"
+
+# @ wplms_modern
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "سطح بزرگنمایی Google maps"
+
+# @ wplms_modern
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "انتخاب سطح بزرگنمایی در Google maps"
+
+# @ wplms_modern
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "سطح بزرگنمایی 0-19"
+
+# @ wplms_modern
+#~ msgid "Select 404 Page"
+#~ msgstr "انتخاب صفحه 404"
+
+# @ wplms_modern
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr "وقتی صفحه ای در شایت شما پیدا نشد، این صفحه نمایش داده شود."
+
+# @ wplms_modern
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr "زمانی که صفحه مورد نظر کاربر پیدا نشد، به این صفحه هدایت شود."
+
+# @ wplms_modern
+#~ msgid "Disable XMLRPC/RSD/WLWManifest"
+#~ msgstr "غیرفعال کردن XMLRPC/RSD/WLWManifest"
+
+# @ wplms_modern
+#~ msgid "Remove security vulnerabilities"
+#~ msgstr "حذف آسیب پذیری های امنیتی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Removes vulnerabilities at expense of ability to login via remote apps."
+#~ msgstr ""
+#~ "حذف آسیب پذیری ها در قبال امکان لاگین کردن از طریق برنامه های خارجی."
+
+# @ wplms_modern
+#~ msgid "Custom CSS for WP Login Screen"
+#~ msgstr "CSS سفارشی برای صفحه ورود WP"
+
+# @ wplms_modern
+#~ msgid "Add custom CSS"
+#~ msgstr "افزودن CSS سفارشی"
+
+# @ wplms_modern
+#~ msgid "Custom CSS for WP Login screen."
+#~ msgstr "CSS سفارشی برای صفحه ورود WP."
+
+# @ wplms_modern
+#~ msgid "Author & Credits"
+#~ msgstr "نویسنده و اعتبار"
+
+# @ wplms_modern
+#~ msgid "Credits and Author of the Website"
+#~ msgstr "اعتبار و نویسنده این سایت"
+
+# @ wplms_modern
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr "تغییرات اشاره به نویسنده {VibeThemes}"
+
+# @ wplms_modern
+#~ msgid "Theme Information"
+#~ msgstr "اطلاعات پوسته"
+
+# @ wplms_modern
+#~ msgid "Please enter some content to post."
+#~ msgstr "لطفا مطلب خود را بنویسید"
+
+# @ wplms_modern
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "مشکلی در ارسال مطلب شما وجود دارد، لطفا دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "لطفا فضای نوشتن دیدگاه را خالی نگذارید."
+
+# @ wplms_modern
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr "مشکلی در ارسال پاسخ وجود داشت، لطفا دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "مشکلی در حذف وجود داشت. لطفا دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s قبلا برای عضویت در این گروه درخواست داده است. ارسال یک دعوتنامه ایشان "
+#~ "را بصورت خودکار عضو گروه خواهد کرد."
+
+# @ wplms_modern
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "دوستی نمی تواند لغو شود."
+
+# @ wplms_modern
+#~ msgid "Add Friend"
+#~ msgstr "افزودن دوست"
+
+# @ wplms_modern
+#~ msgid " Friendship could not be requested."
+#~ msgstr " درخواست دوستی نمی تواند ارسال شود."
+
+# @ wplms_modern
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "لغو درخواست دوستی"
+
+# @ wplms_modern
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "درخواست دوستی نمی تواند لغو شود."
+
+# @ wplms_modern
+#~ msgid "Request Pending"
+#~ msgstr "درخواست در حال انتظار"
+
+# @ wplms_modern
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr "مشکلی در پذیرفتن درخواست وجود داشت. لطفا دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr "مشکلی در رد درخواست وجود داشت. لطفا دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid "Error joining group"
+#~ msgstr "خطا در پیوستن به گروه"
+
+# @ wplms_modern
+#~ msgid "Leave Group"
+#~ msgstr "ترک گروه"
+
+# @ wplms_modern
+#~ msgid "Error requesting membership"
+#~ msgstr "خطا در درخواست عضویت"
+
+# @ wplms_modern
+#~ msgid "Membership Requested"
+#~ msgstr "درخواست عضویت شد"
+
+# @ wplms_modern
+#~ msgid "Error leaving group"
+#~ msgstr "خطا در ترک گروه"
+
+# @ wplms_modern
+#~ msgid "Join Group"
+#~ msgstr "پیوستن به گروه"
+
+# @ wplms_modern
+#~ msgid "Request Membership"
+#~ msgstr "درخواست عضویت"
+
+# @ wplms_modern
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "مشکلی در بستن اعلان وجود داشت."
+
+# @ wplms_modern
+#~ msgid "Sent %s"
+#~ msgstr "ارسال شده %s"
+
+# @ wplms_modern
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr "مشکلی در ارسال پاسخ وجود داشت. لطفا دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "مشکلی در علامت دار کردن پیغام ها به عنوان خوانده نشده وجود داشت."
+
+# @ wplms_modern
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "مشکلی در علامت دار کردن پیغام ها به عنوان خوانده شده وجود داشت."
+
+# @ wplms_modern
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "مشکلی در حذف پیغام ها وجود داشت."
+
+# @ wplms_modern
+#~ msgid "Messages deleted."
+#~ msgstr "پیغام های حذف شدند."
+
+# @ wplms_modern
+#~ msgid "Load More"
+#~ msgstr "بارگذاری بیشتر"
+
+# @ wplms_modern
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr "متاسفانه، هیچ فعالیتی پیدا نشد. لطفا فیلتر متفاوتی را امتحان کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> پاسخ داد به <a href=\"%3$s\" class=\"activity-"
+#~ "time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+# @ wplms_modern
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "در %s, %s چه خبر؟"
+
+# @ wplms_modern
+#~ msgid "What's new, %s?"
+#~ msgstr "در %s چه خبر؟"
+
+# @ wplms_modern
+#~ msgid "Post Update"
+#~ msgstr "ارسال مطلب"
+
+# @ wplms_modern
+#~ msgid "Post in"
+#~ msgstr "ارسال در"
+
+# @ wplms_modern
+#~ msgid "My Profile"
+#~ msgstr "پروفایل من"
+
+# @ wplms_modern
+#~ msgid "You have not created any Course."
+#~ msgstr "شما هنوز دوره ای ایجاد نکرده اید."
+
+# @ wplms_modern
+#~ msgid "Submissions"
+#~ msgstr "ارسال ها"
+
+# @ wplms_modern
+#~ msgid "Activity"
+#~ msgstr "فعالیت"
+
+# @ wplms_modern
+#~ msgid "Stats"
+#~ msgstr "آمار"
+
+# @ wplms_modern
+#~ msgid "Total number of Students in course"
+#~ msgstr "تعداد کل دانشجویان دوره"
+
+# @ wplms_modern
+#~ msgid "Students Currently taking this course"
+#~ msgstr "دانشجویان حال حاضر دوره"
+
+# @ wplms_modern
+#~ msgid "Reset Course for User"
+#~ msgstr "بازنشانی دوره برای کاربر"
+
+# @ wplms_modern
+#~ msgid "See Course stats for User"
+#~ msgstr "نمایش آمار دوره برای کاربر"
+
+# @ wplms_modern
+#~ msgid "See User Activity in Course"
+#~ msgstr "مشاهده فعالیت کاربر در دوره"
+
+# @ wplms_modern
+#~ msgid "Remove User from this Course"
+#~ msgstr "حذف کاربر از این دوره"
+
+# @ wplms_modern
+#~ msgid "No Students found."
+#~ msgstr "هیچ دانشجویی پیدا نشد."
+
+# @ wplms_modern
+#~ msgid "BULK ACTIONS"
+#~ msgstr "عملیات گروهی"
+
+# @ wplms_modern
+#~ msgid "Instructors"
+#~ msgstr "اساتید"
+
+# @ wplms_modern
+#~ msgid "FREE"
+#~ msgstr "رایگان"
+
+# @ wplms_modern
+#~ msgid "minutes"
+#~ msgstr "دقیقه"
+
+# @ wplms_modern
+#~ msgid "Events"
+#~ msgstr "رویدادها"
+
+# @ wplms_modern
+#~ msgid "Course Forums"
+#~ msgstr "انجمن های دوره"
+
+# @ wplms_modern
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "تعداد کل دانشجویانی که در این دوره شرکت کرده اند"
+
+# @ wplms_modern
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "میانگین درصد به دست آمده توسط دانشجویان"
+
+# @ wplms_modern
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "تعداد دانشجویانی که یک نشان دوره گرفته اند"
+
+# @ wplms_modern
+#~ msgid "Number of Passed Students"
+#~ msgstr "تعداد دانشجویان پاس شده"
+
+# @ wplms_modern
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "میانگین نمرات به دست آمده توسط دانشجویان"
+
+# @ wplms_modern
+#~ msgid "No curriculum defined"
+#~ msgstr "هیچ برنامه درسی تعریف نشده است"
+
+# @ wplms_modern
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "میانگین نمرات در آزمون "
+
+# @ wplms_modern
+#~ msgid "Calculate :"
+#~ msgstr "محاسبه :"
+
+# @ wplms_modern
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "محاسبه آمار دوره"
+
+# @ wplms_modern
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "ارسال های تکلیف"
+
+# @ wplms_modern
+#~ msgid "Reset Assignment for User"
+#~ msgstr "بازنشانی تکلیف برای کاربر"
+
+# @ wplms_modern
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "ارزیابی تکلیف : "
+
+# @ wplms_modern
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "ارسال های آزمون"
+
+# @ wplms_modern
+#~ msgid "Reset Quiz for User"
+#~ msgstr "بازنشانی آزمون برای کاربر"
+
+# @ wplms_modern
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "ارزیابی آزمون برای کاربر"
+
+# @ wplms_modern
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "ارسال های دوره"
+
+# @ wplms_modern
+#~ msgid "Evaluate Course for User"
+#~ msgstr "ارزیابی دوره برای کاربر"
+
+# @ wplms_modern
+#~ msgid "Groups Directory"
+#~ msgstr "فهرست گروه ها"
+
+# @ wplms_modern
+#~ msgid "There were no groups found."
+#~ msgstr "گروهی پیدا نشد."
+
+# @ wplms_modern
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "آگاه کردن اعضای گروه از این تغییرات بوسیله ایمیل"
+
+# @ wplms_modern
+#~ msgid "Save Changes"
+#~ msgstr "ذخیره تغییرات"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "درصورت تمایل به حذف اواتار موجود و عدم آپلود تصویر جدید به جای آن، از "
+#~ "دکمه حذف اواتار استفاده کنید."
+
+# @ wplms_modern
+#~ msgid "Delete Avatar"
+#~ msgstr "حذف اواتار"
+
+# @ wplms_modern
+#~ msgid "Crop Avatar"
+#~ msgstr "برش اواتار"
+
+# @ wplms_modern
+#~ msgid "Administrators"
+#~ msgstr "مدیران"
+
+# @ wplms_modern
+#~ msgid "Profile picture of %s"
+#~ msgstr "تصویر پروفایل %s"
+
+# @ wplms_modern
+#~ msgid "Demote to Member"
+#~ msgstr "تنزل به عضو"
+
+# @ wplms_modern
+#~ msgid "Promote to Admin"
+#~ msgstr "ارتقاء به مدیر"
+
+# @ wplms_modern
+#~ msgid "(banned)"
+#~ msgstr "(ممنوع شده)"
+
+# @ wplms_modern
+#~ msgid "Unban this member"
+#~ msgstr "لغو ممنوعیت عضو"
+
+# @ wplms_modern
+#~ msgid "Remove Ban"
+#~ msgstr "لغو ممنوعیت"
+
+# @ wplms_modern
+#~ msgid "Kick and ban this member"
+#~ msgstr "خارج و ممنوع کردن این کاربر"
+
+# @ wplms_modern
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "خارج و ممنوع کردن"
+
+# @ wplms_modern
+#~ msgid "Promote to Mod"
+#~ msgstr "ارتقاء به ناظم"
+
+# @ wplms_modern
+#~ msgid "Remove this member"
+#~ msgstr "حذف این عضو"
+
+# @ wplms_modern
+#~ msgid "Remove from group"
+#~ msgstr "حذف از گروه"
+
+# @ wplms_modern
+#~ msgid "This group has no members."
+#~ msgstr "این گروه هیچ عضوی ندارد."
+
+# @ wplms_modern
+#~ msgid "Accept"
+#~ msgstr "پذیرفتن"
+
+# @ wplms_modern
+#~ msgid "Reject"
+#~ msgstr "رد کردن"
+
+# @ wplms_modern
+#~ msgid "There are no pending membership requests."
+#~ msgstr "هیچ درخواست دوستی در حال انتظاری وجود ندارد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "هشدار : با حذف این گروه، همه محتوای مرتبط با آن نیز حذف شده و غیرقابل "
+#~ "بازیابی خواهند بود. لطفا دقت کنید."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "من از پیامدهای حذف این گروه آگاهی دارم."
+
+# @ wplms_modern
+#~ msgid "Delete Group"
+#~ msgstr "حذف گروه"
+
+# @ wplms_modern
+#~ msgid "Forum Directory"
+#~ msgstr "فهرست انجمن"
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr "شما با شروع یک موضوع جدید، به صورت اتوماتیک عضو این گروه خواهید شد."
+
+# @ wplms_modern
+#~ msgid "Post a New Topic:"
+#~ msgstr "ارسال یک موضوع جدید:"
+
+# @ wplms_modern
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "شما درخواست عضویت در گروه  '%s'  را دارید."
+
+# @ wplms_modern
+#~ msgid "Comments (optional)"
+#~ msgstr "دیدگاه ها (اختیاری)"
+
+# @ wplms_modern
+#~ msgid "Send Request"
+#~ msgstr "ارسال درخواست"
+
+# @ wplms_modern
+#~ msgid "Send Invites"
+#~ msgstr "ارسال دعوتنامه ها"
+
+# @ wplms_modern
+#~ msgid "Edit:"
+#~ msgstr "ویرایش:"
+
+# @ wplms_modern
+#~ msgid "This topic does not exist."
+#~ msgstr "این موضوع وجود ندارد."
+
+# @ wplms_modern
+#~ msgid "New Reply"
+#~ msgstr "پاسخ جدید"
+
+# @ wplms_modern
+#~ msgid "Topic tags:"
+#~ msgstr "برچسب های موضوع:"
+
+# @ wplms_modern
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s به %2$s گفته: "
+
+# @ wplms_modern
+#~ msgid "There are no posts for this topic."
+#~ msgstr "مطلبی برای این موضوع وجود ندارد."
+
+# @ wplms_modern
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr "شما با پاسخ دادن به این موضوع، بصورت خودکار عضو گروه خواهید شد."
+
+# @ wplms_modern
+#~ msgid "Add a reply:"
+#~ msgstr "افزودن یک پاسخ:"
+
+# @ wplms_modern
+#~ msgid "Post Reply"
+#~ msgstr "ارسال پاسخ"
+
+# @ wplms_modern
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "این موضوع بسته شده، پاسخ ها دیگر پذیرفته نخواهند شد."
+
+# @ wplms_modern
+#~ msgid "Badges"
+#~ msgstr "نشان های دوره"
+
+# @ wplms_modern
+#~ msgid "Certifications"
+#~ msgstr "گواهی های پایان دوره"
+
+# @ wplms_modern
+#~ msgid "Check all Courses created by "
+#~ msgstr "بررسی همه دوره های ایجاد شده توسط "
+
+# @ wplms_modern
+#~ msgid "Course "
+#~ msgstr "دوره"
+
+# @ wplms_modern
+#~ msgid "Author Social profile information"
+#~ msgstr "اطلاعات پروفایل اجتماعی نویسنده"
+
+# @ wplms_modern
+#~ msgid "Add Social Information"
+#~ msgstr "افزودن اطلاعات اجتماعی"
+
+# @ wplms_modern
+#~ msgid "Enter URL for social icon."
+#~ msgstr "URL را برای آیکون اجتماعی وارد کنید."
+
+# @ wplms_modern
+#~ msgid "Share on "
+#~ msgstr "به اشتراک گذاشته شده در "
+
+# @ wplms_modern
+#~ msgid "Status"
+#~ msgstr "وضعیت"
+
+# @ wplms_modern
+#~ msgid "User ID"
+#~ msgstr "شناسه کاربر"
+
+# @ wplms_modern
+#~ msgid "Last Logged in on "
+#~ msgstr "آخرین لاگین در "
+
+# @ wplms_modern
+#~ msgid "ID"
+#~ msgstr "شناسه"
+
+# @ wplms_modern
+#~ msgid "Course Categories"
+#~ msgstr "دسته بندی های دوره"
+
+# @ wplms_modern
+#~ msgid "Course Category"
+#~ msgstr "دسته بندی دوره"
+
+# @ wplms_modern
+#~ msgid "Quiz type"
+#~ msgstr "نوع آزمون"
+
+# @ wplms_modern
+#~ msgid "Levels"
+#~ msgstr "سطوح"
+
+# @ wplms_modern
+#~ msgid "Level"
+#~ msgstr "سطح"
+
+# @ wplms_modern
+#~ msgid "SEATS"
+#~ msgstr "ظرفیت"
+
+# @ wplms_modern
+#~ msgid "SEATS LEFT"
+#~ msgstr "ظرفیت باقیمانده"
+
+# @ wplms_modern
+#~ msgid "Discussion"
+#~ msgstr "بحث و گفتگو"
+
+# @ wplms_modern
+#~ msgid "Manage"
+#~ msgstr "مدیریت"
+
+# @ wplms_modern
+#~ msgid "Load more (<span>%s</span>)"
+#~ msgstr "بارگذاری بیشتر (<span>%s</span>)"
+
+# @ wplms_modern
+#~ msgid "Ask Question"
+#~ msgstr "پرسیدن سوال"
+
+# @ wplms_modern
+#~ msgid "Post Question"
+#~ msgstr "ارسال سوال"
+
+# @ wplms_modern
+#~ msgid "%1$s ago"
+#~ msgstr "%1$s پیش"
+
+# @ wplms_modern
+#~ msgid "REPLY"
+#~ msgstr "پاسخ"
+
+# @ wplms_modern
+#~ msgid "COURSE STARTS IN "
+#~ msgstr "شروع دوره در "
+
+# @ wplms_modern
+#~ msgid "STARTS IN "
+#~ msgstr "شروع در "
+
+# @ wplms_modern
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "دسترسی نامحدود"
+
+# @ wplms_modern
+#~ msgid "Become an Instructor"
+#~ msgstr "تدریس کنید"
+
+# @ wplms_modern
+#~ msgid "UNLIMITED TIME"
+#~ msgstr "زمان نامحدود"
+
+# @ wplms_modern
+#~ msgid "COURSE : "
+#~ msgstr "دوره:"
+
+# @ wplms_modern
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr "قبل از اتمام جلسه، باید تکلیف جلسه انجام شود"
+
+# @ wplms_modern
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr ""
+#~ "قبل از اتمام این جلسه، باید فایل های صوتی/ویدئویی جلسه بصورت کامل شنیده "
+#~ "یا دیده شوند."
+
+# @ wplms_modern
+#~ msgid "Setup Menus"
+#~ msgstr "منوهای نصب"
+
+# @ wplms_modern
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr "موقع حذف دانشجو از دوره ها، مشکلی بوجود آمده است"
+
+# @ wplms_modern
+#~ msgid "TAKE THIS COURSE"
+#~ msgstr "شرکت در دوره"
+
+# @ wplms_modern
+#~ msgid "Page"
+#~ msgstr "صفحه"
+
+# @ wplms_modern
+#~ msgid "of"
+#~ msgstr "از"
+
+# @ wplms_modern
+#~ msgid "First"
+#~ msgstr "اولین"
+
+# @ wplms_modern
+#~ msgid "Previous"
+#~ msgstr "قبلی"
+
+# @ wplms_modern
+#~ msgid "Next"
+#~ msgstr "بعدی"
+
+# @ wplms_modern
+#~ msgid "Last"
+#~ msgstr "آخرین"
+
+# @ wplms_modern
+#~ msgid "Attachment"
+#~ msgstr "ضمیمه"
+
+# @ wplms_modern
+#~ msgid "Requires completion of course : "
+#~ msgstr "نیازمند اتمام دوره : "
+
+# @ wplms_modern
+#~ msgid "All seats in course are full "
+#~ msgstr "ظرفیت دوره تکمیل شده اشت"
+
+# @ wplms_modern
+#~ msgid "Requested resource is not accessible "
+#~ msgstr "منبع درخواست شده در دسترس نیست"
+
+# @ wplms_modern
+#~ msgid " LOGIN"
+#~ msgstr "ورود"
+
+# @ wplms_modern
+#~ msgid " REGISTER NOW"
+#~ msgstr "ثبت نام کنید"
+
+# @ wplms_modern
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "برای شرکت در این دوره می بایست در سایت لاگین کرده باشید"
+
+# @ wplms_modern
+#~ msgid "Add Students to Course"
+#~ msgstr "افزودن دانشجویان به دوره"
+
+# @ wplms_modern
+#~ msgid "Assign Badges/Certificates to Students"
+#~ msgstr "اعطای گواهی پایان دوره/نشان دوره به دانشجویان"
+
+# @ wplms_modern
+#~ msgid "Extend Subscription"
+#~ msgstr "تمدید اشتراک"
+
+# @ wplms_modern
+#~ msgid "Security check failed !"
+#~ msgstr "بررسی امنیتی شکست خورد!"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "There was issue in retaking this course for the user. Please contact "
+#~ "admin."
+#~ msgstr ""
+#~ "مشکی در شرکت مجدد دانشجو در این دوره وجود دارد. لطفا با مدیر سایت تماس "
+#~ "بگیرید."
+
+# @ wplms_modern
+#~ msgid "Security Error"
+#~ msgstr "خطای امنیتی"
+
+# @ wplms_modern
+#~ msgid "SUBSCRIBED FOR FULL COURSE"
+#~ msgstr "مشترک شده برای دوره کامل"
+
+# @ wplms_modern
+#~ msgid "Download Stats"
+#~ msgstr "آمار دانلود"
+
+# @ wplms_modern
+#~ msgid "Date (Joining)"
+#~ msgstr "تاریخ (پیوستن)"
+
+# @ wplms_modern
+#~ msgid "Date (Finish)"
+#~ msgstr "تاریخ (پایان)"
+
+# @ wplms_modern
+#~ msgid "Student Name"
+#~ msgstr "نام دانشجو"
+
+# @ wplms_modern
+#~ msgid "Units Status"
+#~ msgstr "وضعیت جلسات"
+
+# @ wplms_modern
+#~ msgid "Quiz scores"
+#~ msgstr "امتیاز آزمون"
+
+# @ wplms_modern
+#~ msgid "Badge"
+#~ msgstr "نشان دوره"
+
+# @ wplms_modern
+#~ msgid "Certificate"
+#~ msgstr "گواهی پایان دوره"
+
+# @ wplms_modern
+#~ msgid "Course Marks"
+#~ msgstr "نمره دوره"
+
+# @ wplms_modern
+#~ msgid "All students"
+#~ msgstr "همه دانشجویان"
+
+# @ wplms_modern
+#~ msgid "Students who finished the course"
+#~ msgstr "دانشجویانی که دوره را تمام کردند"
+
+# @ wplms_modern
+#~ msgid "Students pursuing the course"
+#~ msgstr "دانشجویانی که دنبال دوره هستند"
+
+# @ wplms_modern
+#~ msgid "Students who got a badge in the course"
+#~ msgstr "دانشجویانی که نشان دوره دریافت کرده اند"
+
+# @ wplms_modern
+#~ msgid "Students who got a certificate in the course"
+#~ msgstr "دانشجویانی که گواهی پایان دوره دریافت کرده اند"
+
+# @ wplms_modern
+#~ msgid "Process Stats"
+#~ msgstr "آمار فرآیند"
+
+# @ wplms_modern
+#~ msgid "Page %s"
+#~ msgstr "صفحه  %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr ""
+#~ "LearnDash فعال است. برای جلوگیری از تداخل عملکرد در نصب، افزونه های زیر "
+#~ "را غیرفعال کنید."
+
+# @ wplms_modern
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "برید به پنل مدیریت -> افزونه ها -> افزونه های نصب شده"
+
+# @ wplms_modern
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "غیرفعال کردن Vibe Custom Types"
+
+# @ wplms_modern
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "غیرفعال کردن Vibe Course Module"
+
+# @ wplms_modern
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "منوهای نصب در پنل مدیریت"
+
+# @ wplms_modern
+#~ msgid "Install Required Plugins"
+#~ msgstr "نصب افزونه های مورد نیاز"
+
+# @ wplms_modern
+#~ msgid "Install Plugins"
+#~ msgstr "نصب افزونه ها"
+
+# @ wplms_modern
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "افزونه های در حال نصب : %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "مشکلی در API افزونه وجود دارد."
+
+# @ wplms_modern
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "بازگشت به نصاب افزونه های موردنیاز"
+
+# @ wplms_modern
+#~ msgid "Plugin activated successfully."
+#~ msgstr "افزونه باموفقیت فعال شد."
+
+# @ wplms_modern
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "همه افزونه ها با موفقیت نصب و فعال شدند.  %s"
+
+# @ wplms_modern
+#~ msgid "UNIT"
+#~ msgstr "جلسه"
+
+# @ wplms_modern
+#~ msgid "No comments found"
+#~ msgstr "هیچ دیدگاهی پیدا نشد"
+
+# @ wplms_modern
+#~ msgid "Not Allowed"
+#~ msgstr "اجازه ندارد"
+
+# @ wplms_modern
+#~ msgid "Unable to post"
+#~ msgstr "قادر به ارسال نیست"
+
+# @ wplms_modern
+#~ msgid "Instructor reply requested for unit %s paragraph %s"
+#~ msgstr "درخواست پاسخ استاد به پاراگراف %s از جلسه %s"
+
+# @ wplms_modern
+#~ msgid "Something went wrong."
+#~ msgstr "مشکلی بوجود آمده است."
+
+# @ wplms_modern
+#~ msgid "Return to the dashboard"
+#~ msgstr "بازگشت به پیشخوان"
+
+# @ wplms_modern
+#~ msgid "The following plugin was activated successfully:"
+#~ msgstr "افزونه زیر باموفقیت فعال شد:"
+
+# @ wplms_modern
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "همه افزونه ها بدرستی نصب و فعال شدند. %1$s"
+
+# @ wplms_modern
+#~ msgid "Dismiss this notice"
+#~ msgstr "بستن اعلان"
+
+# @ wplms_modern
+#~ msgid "Return to the Dashboard"
+#~ msgstr "بازگشت به پیشخوان"
+
+# @ wplms_modern
+#~ msgid "Private Repository"
+#~ msgstr "مخزن خصوصی"
+
+# @ wplms_modern
+#~ msgid "Pre-Packaged"
+#~ msgstr "پیش بسته بندی شده"
+
+# @ wplms_modern
+#~ msgid "WordPress Repository"
+#~ msgstr "مخزن وردپرس"
+
+# @ wplms_modern
+#~ msgid "Required"
+#~ msgstr "الزامی"
+
+# @ wplms_modern
+#~ msgid "Recommended"
+#~ msgstr "توصیه شده"
+
+# @ wplms_modern
+#~ msgid "Not Installed"
+#~ msgstr "نصب نشده"
+
+# @ wplms_modern
+#~ msgid "Installed But Not Activated"
+#~ msgstr "نصب شده ولی فعال نشده"
+
+# @ wplms_modern
+#~ msgid "Install"
+#~ msgstr "نصب"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "هیچ افزونه ای برای نصب و فعالسازی وجود ندارد.<a href=\"%1$s\" title="
+#~ "\"بازگشت به داشبورد\">بازگشت به پیشخوان</a>"
+
+# @ wplms_modern
+#~ msgid "Plugin"
+#~ msgstr "افزونه"
+
+# @ wplms_modern
+#~ msgid "Source"
+#~ msgstr "منبع"
+
+# @ wplms_modern
+#~ msgid "Type"
+#~ msgstr "نوع"
+
+# @ wplms_modern
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "هیچ افزونه ای در حال حاضر برای نصب وجود ندارد."
+
+# @ wplms_modern
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "هیچ افزونه ای در حال حاضر برای فعالسازی وجود ندارد."
+
+# @ wplms_modern
+#~ msgid "Install package not available."
+#~ msgstr "بسته نصب موجود نیست."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr "بسته نصب در حال دانلود از <span class=\"code\">%s</span>&#8230;"
+
+# @ wplms_modern
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "بازکردن بسته &#8230;"
+
+# @ wplms_modern
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "نصب افزونه &#8230;"
+
+# @ wplms_modern
+#~ msgid "Plugin install failed."
+#~ msgstr "نصب افزونه شکست خورد."
+
+# @ wplms_modern
+#~ msgid "Plugin installed successfully."
+#~ msgstr "افزونه با موفقیت نصب شد."
+
+# @ wplms_modern
+#~ msgid "Plugin activation failed."
+#~ msgstr "فعالسازی افزونه شکست خورد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "پروسه نصب و فعال سازی آغاز شد. این پروسه ممکن است روی بعضی از هاست ها "
+#~ "مدتی طول بکشد. لطفا صبور باشید."
+
+# @ wplms_modern
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s باموفقیت نصب و فعال شد."
+
+# @ wplms_modern
+#~ msgid "Show Details"
+#~ msgstr "نمایش جزئیات"
+
+# @ wplms_modern
+#~ msgid "Hide Details"
+#~ msgstr "مخفی کردن جزئیات"
+
+# @ wplms_modern
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "همه نصب ها و فعال سازی ها با موفقیت تمام شد."
+
+# @ wplms_modern
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "نصب و فعال سازی افزونه %1$s (%2$d/%3$d)"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "پروسه نصب آغاز شد. این پروسه ممکن است روی بعضی از هاست ها مدتی طول بکشد. "
+#~ "لطفا صبور باشید."
+
+# @ wplms_modern
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "خطائی در نصب %1$s رخ داد: <strong>%2$s</strong>."
+
+# @ wplms_modern
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "نصب %1$s ناموفق بود."
+
+# @ wplms_modern
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s با موفقیت نصب شد."
+
+# @ wplms_modern
+#~ msgid "All installations have been completed."
+#~ msgstr "همه نصب ها کامل شد."
+
+# @ wplms_modern
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "نصب افزونه %1$s (%2$d/%3$d)"
+
+# @ wplms_modern
+#~ msgid "Review Title"
+#~ msgstr "عنوان نقد و بررسی"
+
+# @ wplms_modern
+#~ msgid "Review Rating"
+#~ msgstr "امتیاز نقد و بررسی"
+
+# @ wplms_modern
+#~ msgid "Review Details"
+#~ msgstr "جزئیات نقد و بررسی"
+
+# @ wplms_modern
+#~ msgid "Rating "
+#~ msgstr "امتیازدهی"
+
+# @ wplms_modern
+#~ msgid "Student"
+#~ msgstr "دانشجو"
+
+# @ wplms_modern
+#~ msgid "Instructor"
+#~ msgstr "استاد"
+
+# @ wplms_modern
+#~ msgid "Accepted"
+#~ msgstr "پذیرفته شده"
+
+# @ wplms_modern
+#~ msgid "comments"
+#~ msgstr "دیدگاه"
+
+# @ wplms_modern
+#~ msgid "Are you sure you want to leave this group?"
+#~ msgstr "آیا شما از ترک این گروه اطمینان دارید؟"
+
+# @ wplms_modern
+#~ msgid "My Favorites"
+#~ msgstr "علاقه مندی های من"
+
+# @ wplms_modern
+#~ msgid "Rejected"
+#~ msgstr "رد شده"
+
+# @ wplms_modern
+#~ msgid "Show all"
+#~ msgstr "نمایش همه"
+
+# @ wplms_modern
+#~ msgid "Show all comments for this thread"
+#~ msgstr "نمایش همه دیدگاه ها برای این نخ"
+
+# @ wplms_modern
+#~ msgid "Show all %d comments"
+#~ msgstr "نمایش همه %d دیدگاه"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your profile has unsaved changes. If you leave the page, the changes will "
+#~ "be lost."
+#~ msgstr ""
+#~ "پروفایل شما دارای تغییرات ذخیره نشده ای می باشد. با رفتن از این صفحه،"
+#~ "تغییرات از بین خواهند رفت."
+
+# @ wplms_modern
+#~ msgid "Too short"
+#~ msgstr "خیلی کوتاه"
+
+# @ wplms_modern
+#~ msgid "Weak"
+#~ msgstr "ضعیف"
+
+# @ wplms_modern
+#~ msgid "Good"
+#~ msgstr "خوب"
+
+# @ wplms_modern
+#~ msgid "Strong"
+#~ msgstr "قوی"
+
+# @ wplms_modern
+#~ msgid "Please fill in all the required fields (indicated by *)"
+#~ msgstr "لطفا تمام فیلدهای اجباری را پر کنید (با * مشخص شده اند)"
+
+# @ wplms_modern
+#~ msgid "Top Menu"
+#~ msgstr "فهرست بالا"
+
+# @ wplms_modern
+#~ msgid "Main Menu"
+#~ msgstr "فهرست اصلی"
+
+# @ wplms_modern
+#~ msgid "Mobile Menu"
+#~ msgstr "فهرست موبایل"
+
+# @ wplms_modern
+#~ msgid "Footer Menu"
+#~ msgstr "فهرست پابرگ"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr ""
+#~ "این فضای ابزارک/نوار کناری عمومی پیش فرض برای همه صفحات، نوشته ها، دسته "
+#~ "بندی ها، برچسب ها و صفحات آرشیو می باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr ""
+#~ "این فضای ابزارک/نوار کناری پیش فرض در همه صفحات دوره ها و جلسات رایگان "
+#~ "نمایش داده می شود."
+
+# @ wplms_modern
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr "این فضای ابزارک/ نوار کناری در صفحه نتایج جستجو نمایش داده می شود."
+
+# @ wplms_modern
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "این فضای ابزارک/ نوار کناری در صفحه فروشگاه نمایش داده می شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr ""
+#~ "این فضای ابزارک/ نوار کناری پیش فرض، در صفخات محصولات تکی و دسته بندی "
+#~ "محصولات نمایش داده می شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "این فضای ابزارک/ نوار کناری پیش فرض، در صفحات بادی پرس مثل همه فعالیت ها، "
+#~ "همه گروه ها، همه دوره ها و همه بلاگ ها نمایش داده می شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr ""
+#~ "این فضای ابزارک/ نوار کناری پیش فرض، در صفحات پرداخت، زیر کوپن ها نمایش "
+#~ "داده می شود."
+
+# @ wplms_modern
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "فضای ابزارک / نوار کناری پابرگ بالا"
+
+# @ wplms_modern
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "فضای ابزارک / نوار کناری پابرگ پایین"
+
+# @ wplms_modern
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "نوار کناری دلخواه، ساخته شده در قسمت مدیریت نوار کناری"
+
+# @ wplms_modern
+#~ msgid "Student "
+#~ msgstr "دانشجو"
+
+# @ wplms_modern
+#~ msgid " in "
+#~ msgstr " در"
+
+# @ wplms_modern
+#~ msgid "WPLMS"
+#~ msgstr "WPLMS"
+
+# @ wplms_modern
+#~ msgid "Members-Only"
+#~ msgstr "فقط اعضاء"
+
+# @ wplms_modern
+#~ msgid "Instructors-Only"
+#~ msgstr "فقط اساتید"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<em>Members-Only</em> These links are only visible to logged in users."
+#~ msgstr ""
+#~ "<em>فقط اعضاء</em> این لینک های فقط برای کاربران لاگین کرده قابل مشاهده "
+#~ "هستند."
+
+# @ wplms_modern
+#~ msgid "<em>Instructors-Only</em> links are visible to Instructors."
+#~ msgstr "<em>فقط اساتید</em> لینک ها فقط برای اساتید قابل مشاهده هستند."
+
+# @ wplms_modern
+#~ msgid "Create/Edit Course page"
+#~ msgstr "صفحه ایجاد/ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "My Courses"
+#~ msgstr "دوره هایی که در آنها شرکت کرده ام"
+
+# @ wplms_modern
+#~ msgid "Start Course page"
+#~ msgstr "صفحه شروع دوره"
+
+# @ wplms_modern
+#~ msgid "Notes & Discussion page"
+#~ msgstr "صفحه یادداشتها، مباحث و گفتگو ها"
+
+# @ wplms_modern
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (نامعتبر)"
+
+# @ wplms_modern
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (در حال انتظار)"
+
+# @ wplms_modern
+#~ msgid "Edit Menu Item"
+#~ msgstr "ویرایش آیتم منو"
+
+# @ wplms_modern
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ wplms_modern
+#~ msgid "Navigation Label"
+#~ msgstr "برچسب ناوبری"
+
+# @ wplms_modern
+#~ msgid "Title Attribute"
+#~ msgstr "صفت عنوان"
+
+# @ wplms_modern
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "بازشدن لینک در پنجره/تب جدید"
+
+# @ wplms_modern
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS کلاس های (اختیاری)"
+
+# @ wplms_modern
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "ارتباط لینک (XFN)"
+
+# @ wplms_modern
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr ""
+#~ "در صورت پشتیبانی پوسته کنونی، این توضیحات در فهرست نمایش داده خواهد شد."
+
+# @ wplms_modern
+#~ msgid "Enable Widgetized Mega Menu"
+#~ msgstr "فعال سازی مگا منوی ابزارکی"
+
+# @ wplms_modern
+#~ msgid "Select Sidebar"
+#~ msgstr "انتخاب نوار کناری"
+
+# @ wplms_modern
+#~ msgid "Sidebar Columns"
+#~ msgstr "ستون های نوار کناری"
+
+# @ wplms_modern
+#~ msgid "Original: %s"
+#~ msgstr "اصلی: %s"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "نمایش یک صفت دلخواه در یک ابزارک که به شما این اجازه را می دهد تا لیست "
+#~ "محصولات را هنگام مشاهده دسته بندی های محصولات، محدود کنید."
+
+# @ wplms_modern
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "لایه های فیلتر Vibe"
+
+# @ wplms_modern
+#~ msgid "Attribute:"
+#~ msgstr "صفت:"
+
+# @ wplms_modern
+#~ msgid "Query Type:"
+#~ msgstr "نوع جستجو:"
+
+# @ wplms_modern
+#~ msgid "AND"
+#~ msgstr "و"
+
+# @ wplms_modern
+#~ msgid "OR"
+#~ msgstr "یا"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr ""
+#~ "همه لایه های فیلتر فعال برای مشاهده و غیرفعال کردن به کاربر نشان داده شود."
+
+# @ wplms_modern
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "لایه های فیلتر پیشرفته Vibe"
+
+# @ wplms_modern
+#~ msgid "Active filters"
+#~ msgstr "فیلترهای فعال"
+
+# @ wplms_modern
+#~ msgid "Remove filter"
+#~ msgstr "حذف فیلتر"
+
+# @ wplms_modern
+#~ msgid "Greater than"
+#~ msgstr "بیشتر از"
+
+# @ wplms_modern
+#~ msgid "Less than"
+#~ msgstr "کمتر از"
+
+# @ wplms_modern
+#~ msgid "WooCommerce Function "
+#~ msgstr "عملکرد WooCommerce"
+
+# @ wplms_modern
+#~ msgid "Product Columns"
+#~ msgstr "ستون های محصول"
+
+# @ wplms_modern
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "تعداد محصولات در Carousel:"
+
+# @ wplms_modern
+#~ msgid "Carousel Controls"
+#~ msgstr "کنترل های Carousel"
+
+# @ wplms_modern
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "عناوین عملکردهای WooCommerce  انتخاب شده در بالا (جدا شده با کاما)"
+
+# @ wplms_modern
+#~ msgid "Vibe BuddyPress Login"
+#~ msgstr "ورود Vibe BuddyPress "
+
+# @ wplms_modern
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "ابزارک ورود Vibe BuddyPress"
+
+# @ wplms_modern
+#~ msgid "View profile"
+#~ msgstr "مشاهده پروفایل"
+
+# @ wplms_modern
+#~ msgid "Log Out"
+#~ msgstr "خروج"
+
+# @ wplms_modern
+#~ msgid "LOGOUT"
+#~ msgstr "خروج"
+
+# @ wplms_modern
+#~ msgid "Access admin panel"
+#~ msgstr "دسترسی به پنل مدیریت"
+
+# @ wplms_modern
+#~ msgid "Inbox"
+#~ msgstr "صندوق ورودی"
+
+# @ wplms_modern
+#~ msgid "Notifications"
+#~ msgstr "اعلانیه ها"
+
+# @ wplms_modern
+#~ msgid "Groups"
+#~ msgstr "گروه ها"
+
+# @ wplms_modern
+#~ msgid "Settings"
+#~ msgstr "تنظیمات"
+
+# @ wplms_modern
+#~ msgid "Forgot Password"
+#~ msgstr "فراموشی رمز عبور"
+
+# @ wplms_modern
+#~ msgid "Remember Me"
+#~ msgstr "مرا بخاطر بسپار"
+
+# @ wplms_modern
+#~ msgid "Log In"
+#~ msgstr "ورود"
+
+# @ wplms_modern
+#~ msgid "Course Categories "
+#~ msgstr "دسته بندی دوره ها"
+
+# @ wplms_modern
+#~ msgid "View all Courses in %s"
+#~ msgstr "مشاهده همه دوره های  %s"
+
+# @ wplms_modern
+#~ msgid "Order by"
+#~ msgstr "به ترتیب"
+
+# @ wplms_modern
+#~ msgid "Slug"
+#~ msgstr "نامک"
+
+# @ wplms_modern
+#~ msgid "Course Count"
+#~ msgstr "تعداد دوره"
+
+# @ wplms_modern
+#~ msgid "Hierarchial"
+#~ msgstr "سلسله مراتبی"
+
+# @ wplms_modern
+#~ msgid "Sort Order "
+#~ msgstr "ترتیب "
+
+# @ wplms_modern
+#~ msgid "Ascending"
+#~ msgstr "صعودی"
+
+# @ wplms_modern
+#~ msgid "Descending"
+#~ msgstr "نزولی"
+
+# @ wplms_modern
+#~ msgid "Exclude Course Category Terms slugs (comma saperated):"
+#~ msgstr "خارج کردن نامک عبارات دسته بندی های دوره (جدا شده با کاما)"
+
+# @ wplms_modern
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "اعتبارسنج کد گواهی پایان دوره Vibe"
+
+# @ wplms_modern
+#~ msgid "Enter Certificate Code"
+#~ msgstr "کد گواهی پایان دوره خود را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Validate"
+#~ msgstr "تعیین اعتبار"
+
+# @ wplms_modern
+#~ msgid "Vibe Tabs"
+#~ msgstr "تب های Vibe "
+
+# @ wplms_modern
+#~ msgid "Recent Posts"
+#~ msgstr "نوشته‌های تازه"
+
+# @ wplms_modern
+#~ msgid "thumbnail"
+#~ msgstr "thumbnail"
+
+# @ wplms_modern
+#~ msgid "Theme:"
+#~ msgstr "پوسته:"
+
+# @ wplms_modern
+#~ msgid "Light"
+#~ msgstr "روشن"
+
+# @ wplms_modern
+#~ msgid "Dark"
+#~ msgstr "تاریک"
+
+# @ wplms_modern
+#~ msgid "Show Tab"
+#~ msgstr "نمایش تب"
+
+# @ wplms_modern
+#~ msgid "Title"
+#~ msgstr "عنوان"
+
+# @ wplms_modern
+#~ msgid "Content & Style"
+#~ msgstr "محتوا و استایل"
+
+# @ wplms_modern
+#~ msgid "Thumbnail Posts"
+#~ msgstr "نوشته های Thumbnail"
+
+# @ wplms_modern
+#~ msgid "Number of items"
+#~ msgstr "تعداد آیتم ها"
+
+# @ wplms_modern
+#~ msgid "Posts Carousel "
+#~ msgstr "Carousel نوشته ها"
+
+# @ wplms_modern
+#~ msgid "Vibe Carousel"
+#~ msgstr "Vibe Carousel"
+
+# @ wplms_modern
+#~ msgid "Theme"
+#~ msgstr "پوسته"
+
+# @ wplms_modern
+#~ msgid "Post Type"
+#~ msgstr "نوع نوشته"
+
+# @ wplms_modern
+#~ msgid "Recent"
+#~ msgstr "اخیر"
+
+# @ wplms_modern
+#~ msgid "Popular"
+#~ msgstr "محبوب"
+
+# @ wplms_modern
+#~ msgid "Order"
+#~ msgstr "سفارش"
+
+# @ wplms_modern
+#~ msgid "Increasing"
+#~ msgstr "افزایش"
+
+# @ wplms_modern
+#~ msgid "Descreasing"
+#~ msgstr "کاهش"
+
+# @ wplms_modern
+#~ msgid "Style"
+#~ msgstr "استایل"
+
+# @ wplms_modern
+#~ msgid "General"
+#~ msgstr "عمومی"
+
+# @ wplms_modern
+#~ msgid "Blog Post"
+#~ msgstr "نوشته بلاگ"
+
+# @ wplms_modern
+#~ msgid "Side post"
+#~ msgstr "نوشته کناری"
+
+# @ wplms_modern
+#~ msgid "Course block"
+#~ msgstr "بلاک دوره"
+
+# @ wplms_modern
+#~ msgid "Course block 2"
+#~ msgstr "بلاک دوره 2"
+
+# @ wplms_modern
+#~ msgid "Featured Images"
+#~ msgstr "تصاویر شاخص"
+
+# @ wplms_modern
+#~ msgid "Tesimonial (Only for Testimonials)"
+#~ msgstr "توصیه نامه (فقط برای توصیه نامه ها)"
+
+# @ wplms_modern
+#~ msgid "Event Card (Only for Events)"
+#~ msgstr "کارت رویداد (فقط برای رویدادها)"
+
+# @ wplms_modern
+#~ msgid "Excerpt length"
+#~ msgstr "طول چکیده"
+
+# @ wplms_modern
+#~ msgid "Auto Start"
+#~ msgstr "شروع خودکار"
+
+# @ wplms_modern
+#~ msgid "Loop back, after completion"
+#~ msgstr "عقبگرد بعد از اتمام"
+
+# @ wplms_modern
+#~ msgid "Number of Posts"
+#~ msgstr "تعداد نوشته ها"
+
+# @ wplms_modern
+#~ msgid "Specific Post ids [comma saperated] (*optional)"
+#~ msgstr "شناسه های نوشته های خاص [جدا شده با کاما] (*اختیاری)"
+
+# @ wplms_modern
+#~ msgid "Posts Widget "
+#~ msgstr "ابزارک نوشته ها"
+
+# @ wplms_modern
+#~ msgid "Vibe Posts"
+#~ msgstr "نوشته های Vibe"
+
+# @ wplms_modern
+#~ msgid " Title"
+#~ msgstr " عنوان"
+
+# @ wplms_modern
+#~ msgid "Sort"
+#~ msgstr "مرتب کردن"
+
+# @ wplms_modern
+#~ msgid " Image Size"
+#~ msgstr " سایز تصویر"
+
+# @ wplms_modern
+#~ msgid "Big"
+#~ msgstr "بزرگ"
+
+# @ wplms_modern
+#~ msgid "Small"
+#~ msgstr "کوچک"
+
+# @ wplms_modern
+#~ msgid "Image with Title"
+#~ msgstr "تصویر با عنوان"
+
+# @ wplms_modern
+#~ msgid "Image Only"
+#~ msgstr "فقط تصویر"
+
+# @ wplms_modern
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "تعداد کارکترها در چکیده [Post Style]"
+
+# @ wplms_modern
+#~ msgid "Vibe Gallery"
+#~ msgstr "گالری Vibe "
+
+# @ wplms_modern
+#~ msgid "Size "
+#~ msgstr "سایز"
+
+# @ wplms_modern
+#~ msgid "Medium"
+#~ msgstr "متوسط"
+
+# @ wplms_modern
+#~ msgid " Small"
+#~ msgstr " کوچک"
+
+# @ wplms_modern
+#~ msgid "Mini"
+#~ msgstr "خیلی کوچک"
+
+# @ wplms_modern
+#~ msgid "Enter Attachment Ids "
+#~ msgstr "شناسه های ضمایم را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Vibe Testimonials "
+#~ msgstr "توصیه نامه های Vibe"
+
+# @ wplms_modern
+#~ msgid "Vibe Testimonials"
+#~ msgstr "توصیه نامه های Vibe"
+
+# @ wplms_modern
+#~ msgid "Testimonial Id "
+#~ msgstr "شناسه توصیه نامه"
+
+# @ wplms_modern
+#~ msgid "Random"
+#~ msgstr "تصادفی"
+
+# @ wplms_modern
+#~ msgid "Length of excerpt:"
+#~ msgstr "طول چکیده:"
+
+# @ wplms_modern
+#~ msgid "Username or RSS:"
+#~ msgstr "نام کاربری یا RSS:"
+
+# @ wplms_modern
+#~ msgid "Tags:"
+#~ msgstr "برچسب ها:"
+
+# @ wplms_modern
+#~ msgid "Count:"
+#~ msgstr "تعداد:"
+
+# @ wplms_modern
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "AccessToken اینستگرام:"
+
+# @ wplms_modern
+#~ msgid "Instagram Client ID:"
+#~ msgstr "شناسه کاربری  Instagram "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "نام کاربری Instagram  (<small>در صورت خالی گذاشتن، تصاویر محبوب در "
+#~ "Instagram  نمایش داده خواهد شد</small>):"
+
+# @ wplms_modern
+#~ msgid "Size:"
+#~ msgstr "سایز:"
+
+# @ wplms_modern
+#~ msgid "Select Twitter Style"
+#~ msgstr "انتخاب استایل Twitter "
+
+# @ wplms_modern
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "لینک کردن عنوان بالا با کاربر Twitter"
+
+# @ wplms_modern
+#~ msgid "Consumer Key"
+#~ msgstr "کلید  مشتری"
+
+# @ wplms_modern
+#~ msgid "Create your Twitter Application"
+#~ msgstr "Twitter Application خود را ایجاد کنید"
+
+# @ wplms_modern
+#~ msgid "here"
+#~ msgstr "اینجا"
+
+# @ wplms_modern
+#~ msgid "Consumer Secret"
+#~ msgstr "رمز مشتری"
+
+# @ wplms_modern
+#~ msgid "Access Token"
+#~ msgstr "دسترسی به Token"
+
+# @ wplms_modern
+#~ msgid "Access Token Secret"
+#~ msgstr "دسترسی به Token Secret"
+
+# @ wplms_modern
+#~ msgid "Twitter Username"
+#~ msgstr "نام کاربری Twitter "
+
+# @ wplms_modern
+#~ msgid "Show # of Tweets"
+#~ msgstr "نمایش # از Tweet ها"
+
+# @ wplms_modern
+#~ msgid "Show timestamps"
+#~ msgstr "نمایش برچسب های زمانی"
+
+# @ wplms_modern
+#~ msgid "Find and show hyperlinks"
+#~ msgstr "یافتن و نمایش  hyperlink ها"
+
+# @ wplms_modern
+#~ msgid "Find Replies in Tweets"
+#~ msgstr "یافتن پاسخ ها در توئیت ها"
+
+# @ wplms_modern
+#~ msgid "Create links on new window / tab"
+#~ msgstr "ایجاد لینک ها در پنجره یا تب جدید"
+
+# @ wplms_modern
+#~ msgid "Twitter username is not configured"
+#~ msgstr "نام کاربری Twitter تنظیم نشده است"
+
+# @ wplms_modern
+#~ msgid "Number of tweets is not valid"
+#~ msgstr "تعداد توییت ها معتبر نیست"
+
+# @ wplms_modern
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "داده Twitter Authentication کامل نیست"
+
+# @ wplms_modern
+#~ msgid "Fetching data from Twitter"
+#~ msgstr "واکشی داده ها از Twitter"
+
+# @ wplms_modern
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "پاک کردن داده های کش فعال است"
+
+# @ wplms_modern
+#~ msgid "Error retrieving tweets"
+#~ msgstr "خطای بازیابی توئیت ها"
+
+# @ wplms_modern
+#~ msgid "Twitter data error:"
+#~ msgstr "خطای داده Twitter:"
+
+# @ wplms_modern
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "خطای بازیابی twitter rate limit"
+
+# @ wplms_modern
+#~ msgid "Requested items"
+#~ msgstr "موارد درخواست شده"
+
+# @ wplms_modern
+#~ msgid "Seconds until reset"
+#~ msgstr "تعداد ثانیه تا بازنشانی"
+
+# @ wplms_modern
+#~ msgid "Using cached Twitter data"
+#~ msgstr "استفاده از داده های کش شده Twitter "
+
+# @ wplms_modern
+#~ msgid "Twitter cache error:"
+#~ msgstr "خطای کش Twitter:"
+
+# @ wplms_modern
+#~ msgid "No public tweets"
+#~ msgstr "هیچ توئیت عمومی ای وجود ندارد"
+
+# @ wplms_modern
+#~ msgid "Unable to get tweets"
+#~ msgstr "قادر به گرفتن توئیت ها نم یباشد"
+
+# @ wplms_modern
+#~ msgid "%s ago"
+#~ msgstr "%s پیش"
+
+# @ wplms_modern
+#~ msgid "M d"
+#~ msgstr "M d"
+
+# @ wplms_modern
+#~ msgid "Y/m/d H:i"
+#~ msgstr "Y/m/d H:i"
+
+# @ wplms_modern
+#~ msgid "Last Tweets"
+#~ msgstr "آخرین توئیت ها"
+
+# @ wplms_modern
+#~ msgid "student"
+#~ msgstr "دانشجو"
+
+# @ wplms_modern
+#~ msgid "instructor"
+#~ msgstr "استاد"
+
+# @ wplms_modern
+#~ msgid "administrator"
+#~ msgstr "مدیر"
+
+# @ wplms_modern
+#~ msgid "Sorry, no members were found."
+#~ msgstr "متاسفانه، هیچ عضوی پیدا نشد."
+
+# @ wplms_modern
+#~ msgid "Invalid Results"
+#~ msgstr "نتایج نامعتبر"
+
+# @ wplms_modern
+#~ msgid "My Submission"
+#~ msgstr "ارسال های من"
+
+# @ wplms_modern
+#~ msgid "Download Attachment"
+#~ msgstr "دانلود ضمیمه"
+
+# @ wplms_modern
+#~ msgid "See Instructor Remarks"
+#~ msgstr "مشاهده ارزیابی مجدد استاد"
+
+# @ wplms_modern
+#~ msgid "Marks Obtained"
+#~ msgstr "نمرات بدست آمده"
+
+# @ wplms_modern
+#~ msgid "Marked Answer :"
+#~ msgstr "پاسخ نمره دار:"
+
+# @ wplms_modern
+#~ msgid "FALSE"
+#~ msgstr "نادرست"
+
+# @ wplms_modern
+#~ msgid "TRUE"
+#~ msgstr "درست"
+
+# @ wplms_modern
+#~ msgid "Correct Answer :"
+#~ msgstr "پاسخ صحیح :"
+
+# @ wplms_modern
+#~ msgid "View answer explanation"
+#~ msgstr "مشاهده توضیحات پاسخ"
+
+# @ wplms_modern
+#~ msgid "Total Marks :"
+#~ msgstr "نمره کل: "
+
+# @ wplms_modern
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "نمرات بدست آمده"
+
+# @ wplms_modern
+#~ msgid "Total Marks"
+#~ msgstr "نمره کل"
+
+# @ wplms_modern
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "شرکت مجدد در آزمون"
+
+# @ wplms_modern
+#~ msgid "Number of retakes "
+#~ msgstr "تعداد شرکت مجدد"
+
+# @ wplms_modern
+#~ msgid " out of "
+#~ msgstr " از"
+
+# @ wplms_modern
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "نتایج قبلی برای آزمون"
+
+# @ wplms_modern
+#~ msgid "Results not Available"
+#~ msgstr "نتایج موجود نمی یباشد"
+
+# @ wplms_modern
+#~ msgid "Quiz Results"
+#~ msgstr "نتایج آزمون"
+
+# @ wplms_modern
+#~ msgid "Results Available"
+#~ msgstr "نتایج موجود"
+
+# @ wplms_modern
+#~ msgid "Results Awaited"
+#~ msgstr "نتایج منتشر نشده"
+
+# @ wplms_modern
+#~ msgid "Submitted "
+#~ msgstr "ارسال شد"
+
+# @ wplms_modern
+#~ msgid " ago"
+#~ msgstr " پیش"
+
+# @ wplms_modern
+#~ msgid "Assignment Results"
+#~ msgstr "نتایج تکلیف"
+
+# @ wplms_modern
+#~ msgid "N/A"
+#~ msgstr "نامعلوم"
+
+# @ wplms_modern
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "درصد میانگین :"
+
+# @ wplms_modern
+#~ msgid "Number of retakes remaining"
+#~ msgstr "تعداد دفعات باقیمانده شرکت مجدد در دوره"
+
+# @ wplms_modern
+#~ msgid "TAKING"
+#~ msgstr "گرفتن"
+
+# @ wplms_modern
+#~ msgid "MY SCORE : "
+#~ msgstr "امتیاز من:"
+
+# @ wplms_modern
+#~ msgid "Average Marks in"
+#~ msgstr "نمره میانگین در"
+
+# @ wplms_modern
+#~ msgid "My Marks"
+#~ msgstr "نمره من"
+
+# @ wplms_modern
+#~ msgid "Course Expired"
+#~ msgstr "دوره منقضی شده"
+
+# @ wplms_modern
+#~ msgid "Not Started"
+#~ msgstr "شروع نشده"
+
+# @ wplms_modern
+#~ msgid "In Progress"
+#~ msgstr "در حال پردازش"
+
+# @ wplms_modern
+#~ msgid "Under Evaluation"
+#~ msgstr "در حال ارزیابی"
+
+# @ wplms_modern
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "شما هیچ درخواست دوستی در حال انتظاری ندارید"
+
+# @ wplms_modern
+#~ msgid "1 member"
+#~ msgstr "1 عضو"
+
+# @ wplms_modern
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "شما هیج دعوتنامه باز از گروهی ندارید."
+
+# @ wplms_modern
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "ارسال به (نام کاربری یا نام دوست)"
+
+# @ wplms_modern
+#~ msgid "This is a notice to all users."
+#~ msgstr "این یک اعلان برای همه کاربران است."
+
+# @ wplms_modern
+#~ msgid "Subject"
+#~ msgstr "موضوع"
+
+# @ wplms_modern
+#~ msgid "Message"
+#~ msgstr "پیغام"
+
+# @ wplms_modern
+#~ msgid "Send Message"
+#~ msgstr "ارسال پیغام"
+
+# @ wplms_modern
+#~ msgid "Star"
+#~ msgstr "ستاره"
+
+# @ wplms_modern
+#~ msgid "From"
+#~ msgstr "از"
+
+# @ wplms_modern
+#~ msgid "Actions"
+#~ msgstr "عملکرد ها"
+
+# @ wplms_modern
+#~ msgid "From:"
+#~ msgstr "از:"
+
+# @ wplms_modern
+#~ msgid "To:"
+#~ msgstr "به:"
+
+# @ wplms_modern
+#~ msgid "View Message"
+#~ msgstr "مشاهده پیغام"
+
+# @ wplms_modern
+#~ msgid "Delete Message"
+#~ msgstr "حذف پیغام"
+
+# @ wplms_modern
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "متاسفانه، هیچ پیغامی پیدا نشد."
+
+# @ wplms_modern
+#~ msgid "Sent:"
+#~ msgstr "ارسال:"
+
+# @ wplms_modern
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "متاسفانه، هیچ اعلانی پیدا نشد."
+
+# @ wplms_modern
+#~ msgid "You are alone in this conversation."
+#~ msgstr "شما در این گفتگو تنها هستید."
+
+# @ wplms_modern
+#~ msgid "Conversation between %s and you."
+#~ msgstr "گفتگو بین %s و شما."
+
+# @ wplms_modern
+#~ msgid "Send a Reply"
+#~ msgstr "ارسال یک پاسخ"
+
+# @ wplms_modern
+#~ msgid "Send Reply"
+#~ msgstr "ارسال پاسخ"
+
+# @ wplms_modern
+#~ msgid "You have no unread notifications."
+#~ msgstr "شما اعلانیه خوانده نشده ای ندارید."
+
+# @ wplms_modern
+#~ msgid "This member has no unread notifications."
+#~ msgstr "این عضو هیچ اعلانیه خوانده نشده ای ندارد."
+
+# @ wplms_modern
+#~ msgid "You have no notifications."
+#~ msgstr "هیچ اعلانیه ای ندارید."
+
+# @ wplms_modern
+#~ msgid "This member has no notifications."
+#~ msgstr "این عضو هیچ اعلانیه ای ندارد"
+
+# @ wplms_modern
+#~ msgid "Select all"
+#~ msgstr "انتخاب همه"
+
+# @ wplms_modern
+#~ msgid "Notification"
+#~ msgstr "اعلانیه"
+
+# @ wplms_modern
+#~ msgid "Date Received"
+#~ msgstr "تاریخ دریافت"
+
+# @ wplms_modern
+#~ msgid "Change Avatar"
+#~ msgstr "تغییر اواتار"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "اواتار شما در سایت و پروفایلتان نمایش داده خواهد شد. اگر <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> ای با ایمیل شما تعریف شده باشد، از آن استفاده "
+#~ "خواهد شد. همچنین شما می توانید از کامپیوترتان یک تصویر آپلود کنید. "
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "برای انتخاب تصویر به فرمت JPG، GIF و یا PNG از کامپیوترتان، ابتدا بر روی  "
+#~ "دکمه زیر و سپس دکمه \"آپلود تصویر\" کلیک کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "در صورتیکه تمایل دارید تصویر اواتار موجود را حذف و تصویر دیگری را نیز "
+#~ "آپلود نکنید، از دکمه حذف اواتار استفاده کنید."
+
+# @ wplms_modern
+#~ msgid "Delete My Avatar"
+#~ msgstr "حذف اواتار من"
+
+# @ wplms_modern
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "بریدن تصویر اواتار جدید"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "اواتار شما در سایت و در پروفایلتان نمایش داده خواهد شد. برای تغییر اواتار "
+#~ "یک حساب کاربری در<a href=\"http://gravatar.com\">Gravatar</a> با همان "
+#~ "ایمیلی که در این سایت استفاده کرده اید، بسازید."
+
+# @ wplms_modern
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "ویرایش گروه پروفایل '%s'"
+
+# @ wplms_modern
+#~ msgid "Clear"
+#~ msgstr "پاک کردن"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr ""
+#~ "این فیلد توسط <span class=\"current-visibility-level\">%s</span> قابل "
+#~ "مشاهده می باشد."
+
+# @ wplms_modern
+#~ msgid "Change"
+#~ msgstr "تغییر"
+
+# @ wplms_modern
+#~ msgid "%s's Profile"
+#~ msgstr "پروفایل %s"
+
+# @ wplms_modern
+#~ msgid "About Me"
+#~ msgstr "درباره من"
+
+# @ wplms_modern
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ wplms_modern
+#~ msgid "AOL Messenger"
+#~ msgstr "AOL Messenger"
+
+# @ wplms_modern
+#~ msgid "Yahoo Messenger"
+#~ msgstr "Yahoo Messenger"
+
+# @ wplms_modern
+#~ msgid "Capabilities"
+#~ msgstr "قابلیت ها"
+
+# @ wplms_modern
+#~ msgid "This user is a spammer."
+#~ msgstr "این کاربر یک هرزه نگار است."
+
+# @ wplms_modern
+#~ msgid "Save"
+#~ msgstr "ذخیره"
+
+# @ wplms_modern
+#~ msgid "Delete Account"
+#~ msgstr "حذف حساب کاربری"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "با حذف حساب کاربری خود، همه محتوای تولید شده توسط شما پاک شده و غیر قابل "
+#~ "بازیابی خواهد بود"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "با حذف این حساب کاربری، همه محتوای تولید شده توسط این حساب پاک شده و غیر "
+#~ "قابل بازیابی خواهد بود."
+
+# @ wplms_modern
+#~ msgid "I understand the consequences."
+#~ msgstr "از پیامد های آن آگاه هستم."
+
+# @ wplms_modern
+#~ msgid "General Settings"
+#~ msgstr "تنظیمات عمومی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "رمز کاربری کنونی <span>(برای بروزرسانی ایمیل یا تغییر رمز کاربری کنونی، "
+#~ "مورد نیاز است)</span>"
+
+# @ wplms_modern
+#~ msgid "Password Lost and Found"
+#~ msgstr "گم کردن و پیدا کردن رمز عبور"
+
+# @ wplms_modern
+#~ msgid "Lost your password?"
+#~ msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+# @ wplms_modern
+#~ msgid "Account Email"
+#~ msgstr "ایمیل حساب کاربری"
+
+# @ wplms_modern
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr "تغییر رمز عبور <span>(برای عدم تغییر، خالی بگذارید)</span>"
+
+# @ wplms_modern
+#~ msgid "New Password"
+#~ msgstr "رمز عبور جدید"
+
+# @ wplms_modern
+#~ msgid "Repeat New Password"
+#~ msgstr "تکرار رمز عبور جدید"
+
+# @ wplms_modern
+#~ msgid "Email Notification"
+#~ msgstr "اعلانیه ایمیلی"
+
+# @ wplms_modern
+#~ msgid "Send an email notice when:"
+#~ msgstr "ارسال یک اعلان ایمیلی هنگام:"
+
+# @ wplms_modern
+#~ msgid "Visibility"
+#~ msgstr "سطح مشاهده"
+
+# @ wplms_modern
+#~ msgid "Options"
+#~ msgstr "تنظیمات"
+
+# @ wplms_modern
+#~ msgid "Options Panel created using"
+#~ msgstr "پنل تنظیمات ایجاد شد توسط"
+
+# @ wplms_modern
+#~ msgid "Import / Export"
+#~ msgstr "درون ریزی / برون ریزی"
+
+# @ wplms_modern
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "همه مقادیر سفارشی بازنشانی خواهد شد. آیا مطمئن هستید؟"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>تنظیمات وارد شد!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>تنظیمات ذخیره شد!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>تنظیمات تغییر کرده! ذخیره کنید!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> خطا!</strong>"
+
+# @ wplms_modern
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> هشدار!</strong>"
+
+# @ wplms_modern
+#~ msgid "Import / Export Options"
+#~ msgstr "تنظیمات درون ریزی / برون ریزی"
+
+# @ wplms_modern
+#~ msgid "Import Options"
+#~ msgstr "تنظیمات درون ریزی"
+
+# @ wplms_modern
+#~ msgid "Import from file"
+#~ msgstr "درون ریزی از فایل"
+
+# @ wplms_modern
+#~ msgid "Import from URL"
+#~ msgstr "درون ریزی از URL"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "فایل پشتیبان خود را در زیر وارد کرده و برای بازنشانی تنظیمات سایت از فایل "
+#~ "پشتیبان، دکمه درون ریزی را کلیک کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "آدرس تنظیمات سایت دیگر را وارد کرده و برای بارگذاری تنظیمات آن سایت دکمه "
+#~ "درون ریزی را کلیک کنید."
+
+# @ wplms_modern
+#~ msgid "Import"
+#~ msgstr "درون ریزی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr ""
+#~ "هشدار! این کار همه تنظیمات موجود را بازنویسی خواهد کرد، لطفا با احتیاط "
+#~ "ادامه دهید!"
+
+# @ wplms_modern
+#~ msgid "Export Options"
+#~ msgstr "برون ریزی تنظیمات"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "در اینجا شما می توانید تنظیمات گزینه های فعلی پوسته را کپی یا دانلود کرده "
+#~ "و به عنوان پشتیبان برای بازیابی تنظیمات سایت خود یا سایت های دیگر استفاده "
+#~ "کنید. همچنین شما قادرید این لینک را در تنظیمات سایت خود و یا سایت های "
+#~ "دیگر کپی کنید."
+
+# @ wplms_modern
+#~ msgid "Download"
+#~ msgstr "دانلود"
+
+# @ wplms_modern
+#~ msgid "Copy Link"
+#~ msgstr "کپی کردن لینک"
+
+# @ wplms_modern
+#~ msgid "Reset to Defaults"
+#~ msgstr "بازنشانی به مقادری پیش فرض"
+
+# @ wplms_modern
+#~ msgid " To:"
+#~ msgstr " به:"
+
+# @ wplms_modern
+#~ msgid "Add New List Field"
+#~ msgstr "افزودن List Field جدید"
+
+# @ wplms_modern
+#~ msgid "Add More"
+#~ msgstr "افزودن بیشتر"
+
+# @ wplms_modern
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "افزودن Listing Taxonomy جدید"
+
+# @ wplms_modern
+#~ msgid "Upload Font"
+#~ msgstr "آپلود فونت"
+
+# @ wplms_modern
+#~ msgid "Font Preview"
+#~ msgstr "پیش نمایش فونت"
+
+# @ wplms_modern
+#~ msgid "Export Code"
+#~ msgstr "برون ریزی کد"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "(Copy export code and paste it in import area of other WordPress "
+#~ "isntallation)"
+#~ msgstr ""
+#~ "(کد برون ریزی را کپی کرده و در فضای درون ریزی وردپرس دیگر وارد کنید)"
+
+# @ wplms_modern
+#~ msgid "Import Code"
+#~ msgstr "درون ریزی کد"
+
+# @ wplms_modern
+#~ msgid "Browse"
+#~ msgstr "مرور کنید"
+
+# @ wplms_modern
+#~ msgid "Remove Upload"
+#~ msgstr "حذف آپلود"
+
+# @ wplms_modern
+#~ msgid "Add Custom Posts"
+#~ msgstr "افزودن Custom Post ها"
+
+# @ wplms_modern
+#~ msgid "Enter Full URL of the page"
+#~ msgstr "URL کامل صفحه را وارد کنید"
+
+# @ wplms_modern
+#~ msgid "Add Social Icons"
+#~ msgstr "افزودن آیکون های اجتماعی"
+
+# @ wplms_modern
+#~ msgid " Plugin is Inactive"
+#~ msgstr " غیر فعال است"
+
+# @ wplms_modern
+#~ msgid "This field must be a valid color value."
+#~ msgstr "این فیلد باید به فرمت صحیح رنگ باشد"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr ""
+#~ "شما باید لیستی (جدا شده با کاما) از مقادیر عددی برای این گزینه فراهم کنید."
+
+# @ wplms_modern
+#~ msgid "This field must be a valid date."
+#~ msgstr "این فیلد باید به فرمت صحیح  تاریخ باشد."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "شما باید یه ایمیل معتبر برای این گزینه فراهم کنید"
+
+# @ wplms_modern
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "شما باید یک API key معتبر برای این گزینه فراهم کنید."
+
+# @ wplms_modern
+#~ msgid "Unable to upload font."
+#~ msgstr "قادر به آپلود فونت نمی باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "شما نباید از هیچ تگ HTML ای در این فیلد استفاده کنید، همه تگ های HTML حذف "
+#~ "می شوند."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "شما نباید از هیچ کارکتر خاصی در این فیلد استفاده کنید، همه کارکترهای خاص "
+#~ "حذف می شوند."
+
+# @ wplms_modern
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "شما باید یک مقدار عددی برای این گزینه فراهم کنید."
+
+# @ wplms_modern
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "لطفا نام کاربری Envato Marketplace خود را وارد کنید."
+
+# @ wplms_modern
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "لطفا  Envato Marketplace API Key خود را وارد کنید."
+
+# @ wplms_modern
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr " API \"set\" یک پارامتر ضروری است."
+
+# @ wplms_modern
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "Envato Marketplace \"item ID\" یک پارامتر ضروری است."
+
+# @ wplms_modern
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "شما باید برای این گزینه یک URL  معتبر فراهم کنید."
+
+# @ wplms_modern
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "عضویت شما <strong>فعال است</strong>."
+
+# @ wplms_modern
+#~ msgid "Membership Fee"
+#~ msgstr "هزینه عضویت"
+
+# @ wplms_modern
+#~ msgid "Duration"
+#~ msgstr "مدت زمان"
+
+# @ wplms_modern
+#~ msgid "Membership Expires"
+#~ msgstr "انقضاء عضویت"
+
+# @ wplms_modern
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "اولین پرداخت شما، %s خواهد بود"
+
+# @ wplms_modern
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "اولین پرداخت های %d شما، %s خواهد بود."
+
+# @ wplms_modern
+#~ msgid "Billing Information"
+#~ msgstr "اطلاعات صورت حساب"
+
+# @ wplms_modern
+#~ msgid "Payment Method"
+#~ msgstr "روش پرداخت"
+
+# @ wplms_modern
+#~ msgid "Edit Billing Information"
+#~ msgstr "ویرایش اطلاعات صورت حساب"
+
+# @ wplms_modern
+#~ msgid "Past Invoices"
+#~ msgstr "صورتحساب های گذشته"
+
+# @ wplms_modern
+#~ msgid "View All Invoices"
+#~ msgstr "مشاهده همه صورتحساب ها"
+
+# @ wplms_modern
+#~ msgid "Member Links"
+#~ msgstr "لینک های اعضاء"
+
+# @ wplms_modern
+#~ msgid "Update Billing Information"
+#~ msgstr "بروزرسانی اطلاعات صورتحساب"
+
+# @ wplms_modern
+#~ msgid "Change Membership Level"
+#~ msgstr "تغییر سطح عضویت"
+
+# @ wplms_modern
+#~ msgid "Cancel Membership"
+#~ msgstr "لغو عضویت"
+
+# @ wplms_modern
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "وارد شده به عنوان <strong>%s</strong>."
+
+# @ wplms_modern
+#~ msgid "logout"
+#~ msgstr "خروج"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "اشتراک پرداخت شما توسط PayPal مدیریت می شود. لطف برای بروز رسانی اطلاعات "
+#~ "صورت حساب خود از <a href=\"http://www.paypal.com\">اینجا وارد PayPal  "
+#~ "شوید</a> t"
+
+# @ wplms_modern
+#~ msgid "First Name"
+#~ msgstr "نام"
+
+# @ wplms_modern
+#~ msgid "Last Name"
+#~ msgstr "نام خانوادگی"
+
+# @ wplms_modern
+#~ msgid "Address 1"
+#~ msgstr "آدرس 1"
+
+# @ wplms_modern
+#~ msgid "Address 2"
+#~ msgstr "آدرس 2"
+
+# @ wplms_modern
+#~ msgid "optional"
+#~ msgstr "اختیاری"
+
+# @ wplms_modern
+#~ msgid "City"
+#~ msgstr "شهر"
+
+# @ wplms_modern
+#~ msgid "State"
+#~ msgstr "استان"
+
+# @ wplms_modern
+#~ msgid "Postal Code"
+#~ msgstr "کد پستی"
+
+# @ wplms_modern
+#~ msgid "City, State Zip"
+#~ msgstr "شهر، زیپ کد"
+
+# @ wplms_modern
+#~ msgid "Country"
+#~ msgstr "کشور"
+
+# @ wplms_modern
+#~ msgid "Phone"
+#~ msgstr "تلفن"
+
+# @ wplms_modern
+#~ msgid "E-mail Address"
+#~ msgstr "آدرس ایمیل"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail"
+#~ msgstr "تائید آدرس ایمیل"
+
+# @ wplms_modern
+#~ msgid "We accept %s"
+#~ msgstr "ما %s پذیرفتیم"
+
+# @ wplms_modern
+#~ msgid "Credit Card Information"
+#~ msgstr "اطلاعات کارت اعتباری"
+
+# @ wplms_modern
+#~ msgid "Card Type"
+#~ msgstr "نوع کارت"
+
+# @ wplms_modern
+#~ msgid "Card Number"
+#~ msgstr "شماره کارت"
+
+# @ wplms_modern
+#~ msgid "Expiration Date"
+#~ msgstr "تاریخ انقضاء"
+
+# @ wplms_modern
+#~ msgid "Update"
+#~ msgstr "بروز رسانی"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr ""
+#~ "این اشتراک بدون محدودیت زمانی می باشد. بنابراین شما نیاز به بروزرسانی "
+#~ "اطلاعات صورت حساب ندارید."
+
+# @ wplms_modern
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "آیا از لغو حساب کاربری خود اطمینان دارید؟"
+
+# @ wplms_modern
+#~ msgid "Yes, cancel my account"
+#~ msgstr "بلی، حساب کاربری من را لغو شود"
+
+# @ wplms_modern
+#~ msgid "No, keep my account"
+#~ msgstr "خیر، حساب کاربری من حفظ شود"
+
+# @ wplms_modern
+#~ msgid "Click here to go to the home page."
+#~ msgstr "برای رفتن به صفحه خانه، اینجا را کلیک کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+#~ msgstr ""
+#~ "تقریبا تمام شد. مشخصات عضویت و اطلاعات مربوط به پرداخت خود را بازبینی "
+#~ "کرده برای اتمام سفارش <strong>دکمه\"تکمیل پرداخت\" را کلیک کنید</strong>."
+
+# @ wplms_modern
+#~ msgid "Membership Level"
+#~ msgstr "سطح عضویت"
+
+# @ wplms_modern
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "شما سطح عضویت <strong>%s</strong> را انتخاب کرده اید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p class=\"pmpro_level_discount_applied\"> کد<strong>%s </strong> به "
+#~ "سفارش شما اعمال شده است.</p>"
+
+# @ wplms_modern
+#~ msgid "Click here to change your discount code"
+#~ msgstr "برای تغییر کد تخفیف خود اینجا را کلیک کنید"
+
+# @ wplms_modern
+#~ msgid "Do you have a discount code?"
+#~ msgstr "آیا یک کد تخفیف دارید؟"
+
+# @ wplms_modern
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "برای وارد کردن کد تخفیف اینجا را کلیک کنید"
+
+# @ wplms_modern
+#~ msgid "Discount Code"
+#~ msgstr "کد تخفیف"
+
+# @ wplms_modern
+#~ msgid "Apply"
+#~ msgstr "اعمال"
+
+# @ wplms_modern
+#~ msgid "Already have an account?"
+#~ msgstr "در حال حاضر حساب کاربری دارید؟"
+
+# @ wplms_modern
+#~ msgid "Log in here"
+#~ msgstr "وارد شوید"
+
+# @ wplms_modern
+#~ msgid "Account Information"
+#~ msgstr "مشخصات حساب کاربری"
+
+# @ wplms_modern
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "تائید آدرس ایمیل"
+
+# @ wplms_modern
+#~ msgid "Full Name"
+#~ msgstr "نام کامل"
+
+# @ wplms_modern
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "خالی بگذارید"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "شما به عنوان <strong>%s</strong> وارد شدید,  اگر می خواهید از حساب کاربری "
+#~ "دیگری برای این عضویت استفاده کنید، <a href=\"%s\">خارج شوید</a>."
+
+# @ wplms_modern
+#~ msgid "Choose your Payment Method"
+#~ msgstr "روش پرداخت خود را انتخاب کنید."
+
+# @ wplms_modern
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "پرداخت با کارت اعتباری"
+
+# @ wplms_modern
+#~ msgid "Check Out with PayPal"
+#~ msgstr "Check Out with PayPal"
+
+# @ wplms_modern
+#~ msgid "We Accept %s"
+#~ msgstr "ما %s می پذیریم"
+
+# @ wplms_modern
+#~ msgid "Payment Information"
+#~ msgstr "اطلاعات پرداخت"
+
+# @ wplms_modern
+#~ msgid "I agree to the %s"
+#~ msgstr "من با %s موافقم"
+
+# @ wplms_modern
+#~ msgid "Complete Payment"
+#~ msgstr "تکمیل پرداخت"
+
+# @ wplms_modern
+#~ msgid "Submit and Pay with 2CheckOut"
+#~ msgstr "ارسال و پرداخت با 2CheckOut"
+
+# @ wplms_modern
+#~ msgid "Submit and Check Out"
+#~ msgstr "ارسال و پرداخت"
+
+# @ wplms_modern
+#~ msgid "Submit and Confirm"
+#~ msgstr "ارسال و تائید"
+
+# @ wplms_modern
+#~ msgid "Processing..."
+#~ msgstr "در حال پردازش ..."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr "پرداخت شما ارسال شد. عضویت شما بزودی فعال خواهد شد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr "برای عضویت در %s از شما تشکر میکنیم. %s عضویت شما فعال شد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "در زیر جزئیات حساب کاربری شما بهمراه یک رسید از صورتحساب عضویت شما درج "
+#~ "شده است. یک ایمیل خوشامدگوئی با یک کپی از صورتحساب اولیه عضویتان به ایمیل "
+#~ "%s ارسال شده است."
+
+# @ wplms_modern
+#~ msgid "Print"
+#~ msgstr "چاپ"
+
+# @ wplms_modern
+#~ msgid "Account"
+#~ msgstr "حساب کاربری"
+
+# @ wplms_modern
+#~ msgid "Total Billed"
+#~ msgstr "مجموع صورت حساب"
+
+# @ wplms_modern
+#~ msgid "Expiration"
+#~ msgstr "انقضاء"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "در زیر مشخصات حساب کاربری عضویت شما درج شده است. همچنین یک ایمیل خوشامد "
+#~ "گوئی به آدرس ایمیل %s ارسال شده است."
+
+# @ wplms_modern
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "مشاهده حساب کاربری عضویت &larr;"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr ""
+#~ "در صورتیکه حساب کاربریتان در عرض چند دقیقه فعال نشد، لطفا با مدیر سایت "
+#~ "تماس بگیرید."
+
+# @ wplms_modern
+#~ msgid "Subtotal"
+#~ msgstr "جمع کل"
+
+# @ wplms_modern
+#~ msgid "Tax"
+#~ msgstr "مالیات"
+
+# @ wplms_modern
+#~ msgid "Coupon"
+#~ msgstr "کوپن"
+
+# @ wplms_modern
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+# @ wplms_modern
+#~ msgid "Invoice #"
+#~ msgstr "صورتحساب #"
+
+# @ wplms_modern
+#~ msgid "View Invoice"
+#~ msgstr "مشاهده صورتحساب"
+
+# @ wplms_modern
+#~ msgid "No invoices found."
+#~ msgstr "هیچ صورتحسابی پیدا نشد."
+
+# @ wplms_modern
+#~ msgid "&larr; View All Invoices"
+#~ msgstr "&rarr; مشاهده همه صورت حساب ها"
+
+# @ wplms_modern
+#~ msgid "Course Renewed"
+#~ msgstr "دوره تجدید شد"
+
+# @ wplms_modern
+#~ msgid "Price"
+#~ msgstr "قیمت"
+
+# @ wplms_modern
+#~ msgid "Free"
+#~ msgstr "رایگان"
+
+# @ wplms_modern
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "سطح شما"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "&rarr; بازگشت به حساب کاربری"
+
+# @ wplms_modern
+#~ msgid "&larr; Return to Home"
+#~ msgstr "&rarr; بازگشت به خانه"
+
+# @ wplms_modern
+#~ msgid "Change profile field visibility level"
+#~ msgstr "تغییر سطح مشاهده فیلد پروفایل"
+
+# @ wplms_modern
+#~ msgid "Complete Sign Up"
+#~ msgstr "تکمیل ثبت نام"
+
+# @ wplms_modern
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "برای فعال سازی حساب کاربریتان، ایمیل خود را چک کنید!"
+
+# @ wplms_modern
+#~ msgid "Install WPLMS"
+#~ msgstr "نصب WPLMS"
+
+# @ wplms_modern
+#~ msgid "Welcome to WPLMS"
+#~ msgstr "به WPLMS خوش آمدید"
+
+# @ wplms_modern
+#~ msgid "About WPLMS"
+#~ msgstr "درباره WPLMS"
+
+# @ wplms_modern
+#~ msgid "Welcome to WPLMS %s"
+#~ msgstr "به WPLMS %s خوش آمدید"
+
+# @ wplms_modern
+#~ msgid "Thanks, all done!"
+#~ msgstr "تشکر، همه چیز انجام شد!"
+
+# @ wplms_modern
+#~ msgid "Thank you for updating to the latest version!"
+#~ msgstr "از شما بابت بروزرسانی به آخرین ورژن تشکر میکنیم!"
+
+# @ wplms_modern
+#~ msgid "Thanks for installing!"
+#~ msgstr "تشکر بابت نصب!"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s WPLMS is the best Learning Management platform for WordPress. The "
+#~ "latest version %s now contains following features."
+#~ msgstr ""
+#~ "%s WPLMS بهترین سکوی مدیریت یادگیری برای ورد پرس می باشد. آخرین نسخه %s "
+#~ "اکنون دارای امکانات زیر می باشد."
+
+# @ wplms_modern
+#~ msgid "FAQs"
+#~ msgstr "سوالات متداول"
+
+# @ wplms_modern
+#~ msgid "Docs"
+#~ msgstr "اسناد"
+
+# @ wplms_modern
+#~ msgid "Customization Tips"
+#~ msgstr "نکات سفارشی سازی"
+
+# @ wplms_modern
+#~ msgid "Support system"
+#~ msgstr "سیستم پشتیبانی"
+
+# @ wplms_modern
+#~ msgid "Installation and Setup"
+#~ msgstr "نصب و راه اندازی"
+
+# @ wplms_modern
+#~ msgid "What's New"
+#~ msgstr "چه خبر"
+
+# @ wplms_modern
+#~ msgid "System Status"
+#~ msgstr "وضعیت سیستم"
+
+# @ wplms_modern
+#~ msgid "Changelog"
+#~ msgstr "لاگ تغییرات"
+
+# @ wplms_modern
+#~ msgid "One Click installation and Setup"
+#~ msgstr "نصب و راه اندازی با یک کلیک"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "You can now install WPLMS in one single click, select the setup procedure "
+#~ "from the options given in the right. You just need to Click the button "
+#~ "once and everything would be automatically installed and setup, after "
+#~ "which your WPLMS Site would be ready to use and configure."
+#~ msgstr ""
+#~ "شما اکنون می توانید WPLMS را با یک کلیک راه اندازی کرده و پروسیجر نصب را "
+#~ "از تنظیمات نمایش داده شده در سمت راست انتخاب نمائید. شما تنها نیاز دارید "
+#~ "یک بار کلیک کنید تا بقیه مراحل نصب خودکار انجام شود. بعد از آن سایت "
+#~ "WPLMS  شما آماده پیکربندی و استفاده می باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Please deactivate WordPress importer plugin to avoid conflicts with Vibe "
+#~ "one click installer."
+#~ msgstr ""
+#~ "لطفا افزونه importer وردپرس را به منظور جلوگیری از تداخل با افزونه Vibe "
+#~ "one click installer غیر فعال کنید."
+
+# @ wplms_modern
+#~ msgid "Setup Theme without Sample Data"
+#~ msgstr "نصب پوسته بدون Sample Data"
+
+# @ wplms_modern
+#~ msgid "Setup Theme with Sample Data"
+#~ msgstr "نصب پوسته با Sample Data"
+
+# @ wplms_modern
+#~ msgid "Please enable all the plugins"
+#~ msgstr "لطفا همه افزونه ها رو فعال کنید"
+
+# @ wplms_modern
+#~ msgid "Install all plugins for Full Sample Data import % slink %s"
+#~ msgstr ""
+#~ "برای درون ریزی Full Sample Data همه افزونه ها را نصب کنید  % slink %s"
+
+# @ wplms_modern
+#~ msgid "Please activate all/required plugins bundled with the theme."
+#~ msgstr "لطفا همه افزونه های مرتبط  و مورد نیاز پوسته را فعال کنید"
+
+# @ wplms_modern
+#~ msgid "Install & Activate plugins"
+#~ msgstr "نصب و فعالسازی افزونه ها"
+
+# @ wplms_modern
+#~ msgid "Video Tutorial of Installing theme"
+#~ msgstr "آموزش ویدئویی نصب پوسته"
+
+# @ wplms_modern
+#~ msgid "Setup Issues"
+#~ msgstr "مشکلات نصب"
+
+# @ wplms_modern
+#~ msgid "Facing issues while setting up? Try out suggested links below."
+#~ msgstr ""
+#~ "آیا هنگام نصب با مشکل مواجه شدید؟ لینک های پیشنهادی زیر را مشاهده کنید."
+
+# @ wplms_modern
+#~ msgid "WPLMS Pre-Setup settings"
+#~ msgstr "تنظیمات پیش از نصب WPLMS "
+
+# @ wplms_modern
+#~ msgid "WPLMS manual installation & setup"
+#~ msgstr "نصب و راه اندازی دستی WPLMS "
+
+# @ wplms_modern
+#~ msgid "WPLMS System Status"
+#~ msgstr "وضعیت سیستم WPLMS "
+
+# @ wplms_modern
+#~ msgid "WPLMS FAQs"
+#~ msgstr "سوالات متداول WPLMS "
+
+# @ wplms_modern
+#~ msgid "Popular Setup issues"
+#~ msgstr "مشکلات متداول در نصب"
+
+# @ wplms_modern
+#~ msgid "Following is the list of most frequent setup issues faced by users"
+#~ msgstr "لیست مشکلات متداول کاربران هنگام نصب"
+
+# @ wplms_modern
+#~ msgid "White screen when installed"
+#~ msgstr "صفحه نمایش سفید بعد از نصب"
+
+# @ wplms_modern
+#~ msgid "Course pages not opening"
+#~ msgstr "صفحات دوره باز نمی شوند"
+
+# @ wplms_modern
+#~ msgid "Getting 404 pages"
+#~ msgstr "مواجه با صفحات 404"
+
+# @ wplms_modern
+#~ msgid "Start Course/Take this Course not working"
+#~ msgstr "شروع دوره/شرکت در دوره کار نمی کند"
+
+# @ wplms_modern
+#~ msgid "Other popular issues"
+#~ msgstr "مشکلات متداول دیگر"
+
+# @ wplms_modern
+#~ msgid "Following is the list of most frequent issues faced by users"
+#~ msgstr "لیست زیر شامل مشکلات متداولی است که کاربران با آنها مواجه می شوند"
+
+# @ wplms_modern
+#~ msgid "Quizzes not saving answers"
+#~ msgstr "پاسخ ها در آزمون ها ذخیره نمی شوند"
+
+# @ wplms_modern
+#~ msgid "Visual composer not updating"
+#~ msgstr "Visual composer بروز رسانی نمی شود"
+
+# @ wplms_modern
+#~ msgid "Getting 404 page on editing course"
+#~ msgstr "مشاهده صفحه 404 هنگام ویرایش دوره"
+
+# @ wplms_modern
+#~ msgid "Theme customizer not working"
+#~ msgstr "سفارشی ساز پوسته کار نمی کند"
+
+# @ wplms_modern
+#~ msgid "Unable to setup ? Get help on our Support forums."
+#~ msgstr "قادر به نصب نمی باشید؟ از انجمن های پشتیبانی کمک بگیرید."
+
+# @ wplms_modern
+#~ msgid "Check issue log "
+#~ msgstr "مشاهده لاگ مشکلات"
+
+# @ wplms_modern
+#~ msgid "Check update log "
+#~ msgstr "مشاهده لاگ بروزرسانی"
+
+# @ wplms_modern
+#~ msgid "What's New in WPLMS"
+#~ msgstr "آنچه در WPLMS جدید است"
+
+# @ wplms_modern
+#~ msgid "Updated Documentation "
+#~ msgstr "مستندات بروز شده"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Documentation has been updated. We've added shortcodes list and developer "
+#~ "documentation. For most updated documentation we recommend checking the "
+#~ "online documentation doc."
+#~ msgstr ""
+#~ "مستندات بروزرسانی شدند. ما لیست کد های کوتاه و مستندات توسعه را اضافه "
+#~ "کردیم. برای دسترسی به بروزترین مستندات توصیه می کنیم مستندات آنلاین را چک "
+#~ "کنید."
+
+# @ wplms_modern
+#~ msgid "Check documentation"
+#~ msgstr "بررسی مستندات"
+
+# @ wplms_modern
+#~ msgid "Translation Collaboration"
+#~ msgstr "همکاری در ترجمه"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "It is really difficult to maintain translations in a versatible project "
+#~ "as WPLMS. Therefore we ask our suers to email us translation files at "
+#~ "support@vibethemes.com ."
+#~ msgstr ""
+#~ "نگهداری فایل های ترجمه در پروژه ای مثل WPLMS بسیار مشکل است. بنابراین ما "
+#~ "از کاربران می خواهیم تا فایل های ترجمه خود را به support@vibethemes.com "
+#~ "ارسال کنند."
+
+# @ wplms_modern
+#~ msgid "Check Translation files status"
+#~ msgstr "مشاهده وضعیت فایل های ترجمه"
+
+# @ wplms_modern
+#~ msgid "Go to WPLMS Options panel"
+#~ msgstr "رفتن به پنل تنظیمات WPLMS "
+
+# @ wplms_modern
+#~ msgid "Home URL"
+#~ msgstr "URL خانه"
+
+# @ wplms_modern
+#~ msgid "Site URL"
+#~ msgstr "آدرس سایت"
+
+# @ wplms_modern
+#~ msgid "WP Version"
+#~ msgstr "نسخه WP"
+
+# @ wplms_modern
+#~ msgid "WP Multisite Enabled"
+#~ msgstr "قابلیت چند سایتی وردپرس فعال است."
+
+# @ wplms_modern
+#~ msgid "Web Server Info"
+#~ msgstr "اطلاعات وب سرور"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 128MB. See: <a href=\"%s"
+#~ "\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "%s - حداقل حافظه توصیه شده 128MB است. <a href=\"%s\">افزایش حافظه در PHP</"
+#~ "a> را ببینید"
+
+# @ wplms_modern
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "SUHOSIN نصب شد"
+
+# @ wplms_modern
+#~ msgid "Default Timezone"
+#~ msgstr "منطقه زمانی پیش فرض"
+
+# @ wplms_modern
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "منطقه زمانی پیش فرض %s  است - باید UTC باشد"
+
+# @ wplms_modern
+#~ msgid "Default timezone is %s"
+#~ msgstr "منطقه زمانی پیش فرض %s است"
+
+# @ wplms_modern
+#~ msgid "WPLMS Pages"
+#~ msgstr "صفحات WPLMS "
+
+# @ wplms_modern
+#~ msgid "Page not set"
+#~ msgstr "صفحه تنظیم نشده است"
+
+# @ wplms_modern
+#~ msgid "Templates"
+#~ msgstr "قالب ها"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "<code>%s</code> نسخه <strong style=\"color:red\">%s</strong>منقضی شد. "
+#~ "نسخه اصلی %s"
+
+# @ wplms_modern
+#~ msgid "Template Overrides"
+#~ msgstr "رونوشت های قالب"
+
+# @ wplms_modern
+#~ msgid "No overrides present in theme."
+#~ msgstr "هیچ رونوشتی در قالب وجود ندارد."
+
+# @ wplms_modern
+#~ msgid "Full Changelog of WPLMS Theme"
+#~ msgstr "لاگ تغییرات کامل پوسته WPLMS "
+
+# @ wplms_modern
+#~ msgid "View WPLMS Options panel"
+#~ msgstr "مشاهده پنل تنظیمات WPLMS "
+
+# @ wplms_modern
+#~ msgid "Options panel"
+#~ msgstr "پنل تنظیمات"
+
+# @ wplms_modern
+#~ msgid "View WPLMS Documentation"
+#~ msgstr "مشاهده مستندات WPLMS"
+
+# @ wplms_modern
+#~ msgid "Visit Premium Customer Support Forum"
+#~ msgstr "مشاهده انجمن پشتیبانی مشتری Premium"
+
+# @ wplms_modern
+#~ msgid "Support Forum"
+#~ msgstr "انجمن پشتیبانی"
+
+# @ wplms_modern
+#~ msgid "Please activate all the required plugins"
+#~ msgstr "لطفا همه افزونه های مورد نیاز را فعال کنید"
+
+# @ wplms_modern
+#~ msgid "(Unnamed Slider)"
+#~ msgstr "(اسلایدر بی نام)"
+
+# @ wplms_modern
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "خطایی در خواندن فایل WXR وجود دارد"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "اطلاعات در بالا نشان داده شده است. درون ریزی حالا دوباره با parser "
+#~ "متفاوتی انجام خواهد شد..."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr "به نظر نمی آید که یک فایل WXR  باشد، شماره ورژن نامعتبر/گمشده WXR "
+
+# @ wplms_modern
+#~ msgid "Import Complete !"
+#~ msgstr "درون ریزی کامل شد !"
+
+# @ wplms_modern
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "قادر به پیدا کردن فایل Sample Data نمی باشد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
+#~ msgstr ""
+#~ "بخاطر مشکل بوجود آمده در استفاده از کلاس  WP_Import، نمی توان داده های "
+#~ "دموی تستی را نصب کرد."
+
+# @ wplms_modern
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "با عرض پوزش، خطایی رخ داده است."
+
+# @ wplms_modern
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "فایل وجود ندارد، دوباره تلاش کنید."
+
+# @ wplms_modern
+#~ msgid "All done."
+#~ msgstr "همه چیز انجام شد."
+
+# @ wplms_modern
+#~ msgid "Have fun!"
+#~ msgstr "لذت ببرید!"
+
+# @ wplms_modern
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr ""
+#~ "بیاد داشته باشید که رمزهای عبور و نقش های کاربران درون ریزی شده را تغییر "
+#~ "دهید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "فایل برون ریزی در <code>%s</code> پیدا نشد. احتمال مشکل دسترسی وجود دارد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "این فایل WXR  (version %s) ممکن است توسط این ورژن از درون ریز پشتیبانی "
+#~ "نشده باشد. لطفا درون ریز خود را بروز رسانی کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "درون ریزی نویسنده %s شکست خورد. نوشته های ایشان به کاربر جاری منتصب خواهد "
+#~ "شد."
+
+# @ wplms_modern
+#~ msgid "Assign Authors"
+#~ msgstr "انتصاب نویسندگان"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "برای آسان نمودن ویرایش و ذخیره سازی محتوای وارد شده، بهتر است مطالب "
+#~ "نویسنده به یکی از کاربران کنونی سایت منتقل کنید. برای مثال میتوانید همه "
+#~ "ورودی ها را به <code>admin</code> انتقال دهید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "اگر یک کاربر جید توسط وردپرس ایجاد شود، یک رمز عبور جدید بصورت تصادفی "
+#~ "تولید شده و نقش کاربر جدید به %s تنظیم خواهد شد. مشخصات کاربر جدید باید "
+#~ "بصورت دستی تغییر داده شود."
+
+# @ wplms_modern
+#~ msgid "Import Attachments"
+#~ msgstr "درون ریزی ضمایم"
+
+# @ wplms_modern
+#~ msgid "Download and import file attachments"
+#~ msgstr "دانلود و درون ریزی ضمایم نویسنده"
+
+# @ wplms_modern
+#~ msgid "Import author:"
+#~ msgstr "درون ریزی نویسنده:"
+
+# @ wplms_modern
+#~ msgid "or create new user with login name:"
+#~ msgstr "یا ایجاد کاربر جدید با نام کاربری:"
+
+# @ wplms_modern
+#~ msgid "as a new user:"
+#~ msgstr "به عنوان یک کاربر جدید:"
+
+# @ wplms_modern
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "انتصاب نوشته ها به یک کاربر موجود:"
+
+# @ wplms_modern
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "یا انتصاب نوشته ها به یک کاربر موجود:"
+
+# @ wplms_modern
+#~ msgid "- Select -"
+#~ msgstr "-انتخاب-"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr ""
+#~ "ایجاد یک کاربر جدید برای %s شکست خورد مطالب ایشان به کاربر فعلی منتصب "
+#~ "خواهد شد."
+
+# @ wplms_modern
+#~ msgid "Failed to import category %s"
+#~ msgstr "درون ریزی دسته بندی %s شکست خورد"
+
+# @ wplms_modern
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "درون ریزی برچسب نوشته %s شکست خورد"
+
+# @ wplms_modern
+#~ msgid "Failed to import %s %s"
+#~ msgstr "درون ریزی %s %s شکست خورد"
+
+# @ wplms_modern
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "درون ریزی &#8220;%s&#8221; شکست خورد: نوع نوشته %s نامعتبر"
+
+# @ wplms_modern
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; درحال حاضر وجود دارد"
+
+# @ wplms_modern
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "درون ریزی %s &#8220;%s&#8221; شکست خورد"
+
+# @ wplms_modern
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "آیتم فهرست به خاطر فقدان نامک فهرست، جا افتاده است"
+
+# @ wplms_modern
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "آیتم فهرست بخاطر نامک فهرست نامعتبر، جا افتاده است: %s"
+
+# @ wplms_modern
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "واکشی فایل ضمیمه فعال نیست"
+
+# @ wplms_modern
+#~ msgid "Invalid file type"
+#~ msgstr "نوع فایل نامعتبر"
+
+# @ wplms_modern
+#~ msgid "Remote server did not respond"
+#~ msgstr "سرور خارجی پاسخگو نیست"
+
+# @ wplms_modern
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "سرور راه دور پاسخ خطای  %1$d %2$s  برگرداند"
+
+# @ wplms_modern
+#~ msgid "Zero size file downloaded"
+#~ msgstr "فایلی با سایز صفر دانلود شد"
+
+# @ wplms_modern
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "فایل راه دور بسیار بزرگ است. محدودیت %s می باشد"
+
+# @ wplms_modern
+#~ msgid "Import WordPress"
+#~ msgstr "درون ریزی وردپرس"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "نسخه جدیدی از این درون ریز موجود است. لطفا به نسخه %s ارتقاء داده تا با "
+#~ "فایل های جدید برون ریز سازگار شود."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "فایل eXtended RSS (WXR)  وردپرس خود را آپلود کنید. ما &#8217; همه نوشته "
+#~ "ها، صفحات، دیدگاه ها، زمینه های دلخواه، دسته ها و برچسب ها را به داخل این "
+#~ "سایت درون ریزی خواهیم کرد."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "یک فایل WXR (.xml) برای آپلود انتخاب کرده سپس دکمه آپلود فایل و درون ریزی "
+#~ "را کلیک کنید."
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "درون ریزی <strong> نوشته ها ،صفحات،نظرات، زمینه های دلخواه،دسته بندی ها و "
+#~ "برچسب ها</strong> از یک فایل برون ریزی شده WordPress."
+
+# @ wplms_modern
+#~ msgid "Product Image"
+#~ msgstr "تصویر محصول"
+
+# @ wplms_modern
+#~ msgid "Download %d"
+#~ msgstr "دانلود %d"

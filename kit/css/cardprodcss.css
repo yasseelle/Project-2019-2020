@@ -1,0 +1,13 @@
+img{
+    max-width: 100%;
+    height: auto;
+    background: lightcoral;
+    background: radial-gradient(white 30%,lightcoral 70%);
+
+}
+
+.fa-star,   
+.fa-star-half{
+    color: red;
+ 
+}

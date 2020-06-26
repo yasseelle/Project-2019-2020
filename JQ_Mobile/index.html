@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Home</title>
+        <link rel="stylesheet" href="jquery.mobile-1.4.5.min.css">
+        <script src="jquery.min.js" defer></script>
+        <script src="jquery.mobile-1.4.5.min.js" defer></script>
+        <script src="https://maps.gogoleapis.com/maps/api/js?v=3.exp"></script>
+    </head>
+    <body>
+        <section id="page1" data-role="page">
+            <header data-role="header">
+                <h2>jQuery mobile</h2>
+            </header>
+            <div class="content">
+                premiere page
+                <a href="#page2" data-transition="slide" data-role="button" data-icon="home">Page2</a>
+                <a href="#page3" data-transition="slide" data-role="button" data-icon="home">Affichage</a>
+                <a href="#page4" data-transition="slide" data-role="button" data-icon="home">envoi</a>
+                <a href="#page5" data-transition="slide" data-role="button" data-icon="home">envoi2</a>
+                <a href="#page6" data-transition="slide" data-role="button" data-icon="home">map</a>
+            </div>
+            <footer data-role="footer">
+                <h2>copyright</h2>
+            </footer>
+        </section>
+        <section id="page2" data-role="page">
+            <header data-role="header">
+                <h2>Ajout Personne</h2>
+            </header>
+            <div class="content" data-role="content">
+                <form method="POST" action="traitement.php" data-ajax="false" >
+                    <input type="text" name="nom" placeholder="Nom.."><br/>
+                    <input type="text" name="prenom" placeholder="Prenom.."><br/>
+                    <input type="text" name="age" placeholder="Age.."><br/>
+                    <input type="submit" value="enregistrer">
+                </form>
+            </div>
+            <footer data-role="footer">
+                <h2>copyright</h2>
+            </footer>
+        </section>
+        <section id="page3" data-role="page">
+            <header data-role="header">
+                <h2>Affichage</h2>
+            </header>
+            <div class="content">
+                <h3 id="ha" onclick="afficher()">afficher</h3>
+                <u  l id="liste" data-role="listview">
+                    
+                </u l>
+            </div>
+            <footer data-role="footer">
+                <h2>copyright</h2>
+            </footer>
+        </section>
+        <section id="page4" data-role="page">
+            <header data-role="header">
+                <h2>envoi</h2>
+            </header>
+            <div class="content">
+             <h1 style="text-align: center;" >        <p id="resultat">nom</p>     </h1>   
+                <div style="text-align: center;"  id="envoi" onclick="envoi()">envoi</div>
+            </div>
+            <footer data-role="footer">
+                <h2>copyright</h2>
+            </footer>
+        </section>
+        <section id="page5" data-role="page">
+            <header data-role="header">
+                <h2>envoi</h2>
+            </header>
+            <div class="content" id="content" data-role="content">
+                <form>
+                    <input type="text" placeholder="nom" id="nome">
+                    <input type="button" value="envoi" id="bt" onclick="envoi1()">
+                </form>
+            </div>
+            <footer data-role="footer">
+                <h2>copyright</h2>
+            </footer>
+        </section>
+        <section id="page6" data-role="page">
+            <header data-role="header">
+                <h2>map</h2>
+            </header>
+            <div class="content" id="content" data-role="content">
+                <div id="carte">
+                    <div id="gmap_canvas"></div>
+                </div>
+            </div>
+            <footer data-role="footer">
+                <h2>copyright</h2>
+            </footer>
+        </section>
+        <script>
+            function afficher(){
+                var a=6;
+                $.post("selection.php",{aa:a},function(d){
+                    $('#liste').html(d);
+                });
+            }
+            function envoi(){
+                var x=3;
+                $.post("page2.php",{xa:x},function(d){
+                    $("#resultat").html(d);
+                });
+            }
+            function envoi1(){
+                var nom=$("#nome").val();
+                $.post("page2.php",{noms:nom},function(d){
+                    $("#content").html(d);
+                });
+            }
+        </script>
+    </body>
+</html>

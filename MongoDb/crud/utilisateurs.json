@@ -1,0 +1,34 @@
+[
+    {
+    "id": 2,
+    "nom": "Alami",
+    "tache": "saisie"
+    },
+    {
+    "id": 3,
+    "nom": "Salmi",
+    "tache": "saisie"
+    },
+    {
+    "id": 4,
+    "nom": "Slimani",
+    "tache": "user"
+    },
+    {"id" : 5,
+    "nom" : "alaoui",
+    "tache" : "admin"      
+    },
+    {"id" : 6,
+    "nom" : "idrissi",
+    "tache" : "user"
+    },
+    {"id" : 7,
+    "nom" : "mhamdi",
+    "tache" : "user"
+    },
+    {
+    "id": 8,
+    "nom": "Shami",
+    "tache": "saisie"
+    }
+]

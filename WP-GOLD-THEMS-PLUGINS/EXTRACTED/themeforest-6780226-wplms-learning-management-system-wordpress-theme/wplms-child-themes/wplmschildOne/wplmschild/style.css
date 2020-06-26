@@ -1,0 +1,325 @@
+/*
+Theme Name: WPLMS ChildTheme I
+Theme URI: http://www.VibeThemes.com    
+Description: Child Theme for WPLMS WordPress Theme
+Author: VibeThemes
+Author URI: http://themeforest.com/user/vibethemes
+Template: wplms
+Version: 2.6
+*/
+
+
+body,.pusher{background:#FFF !important;}
+.global {
+  display: block;
+}
+.content,.page .content, .single .content, .padder.content,
+#groups-dir-list, #course-dir-list{padding:30px 0;}
+header{
+	background: rgba(0,0,0,0.6) !important;
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;
+}
+.logged-in.admin-bar header.fix{top:28px;}
+header.fix{position: fixed;top:0;z-index: 9999;}
+header + #content + .stripe{
+	margin-top:-90px;
+}
+@media(max-width:767px){.vbp_cart{display:none;}}
+header + section,
+#grouptitle, #memberstitle, #activitytitle{
+	padding-top:120px;
+}
+header + section#content,
+header + section#title{
+	padding-top:90px;
+}
+#title{margin-top:0;}
+.topmenu{
+	float:right;
+}
+.unit_content{padding:20px 0;}
+.topmenu li{
+	padding:30px 12px;
+	float:left;
+}
+
+.vbplogin:before{
+	content: '|';
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+	float:left;
+}
+.vbp_cart:before{
+	content: 'x';
+	float:left;
+	font-family: 'Fonticon';
+	font-size: 16px;
+	margin-right: 5px;
+}
+.vibe-bp-login a{color:#FFF;text-transform: uppercase;}
+.vbp_cart em{
+	background: #78c8c9;
+	padding: 2px 5px;
+	border-radius: 50%;
+	font-style: normal;
+	font-family: sans-serif;
+	font-size: 11px;
+	font-weight: 800;
+}
+.logged-in .vbplogin:before{content:'';}
+.topmenu li a{
+	color:#FFF;font-size:13px;
+	font-weight:800;
+	font-family:'Raleway',sans-serif;
+}
+#vibe_bp_login{top:80px;}
+
+#logo{float:left;margin-top:15px;}
+header #searchicon{padding: 28px 0 24px;}
+@media (max-width:767px){
+	header.fixed.fix{
+		top:0;
+		webkit-transition: all 0.6s ease-in-out;
+	  	-moz-transition: all 0.6s ease-in-out;
+	  	-o-transition: all 0.6s ease-in-out;
+	  	transition: all 0.6s ease-in-out;
+	}	
+}
+
+header.fixed #searchicon{padding: 12px 0 4px;}
+
+header #searchform{padding:0;}
+
+header #searchform input[type="text"]{
+	font-size: 35px;
+	background:rgba(0,0,0,0.6) !important;
+	color:#FFF !important;
+	border-radius:0;
+	padding: 16px;}	
+header #searchdiv {
+	float: none;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	border: none;
+	color:#FFF;
+}
+#trigger{top:30px;}
+
+header.fixed #logo{margin-top:5px;}
+header.fixed #logo img{max-height:24px;webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;}
+header.fixed nav .menu > li > a,
+header.fixed .topmenu li{padding-top:15px;padding-bottom:15px;
+	webkit-transition: all 0.6s ease-in-out;
+  	-moz-transition: all 0.6s ease-in-out;
+  	-o-transition: all 0.6s ease-in-out;
+  	transition: all 0.6s ease-in-out;}
+header.fixed #searchform input[type="text"]{font-size:20px;padding:12px;}
+header.fixed #trigger{top:10px;}
+
+#grouptitle, #memberstitle, #activitytitle, #coursestitle{
+padding-top:120px;
+}
+
+@media (max-width: 991px) and (min-width: 768px){
+	#trigger {right: 0;}
+	header #searchicon {margin-right: 30px;}
+}
+@media (max-width: 1140px) and (min-width: 991px){
+	.vbplogin span{display: none;}
+}
+@media (max-width: 768px){
+.topmenu{margin-right:60px;}
+.woocommerce table.shop_table td, .woocommerce-page table.shop_table td{padding:10px 0;}
+.woocommerce table.cart th, .woocommerce table.cart td, .woocommerce #content table.cart th, .woocommerce #content table.cart td, .woocommerce-page table.cart th, .woocommerce-page table.cart td, .woocommerce-page #content table.cart th, .woocommerce-page #content table.cart td{font-size:11px;}
+.page .content, .single .content, .padder.content{padding:8px 0;}
+}
+@media (max-width: 460px){
+	.vbplogin span{display: none;}
+}
+
+.mfp-ajax-holder .mfp-content #item-body{
+	padding:20px;
+}
+.single-item.groups  #content #buddypress{margin-top:120px;}
+/* Home Page */
+.homethreesteps{
+	position: relative;
+	padding:60px 0 0 55px;
+	font-size:13px;
+}
+.homethreesteps h4{
+	font-size:16px;
+	font-weight:600;
+	margin:0 0 10px;padding:0;
+}
+.homethreesteps i{
+	font-size:28px;
+	color:#2299dc;
+	position: absolute;
+	left:0;
+	top:75px;
+}
+
+.stripe.homesixsections{
+	margin-top:-10px;
+	box-shadow:0 -1px 0 rgba(0,0,0,0.1);
+	text-align: center;
+	padding:60px 0;
+	background: #f3f3f3;
+	display: inline-block;
+	width:100%;
+}
+
+.homesixsections h2{
+	font-size:32px;
+	font-weight:600;
+	margin:0 0 20px;
+}
+
+.homesixsections h2+p{
+	font-size:16px;
+	color:#666;
+}
+
+.homesixsections .column_content{
+	padding:30px;
+	font-size:13px;
+}
+
+.homesixsections .column_content i{
+	font-size:36px;
+}
+.homesixsections .column_content h4{
+	font-size:18px;
+	font-weight:600;
+	margin:0 0 10px;
+}
+
+.home header + section#content{padding-top:0;}
+.parallaxhome{padding-bottom:0 !important;}
+.parallaxhome .parallax_content {padding:120px 0 60px;}
+.parallaxhome h2{font-size: 8em;line-height:1;font-weight: 800;color: #fff;text-shadow: 0 0 12px #444;padding: 60px 0 0;}
+.parallaxhome h3{font-size: 3em;font-weight: 800;color: #fff;text-shadow: 0 0 12px #444;padding: 20px 0;}
+.parallaxhome a{padding:5px 10px;border:2px solid #FFF;color:#FFF;font-weight:800;border-radius:2px;font-size:24px;}
+.parallaxhome a:hover{background:#FFF;color:#444;}
+
+section.stripe.fullwidthwhite{padding-top:30px;}
+section.stripe.fullwidthwhite .heading{
+padding: 60px 0 10px;
+}
+section.stripe.fullwidthwhite li{
+padding: 15px 0px;
+clear: both;
+}
+
+section.stripe.fullwidthwhite li i{font-size: 32px;float: left;padding: 0px 30px 0px 0px;color:#2299dc;}
+
+section.stripe.fullwidthwhite li strong{font-size:16px;}
+section.stripe.fullwidthsteps {
+background: #2299dc;
+color: #FFF;
+margin-top: -5px;
+padding: 60px 0;
+}
+.fullwidthsteps h3 {font-weight: 600;color: #FFF;margin-bottom:0;}
+.fullwidthsteps h3+p{margin-top:0;}
+.fullwidthsteps strong{font-size: 4em;line-height: 0.9;font-weight: 800;float: left;padding: 0px 10px 0 0;}
+.fullwidthsteps .one_fourth .column_content{position:relative;}
+.fullwidthsteps .one_fourth .column_content:after {content: "\e093";font-family: 'fonticon';
+float: right;font-size: 52px;
+position: absolute;top: 30px;line-height: 0;right: 30px;}
+.fullwidthsteps .one_fourth:last-child .column_content{content:'';}
+
+.homepagefilterable,
+.homepagefilterable .block.courseitem .block_title{text-align:center;}
+.homepagefilterable .block.courseitem .block_content{text-align:left;}
+.homepagefilterable .vibe_filterable{float:none;display:inline-block;}
+.vibe_filterable li a{background:none;}
+.course_filters{border:1px solid #EFEFEF;}
+
+.stripe.homemain{
+	padding:30px 0 0;
+	font-size:16px;
+	color:#666;
+}
+
+.homemain h2{
+	font-size:48px;
+	font-weight:600;
+	margin:0 0 20px;
+}
+.homemain img{margin-top:60px;}
+.homemain .button{
+	color:#FFF;
+}
+/* counter */
+
+.homecounter{
+	padding:60px 0;
+	text-align: center;
+	color:#FFF;
+}
+.homecounter h3{
+	font-size:40px;
+	font-weight:800;
+	padding-bottom:20px;
+	color:#FFF;
+}
+.homecounter h4{
+	font-size:42px;
+	color:#FFF;
+}
+.homecounter .column_content{
+	border:1px solid rgba(255,255,255,0.1);
+}
+.homecounter h4+p{
+	font-size:16px;
+}
+
+/*== restyle:heading ====*/
+.heading{
+	border-bottom:1px solid #EFEFEF;
+	position: relative;
+}
+
+.heading:after{
+content: '';
+background: rgb(34, 153, 220);
+width: 48px;
+height: 1px;
+display: block;
+position: absolute;
+bottom: -1px;
+}
+/*==== Home bloxks ==*/
+
+.block.modern_course .course_block_instructor{
+	position: absolute;
+	width: 48px;
+	bottom: -24px;
+	right: 10px;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 2px solid rgba(255,255,255,0.7);
+}
+
+.block_content a{font-size:11px;font-weight:600;text-transform: uppercase;}
+.block.modern_course h4.block_title a{font-size:18px;text-transform: none;margin-right:48px;}
+.block.modern_course h4.block_title{padding:0;}.block .block_content{text-align:left;}
+
+#item-body{padding:0;}#buddypress div.item-list-tabs+div.item-list-tabs#subnav{padding:20px 0;}
+.total_students,.review_title{margin:10px 0;}
+.woocart .widget_shopping_cart,
+.widget.pricing{border:1px solid #EFEFEF;}
+#vibe_bp_login label{color:#FFF;text-transform:uppercase;}
+.primarycolored.stripe{background:#2299dc;padding:60px 0;}

@@ -1,0 +1,403 @@
+/*
+Theme Name: WPLMS White
+Theme URI: http://www.VibeThemes.com    
+Description: Child Theme for WPLMS WordPress Theme
+Author: VibeThemes
+Author URI: http://themeforest.com/user/vibethemes
+Template: wplms
+Version: 1.0
+*/
+
+@import url("../wplms/style.css");
+
+nav .sub-menu,
+#item-header{
+	border:1px solid #EFEFEF;
+}
+#buddypress div#item-header div#item-header-content h3 a,
+#buddypress div#item-header div#item-meta{
+	color:#444;
+}
+.content,.page .content, .single .content, .padder.content,
+#groups-dir-list, #course-dir-list{padding:0;}
+
+header{
+border-top:1px solid #EFEFEF;
+border-bottom: 1px solid #EFEFEF;
+}
+
+.unit_content{padding:20px 0;}
+#item-body{padding:0;}
+.total_students,.review_title{margin:10px 0;}
+#buddypress div.item-list-tabs+div.item-list-tabs#subnav{padding:20px 0;}
+
+
+.heading,.widget_title,.widget .widget_title{
+	border-bottom:1px solid #EFEFEF;
+	position: relative;
+}
+
+.heading:after,.widget_title:after{
+content: '';
+background: rgb(34, 153, 220);
+width: 48px;
+height: 1px;
+display: block;
+position: absolute;
+bottom: -1px;
+}
+
+
+
+/* Home Page */
+
+.hometwoblocks{
+	position: relative;
+	padding:60px 0 0 85px;
+	font-size:13px;
+}
+.hometwoblocks h3{
+	font-size:16px;
+	font-weight:600;
+	margin:0 0 10px;padding:0;
+}
+.hometwoblocks img{
+max-width:64px;
+	position: absolute;
+	left:0;
+	top:60px;
+}
+
+.stripe.homesixsections{
+	margin-top:-10px;
+	box-shadow:0 -1px 0 rgba(0,0,0,0.1);
+	text-align: center;
+	padding:60px 0;
+	background: #f3f3f3;
+	display: inline-block;
+	width:100%;
+}
+
+.homesixsections h2{
+	font-size:32px;
+	font-weight:600;
+	margin:0 0 20px;
+}
+
+.homesixsections h2+p{
+	font-size:16px;
+	color:#666;
+}
+
+.homesixsections .column_content{
+	padding:30px;
+	font-size:13px;
+}
+
+.homesixsections .column_content i{
+	font-size:36px;
+}
+.homesixsections .column_content h4{
+	font-size:18px;
+	font-weight:600;
+	margin:0 0 10px;
+}
+
+.home header + section#content{padding-top:0;}
+.parallaxhome{padding-bottom:0 !important;}
+.parallaxhome .parallax_content {padding:120px 0 60px;}
+.parallaxhome h2{font-size: 8em;line-height:1;font-weight: 800;color: #fff;text-shadow: 0 0 12px #444;padding: 60px 0 0;}
+.parallaxhome h3{font-size: 3em;font-weight: 800;color: #fff;text-shadow: 0 0 12px #444;padding: 20px 0;}
+.parallaxhome a{padding:5px 10px;border:2px solid #FFF;color:#FFF;font-weight:800;border-radius:2px;font-size:24px;}
+.parallaxhome a:hover{background:#FFF;color:#444;}
+
+section.stripe.fullwidthwhite{padding-top:30px;}
+section.stripe.fullwidthwhite .heading{
+padding: 60px 0 10px;
+}
+section.stripe.fullwidthwhite li{
+padding: 15px 0px;
+clear: both;
+}
+
+section.stripe.fullwidthwhite li i{font-size: 32px;float: left;padding: 0px 30px 0px 0px;color:#2299dc;}
+
+section.stripe.fullwidthwhite li strong{font-size:16px;}
+section.stripe.fullwidthsteps {
+background: #2299dc;
+color: #FFF;
+margin-top: -5px;
+padding: 60px 0;
+}
+.fullwidthsteps h3 {font-weight: 600;color: #FFF;margin-bottom:0;}
+.fullwidthsteps h3+p{margin-top:0;}
+.fullwidthsteps strong{font-size: 4em;line-height: 0.9;font-weight: 800;float: left;padding: 0px 10px 0 0;}
+.fullwidthsteps .one_fourth .column_content{position:relative;}
+.fullwidthsteps .one_fourth .column_content:after {content: "\e093";font-family: 'fonticon';
+float: right;font-size: 52px;
+position: absolute;top: 30px;line-height: 0;right: 30px;}
+.fullwidthsteps .one_fourth:last-child .column_content{content:'';}
+
+.homepagefilterable,
+.homepagefilterable .block.courseitem .block_title{text-align:center;}
+.homepagefilterable .block.courseitem .block_content{text-align:left;}
+.homepagefilterable .vibe_filterable{float:none;display:inline-block;}
+.vibe_filterable li a{background:none;}
+.course_filters{border:1px solid #EFEFEF;}
+
+.stripe.homemain{
+	padding:30px 0 0;
+	font-size:16px;
+	color:#666;
+}
+
+.homemain h2{
+	font-size:48px;
+	font-weight:600;
+	margin:0 0 20px;
+}
+.homemain img{margin-top:60px;}
+.homemain .button{
+	color:#FFF;
+}
+/* counter */
+
+.homecounter{
+	padding:60px 0;
+	text-align: center;
+	color:#FFF;
+}
+.homecounter h3{
+	font-size:40px;
+	font-weight:800;
+	padding-bottom:20px;
+	color:#FFF;
+}
+.homecounter h4{
+	font-size:42px;
+	color:#FFF;
+}
+.homecounter .column_content{
+	border:1px solid rgba(255,255,255,0.1);
+}
+.homecounter h4+p{
+	font-size:16px;
+}
+/*==== Home page === */
+.homesearch .parallax_content{
+margin-top:30px;
+}
+.homesearch{
+text-align:center;
+}
+.homesearch h1{
+padding-top:20px;
+font-size:50px;
+color:#fff;
+font-weight:800;
+}
+.homesearch form:after{
+content:0
+font-family:"fonticon";
+color:#FFF;
+}
+.homesearch h3{
+color:#fff;
+font-size:16px;
+}
+.homesearch input{text-align: center;
+  line-height: 40px;
+  border-radius: 2px;
+  background: rgba(255,255,255,0.8);
+  width: 50%;
+  border: 1px solid rgba(255,255,255,0.1);
+  color: #444;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.homesearch ::-webkit-input-placeholder {
+    color:    #666;
+font-weight:600;
+text-transform:uppercase;
+}
+.homesearch .three_fifth .column_content{
+  background: rgba(0,0,0,0.5);
+  padding: 30px 30px 60px;}
+.homesearch ::-moz-placeholder {
+    color:    #666;
+}
+/*=== home heading above icons intropoints===*/
+.intropoints h5{
+margin-bottom:30px;
+font-weight:600;
+}
+
+.intropoints h4{
+font-size:25px;
+  font-weight: 600;
+  margin-top: 50px;
+}
+.intropoints h5:after {
+  content: '';
+  width: 48px;
+  height: 2px;
+  display: inline-block;
+  background: #222;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  margin-left: -24px;
+}
+.intropoints p{
+padding-left:150px;
+padding-right:150px;
+}
+/*==== homethreeblocks ====*/
+.threehomeblocks img {
+  max-width: 64px;
+  height: 64px;
+}
+.threehomeblocks h4 {
+  margin-top: 30px;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.threehomeblocks p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* ===== Customisations ====*/
+
+/* Tabs */
+#buddypress .dir-form .item-list-tabs:first-child, .quiz_bar,
+a.page-numbers, .pagination a{
+	background: transparent !important;
+	border:1px solid #EFEFEF;
+}
+
+#buddypress div.item-list-tabs#subnav ul li.switch_view a{
+	background: transparent;
+	border:1px solid #EFEFEF;
+}
+#buddypress div.item-list-tabs ul li a, #buddypress div.item-list-tabs ul li span,
+a.page-numbers, .pagination a{
+	color:#666;
+	border-right:1px solid #EFEFEF;
+}
+#buddypress #item-nav div.item-list-tabs ul li{
+	border:1px solid #EFEFEF;
+	border-top:none;
+}
+#buddypress #item-nav div.item-list-tabs ul li a{
+	border-right:none;
+}
+#item-admins h5, #item-admins h5 a{color:#444;}
+.reviewlist.commentlist .comment,
+#item-admins h3{
+	color:#444;
+	border-bottom:1px solid #EFEFEF;
+}
+#buddypress div.item-list-tabs ul li:hover a, #buddypress div.item-list-tabs ul li:hover span,
+a.page-numbers:hover, .pagination a:hover,.course_timeline li:hover a, 
+.course_timeline li.active a,
+.course_timeline li.done a{
+	color:#222 !important;
+}
+.course_timeline li > span{background: #FFF;}
+.course_timeline li a,
+.course_timeline h4, .course_timeline li a,
+.unit_prevnext a,.countdown,.ques_link,#question #submit{
+	color:#666;
+}
+.widget.pricing, .course_timeline h4,.quiz_details{
+	border:1px solid #EFEFEF;
+}
+.unit_prevnext{
+	border:1px solid #EFEFEF !important;
+	margin:20px 0;
+}
+.course_timeline.accordion .section:after{color:#EFEFEF;}
+.course_timeline h4{
+	border-top:1px solid #EFEFEF;
+	border-bottom:1px solid #EFEFEF;
+}
+.course_timeline ul li.section:first-child h4{
+	border-top:none;
+}
+.course_timeline ul li.section:last-child h4{border-bottom:none;}
+.course_timeline, .course_timeline li.unit_line, .course_timeline li > span, .quiz_timeline .timeline_wrapper{
+	border-color:#EFEFEF !important;
+}
+
+/** Home section blocks ===*/
+.stripe.homecounter{
+	margin:60px 0  30px;
+}
+
+.sectionmainblock .parallax_content{
+	top:60px;
+	text-align: center;
+}
+.sectionmainblock i{
+	font-size: 128px;
+  color: #FFF;
+  line-height: 0;
+}
+.sectionmainblock h2 a{
+	font-size: 32px;
+    color: #FFF;
+}
+
+.sectionblock+style+.sectionblock{
+	margin-top:30px;
+}
+.sectionblock .parallax_content{
+	text-align: center;
+}
+.sectionblock i{
+	font-size: 64px;
+  color: #FFF;
+  line-height: 0;
+}
+.sectionblock h2 a{
+	font-size: 24px;
+    color: #FFF;
+}
+
+.block.modern_course{
+  border: 1px solid #EFEFEF;
+  border-radius: 2px;
+}
+
+.block.modern_course .block_content {
+  position: relative;
+  padding: 5px 15px 5px;
+}
+
+.block.modern_course h4+span{
+  font-size: 12px;
+  color: #bbb;
+  font-style: italic;
+  line-height:1.2;
+}
+.block.modern_course .course_meta{
+	color:#bbb;
+	margin-top:20px;
+        line-height:2;
+}
+.block.modern_course .course_meta i{
+  font-size: 16px;
+  float: left;
+  margin-right: 5px;	
+}
+.block.modern_course .course_meta strong{
+  float: right;
+  color: #70c989;
+}
+
+.dash-widget{border:1px solid #EFEFEF;}
+.dash-widget .dash_widget_title{background:none;border-bottom:1px solid #EFEFEF;}
+#buddypress div#item-header div#item-header-content{color:#bbb;}

@@ -1,0 +1,8426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:44+0530\n"
+"PO-Revision-Date: 2017-02-01 14:44+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "回复："
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "查看线索/链接"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View"
+msgstr "查看"
+
+# @ vibe
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "评论<span>%s</span>"
+
+# @ vibe
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "收藏"
+
+# @ vibe
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "删除收藏"
+
+# @ vibe
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "文章"
+
+# @ vibe
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "或按ESC键取消"
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "给大家全部展示活动"
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "全部会员 <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "只显示好友活动"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "我的好友 <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "显示我所在群组的活动"
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "我的群组 <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "该活动我已标注并收藏"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "我的收藏 <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "我一直期待的活动。"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "关注"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s  最新"
+msgstr[1] "%s  最新"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "博客地址"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "博客地址"
+
+# @ vibe
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "展示:"
+
+# @ vibe
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "全部内容"
+
+# @ vibe
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "更新"
+
+# @ vibe
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "文章"
+
+# @ vibe
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "评论"
+
+# @ vibe
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "论坛主题"
+
+# @ vibe
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "论坛回复"
+
+# @ vibe
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "新群组"
+
+# @ vibe
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "群组会员"
+
+# @ vibe
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "好友"
+
+# @ vibe
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "新会员"
+
+# @ vibe
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "课程讲师"
+
+# @ vibe
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "没有相应讲师"
+
+# @ vibe
+#: archive.php:3
+msgid "Permission denied"
+msgstr "权限被拒绝"
+
+# @ vibe
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr "正在学习课程的学生总数"
+
+# @ vibe
+#: author-course.php:57
+msgid "Average Rating"
+msgstr "平均成绩是"
+
+# @ vibe
+#: author.php:18
+msgid "All posts by "
+msgstr "查看全部文章"
+
+# @ default
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "查看全部文章从 %s"
+
+# @ vibe
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "阅读更多"
+
+# @ vibe
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "抱歉，无法找到该网站"
+
+# @ vibe
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "网站目录"
+
+# @ vibe
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "网站注册目前已停用"
+
+# @ vibe
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "站点 <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "我的站点 <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "创建站点"
+
+# @ vibe
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "排序："
+
+# @ vibe
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "最后活动"
+
+# @ vibe
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "最新的"
+
+# @ vibe
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "字母顺序"
+
+# @ vibe
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr "无效的证书代码"
+
+# @ vibe
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "毕业证书"
+
+# @ vibe
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "奖励"
+
+# @ vibe
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "顺利完成全部课程"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ vibe
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "姓名"
+
+# @ vibe
+# @ pmpro
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "邮箱"
+
+# @ vibe
+#: comments.php:29
+msgid "Comment"
+msgstr "评论"
+
+# @ vibe
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "网址"
+
+# @ vibe
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "文章预览"
+
+# @ vibe
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "写预览意见"
+
+# @ vibe
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "课程预览"
+
+# @ vibe
+#: course-review.php:74
+msgid "ratings"
+msgstr "排行"
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ vibe
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "没有找到该课程的评论"
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ vibe
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "更多"
+
+# @ vibe
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "较少"
+
+# @ vibe
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr "学生入学"
+
+# @ vibe
+#: footer.php:19
+msgid "top"
+msgstr "顶部"
+
+# @ vibe
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "话题"
+
+# @ vibe
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "新鲜度"
+
+# @ vibe
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "本文章永久链接"
+
+# @ vibe
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "启动由 %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "在 %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "抱歉，该论坛无法搜索到该话题"
+
+# @ vibe
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "论坛目录"
+
+# @ vibe
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "新话题"
+
+# @ vibe
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "全部话题 <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "我的话题 <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "大多数贴"
+
+# @ vibe
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "无回复的"
+
+# @ vibe
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "创建新帖:"
+
+# @ vibe
+#: forums/index.php:107
+msgid "Title:"
+msgstr "标题:"
+
+# @ vibe
+#: forums/index.php:110
+msgid "Content:"
+msgstr "内容:"
+
+# @ vibe
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "标签 (逗号分隔):"
+
+# @ vibe
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "群论坛的文章:"
+
+# @ vibe
+#: forums/index.php:119
+msgid "----"
+msgstr "----"
+
+# @ vibe
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "文章话题"
+
+# @ vibe
+# @ pmpro
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "取消"
+
+# @ vibe
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"你目前不属于任何一个论坛组，你无法发布文章或话题。要发布文章请先选择你喜欢的"
+"群组，如果该群组不存在，为何不 <a href='%s'> 创建一个新的群组 </a>? 当你加入"
+"或创建了一个群组便可以再该群组发布文章。"
+
+# @ vibe
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "只允许讲师建立群组"
+
+# @ vibe
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "只允许管理员建立群组"
+
+# @ vibe
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "群组名 (必填)"
+
+# @ vibe
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "群组描述 (必填)"
+
+# @ vibe
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "隐私选项"
+
+# @ vibe
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "该群为公共群"
+
+# @ vibe
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "成员均可加入本群组"
+
+# @ vibe
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr "在群组可在群组目录以及搜索中找到"
+
+# @ vibe
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr "站点成员可查看群组内容以及活动"
+
+# @ vibe
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "该群为私人群"
+
+# @ vibe
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "通过申请后可加入该群"
+
+# @ vibe
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr "群组内容只对会员可见"
+
+# @ vibe
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "该群为隐身群组"
+
+# @ vibe
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr "收到邀请才可加入该群组"
+
+# @ vibe
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr "使该群组可在群组目录以及搜索中无法显示"
+
+# @ vibe
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "群组邀请"
+
+# @ vibe
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "本群组哪位成员能邀请其他人加入?"
+
+# @ vibe
+#: groups/create.php:107
+msgid "All group members"
+msgstr "全体群组成员"
+
+# @ vibe
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "群组管理和版主"
+
+# @ vibe
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "群组管理员"
+
+# @ vibe
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "群论坛"
+
+# @ vibe
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "群组有论坛么?"
+
+# @ vibe
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "启用论坛"
+
+# @ vibe
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong> 系统管理员请注意: </strong>群组论坛需要 <a href=\"%s\"> 正确的安装以"
+"及配置 </a>bbPress插件."
+
+# @ vibe
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr "上传图片作为本群组的头像。图像将显示在群的主页面，并在搜索结果中显示。"
+
+# @ vibe
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "上传图像"
+
+# @ vibe
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "跳过头像上传，请点击 \"下一步\"按钮"
+
+# @ vibe
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "修剪群头像"
+
+# @ vibe
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "修剪头像"
+
+# @ vibe
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "头像预览"
+
+# @ vibe
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "修剪图像"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "从好友列表中邀请"
+
+# @ vibe
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "删除邀请"
+
+# @ vibe
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr "当你邀请成为好友后就可以邀请他们加入你的群组中。"
+
+# @ vibe
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "返回上一步"
+
+# @ vibe
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "下一步"
+
+# @ vibe
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "继续创建群组"
+
+# @ vibe
+#: groups/create.php:329
+msgid "Finish"
+msgstr "完成"
+
+# @ vibe
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "激活 %s"
+
+# @ vibe
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "版主"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ vibe
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "回车进行搜索..."
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+# @ vibe
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr "(编辑)"
+
+# @ vibe
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+# @ vibe
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr "安全检查失败。请联络管理员。"
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr "全部笔记&讨论"
+
+# @ vibe
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr "全部讨论"
+
+# @ vibe
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr "单元笔记"
+
+# @ vibe
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr "单元讨论"
+
+# @ vibe
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr "我的讨论"
+
+# @ vibe
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr "我的笔记"
+
+# @ vibe
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr "未发现公开评论！"
+
+# @ vibe
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr "本页面仅供成员访问"
+
+# @ vibe
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr "本页面仅供站点用户访问，请先注册以查看内容。"
+
+# @ vibe
+#: page-members.php:7
+msgid "Members only page"
+msgstr "仅限成员的页面"
+
+# @ vibe
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "账户已激活"
+
+# @ vibe
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "激活您的账户"
+
+# @ vibe
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr "您的账户已成功激活! 您的账户信息已经发送至您的邮箱。"
+
+# @ vibe
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"您的账户已成功激活! 您现在即可 <a href=\"%s\">登录</a>用您申请用户名和密码进"
+"行登录"
+
+# @ vibe
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "请提供一个有效的激活码."
+
+# @ vibe
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "激活码:"
+
+# @ tgmpa
+# @ vibe
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "激活"
+
+# @ vibe
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "用户目前无法注册."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "账户信息"
+
+# @ vibe
+# @ pmpro
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "用户名"
+
+# @ vibe
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(必须的)"
+
+# @ vibe
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "邮箱地址"
+
+# @ vibe
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "设立密码"
+
+# @ pmpro
+# @ vibe
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "确认密码"
+
+# @ vibe
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "文档信息"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr "更改"
+
+# @ vibe
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "谁能看到该文件?"
+
+# @ vibe
+#: registration/register.php:211
+msgid "Close"
+msgstr "关闭"
+
+# @ vibe
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "博客信息"
+
+# @ vibe
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "是的,我想创建一个新的站点"
+
+# @ vibe
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "博客URL"
+
+# @ vibe
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "站点名称"
+
+# @ vibe
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr "我想让我的网站能够被搜索引擎获取，并在互联网上展示"
+
+# @ vibe
+#: registration/register.php:324
+msgid "Yes"
+msgstr "是"
+
+# @ vibe
+#: registration/register.php:325
+msgid "No"
+msgstr "否"
+
+# @ vibe
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"您已成功创建您的账户！要正常使用，您将需要通过我们刚寄到的邮件来激活您的帐"
+"户。"
+
+# @ vibe
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr "您已成功创建您的账户！请用您的用户名和密码进行登录。"
+
+# @ vibe
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "搜索结果 \""
+
+# @ vibe
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr "搜索结果"
+
+# @ vibe
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "抱歉,没有搜到相关信息"
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ vibe
+#: single-course.php:38
+msgid "Home"
+msgstr "首页"
+
+# @ vibe
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "全部课程:"
+
+# @ vibe
+# @ buddypress
+#: single-course.php:40
+msgid "Members"
+msgstr "会员"
+
+# @ vibe
+#: single-course.php:48
+msgid "Group"
+msgstr "群组"
+
+# @ vibe
+#: single-course.php:55
+msgid "Forum"
+msgstr "论坛"
+
+# @ vibe
+#: single-course.php:60
+msgid "Admin"
+msgstr "管理员"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ vibe
+#: single-post.php:104
+msgid "Courses"
+msgstr "课程"
+
+# @ vibe
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "继续测试"
+
+# @ vibe
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "查看测试结果"
+
+# @ vibe
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "返回到课程"
+
+# @ vibe
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "开始测试"
+
+# @ vibe
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "学习课程并开始测试"
+
+# @ vibe
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "附件"
+
+# @ vibe
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "有问题？可在论坛中提问"
+
+# @ vibe
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr "查看全部"
+
+# @ vibe
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr "编辑"
+
+# @ vibe
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr "发布"
+
+# @ vibe
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr "变成私人类型"
+
+# @ vibe
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "回复"
+
+# @ vibe
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr "要求讲师回复"
+
+# @ vibe
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr "在弹出窗口打开"
+
+# @ vibe
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "删除"
+
+# @ vibe
+#: single-unit.php:152
+msgid "Add a note"
+msgstr "添加笔记"
+
+# @ vibe
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr "你"
+
+# @ vibe
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr "添加你的评论"
+
+# @ vibe
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "提交全部作业"
+
+# @ vibe
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "最高得分"
+
+# @ vibe
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "课程信息不正确，请联系管理员"
+
+# @ vibe
+#: start.php:74
+msgid " Minutes"
+msgstr "分"
+
+# @ vibe
+#: start.php:74
+msgid " seconds"
+msgstr "秒"
+
+# @ vibe
+#: start.php:76
+msgid " Hours"
+msgstr "时"
+
+# @ vibe
+#: start.php:76
+msgid " minutes"
+msgstr "分"
+
+# @ vibe
+#: start.php:78
+msgid " Days"
+msgstr "天"
+
+# @ vibe
+#: start.php:78
+msgid " hours"
+msgstr "时"
+
+# @ vibe
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "课程目录未设置"
+
+# @ vibe
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "课程目录未设置"
+
+# @ vibe
+#: start.php:137
+msgid "Start Course"
+msgstr "开始课程"
+
+# @ vibe
+#: start.php:155
+msgid "Previous Quiz"
+msgstr "上个测试题"
+
+# @ vibe
+#: start.php:157
+msgid "Previous Unit"
+msgstr "上个单元"
+
+# @ vibe
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr "检查结果"
+
+# @ vibe
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "标记本单元结束"
+
+# @ vibe
+#: start.php:222
+msgid "Next Quiz"
+msgstr "下个测试题"
+
+# @ vibe
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "下个单元"
+
+# @ vibe
+#: start.php:271
+msgid "Add a Note"
+msgstr "添加笔记"
+
+# @ vibe
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "返回到课程"
+
+# @ vibe
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "预览课程"
+
+# @ vibe
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "完成课程"
+
+# @ vibe
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "全部课程 <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "我的课程 <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "指导课程 <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr "排列方式"
+
+# @ vibe
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "最新发布"
+
+# @ vibe
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "最多成员"
+
+# @ vibe
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "最高评分"
+
+# @ vibe
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "全部群组<span>%s</span>"
+
+# @ vibe
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "创建群组"
+
+# @ vibe
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "最新建立"
+
+# @ vibe
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "最新注册用户"
+
+# @ vibe
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "登录"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr "用户名"
+
+# @ vibe
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr "微博用户名"
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr "密码"
+
+# @ vibe
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr "新密码"
+
+# @ vibe
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr "忘记密码"
+
+# @ vibe
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr "记住我"
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr "注册"
+
+# @ vibe
+#: views/login_modal.php:29
+msgid "Register"
+msgstr "现在注册"
+
+# @ wplms_modern
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr "创建一个账户"
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ vibe
+# @ pmpro
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "密码"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+# @ vibe
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr "返回到课程"
+
+# @ vibe
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr "重复新密码"
+
+# @ vibe
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "搜索结果: &ldquo;%s&rdquo;"
+
+# @ vibe
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; 页面 %s"
+
+# @ vibe
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "未找到你选择的相关商品"
+
+# @ vibe
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "课程已包含"
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"您的购物车存在一些问题 (如上所示). 请返回到购物车并在结账支付前修复相关问题"
+
+# @ vibe
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "&larr; 返回购物车"
+
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "支付 &amp; 购物"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "账单地址"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "请登陆后才能支付"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "处理"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "您的订单"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "点击处理并继续"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "点击退出并更换用户登录"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "老顾客?"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "点击这里登录"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "老顾客?"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr "若您前期已经是我们的顾客，请在下方输入您的详细信息"
+
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr ""
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "顾客指引"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "输入信息并创建一个账户"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "无该商品"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "总计"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "购物车小计"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "优惠券"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "总计"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr "抱歉，似乎没有符合您的支付方式，请与我们联系，我们会尽快进行安排办理。"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "支付订单"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "寄送到不同地址？"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "附加信息"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr "请在付款方式上填写您的详细资料"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"抱歉,似乎没有找到符合您所在国家的支付方式.请与我们联系，我们会尽快进行安排办"
+"理。"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"您的浏览器不支持JavaScript, 请确保您在支付订单前点击 <em>全部更新 </em> 按"
+"钮，这有可能会导致您支付无效。"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "全部更新"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "订购"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "我已阅读并接受"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "条款&amp; 声明"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr "非常抱歉您的订单银行无法处理，商家已经拒绝您的订单。"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "请尝试再次进行购买或返回到您的账户页面"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "请尝试再次购买"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "支付"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "我的账户"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "非常感谢！您的订单已经受理"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "排列方式"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "日期"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "总计"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "支付方式"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "课程选购"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "选购全部课程"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "课程已订阅"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "课程 "
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "订阅"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "开始课程"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "请等待确认订单才可开始课程"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "请等待管理审核"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "活动"
+
+# @ vibe
+#~ msgid "Please enter some content to post."
+#~ msgstr "请输入文章内容"
+
+# @ vibe
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr "你发布的文章存在问题，请重试。"
+
+# @ vibe
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "请勿填写空白评论。"
+
+# @ vibe
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr "这个文章存在错误，请重试。"
+
+# @ vibe
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "删除存在错误，请重试。"
+
+# @ vibe
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr "%s 已申请加入该组，发送邀请并自动加入该组中。"
+
+# @ vibe
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "关系不能取消"
+
+# @ vibe
+#~ msgid "Add Friend"
+#~ msgstr "加为好友"
+
+# @ vibe
+#~ msgid " Friendship could not be requested."
+#~ msgstr "无法申请为好友"
+
+# @ vibe
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "取消好友申请"
+
+# @ vibe
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "加为好友的申请无法取消"
+
+# @ vibe
+#~ msgid "Request Pending"
+#~ msgstr "等待申请"
+
+# @ vibe
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr "申请存在问题，请重试。"
+
+# @ vibe
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr "拒绝申请有问题，请重试。"
+
+# @ vibe
+#~ msgid "Error joining group"
+#~ msgstr "加入群组存在错误"
+
+# @ vibe
+#~ msgid "Leave Group"
+#~ msgstr "离开该群组"
+
+# @ vibe
+#~ msgid "Error requesting membership"
+#~ msgstr "申请会员存在错误"
+
+# @ vibe
+#~ msgid "Membership Requested"
+#~ msgstr "会员申请"
+
+# @ vibe
+#~ msgid "Error leaving group"
+#~ msgstr "离开群组存在错误"
+
+# @ vibe
+#~ msgid "Join Group"
+#~ msgstr "加入该群"
+
+# @ vibe
+#~ msgid "Request Membership"
+#~ msgstr "申请会员"
+
+# @ vibe
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "关闭通知是存在问题"
+
+# @ vibe
+#~ msgid "Sent %s"
+#~ msgstr "发送 %s"
+
+# @ vibe
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr "发送回复存在问题，请重试"
+
+# @ vibe
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "标记信息为未读存时有问题。"
+
+# @ vibe
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "标记信息为未读存时有问题。"
+
+# @ vibe
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "删除消息存在问题。"
+
+# @ vibe
+#~ msgid "Messages deleted."
+#~ msgstr "信息已删除"
+
+# @ vibe
+#~ msgid "Load More"
+#~ msgstr "载入更多"
+
+# @ vibe
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr "抱歉，暂时没有找到活动，请重新筛选。"
+
+# @ vibe
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> 已回复<a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+
+# @ vibe
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+# @ vibe
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "有什么最新的 %s, %s?"
+
+# @ vibe
+#~ msgid "What's new, %s?"
+#~ msgstr "新鲜事, %s?"
+
+# @ vibe
+#~ msgid "Post Update"
+#~ msgstr "文章更新"
+
+# @ vibe
+#~ msgid "My Profile"
+#~ msgstr "我的资料"
+
+# @ vibe
+#~ msgid "Group : %s "
+#~ msgstr "群组"
+
+# @ vibe
+#~ msgid "Course : %s"
+#~ msgstr "被加入课程 %s"
+
+# @ vibe
+#~ msgid "Save Answer"
+#~ msgstr "保存答案"
+
+# @ vibe
+#~ msgid "Answer"
+#~ msgstr "答案"
+
+# @ vibe
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "上个问题的答案"
+
+# @ vibe
+#~ msgid "Clear Answer"
+#~ msgstr "清除答案"
+
+# @ vibe
+#~ msgid "Clear saved Answer"
+#~ msgstr "清除已保存的答案"
+
+#~ msgctxt "name of assignment author"
+#~ msgid "By %s"
+#~ msgstr "学生 %1$s 在课程 %3$s 中获得了 %2$s"
+
+# @ vibe
+#~ msgid "Assignment Instructor"
+#~ msgstr "作业结果"
+
+# @ vibe
+#~ msgid "Course"
+#~ msgstr "课程"
+
+# @ vibe
+#~ msgid "My Marks"
+#~ msgstr "我的成绩"
+
+# @ vibe
+#~ msgid "Total Marks"
+#~ msgstr "总成绩 : "
+
+# @ vibe
+#~ msgid "Check results"
+#~ msgstr "检查答案"
+
+#~ msgid "UNDER EVALUATION"
+#~ msgstr "评估中"
+
+# @ vibe
+#~ msgid "All Events in "
+#~ msgstr "全部活动事件"
+
+# @ vibe
+#~ msgid "Answer Assignment"
+#~ msgstr "回答作业"
+
+# @ vibe
+#~ msgid "Assignment submitted !"
+#~ msgstr "作业已提交！"
+
+# @ vibe
+#~ msgid "Submit Assignment"
+#~ msgstr "提交作业"
+
+# @ vibe
+#~ msgid "Upload Assignment"
+#~ msgstr "上传作业"
+
+# @ vibe
+#~ msgctxt "%s is Possessive, Author's profile"
+#~ msgid "View %s profile"
+#~ msgstr "查看档案"
+
+# @ wplms_modern
+#~ msgid "%s profile"
+#~ msgstr "%s 档案"
+
+# @ vibe
+#~ msgid "All Forums directory"
+#~ msgstr "论坛目录"
+
+# @ vibe
+#~ msgctxt "Back to course button on forums"
+#~ msgid "Back to course"
+#~ msgstr "返回到课程"
+
+# @ vibe
+#~ msgid "Topics"
+#~ msgstr "话题"
+
+# @ vibe
+#~ msgid "Replies"
+#~ msgstr "发现推文中的回复"
+
+# @ vibe
+#~ msgid "in reply to: "
+#~ msgstr "回复给："
+
+# @ vibe
+#~ msgid "Started by: %1$s"
+#~ msgstr "由 %1$s 发起"
+
+#~ msgctxt "by post author"
+#~ msgid "by %s"
+#~ msgstr "学生 %1$s 在课程 %3$s 中获得了 %2$s"
+
+# @ vibe
+#~ msgid "Only Instructors can create sites"
+#~ msgstr "只允许讲师建立群组"
+
+# @ vibe
+#~ msgid "Only Admins can create sites"
+#~ msgstr "只允许管理员建立群组"
+
+# @ vibe
+#~ msgid " responses on \""
+#~ msgstr "回复于\""
+
+# @ vibe
+#~ msgid "Leave a Message"
+#~ msgstr "留言"
+
+# @ wplms_modern
+#~ msgid "N.A"
+#~ msgstr "N/A"
+
+# @ vibe
+#~ msgid "Reviews disabled for course"
+#~ msgstr "没有找到该课程的评论"
+
+# @ vibe
+#~ msgid "You have not subscribed to any courses."
+#~ msgstr "你还没有订阅任何课程"
+
+# @ vibe
+#~ msgid "You have not created any Course."
+#~ msgstr "您没有创建任何课程。"
+
+# @ vibe
+#~ msgid "All Activity"
+#~ msgstr "全部活动"
+
+# @ vibe
+# @ buddypress
+#~ msgctxt "Course admin tab name"
+#~ msgid "Members"
+#~ msgstr "成员"
+
+# @ vibe
+#~ msgctxt "Course admin tab name"
+#~ msgid "Submissions"
+#~ msgstr "提交"
+
+# @ vibe
+#~ msgctxt "Course admin tab name"
+#~ msgid "Stats"
+#~ msgstr "统计"
+
+# @ vibe
+#~ msgid "Total number of Students in course"
+#~ msgstr "课程全部学员数"
+
+# @ vibe
+#~ msgid "Reset Course for User"
+#~ msgstr "为用户重置课程"
+
+# @ vibe
+#~ msgid "See Course stats for User"
+#~ msgstr "查看用户课程成绩"
+
+# @ vibe
+#~ msgid "See User Activity in Course"
+#~ msgstr "查看参见课程活动的用户"
+
+# @ vibe
+#~ msgid "Remove User from this Course"
+#~ msgstr "确认"
+
+# @ vibe
+#~ msgid "No Students found."
+#~ msgstr "还未有学员"
+
+#~ msgid "Viewing page %d of %d "
+#~ msgstr "查看页面 %d/%d"
+
+#~ msgctxt "pagination number course admin"
+#~ msgid "1"
+#~ msgstr "%1$s 在 %2$s"
+
+# @ vibe
+#~ msgid "BULK ACTIONS"
+#~ msgstr "批量操作"
+
+# @ vibe
+#~ msgid "Instructors"
+#~ msgstr "讲师"
+
+# @ vibe
+#~ msgid "Course Curriculum"
+#~ msgstr "课程概要"
+
+# @ vibe
+#~ msgctxt "Error message for no curriculum found in course curriculum "
+#~ msgid "No curriculum found !"
+#~ msgstr "沒有課程定位"
+
+# @ vibe
+#~ msgid "Events"
+#~ msgstr "事件"
+
+# @ vibe
+#~ msgid "Course Forums"
+#~ msgstr "课程论坛"
+
+# @ vibe
+#~ msgctxt "No members notification in course - members"
+#~ msgid "No members found in this course."
+#~ msgstr "没有找到该课程的评论"
+
+# @ vibe
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "学习课程总人数"
+
+# @ vibe
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "学员平均通过率"
+
+# @ vibe
+#~ msgid "out of 100"
+#~ msgstr "百分之"
+
+# @ vibe
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "获得徽章学员数"
+
+# @ vibe
+#~ msgid "Number of Passed Students"
+#~ msgstr "完成课程学员数"
+
+# @ vibe
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "学员平均成绩"
+
+# @ vibe
+#~ msgid "No curriculum defined"
+#~ msgstr "沒有課程定位"
+
+# @ vibe
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "测试平均成绩"
+
+# @ vibe
+#~ msgid "Calculate :"
+#~ msgstr "计算:"
+
+# @ vibe
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "计算课程统计表"
+
+# @ vibe
+#~ msgctxt "Quiz Submissions in course/admin/submissions"
+#~ msgid "Quiz Submissions <span>%d</span>"
+#~ msgstr "我的站点 <span>%s</span>"
+
+# @ vibe
+#~ msgctxt "Course Submissions in course/admin/submissions"
+#~ msgid "Course Submissions <span>%d</span>"
+#~ msgstr "我的课程 <span>%s</span>"
+
+# @ wplms_modern
+#~ msgid "PAGE CANNOT BE ACCESSED : MISSING EMAIL VARS "
+#~ msgstr "无法访问页面：缺少 Email 变量"
+
+# @ vibe
+#~ msgctxt "Group creation title"
+#~ msgid "Create a New Group"
+#~ msgstr "创建群组"
+
+# @ vibe
+#~ msgctxt "Create group subtitle"
+#~ msgid "Add a new group in group directory"
+#~ msgstr "在群组目录中显示按钮"
+
+# @ vibe
+#~ msgid "Groups Directory"
+#~ msgstr "群组目录"
+
+# @ vibe
+#~ msgid "There were no groups found."
+#~ msgstr "没有找到群组"
+
+# @ vibe
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "通过邮件通知群组成员"
+
+# @ vibe
+#~ msgid "Save Changes"
+#~ msgstr "保存修改"
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr "若想删除目前的头像并不想上传新的头像请直接点击删除头像按钮"
+
+# @ vibe
+#~ msgid "Delete Avatar"
+#~ msgstr "删除头像"
+
+# @ vibe
+#~ msgid "Crop Avatar"
+#~ msgstr "修剪头像"
+
+# @ vibe
+#~ msgid "Change Cover Image"
+#~ msgstr "修改课程状态"
+
+# @ vibe
+#~ msgid "Administrators"
+#~ msgstr "管理员"
+
+# @ vibe
+#~ msgid "Profile picture of %s"
+#~ msgstr "文档的图片 %s"
+
+# @ vibe
+#~ msgid "Demote to Member"
+#~ msgstr "降级为普通成员"
+
+# @ vibe
+#~ msgid "Promote to Admin"
+#~ msgstr "推送给管理员"
+
+# @ vibe
+#~ msgid "(banned)"
+#~ msgstr "(禁止)"
+
+# @ vibe
+#~ msgid "Unban this member"
+#~ msgstr "允许该成员"
+
+# @ vibe
+#~ msgid "Remove Ban"
+#~ msgstr "删除禁止"
+
+# @ vibe
+#~ msgid "Kick and ban this member"
+#~ msgstr "禁止并剔出该成员"
+
+# @ vibe
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "踢出&amp; 禁止"
+
+# @ vibe
+#~ msgid "Promote to Mod"
+#~ msgstr "推送给模块"
+
+# @ vibe
+#~ msgid "Remove this member"
+#~ msgstr "删除该成员"
+
+# @ vibe
+#~ msgid "Remove from group"
+#~ msgstr "从群组中删除"
+
+# @ vibe
+#~ msgid "This group has no members."
+#~ msgstr "该群组没有任何成员"
+
+# @ vibe
+#~ msgid "Accept"
+#~ msgstr "接受"
+
+# @ vibe
+#~ msgid "Reject"
+#~ msgstr "拒绝"
+
+# @ vibe
+#~ msgid "There are no pending membership requests."
+#~ msgstr "暂无会员申请待办理"
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr "警告: 删除该群组将会删除全部内容，没有任何方法可恢复，请谨慎选择。"
+
+# @ vibe
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "我已了解删除群组的潜在危险"
+
+# @ vibe
+#~ msgid "Delete Group"
+#~ msgstr "删除群组"
+
+# @ vibe
+#~ msgid "Forum Directory"
+#~ msgstr "论坛目录"
+
+# @ vibe
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr "当你创建一个新的话题时系统会自动让你加入该群组中"
+
+# @ vibe
+#~ msgid "Post a New Topic:"
+#~ msgstr "发布新的话题:"
+
+# @ vibe
+#~ msgid "Edit:"
+#~ msgstr "编辑"
+
+# @ vibe
+#~ msgid "This topic does not exist."
+#~ msgstr "该话题不存在."
+
+# @ vibe
+#~ msgid "New Reply"
+#~ msgstr "最新回复"
+
+# @ vibe
+#~ msgid "Topic tags:"
+#~ msgstr "话题标签:"
+
+# @ vibe
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s 评论到 %2$s:"
+
+# @ vibe
+#~ msgid "There are no posts for this topic."
+#~ msgstr "没有该话题的相关文章"
+
+# @ vibe
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr "当你回复话题后系统会自动让你加入该群组中"
+
+# @ vibe
+#~ msgid "Add a reply:"
+#~ msgstr "增加回复:"
+
+# @ vibe
+#~ msgid "Post Reply"
+#~ msgstr "发布回帖"
+
+# @ vibe
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr "该话题已关闭，回帖将不再受理"
+
+# @ vibe
+#~ msgid "Description"
+#~ msgstr "说明"
+
+# @ buddypress
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "你正申请成为该群组的成员 '%s'."
+
+# @ vibe
+#~ msgid "Comments (optional)"
+#~ msgstr "评论 (可选的)"
+
+# @ vibe
+#~ msgid "Send Invites"
+#~ msgstr "发送邀请"
+
+# @ vibe
+#~ msgid "LOGIN"
+#~ msgstr "登录"
+
+# @ wplms_modern
+#~ msgid "Create an account"
+#~ msgstr "创建新账户"
+
+# @ vibe
+#~ msgid "Sign Up"
+#~ msgstr "注册"
+
+# @ wplms_modern
+#~ msgid "<a href=\"%s\" class=\"vbpregister\" title=\""
+#~ msgstr "<a href=\"%s\" class=\"vbpregister\" title=\""
+
+# @ vibe
+#~ msgid "Draft courses"
+#~ msgstr "返回到课程"
+
+# @ vibe
+#~ msgid "Submitted for Approval"
+#~ msgstr "提交"
+
+# @ vibe
+#~ msgid "Published Courses"
+#~ msgstr "查看已完成课程"
+
+# @ vibe
+#~ msgctxt "Course Status filter in Profile My courses section"
+#~ msgid "Pursuing courses"
+#~ msgstr "购买课程的学员"
+
+# @ vibe
+#~ msgctxt "Course Status filter in Profile My courses section"
+#~ msgid "Finished Courses"
+#~ msgstr "让学生能够查看已完成课程的安全区域"
+
+# @ vibe
+#~ msgctxt "Course Status filter in Profile My courses section"
+#~ msgid "Active courses"
+#~ msgstr "返回到课程"
+
+# @ vibe
+#~ msgctxt "Course Status filter in Profile My courses section"
+#~ msgid "Expired courses"
+#~ msgstr "免费课程"
+
+# @ vibe
+#~ msgctxt "filter in Profile My courses section"
+#~ msgid "Newly Published"
+#~ msgstr "最新发布"
+
+# @ vibe
+#~ msgctxt "filter in Profile My courses section"
+#~ msgid "Alphabetical"
+#~ msgstr "字母"
+
+# @ vibe
+#~ msgctxt "filter in Profile My courses section"
+#~ msgid "Start Date"
+#~ msgstr "开始日期"
+
+# @ vibe
+#~ msgid "Become an Instructor"
+#~ msgstr "成为讲师"
+
+# @ vibe
+#~ msgid "UNITS"
+#~ msgstr "单元"
+
+# @ wplms_modern
+#~ msgid "QUESTIONS"
+#~ msgstr "问题"
+
+# @ vibe
+#~ msgid "DIRECT ACCESS TO %s IS NOT ALLOWED"
+#~ msgstr "不允许直接访问 %s"
+
+# @ vibe
+#~ msgid "COURSE : "
+#~ msgstr "课程: "
+
+# @ vibe
+#~ msgid "Your account is now active!"
+#~ msgstr "插件未启用"
+
+# @ vibe
+#~ msgid "My Orders"
+#~ msgstr "我的订单"
+
+# @ vibe
+#~ msgid "Edit Account Details"
+#~ msgstr "账户信息"
+
+# @ vibe
+#~ msgid "My Memberships"
+#~ msgstr "群组会员"
+
+# @ vibe
+#~ msgid "Display Order"
+#~ msgstr "显示最新消息"
+
+# @ vibe
+#~ msgid "Thumbnail"
+#~ msgstr "缩略图"
+
+# @ vibe
+#~ msgid "Upload/Add image"
+#~ msgstr "上传图像"
+
+# @ vibe
+#~ msgid "Remove image"
+#~ msgstr "删除禁止"
+
+# @ vibe
+#~ msgid "Choose an image"
+#~ msgstr "设立密码"
+
+# @ vibe
+#~ msgid "Badges"
+#~ msgstr "徽章"
+
+# @ vibe
+#~ msgid "Certifications"
+#~ msgstr "证书"
+
+# @ vibe
+#~ msgid "Check all Courses created by "
+#~ msgstr "查看全部课程创建人"
+
+# @ vibe
+#~ msgid "Course "
+#~ msgstr "课程: "
+
+# @ vibe
+#~ msgid "My Courses"
+#~ msgstr "我的课程"
+
+# @ vibe
+#~ msgid "No course found"
+#~ msgstr "评论"
+
+# @ vibe
+#~ msgctxt "Select course in Buddydrive options"
+#~ msgid "Select a course"
+#~ msgstr "选择一个课程级别"
+
+# @ vibe
+#~ msgid "Course Only"
+#~ msgstr "课程: "
+
+# @ vibe
+#~ msgid "Link"
+#~ msgstr "链接"
+
+# @ vibe
+#~ msgid "Share"
+#~ msgstr "分享"
+
+# @ vibe
+#~ msgid "Add to Course"
+#~ msgstr "添加新的课程"
+
+# @ vibe
+#~ msgid "Select Course"
+#~ msgstr "选择课程"
+
+# @ pmpro
+#~ msgid "Course component is deactivated, please contact the administrator."
+#~ msgstr "若您的账户未激活，请联系站点负责人"
+
+# @ vibe
+#~ msgid "File can not be accessed"
+#~ msgstr "关系不能取消"
+
+# @ vibe
+#~ msgid "Course Drive slug"
+#~ msgstr "选择课程级别"
+
+# @ vibe
+#~ msgid "All Files"
+#~ msgstr "全部未完成购买的订单"
+
+# @ vibe
+#~ msgid "New Folder"
+#~ msgstr "新顾客"
+
+# @ vibe
+#~ msgid "Privacy"
+#~ msgstr "启用课程论坛隐私设置"
+
+# @ tgmpa
+#~ msgid "Type"
+#~ msgstr "类型"
+
+# @ vibe
+#~ msgid "Last edit"
+#~ msgstr "最后一篇微博"
+
+# @ vibe
+#~ msgid "Sorry, there was no %s items found."
+#~ msgstr "抱歉，无法找到该网站"
+
+# @ vibe
+#~ msgid "Upload type"
+#~ msgstr "上传字体"
+
+# @ vibe
+#~ msgid "Type answer"
+#~ msgstr "输入答案"
+
+# @ vibe
+#~ msgid "Course Drive"
+#~ msgstr "选择课程级别"
+
+# @ buddypress
+#~ msgid "Drive Visibility"
+#~ msgstr "可见"
+
+# @ vibe
+#~ msgid "Everyone"
+#~ msgstr "全部内容"
+
+# @ pmpro
+#~ msgid "Logged in Users"
+#~ msgstr "在这登录"
+
+# @ vibe
+#~ msgid "Course Users"
+#~ msgstr "课程论坛"
+
+# @ vibe
+#~ msgid "Instructors and Admins"
+#~ msgstr "讲师可添加学员"
+
+# @ vibe
+#~ msgid "Default"
+#~ msgstr "默认时区是 %s"
+
+# @ vibe
+#~ msgid "Minimal"
+#~ msgstr "最小"
+
+# @ vibe
+#~ msgid "Modern"
+#~ msgstr "版主"
+
+# @ vibe
+#~ msgid "Container"
+#~ msgstr "继续测试"
+
+# @ vibe
+#~ msgid "Boxed"
+#~ msgstr "正方形"
+
+# @ vibe
+#~ msgid "Generic"
+#~ msgstr "常规设置"
+
+#~ msgid "FullScreen"
+#~ msgstr "容器内全屏条纹"
+
+# @ vibe
+#~ msgid "Popup"
+#~ msgstr "弹出窗口"
+
+# @ vibe
+#~ msgid "Single Sidebar Footer"
+#~ msgstr "选择侧边栏"
+
+# @ vibe
+#~ msgid "Footer Bottom"
+#~ msgstr "底部按钮"
+
+# @ vibe
+#~ msgid "Copyright Only"
+#~ msgstr "版权信息"
+
+# @ vibe
+#~ msgid "Author Social profile information"
+#~ msgstr "作者社交信息"
+
+# @ vibe
+#~ msgid "Add Social Information"
+#~ msgstr "添加社交信息"
+
+# @ vibe
+#~ msgid "Enter URL for social icon."
+#~ msgstr "输入社交图标的URL"
+
+# @ vibe
+#~ msgid "Share on "
+#~ msgstr "分享"
+
+# @ tgmpa
+#~ msgid "Status"
+#~ msgstr "状态"
+
+# @ vibe
+#~ msgid "User ID"
+#~ msgstr ""
+#~ "用户规则已经被成功映射。bbPress 坛主为 WordPress 管理员，bbPress 管理员和"
+#~ "版主等其它角色的 WordPress 规则为 %1$s。现在，您只能用您的 bbPress 身份登"
+#~ "录到您的 WordPress 博客中。目前，您需要使用第一个可用的管理员身份（用户"
+#~ "名：%2$s，用户 ID：%3$s）。"
+
+# @ wplms_modern
+#~ msgid "Last Logged in on "
+#~ msgstr "最后登入于"
+
+# @ vibe
+#~ msgid "Online"
+#~ msgstr "在线"
+
+# @ vibe
+#~ msgid "Offline"
+#~ msgstr "下线"
+
+# @ vibe
+#~ msgid "ID"
+#~ msgstr "ID"
+
+# @ vibe
+#~ msgid "Image"
+#~ msgstr "上传徽章图像"
+
+# @ vibe
+#~ msgid "Order"
+#~ msgstr "订购"
+
+# @ vibe
+#~ msgid "Upload title image."
+#~ msgstr "上传图像"
+
+# @ vibe
+#~ msgctxt "Directory Title format"
+#~ msgid "%s Directory - %s"
+#~ msgstr "论坛目录"
+
+# @ vibe
+#~ msgid "Course Categories"
+#~ msgstr "课程分类"
+
+# @ vibe
+#~ msgid "Course Category"
+#~ msgstr "课程分类"
+
+# @ pmpro
+#~ msgid "Quiz type"
+#~ msgstr "测试类型"
+
+# @ vibe
+#~ msgid "Unit Tag"
+#~ msgstr "单元已锁定"
+
+# @ vibe
+#~ msgid "Levels"
+#~ msgstr "级别"
+
+# @ vibe
+# @ pmpro
+#~ msgid "Level"
+#~ msgstr "级别"
+
+# @ buddypress
+#~ msgid "Locations"
+#~ msgstr "地点"
+
+# @ vibe
+#~ msgid "Location"
+#~ msgstr "地点"
+
+# @ vibe
+#~ msgid "Linkage"
+#~ msgstr "链接"
+
+# @ vibe
+#~ msgid "Discussion"
+#~ msgstr "讨论"
+
+# @ vibe
+#~ msgid "Manage"
+#~ msgstr "管理"
+
+# @ vibe
+#~ msgid "Load more (<span>%s</span>)"
+#~ msgstr "载入更多 (<span>%s</span>)"
+
+# @ vibe
+#~ msgid "Ask Question"
+#~ msgstr "提问"
+
+# @ vibe
+#~ msgid "Post Question"
+#~ msgstr "发布问题"
+
+# @ vibe
+#~ msgid "%s ago"
+#~ msgstr "%s 之前"
+
+# @ wplms_modern
+#~ msgid "REPLY"
+#~ msgstr "回复"
+
+# @ vibe
+#~ msgid "SEATS LEFT"
+#~ msgstr "剩余座位"
+
+# @ vibe
+#~ msgid "COURSE STARTS IN "
+#~ msgstr "课程开始日期"
+
+# @ vibe
+#~ msgid "STARTS IN "
+#~ msgstr "课程开始日期"
+
+# @ vibe
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "无限制访问"
+
+# @ vibe
+#~ msgid "UNLIMITED TIME"
+#~ msgstr "无限制时间"
+
+# @ vibe
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr "完成全部作业即可完成该单元的学习"
+
+# @ vibe
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr "完成视频/音频即可完成本单元"
+
+# @ vibe
+#~ msgid "Setup Menus"
+#~ msgstr "安装菜单"
+
+# @ vibe
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr "一些因素导致学员从课程中被删除"
+
+# @ vibe
+#~ msgid "TAKE THIS COURSE"
+#~ msgstr "选择这门课"
+
+# @ vibe
+#~ msgid "Page"
+#~ msgstr "页面"
+
+# @ vibe
+#~ msgid "of"
+#~ msgstr "之"
+
+# @ vibe
+#~ msgid "First"
+#~ msgstr "第一页"
+
+# @ vibe
+#~ msgid "Previous"
+#~ msgstr "上一页"
+
+# @ vibe
+#~ msgid "Next"
+#~ msgstr "下一页"
+
+# @ vibe
+#~ msgid "Last"
+#~ msgstr "最后一页"
+
+# @ vibe
+#~ msgid "Attachment"
+#~ msgstr "附件"
+
+# @ vibe
+#~ msgid "Seconds"
+#~ msgstr "秒"
+
+# @ vibe
+#~ msgid "Minutes"
+#~ msgstr "分"
+
+# @ vibe
+#~ msgid "Hours"
+#~ msgstr "时"
+
+# @ vibe
+#~ msgid "Days"
+#~ msgstr "天"
+
+# @ vibe
+#~ msgid "Weeks"
+#~ msgstr "周"
+
+# @ vibe
+#~ msgid "Months"
+#~ msgstr "月"
+
+# @ vibe
+#~ msgid "Years"
+#~ msgstr "年"
+
+# @ vibe
+#~ msgid "Requires completion of course : "
+#~ msgstr "要求完成课程："
+
+# @ vibe
+#~ msgid "All seats in course are full "
+#~ msgstr "课程中人数已满"
+
+# @ wplms_modern
+#~ msgid "Requested resource is not accessible "
+#~ msgstr "请求的资源无法访问"
+
+# @ vibe
+#~ msgid " LOGIN"
+#~ msgstr "登录"
+
+# @ vibe
+#~ msgid " REGISTER NOW"
+#~ msgstr "立即注册"
+
+# @ vibe
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "你必须登录之后才能学习该课程"
+
+# @ vibe
+#~ msgid "Add Students to Course"
+#~ msgstr "为课程添加学员"
+
+# @ vibe
+#~ msgid "Assign Badges/Certificates to Students"
+#~ msgstr "给学生指定徽章/证书"
+
+# @ vibe
+#~ msgid "Extend Subscription"
+#~ msgstr "扩大订阅量"
+
+# @ vibe
+#~ msgid "Change Course Status"
+#~ msgstr "修改课程状态"
+
+# @ wplms_modern
+#~ msgid "Security check failed !"
+#~ msgstr "安全检查失败"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "There was issue in retaking this course for the user. Please contact "
+#~ "admin."
+#~ msgstr "为用户重新学习本课程出现问题，请联系管理员"
+
+# @ wplms_modern
+#~ msgid "Security Error"
+#~ msgstr "安全错误"
+
+# @ vibe
+#~ msgid "SUBSCRIBED FOR FULL COURSE"
+#~ msgstr "订阅完整课程"
+
+# @ vibe
+#~ msgid "Download Stats"
+#~ msgstr "下载统计成绩"
+
+# @ vibe
+#~ msgid "Date (Joining)"
+#~ msgstr "日期 （加入）"
+
+# @ vibe
+#~ msgid "Date (Finish)"
+#~ msgstr "日程（完成）"
+
+# @ vibe
+#~ msgid "Student Name"
+#~ msgstr "学员名字"
+
+# @ vibe
+#~ msgid "Units Status"
+#~ msgstr "单元状态"
+
+# @ vibe
+#~ msgid "Quiz scores"
+#~ msgstr "测试成绩"
+
+# @ vibe
+#~ msgid "Badge"
+#~ msgstr "徽章"
+
+# @ vibe
+#~ msgid "Certificate"
+#~ msgstr "毕业证书"
+
+# @ vibe
+#~ msgid "Course Marks"
+#~ msgstr "课程得分"
+
+# @ vibe
+#~ msgid "All students"
+#~ msgstr "全部学员"
+
+# @ vibe
+#~ msgid "Students who finished the course"
+#~ msgstr "完成课程的学员"
+
+# @ vibe
+#~ msgid "Students pursuing the course"
+#~ msgstr "购买课程的学员"
+
+# @ vibe
+#~ msgid "Students who got a badge in the course"
+#~ msgstr "获得徽章的学员"
+
+# @ vibe
+#~ msgid "Students who got a certificate in the course"
+#~ msgstr "获得证书的学员"
+
+# @ vibe
+#~ msgid "Process Stats"
+#~ msgstr "进程统计"
+
+# @ vibe
+#~ msgid "Page %s"
+#~ msgstr "页面%s"
+
+# @ vibe
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr "LearnDash 激活。您可以禁用以下插件，以避免重复设置功能"
+
+# @ vibe
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "到 WP Admin ->插件 -> 安装插件"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "暂停Vibe 自定义类型"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "暂停Vibe 自定义模块"
+
+# @ vibe
+#~ msgid "Course Announcement"
+#~ msgstr "课程计数"
+
+# @ vibe
+#~ msgid "Course News"
+#~ msgstr "课程预览"
+
+# @ vibe
+#~ msgid "Course subscribed"
+#~ msgstr "课程已订阅"
+
+# @ vibe
+#~ msgid "Course started"
+#~ msgstr "已开始课程："
+
+# @ vibe
+#~ msgid "Course submitted"
+#~ msgstr "课程已提交"
+
+# @ vibe
+#~ msgid "Course Evaluated"
+#~ msgstr "课程已评估"
+
+# @ vibe
+#~ msgid "Course Reset"
+#~ msgstr "课程重置"
+
+# @ wplms_modern
+#~ msgid "Course Retake"
+#~ msgstr "重新学习课程"
+
+# @ vibe
+#~ msgid "Student Badge"
+#~ msgstr "学员名字"
+
+# @ vibe
+#~ msgid "Student Certificate"
+#~ msgstr "课程证书"
+
+# @ vibe
+#~ msgid "Course reviewed"
+#~ msgstr "课程预览"
+
+# @ vibe
+#~ msgid "Student Removed"
+#~ msgstr "学员名字"
+
+# @ vibe
+#~ msgid "Course Code applied"
+#~ msgstr "课程代码已应用"
+
+# @ vibe
+#~ msgid "Course subscription renewed"
+#~ msgstr "课程已订阅"
+
+# @ vibe
+#~ msgid "Unit Completed"
+#~ msgstr "单元完成锁定该单元"
+
+# @ tgmpa
+#~ msgid "Unit comment added"
+#~ msgstr "用户添加单元评论"
+
+# @ vibe
+#~ msgid "Submit Quiz"
+#~ msgstr "提交测试"
+
+# @ vibe
+#~ msgid "Quiz evaluated"
+#~ msgstr "测试结果"
+
+# @ vibe
+#~ msgid "Start Assignment"
+#~ msgstr "开始作业"
+
+# @ vibe
+#~ msgid "Assignment Evaluated"
+#~ msgstr "作业结果"
+
+# @ vibe
+#~ msgid "%s posted an update in the course %s"
+#~ msgstr "获得徽章的学员"
+
+# @ pmpro
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "News"
+#~ msgstr "最新消息"
+
+# @ vibe
+#~ msgid "Announcement"
+#~ msgstr "环境"
+
+# @ vibe
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "在管理员面板安装菜单"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Install Required Plugins"
+#~ msgstr "安装所需插件"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Install Plugins"
+#~ msgstr "安装插件"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "安装插件: %s"
+
+# @ vibe
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "插件API出现问题"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "返回并重新安装插件"
+
+# @ vibe
+# @ tgmpa
+#~ msgid "Plugin activated successfully."
+#~ msgstr "成功激活插件"
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "全部插件已成功安装并激活. %s"
+
+# @ vibe
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (无效)"
+
+# @ vibe
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (待处理)"
+
+# @ vibe
+#~ msgid "Edit Menu Item"
+#~ msgstr "编辑菜单按钮"
+
+# @ vibe
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ vibe
+#~ msgid "Navigation Label"
+#~ msgstr "导航标签"
+
+# @ vibe
+#~ msgid "Title Attribute"
+#~ msgstr "标题属性"
+
+# @ vibe
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "在新窗口/标签中打开链接"
+
+# @ vibe
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS 样式 (可选的)"
+
+# @ vibe
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "外部链接(XFN)"
+
+# @ default
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr "若当前主题支持它的描述将被显示在菜单中。"
+
+# @ vibe
+#~ msgid "Enable Mega Menu"
+#~ msgstr "启用Mega菜单小工具"
+
+# @ vibe
+#~ msgid "Sidebar"
+#~ msgstr "侧边栏"
+
+# @ vibe
+#~ msgid "Select Sidebar"
+#~ msgstr "选择侧边栏"
+
+#~ msgid "Taxonomy"
+#~ msgstr "设置分类法条目"
+
+# @ vibe
+#~ msgid "Hide Terms (comma separated slugs)"
+#~ msgstr "标签 (逗号分隔):"
+
+# @ vibe
+#~ msgid "Columns"
+#~ msgstr "纵列"
+
+# @ vibe
+#~ msgid "Original: %s"
+#~ msgstr "原始: %s"
+
+# @ vibe
+#~ msgid "UNIT"
+#~ msgstr "单元"
+
+# @ vibe
+#~ msgid "No comments found"
+#~ msgstr "未发现评论"
+
+# @ vibe
+#~ msgid "Not Allowed"
+#~ msgstr "不允许"
+
+# @ vibe
+#~ msgid "Unable to post"
+#~ msgstr "无法发布"
+
+# @ vibe
+#~ msgid "Instructor reply requested for unit %s paragraph %s"
+#~ msgstr "单元 %s 的段落 %s 需要教师的回复"
+
+# @ tgmpa
+#~ msgid "Something went wrong."
+#~ msgstr "出现问题"
+
+# @ tgmpa
+#~ msgid "Return to the dashboard"
+#~ msgstr "返回至操作面板"
+
+# @ tgmpa
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "全部插件已安装并成功激活. %1$s"
+
+# @ tgmpa
+#~ msgid "Dismiss this notice"
+#~ msgstr "删除该通知"
+
+# @ tgmpa
+#~ msgid "Return to the Dashboard"
+#~ msgstr "返回到仪表盘"
+
+# @ tgmpa
+#~ msgid "Private Repository"
+#~ msgstr "个人存储"
+
+# @ tgmpa
+#~ msgid "Pre-Packaged"
+#~ msgstr "预打包的"
+
+# @ tgmpa
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress存储"
+
+# @ tgmpa
+#~ msgid "Required"
+#~ msgstr "必须的"
+
+# @ tgmpa
+#~ msgid "Recommended"
+#~ msgstr "推荐的"
+
+# @ tgmpa
+#~ msgid "Not Installed"
+#~ msgstr "未安装"
+
+# @ tgmpa
+#~ msgid "Installed But Not Activated"
+#~ msgstr "已安装但未激活"
+
+# @ tgmpa
+#~ msgid "Install"
+#~ msgstr "安装"
+
+# @ tgmpa
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "没有插件安装或激活. <a href=\"%1$s\" title=\"Retornar ao Painel"
+#~ "\">Retornar ao Painel</a>"
+
+# @ tgmpa
+#~ msgid "Plugin"
+#~ msgstr "插件"
+
+# @ tgmpa
+#~ msgid "Source"
+#~ msgstr "资源"
+
+# @ tgmpa
+#~ msgid "No plugins are available to be installed at this time."
+#~ msgstr "目前已无插件可安装"
+
+# @ tgmpa
+#~ msgid "No plugins are available to be activated at this time."
+#~ msgstr "目前已无插件可激活"
+
+# @ tgmpa
+#~ msgid "Install package not available."
+#~ msgstr "安装包暂时不可用"
+
+# @ tgmpa
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr "下载安装包 <span class=\"代码\">%s</span>&#8230;"
+
+# @ tgmpa
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "打开安装包&#8230;"
+
+# @ tgmpa
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "安装插件&#8230;"
+
+# @ tgmpa
+#~ msgid "Plugin install failed."
+#~ msgstr "插件安装失败."
+
+# @ tgmpa
+#~ msgid "Plugin installed successfully."
+#~ msgstr "成功安装插件"
+
+# @ tgmpa
+#~ msgid "Plugin activation failed."
+#~ msgstr "插件激活失败"
+
+# @ tgmpa
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "安装发送错误 %1$s: <strong>%2$s</strong>."
+
+# @ tgmpa
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "正在安装的  %1$s 发送错误."
+
+# @ tgmpa
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr "正在安装，这将需要一段时间，请耐心等待"
+
+# @ tgmpa
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s 成功安装并激活"
+
+# @ tgmpa
+#~ msgid "Show Details"
+#~ msgstr "显示细节"
+
+# @ tgmpa
+#~ msgid "Hide Details"
+#~ msgstr "隐藏细节"
+
+# @ tgmpa
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "完成全部安装并激活成功"
+
+# @ tgmpa
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "安装并激活插件 %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr "正在安装，这将需要一段时间，请耐心等待"
+
+# @ tgmpa
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s 成功安装"
+
+# @ tgmpa
+#~ msgid "All installations have been completed."
+#~ msgstr "全部安装已完成"
+
+# @ tgmpa
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "安装插件 %1$s (%2$d/%3$d)"
+
+# @ vibe
+#~ msgid "Review Title"
+#~ msgstr "检查标题"
+
+# @ vibe
+#~ msgid "Review Rating"
+#~ msgstr "检查评级"
+
+# @ vibe
+#~ msgid "Please enter review content !"
+#~ msgstr "请输入文章内容"
+
+# @ vibe
+#~ msgid "Review Details"
+#~ msgstr "检查细节"
+
+# @ vibe
+#~ msgid "Rating "
+#~ msgstr "排行"
+
+# @ vibe
+#~ msgid "Student"
+#~ msgstr "学员"
+
+# @ vibe
+#~ msgid "Instructor"
+#~ msgstr "讲师"
+
+# @ vibe
+#~ msgid "Accepted"
+#~ msgstr "接受"
+
+# @ vibe
+#~ msgid "comments"
+#~ msgstr "评论"
+
+# @ vibe
+#~ msgid "Are you sure you want to leave this group?"
+#~ msgstr "您确定想离开本群组 ?"
+
+# @ vibe
+#~ msgid "My Favorites"
+#~ msgstr "我的收藏"
+
+# @ vibe
+#~ msgid "Rejected"
+#~ msgstr "拒绝"
+
+# @ vibe
+#~ msgid "Show all"
+#~ msgstr "显示全部"
+
+# @ vibe
+#~ msgid "Show all comments for this thread"
+#~ msgstr "显示全部内容"
+
+# @ vibe
+#~ msgid "Show all %d comments"
+#~ msgstr "显示全部 %d 的内容"
+
+# @ vibe
+#~ msgid ""
+#~ "Your profile has unsaved changes. If you leave the page, the changes will "
+#~ "be lost."
+#~ msgstr "您的个人资料未保存修改，如果你离开页面，修改内容将丢失。"
+
+# @ wplms_modern
+#~ msgid "Too short"
+#~ msgstr "太短"
+
+# @ wplms_modern
+#~ msgid "Weak"
+#~ msgstr "太弱"
+
+# @ wplms_modern
+#~ msgid "Good"
+#~ msgstr "不错"
+
+# @ wplms_modern
+#~ msgid "Strong"
+#~ msgstr "很强"
+
+# @ vibe
+#~ msgid "More"
+#~ msgstr "更多信息"
+
+# @ buddypress
+#~ msgid "View More"
+#~ msgstr "查看消息"
+
+# @ vibe
+#~ msgid "Menu"
+#~ msgstr "菜单项已跳过，缺少菜单别名"
+
+# @ vibe
+#~ msgid "Please fill in all the required fields (indicated by *)"
+#~ msgstr "请填写所有必填字段（由*表示）"
+
+# @ vibe
+#~ msgid "Top Menu"
+#~ msgstr "顶部菜单"
+
+# @ vibe
+#~ msgid "Main Menu"
+#~ msgstr "主菜单"
+
+# @ vibe
+#~ msgid "Mobile Menu"
+#~ msgstr "移动菜单"
+
+# @ vibe
+#~ msgid "Footer Menu"
+#~ msgstr "底部菜单"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr "这是用于页面、文章、标签和归档页面的全局默认的小工具/侧边栏"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr "这是显示在课程页面和免费单元的默认的小工具/侧边栏"
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr "这是显示在搜索结果页面的小工具/侧边栏。"
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "这是显示在购物页面的小工具/侧边栏"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr "这是显示在单个商品页面和商品分类中的默认小工具/侧边栏"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "这是显示在 buddypress 页面的默认小工具/侧边栏，如：所有活动、所有群组、所"
+#~ "有课程和所有博客"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr "这是显示在结帐页面优惠码下面的默认小工具/侧边栏。"
+
+# @ vibe
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "顶部页脚小工具/侧边栏"
+
+# @ vibe
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "底部页脚小工具区域/侧边栏"
+
+# @ vibe
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "自定义侧边栏，侧边栏从Manager创建"
+
+# @ vibe
+#~ msgid "Student "
+#~ msgstr "学员"
+
+# @ vibe
+#~ msgid "WPLMS"
+#~ msgstr "WPLMS"
+
+# @ vibe
+#~ msgid "Members-Only"
+#~ msgstr "仅限成员"
+
+# @ vibe
+#~ msgid "Instructors-Only"
+#~ msgstr "仅限教师"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "<em>Members-Only</em> These links are only visible to logged in users."
+#~ msgstr "<em>仅限成员</em>的链接只有登录用户可以查看。"
+
+# @ wplms_modern
+#~ msgid "<em>Instructors-Only</em> links are visible to Instructors."
+#~ msgstr "<em>仅限教师</em>的链接只有教师可以查看。"
+
+# @ vibe
+#~ msgid "Create/Edit Course page"
+#~ msgstr "创建/编辑课程页面"
+
+# @ wplms_modern
+#~ msgid "Dashboard"
+#~ msgstr "仪表盘"
+
+# @ vibe
+#~ msgid "Start Course page"
+#~ msgstr "开始课程页面"
+
+# @ vibe
+#~ msgid "Notes & Discussion page"
+#~ msgstr "笔记 & 讨论页面"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "显示在一个小工具，它可以让您查看的产品类别时，缩小产品清单的自定义属性。"
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "Vibe 高级分层导航"
+
+# @ vibe
+#~ msgid "Attribute:"
+#~ msgstr "归类："
+
+# @ vibe
+#~ msgid "Query Type:"
+#~ msgstr "Query 类型:"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr "可见主动分层导航滤波器，使用户可以看到并关闭它们。"
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "Vibe 高级分层导航过滤器"
+
+# @ vibe
+#~ msgid "Active filters"
+#~ msgstr "激活过滤器"
+
+# @ vibe
+#~ msgid "Remove filter"
+#~ msgstr "删除过滤器"
+
+# @ vibe
+#~ msgid "Greater than"
+#~ msgstr "优于"
+
+# @ vibe
+#~ msgid "Less than"
+#~ msgstr "少于"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels "
+#~ msgstr "Vibe WooCommerce滑块"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels"
+#~ msgstr "Vibe WooCommerce 轮播"
+
+# @ vibe
+#~ msgid "WooCommerce Function "
+#~ msgstr "WooCommerce 功能"
+
+# @ vibe
+#~ msgid "Product Columns"
+#~ msgstr "商品纵列"
+
+# @ vibe
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "滑块中的商品数"
+
+# @ vibe
+#~ msgid "Carousel Controls"
+#~ msgstr "控制滑块"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel "
+#~ msgstr "Vibe WooCommerce Mega滑块"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel"
+#~ msgstr "Vibe WooCommerce Mega 轮播"
+
+# @ vibe
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "上面选择WooCommerce功能的标题（逗号分隔）"
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login"
+#~ msgstr "登录 BuddyPress "
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "登录 BuddyPress 小工具"
+
+# @ vibe
+#~ msgid "View profile"
+#~ msgstr "查看档案"
+
+# @ vibe
+#~ msgid "Log Out"
+#~ msgstr "退出"
+
+# @ vibe
+#~ msgid "LOGOUT"
+#~ msgstr "退出"
+
+# @ vibe
+#~ msgid "Access admin panel"
+#~ msgstr "进入管理员面板"
+
+# @ vibe
+#~ msgid "Stats"
+#~ msgstr "统计"
+
+# @ vibe
+#~ msgid "Inbox"
+#~ msgstr "收件箱"
+
+# @ vibe
+#~ msgid "Notifications"
+#~ msgstr "通知"
+
+# @ vibe
+#~ msgid "Groups"
+#~ msgstr "群组"
+
+# @ vibe
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+# @ vibe
+#~ msgid "Forgot Password"
+#~ msgstr "忘记密码"
+
+# @ vibe
+#~ msgid "Remember Me"
+#~ msgstr "记住我"
+
+# @ vibe
+#~ msgid "Log In"
+#~ msgstr "登录"
+
+# @ vibe
+#~ msgid "Course Categories "
+#~ msgstr "课程分类"
+
+# @ vibe
+#~ msgid "Order by"
+#~ msgstr "排列方式"
+
+# @ vibe
+#~ msgid "Slug"
+#~ msgstr "延迟"
+
+# @ vibe
+#~ msgid "Course Count"
+#~ msgstr "课程计数"
+
+# @ vibe
+#~ msgid "Sort Order "
+#~ msgstr "排序次序"
+
+# @ vibe
+#~ msgid "Ascending"
+#~ msgstr "上升"
+
+# @ vibe
+#~ msgid "Descending"
+#~ msgstr "降序"
+
+# @ vibe
+#~ msgid "hierarchial "
+#~ msgstr "层次"
+
+# @ vibe
+#~ msgid "Exclude Course Category Terms slugs (comma saperated):"
+#~ msgstr "排除的课程分类条目的别名 (逗号分隔)："
+
+# @ vibe
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "Vibe 证书验证码"
+
+# @ vibe
+#~ msgid "Enter Certificate Code"
+#~ msgstr "输入证书代码"
+
+# @ vibe
+#~ msgid "Validate"
+#~ msgstr "验证"
+
+# @ vibe
+#~ msgid "Course Categories Navigation"
+#~ msgstr "课程分类"
+
+# @ default
+#~ msgid "View all posts filed under %s"
+#~ msgstr "查看全部文章从 %s"
+
+# @ vibe
+#~ msgid "Vibe Tabs"
+#~ msgstr "Vibe 标签"
+
+# @ vibe
+#~ msgid "Recent Posts"
+#~ msgstr "最近文章"
+
+# @ vibe
+#~ msgid "thumbnail"
+#~ msgstr "最小"
+
+# @ vibe
+#~ msgid "Theme:"
+#~ msgstr "主题："
+
+# @ vibe
+#~ msgid "Light"
+#~ msgstr "亮"
+
+# @ vibe
+#~ msgid "Dark"
+#~ msgstr "暗"
+
+# @ vibe
+#~ msgid "Show Tab"
+#~ msgstr "显示标签"
+
+# @ vibe
+#~ msgid "Title"
+#~ msgstr "标题"
+
+# @ vibe
+#~ msgid "Content & Style"
+#~ msgstr "内容/类型"
+
+# @ vibe
+#~ msgid "Thumbnail Posts"
+#~ msgstr "最小文章"
+
+# @ vibe
+#~ msgid "Number of items"
+#~ msgstr "项目数"
+
+# @ vibe
+#~ msgid "Posts Carousel "
+#~ msgstr "文章滑块"
+
+# @ vibe
+#~ msgid "Vibe Carousel"
+#~ msgstr "Vibe 滑块"
+
+# @ vibe
+#~ msgid "Theme"
+#~ msgstr "主题"
+
+# @ vibe
+#~ msgid "Post Type"
+#~ msgstr "文章类型"
+
+# @ vibe
+#~ msgid "Recent"
+#~ msgstr "最近"
+
+# @ vibe
+#~ msgid "Popular"
+#~ msgstr "流行的"
+
+# @ wplms_modern
+#~ msgid "Increasing"
+#~ msgstr "升序"
+
+# @ vibe
+#~ msgid "Descreasing"
+#~ msgstr "降序"
+
+# @ vibe
+#~ msgid "Style"
+#~ msgstr "类型"
+
+# @ vibe
+#~ msgid "General"
+#~ msgstr "常规"
+
+# @ vibe
+#~ msgid "Blog Post"
+#~ msgstr "博客文章"
+
+# @ wplms_modern
+#~ msgid "Side post"
+#~ msgstr "边栏文章"
+
+# @ vibe
+#~ msgid "Course block"
+#~ msgstr "课程区块"
+
+# @ vibe
+#~ msgid "Course block 2"
+#~ msgstr "课程区块2"
+
+# @ wplms_modern
+#~ msgid "Featured Images"
+#~ msgstr "特色图片"
+
+# @ wplms_modern
+#~ msgid "Event Card (Only for Events)"
+#~ msgstr "事件卡 (仅用于事件)"
+
+# @ vibe
+#~ msgid "Excerpt length"
+#~ msgstr "摘要长度"
+
+# @ vibe
+#~ msgid "Auto Start"
+#~ msgstr "自动开始"
+
+# @ vibe
+#~ msgid "Loop back, after completion"
+#~ msgstr "完成后回放"
+
+# @ vibe
+#~ msgid "Number of Posts"
+#~ msgstr "文章数"
+
+# @ wplms_modern
+#~ msgid "Specific Post ids [comma saperated] (*optional)"
+#~ msgstr "特定的文章 ID [逗号分隔] (* 可选)"
+
+# @ vibe
+#~ msgid "Posts Widget "
+#~ msgstr "文章小工具"
+
+# @ vibe
+#~ msgid "Vibe Posts"
+#~ msgstr "Vibe 文章"
+
+# @ vibe
+#~ msgid " Title"
+#~ msgstr "标题"
+
+# @ vibe
+#~ msgid "All"
+#~ msgstr "全部"
+
+# @ vibe
+#~ msgid "Sort"
+#~ msgstr "种类"
+
+# @ vibe
+#~ msgid " Image Size"
+#~ msgstr "图像大小"
+
+# @ vibe
+#~ msgid "Big"
+#~ msgstr "大"
+
+# @ vibe
+#~ msgid "Small"
+#~ msgstr "小"
+
+# @ vibe
+#~ msgid "Image with Title"
+#~ msgstr "标题图"
+
+# @ vibe
+#~ msgid "Image Only"
+#~ msgstr "只限图案"
+
+# @ vibe
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "摘录字符 (文章类型)"
+
+# @ vibe
+#~ msgid "Vibe Gallery"
+#~ msgstr "Vibe相册"
+
+# @ vibe
+#~ msgid "Size "
+#~ msgstr "大小"
+
+# @ vibe
+#~ msgid "Medium"
+#~ msgstr "中"
+
+# @ vibe
+#~ msgid " Small"
+#~ msgstr "小"
+
+# @ vibe
+#~ msgid "Mini"
+#~ msgstr "更小"
+
+# @ vibe
+#~ msgid "Columns "
+#~ msgstr "纵列"
+
+# @ vibe
+#~ msgid "Enter Attachment Ids "
+#~ msgstr "输入附件ID"
+
+# @ vibe
+#~ msgid "Vibe Testimonials "
+#~ msgstr "Vibe 证书"
+
+# @ vibe
+#~ msgid "Vibe Testimonials"
+#~ msgstr "Vibe 证书"
+
+# @ vibe
+#~ msgid "Testimonial Id "
+#~ msgstr "证书 ID"
+
+# @ vibe
+#~ msgid "Random"
+#~ msgstr "随机"
+
+# @ vibe
+#~ msgid "Length of excerpt:"
+#~ msgstr "模块摘要长度（单位：字符）"
+
+# @ vibe
+#~ msgid "Username or RSS:"
+#~ msgstr "用户名或 RSS:"
+
+# @ vibe
+#~ msgid "Tags:"
+#~ msgstr "标签:"
+
+# @ vibe
+#~ msgid "Count:"
+#~ msgstr "计算："
+
+# @ vibe
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "Instagram接入端口"
+
+# @ vibe
+#~ msgid "Instagram Client ID:"
+#~ msgstr "Instagram客户ID"
+
+# @ vibe
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "Instagram 用户名 (<small>如果留空则显示 Instagram 的受欢迎图片</small>)："
+
+# @ vibe
+#~ msgid "Size:"
+#~ msgstr "大小:"
+
+# @ vibe
+#~ msgid "Select Twitter Style"
+#~ msgstr "选择Twitter样式"
+
+# @ vibe
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "将上面的标题和 Twitter 用户链接起来"
+
+# @ vibe
+#~ msgid "Consumer Key"
+#~ msgstr "用户 Key"
+
+# @ vibe
+#~ msgid "Create your Twitter Application"
+#~ msgstr "创建您的 Twitter 应用"
+
+# @ vibe
+#~ msgid "here"
+#~ msgstr "这里"
+
+# @ vibe
+#~ msgid "Consumer Secret"
+#~ msgstr "用户隐私"
+
+# @ vibe
+#~ msgid "Access Token"
+#~ msgstr "访问令牌"
+
+# @ vibe
+#~ msgid "Access Token Secret"
+#~ msgstr "访问令牌隐私"
+
+# @ vibe
+#~ msgid "Twitter Username"
+#~ msgstr "微博用户名"
+
+# @ vibe
+#~ msgid "Show # of Tweets"
+#~ msgstr "在微博上显示"
+
+# @ vibe
+#~ msgid "Show timestamps"
+#~ msgstr "显示时间戳"
+
+# @ vibe
+#~ msgid "Find and show hyperlinks"
+#~ msgstr "发现并显示超链接"
+
+# @ vibe
+#~ msgid "Find Replies in Tweets"
+#~ msgstr "发现在微博中的回复"
+
+# @ vibe
+#~ msgid "Create links on new window / tab"
+#~ msgstr "在新窗口/标签中创建连接"
+
+# @ vibe
+#~ msgid "Twitter username is not configured"
+#~ msgstr "微博用户名未配置"
+
+# @ vibe
+#~ msgid "Number of tweets is not valid"
+#~ msgstr "微博数量无效"
+
+# @ vibe
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "微博认证资料不完整"
+
+# @ default
+#~ msgid "Fetching data from Twitter"
+#~ msgstr "从微博中获取数据"
+
+# @ default
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "删除缓存数据已启用"
+
+# @ vibe
+#~ msgid "Error retrieving tweets"
+#~ msgstr "无法从微博恢复"
+
+# @ vibe
+#~ msgid "Twitter data error:"
+#~ msgstr "微博数据错误"
+
+# @ vibe
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "微博恢复比例受限错误"
+
+# @ default
+#~ msgid "Requested items"
+#~ msgstr "重新计算项目"
+
+# @ default
+#~ msgid "API calls left"
+#~ msgstr "离开API调用"
+
+# @ default
+#~ msgid "Seconds until reset"
+#~ msgstr "等待直到复位"
+
+# @ default
+#~ msgid "Using cached Twitter data"
+#~ msgstr "使用微博缓存数据"
+
+# @ vibe
+#~ msgid "Twitter cache error:"
+#~ msgstr "微博缓存错误"
+
+# @ vibe
+#~ msgid "No public tweets"
+#~ msgstr "未发布微博"
+
+# @ vibe
+#~ msgid "Unable to get tweets"
+#~ msgstr "无法连接到微博"
+
+# @ vibe
+#~ msgid "M d"
+#~ msgstr "月/日"
+
+# @ vibe
+#~ msgid "Y/m/d H:i"
+#~ msgstr "年/月/日"
+
+# @ vibe
+#~ msgid "Last Tweets"
+#~ msgstr "最后一篇微博"
+
+# @ vibe
+#~ msgctxt "Login page template login"
+#~ msgid "Login"
+#~ msgstr "登录"
+
+# @ vibe
+#~ msgctxt "Login page template - Register"
+#~ msgid "Register"
+#~ msgstr "现在注册"
+
+# @ vibe
+#~ msgid "Activate your account"
+#~ msgstr "激活您的账户"
+
+# @ vibe
+#~ msgid "student"
+#~ msgstr "学员"
+
+# @ vibe
+#~ msgid "instructor"
+#~ msgstr "讲师"
+
+# @ vibe
+#~ msgid "administrator"
+#~ msgstr "管理员"
+
+# @ vibe
+#~ msgid "Sorry, no members were found."
+#~ msgstr "抱歉,没有找到该成员."
+
+# @ vibe
+#~ msgid "Invalid Results"
+#~ msgstr "结果无效"
+
+# @ wplms_modern
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+# @ vibe
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "平均比例:"
+
+# @ wplms_modern
+#~ msgid "Number of retakes remaining"
+#~ msgstr "剩余重新学习次数"
+
+# @ vibe
+#~ msgid " out of "
+#~ msgstr "之"
+
+# @ vibe
+#~ msgid "TAKING"
+#~ msgstr "接受"
+
+# @ wplms_modern
+#~ msgid "MY SCORE : "
+#~ msgstr "我的成绩："
+
+# @ vibe
+#~ msgid "Average Marks in"
+#~ msgstr "平均成绩是"
+
+# @ vibe
+#~ msgid "Course Expired"
+#~ msgstr "课程过期"
+
+# @ wplms_modern
+#~ msgid "Not Started"
+#~ msgstr "未开始"
+
+# @ wplms_modern
+#~ msgid "In Progress"
+#~ msgstr "进行中"
+
+# @ wplms_modern
+#~ msgid "Under Evaluation"
+#~ msgstr "根据评估"
+
+# @ vibe
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "您未处理一个好友申请"
+
+# @ vibe
+#~ msgid "1 member"
+#~ msgid_plural "%d members"
+#~ msgstr[0] "1 个会员"
+#~ msgstr[1] "%d 个会员"
+
+# @ vibe
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "您还没有群组的邀请"
+
+# @ vibe
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "发送至 (用户名或好友名）"
+
+# @ vibe
+#~ msgid "This is a notice to all users."
+#~ msgstr "这是一个给全部用户的通知"
+
+# @ vibe
+#~ msgid "Subject"
+#~ msgstr "题目"
+
+# @ vibe
+#~ msgid "Message"
+#~ msgstr "消息"
+
+# @ vibe
+#~ msgid "Send Message"
+#~ msgstr "发送消息"
+
+# @ wplms_modern
+#~ msgid "Star"
+#~ msgstr "星标"
+
+# @ vibe
+#~ msgid "From"
+#~ msgstr "从"
+
+# @ buddypress
+#~ msgid "Actions"
+#~ msgstr "活动"
+
+# @ vibe
+#~ msgid "From:"
+#~ msgstr "从:"
+
+# @ vibe
+#~ msgid "To:"
+#~ msgstr "至"
+
+# @ buddypress
+#~ msgid "View Message"
+#~ msgstr "查看消息"
+
+# @ buddypress
+#~ msgid "Delete Message"
+#~ msgstr "删除消息"
+
+# @ vibe
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "抱歉,没有找到相关消息."
+
+# @ vibe
+#~ msgid "Sent:"
+#~ msgstr "发送:"
+
+# @ vibe
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "抱歉, 未发现任何通知."
+
+# @ vibe
+#~ msgid "You are alone in this conversation."
+#~ msgstr "该谈话组就只有你一人."
+
+# @ vibe
+#~ msgid "Conversation between %s and you."
+#~ msgstr "正在谈话的有 %s 还有你."
+
+# @ vibe
+#~ msgid "Send a Reply"
+#~ msgstr "发送回复"
+
+# @ vibe
+#~ msgid "Send Reply"
+#~ msgstr "发送回复"
+
+# @ vibe
+#~ msgid "You have no unread notifications."
+#~ msgstr "你没有未读通知."
+
+# @ vibe
+#~ msgid "This member has no unread notifications."
+#~ msgstr "该成员没有未读通知."
+
+# @ vibe
+#~ msgid "You have no notifications."
+#~ msgstr "你没有未读通知."
+
+# @ vibe
+#~ msgid "This member has no notifications."
+#~ msgstr "该成员没有未读通知."
+
+# @ pmpro
+#~ msgid "Select all"
+#~ msgstr "选择全部"
+
+# @ vibe
+#~ msgid "Notification"
+#~ msgstr "通知"
+
+# @ vibe
+#~ msgid "Date Received"
+#~ msgstr "收稿日期"
+
+# @ vibe
+#~ msgid "Change Avatar"
+#~ msgstr "更换头像"
+
+# @ vibe
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "您的头像将在本网站中作为您的个人资料进行展示. 若您已经有 <a href=\"http://"
+#~ "gravatar.com\">Gravatar头像</a> 系统会自动使用它，或者您可以从电脑上传您喜"
+#~ "欢的头像。"
+
+# @ vibe
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "点击下方链接从电脑中选取图片（格式 JPG, GIF，PNG），然后点击上传即可."
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr "若您想删除目前的头像，并且不想上传新的头像请点击删除头像按钮"
+
+# @ vibe
+#~ msgid "Delete My Avatar"
+#~ msgstr "删除我的头像"
+
+# @ vibe
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "修剪新头像"
+
+# @ vibe
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "您的头像将在本网站中作为您的个人资料进行展示，想改变头像，请点击创建账户后"
+#~ "链接 <a href=\"http://gravatar.com\">Gravatar头像</a>系统会自动使用它，或"
+#~ "者您可以从电脑上传您喜欢的头像。"
+
+# @ vibe
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "编辑群组资料 '%s' "
+
+# @ vibe
+#~ msgid "Change"
+#~ msgstr "更改"
+
+# @ vibe
+#~ msgid "%s's Profile"
+#~ msgstr "%s 档案"
+
+# @ vibe
+#~ msgid "About Me"
+#~ msgstr "关于我"
+
+# @ vibe
+#~ msgid "Jabber"
+#~ msgstr "模糊的"
+
+# @ vibe
+#~ msgid "AOL Messenger"
+#~ msgstr "AOL 消息"
+
+# @ vibe
+#~ msgid "Yahoo Messenger"
+#~ msgstr "Yahoo 消息"
+
+# @ vibe
+#~ msgid "Capabilities"
+#~ msgstr "性能"
+
+# @ vibe
+#~ msgid "This user is a spammer."
+#~ msgstr "该用户是垃圾邮件发送人"
+
+# @ vibe
+#~ msgid "Save"
+#~ msgstr "保存"
+
+# @ vibe
+#~ msgid "Delete Account"
+#~ msgstr "删除账户"
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr "删除您已创建的账户以及相关信息，该操作将无法恢复."
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr "删除本账户以及账户的相关信息，该操作将无法恢复."
+
+# @ vibe
+#~ msgid "I understand the consequences."
+#~ msgstr "我已清楚明白相关结果."
+
+# @ vibe
+#~ msgid "General Settings"
+#~ msgstr "常规设置"
+
+# @ vibe
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr "当前密码 <span>(需要更新电子邮件或者更改当前密码) </span>"
+
+# @ vibe
+#~ msgid "Password Lost and Found"
+#~ msgstr "找回密码"
+
+# @ vibe
+#~ msgid "Lost your password?"
+#~ msgstr "忘记密码?"
+
+# @ vibe
+#~ msgid "Account Email"
+#~ msgstr "邮件地址"
+
+# @ vibe
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr "修改密码 <span> (留空可不用修改) </span>"
+
+# @ vibe
+#~ msgid "New Password"
+#~ msgstr "新密码"
+
+# @ vibe
+#~ msgid "Repeat New Password"
+#~ msgstr "重复新密码"
+
+# @ vibe
+#~ msgid "Email Notification"
+#~ msgstr "邮件通知"
+
+# @ vibe
+#~ msgid "Send an email notice when:"
+#~ msgstr "发送邮件通知:"
+
+# @ buddypress
+#~ msgid "Visibility"
+#~ msgstr "可见"
+
+# @ vibe
+#~ msgid " To:"
+#~ msgstr "至"
+
+# @ vibe
+#~ msgid "Add New List Field"
+#~ msgstr "添加新列表字符"
+
+# @ vibe
+#~ msgid "Add More"
+#~ msgstr "添加更多"
+
+# @ vibe
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "添加新分类列表"
+
+# @ vibe
+#~ msgid "Upload Font"
+#~ msgstr "上传字体"
+
+# @ vibe
+#~ msgid "Font Preview"
+#~ msgstr "查看字体"
+
+# @ vibe
+#~ msgid "Export Code"
+#~ msgstr "导入/ 导出"
+
+# @ vibe
+#~ msgid ""
+#~ "(Copy export code and paste it in import area of other WordPress "
+#~ "isntallation)"
+#~ msgstr "（复制导出代码并将其粘贴在其他的WordPress isntallation导入区）"
+
+# @ vibe
+#~ msgid "Import Code"
+#~ msgstr "导入代码"
+
+# @ vibe
+#~ msgid "Browse"
+#~ msgstr "浏览"
+
+# @ vibe
+#~ msgid "Remove Upload"
+#~ msgstr "删除上传"
+
+# @ vibe
+#~ msgid "Add Custom Posts"
+#~ msgstr "添加自定义文章"
+
+# @ vibe
+#~ msgid "Enter Full URL of the page"
+#~ msgstr "输入文章完整的URL"
+
+# @ vibe
+#~ msgid "Add Social Icons"
+#~ msgstr "添加社交图标"
+
+# @ vibe
+#~ msgid "None"
+#~ msgstr "无"
+
+# @ vibe
+#~ msgid " Plugin is Inactive"
+#~ msgstr "插件未启用"
+
+# @ vibe
+#~ msgid "Options"
+#~ msgstr "选择"
+
+# @ vibe
+#~ msgid "Options Panel created using"
+#~ msgstr "使用已创建的选择面板"
+
+# @ vibe
+#~ msgid "Import / Export"
+#~ msgstr "导入/ 导出"
+
+# @ vibe
+#~ msgid "Dev Mode Info"
+#~ msgstr "开发模式信息"
+
+# @ vibe
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "你确定? 返回初始设置将删除全部自定义数值信息."
+
+# @ vibe
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>设置导入!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>保存设置!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr "<strong>设置已更改！请保存设置！</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> 错误(s) !</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> 警告(s) !</strong>"
+
+# @ vibe
+#~ msgid "Import / Export Options"
+#~ msgstr "导入 / 导出选项"
+
+# @ vibe
+#~ msgid "Import Options"
+#~ msgstr "导入选项"
+
+# @ vibe
+#~ msgid "Import from file"
+#~ msgstr "从文件导入"
+
+# @ vibe
+#~ msgid "Import from URL"
+#~ msgstr "从网站导入"
+
+# @ vibe
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr "输入您的备份文件并点击导入，从备份选项中恢复你的网站。"
+
+# @ vibe
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr "输入URL转到另一个网站选项设置并从该网站导入加载选项。"
+
+# @ vibe
+#~ msgid "Import"
+#~ msgstr "导入"
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr "警告! 这将覆盖原有设置，请谨慎操作！"
+
+# @ vibe
+#~ msgid "Export Options"
+#~ msgstr "导出选项"
+
+# @ vibe
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "在这里，您可以复制/下载你的主题目前的选项设置。保持这个安全的，因为你可以"
+#~ "用它作为备份应该有什么地方错了。或者你可以用它来在本网站（或任何其他网站）"
+#~ "恢复设置。您还可以方便的选项复制链接到你的网站设置。然后你可以用它来复制其"
+#~ "他网站上"
+
+# @ vibe
+#~ msgid "Download"
+#~ msgstr "下载附件"
+
+# @ vibe
+#~ msgid "Copy Link"
+#~ msgstr "复制连接"
+
+# @ vibe
+#~ msgid "Reset to Defaults"
+#~ msgstr "重置默认值"
+
+# @ vibe
+#~ msgid "This field must be a valid color value."
+#~ msgstr "该字段的颜色值必须有效"
+
+# @ vibe
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr "你必须在数值间用逗号分开"
+
+# @ vibe
+#~ msgid "This field must be a valid date."
+#~ msgstr "该字段的颜色值必须有效"
+
+# @ vibe
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "本选项需要提供有效的电子邮箱."
+
+# @ vibe
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "本选项需提供有效的API key."
+
+# @ vibe
+#~ msgid "Unable to upload font."
+#~ msgstr "无法上传字体."
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr "你不一定不要输入任何HTML，所有的HTML标签已被删除。"
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr "你无法在这个框内输入特殊字符，全部的特殊字符将会被删除。"
+
+# @ vibe
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "您必须提供这个选项的数值。"
+
+# @ envato
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "请输入Envato Marketplace用户名"
+
+# @ envato
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "请输入Envato Marketplace API秘钥"
+
+# @ envato
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr "API \"set\" 为必填参数"
+
+# @ envato
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "Envato Marketplace \"项目 ID\" 是一个永久需要的值"
+
+# @ vibe
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "你必须为这个选项有效的URL"
+
+# @ vibe
+#~ msgid "This Page is only accessible to Instructors"
+#~ msgstr "只允许讲师建立群组"
+
+# @ vibe
+#~ msgid ""
+#~ "The page is only accessible to site Users with Instructor or above "
+#~ "capabilites."
+#~ msgstr "本页面仅限注册用户以及讲师进入"
+
+# @ vibe
+#~ msgid "Instructors only page"
+#~ msgstr "只允许讲师建立群组"
+
+# @ pmpro
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "你的会员资格已<strong>激活</strong>."
+
+# @ pmpro
+#~ msgid "Membership Fee"
+#~ msgstr "会费"
+
+# @ pmpro
+#~ msgctxt ""
+#~ "Recurring payment in cost text generation. E.g., $5 every 2 months."
+#~ msgid "%s every %d %s."
+#~ msgstr "%s 每个 %d %s."
+
+# @ pmpro
+#~ msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+#~ msgid "%s per %s."
+#~ msgstr "%s 每个 %s."
+
+# @ pmpro
+#~ msgid "Duration"
+#~ msgstr "期限："
+
+# @ pmpro
+#~ msgid "Membership Expires"
+#~ msgstr "会员账户过期"
+
+# @ pmpro
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "您第一笔订单共计 %s."
+
+# @ pmpro
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "您第一笔 %d 订单共计 %s."
+
+# @ pmpro
+#~ msgid "Billing Information"
+#~ msgstr "账单信息"
+
+# @ pmpro
+#~ msgid "Payment Method"
+#~ msgstr "支付方式"
+
+# @ pmpro
+#~ msgid "Edit Billing Information"
+#~ msgstr "编辑账单信息"
+
+# @ pmpro
+#~ msgid "Past Invoices"
+#~ msgstr "已开发票"
+
+# @ pmpro
+#~ msgid "View All Invoices"
+#~ msgstr "查看全部发票"
+
+# @ pmpro
+#~ msgid "Member Links"
+#~ msgstr "会员链接"
+
+# @ pmpro
+#~ msgid "Update Billing Information"
+#~ msgstr "更新账单信息"
+
+# @ pmpro
+#~ msgid "Change Membership Level"
+#~ msgstr "更改会员级别"
+
+# @ pmpro
+#~ msgid "Cancel Membership"
+#~ msgstr "取消会员资格"
+
+# @ pmpro
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "以 <strong>%s</strong> 登录."
+
+# @ pmpro
+#~ msgid "logout"
+#~ msgstr "退出"
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "您的付款申请已提交给PayPal. 请<a href=\"http://www.paypal.com\">在此登录"
+#~ "PayPal</a> 更新您的账单信息"
+
+# @ pmpro
+#~ msgid "First Name"
+#~ msgstr "名"
+
+# @ pmpro
+#~ msgid "Last Name"
+#~ msgstr "姓"
+
+# @ pmpro
+#~ msgid "Address 1"
+#~ msgstr "地址1"
+
+# @ pmpro
+#~ msgid "Address 2"
+#~ msgstr "地址2"
+
+# @ pmpro
+#~ msgid "optional"
+#~ msgstr "可选的"
+
+# @ pmpro
+#~ msgid "City"
+#~ msgstr "市"
+
+# @ pmpro
+#~ msgid "State"
+#~ msgstr "省"
+
+# @ pmpro
+#~ msgid "Postal Code"
+#~ msgstr "邮递区号"
+
+# @ pmpro
+#~ msgid "City, State Zip"
+#~ msgstr "城市邮编"
+
+# @ pmpro
+#~ msgid "Country"
+#~ msgstr "国家"
+
+# @ pmpro
+#~ msgid "Phone"
+#~ msgstr "联系电话"
+
+# @ pmpro
+#~ msgid "E-mail Address"
+#~ msgstr "Email地址"
+
+# @ pmpro
+#~ msgid "Confirm E-mail"
+#~ msgstr "确认邮箱"
+
+# @ pmpro
+#~ msgid "We accept %s"
+#~ msgstr "只接受 %s"
+
+# @ pmpro
+#~ msgid "Credit Card Information"
+#~ msgstr "信用卡信息"
+
+# @ pmpro
+#~ msgid "Card Type"
+#~ msgstr "卡类型"
+
+# @ pmpro
+#~ msgid "Card Number"
+#~ msgstr "卡号"
+
+# @ pmpro
+#~ msgid "Expiration Date"
+#~ msgstr "有效时间"
+
+# @ pmpro
+#~ msgctxt "Credit card security code, CVV/CCV/CVV2"
+#~ msgid "CVV"
+#~ msgstr "卡号3位有效数字"
+
+# @ pmpro
+#~ msgctxt "link to CVV help"
+#~ msgid "what's this?"
+#~ msgstr "有什么最新的 %s, %s?"
+
+# @ pmpro
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr "本信息不是经常性订阅，您不必更新您的账户信息."
+
+# @ pmpro
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "您确定想取消您的会员资格?"
+
+# @ pmpro
+#~ msgid "Yes, cancel my account"
+#~ msgstr "是，取消我的账户"
+
+# @ pmpro
+#~ msgid "No, keep my account"
+#~ msgstr "否，继续保留"
+
+# @ pmpro
+#~ msgid "Click here to go to the home page."
+#~ msgstr "单击这返回首页"
+
+# @ pmpro
+#~ msgid ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+#~ msgstr ""
+#~ "全部完成. 查看会员信息并检查下方的价格 <strong>点击这 \"Complete Payment"
+#~ "\" 按钮</strong> 完成您的订单"
+
+# @ pmpro
+#~ msgctxt "change membership level link"
+#~ msgid "change"
+#~ msgstr "更改"
+
+# @ pmpro
+#~ msgid "Membership Level"
+#~ msgstr "会员级别"
+
+# @ pmpro
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "您选择了 <strong>%s</strong> 会员级别."
+
+# @ pmpro
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p class=\"pmpro_level_discount_applied\">该 <strong>%s</strong>代码已被使"
+#~ "用到订单中。</p>"
+
+# @ pmpro
+#~ msgid "Click here to change your discount code"
+#~ msgstr "点击这修改您的折扣代码"
+
+# @ pmpro
+#~ msgid "Do you have a discount code?"
+#~ msgstr "你有折扣代码么?"
+
+# @ pmpro
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "点击这里输入您的折扣代码"
+
+# @ pmpro
+#~ msgid "Discount Code"
+#~ msgstr "折扣代码"
+
+# @ pmpro
+#~ msgid "Apply"
+#~ msgstr "申请"
+
+# @ pmpro
+#~ msgid "Already have an account?"
+#~ msgstr "已有账户了?"
+
+# @ pmpro
+#~ msgid "Log in here"
+#~ msgstr "在这登录"
+
+# @ pmpro
+#~ msgid "Account Information"
+#~ msgstr "账户信息"
+
+# @ pmpro
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "确认 email"
+
+# @ pmpro
+#~ msgid "Full Name"
+#~ msgstr "全名"
+
+# @ pmpro
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "留空白"
+
+# @ pmpro
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "您正登录的是 <strong>%s</strong>. 若想用其他账户登录这个会员账户, <a href="
+#~ "\"%s\">请退出</a>."
+
+# @ pmpro
+#~ msgid "Choose your Payment Method"
+#~ msgstr "选择您的支付方式"
+
+# @ pmpro
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "使用信用卡支付"
+
+# @ pmpro
+#~ msgid "Check Out with PayPal"
+#~ msgstr "使用PayPal进行支付"
+
+# @ pmpro
+#~ msgid "We Accept %s"
+#~ msgstr "我们只接受 %s"
+
+# @ pmpro
+#~ msgid "Payment Information"
+#~ msgstr "支付信息"
+
+# @ pmpro
+#~ msgid "I agree to the %s"
+#~ msgstr "我同意 %s"
+
+# @ pmpro
+#~ msgid "Complete Payment"
+#~ msgstr "完成支付"
+
+# @ pmpro
+#~ msgid "Submit and Pay with 2CheckOut"
+#~ msgstr "同意并提交支付 2CheckOut"
+
+# @ pmpro
+#~ msgid "Submit and Check Out"
+#~ msgstr "提交支付"
+
+# @ pmpro
+#~ msgid "Submit and Confirm"
+#~ msgstr "提交确认"
+
+# @ pmpro
+#~ msgid "Processing..."
+#~ msgstr "处理中..."
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr "您的支付已经提交，会员资格随后会激活"
+
+# @ pmpro
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr "非常感谢您 %s.您的 %s 会员资格已经激活"
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "以下是关于您的会员账号和收据、发票信息. 您最初的会员信息已经发送至%s."
+
+# @ pmpro
+#~ msgctxt "Invoice # header. E.g. Invoice #ABCDEF on 2013-01-01."
+#~ msgid "Invoice #%s on %s"
+#~ msgstr "发票 #%s 到 %s"
+
+# @ pmpro
+#~ msgid "Print"
+#~ msgstr "打印"
+
+# @ pmpro
+#~ msgid "Account"
+#~ msgstr "账户"
+
+# @ pmpro
+#~ msgid "Total Billed"
+#~ msgstr "总账单"
+
+# @ pmpro
+#~ msgctxt "credit card type {ending in} xxxx"
+#~ msgid "ending in"
+#~ msgstr "截止完成"
+
+# @ pmpro
+#~ msgid "Expiration"
+#~ msgstr "截止日期"
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr "以下是关于您的会员信息. 相关信息已经发送至  %s."
+
+# @ pmpro
+#~ msgctxt "User without membership is in {pending} status."
+#~ msgid "Pending"
+#~ msgstr "处理中"
+
+# @ pmpro
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "查看您的会员账户 &rarr;"
+
+# @ pmpro
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr "若您的账户未激活，请联系站点负责人"
+
+# @ pmpro
+#~ msgid "Subtotal"
+#~ msgstr "小计"
+
+# @ pmpro
+#~ msgid "Tax"
+#~ msgstr "税"
+
+# @ pmpro
+#~ msgid "Coupon"
+#~ msgstr "优惠券"
+
+# @ pmpro
+#~ msgid "Date"
+#~ msgstr "日期"
+
+# @ pmpro
+#~ msgid "Invoice #"
+#~ msgstr "发票 #"
+
+# @ pmpro
+#~ msgid "View Invoice"
+#~ msgstr "查看发票"
+
+# @ pmpro
+#~ msgid "No invoices found."
+#~ msgstr "发票未找到"
+
+# @ pmpro
+#~ msgid "&larr; View All Invoices"
+#~ msgstr "&larr; 查看全部发票"
+
+# @ vibe
+#~ msgid "Course Renewed"
+#~ msgstr "课程已续费"
+
+# @ vibe
+#~ msgid "Back to course"
+#~ msgstr "返回到课程"
+
+# @ pmpro
+#~ msgid "Price"
+#~ msgstr "价格"
+
+# @ wplms_modern
+#~ msgid "Free"
+#~ msgstr "免费"
+
+# @ pmpro
+#~ msgctxt "Choose a level from levels page"
+#~ msgid "Select"
+#~ msgstr "选择"
+
+# @ pmpro
+#~ msgctxt "Clicking to renew from levels page"
+#~ msgid "Renew"
+#~ msgstr "更新"
+
+# @ pmpro
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "您的&nbsp;级别"
+
+# @ pmpro
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "&larr; 返回至您的账户"
+
+# @ pmpro
+#~ msgid "&larr; Return to Home"
+#~ msgstr "&lar返回至首页"
+
+# @ wordpress-importer
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "读取 WXR 文件时出现错误"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr "详情显示在下面。导入工具将用不同的解析器进行重试..."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr "这不像是 WXR 文件，WXR 版本号缺失/无效"
+
+# @ vibe
+#~ msgid "Import Complete !"
+#~ msgstr "导入完成！"
+
+# @ vibe
+#~ msgid "Save Components"
+#~ msgstr "保存修改"
+
+# @ vibe
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "无法定位样本数据文件。"
+
+# @ vibe
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
+#~ msgstr "我们无法使用 WP_Import 类，因而无法安装测试数据。"
+
+# @ wordpress-importer
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "抱歉，出现了错误。"
+
+# @ wordpress-importer
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "文件不存在，请重试。"
+
+# @ wordpress-importer
+#~ msgid "All done."
+#~ msgstr "全部完毕。"
+
+# @ wordpress-importer
+#~ msgid "Have fun!"
+#~ msgstr "祝您愉快！"
+
+# @ wordpress-importer
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "记得更新导入用户的密码和角色。"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr "无法在 <code>%s</code> 找到导入文件。这可能是权限问题所致。"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr "导入工具不支持这个 WXR 文件 (版本 %s)。请考虑更新。"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr "导入作者 %s 失败。他们的文章会被记在当前用户名下。"
+
+# @ wordpress-importer
+#~ msgid "Assign Authors"
+#~ msgstr "指定作者"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "为方便您编辑和保存导入的内容，您可以将导入条目的作者重新指定为站点已存在的"
+#~ "用户。比如，您可能希望将所有条目作为<code>管理员</code>的条目导入。"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "WordPress 在创建新用户时会随机生成一个密码并将新用户的角色设置为 %s。手动"
+#~ "改变新用户的详情可能是必须的。"
+
+# @ wordpress-importer
+#~ msgid "Import Attachments"
+#~ msgstr "导入附件"
+
+# @ wordpress-importer
+#~ msgid "Download and import file attachments"
+#~ msgstr "下载并导入文件附件"
+
+# @ wordpress-importer
+#~ msgid "Import author:"
+#~ msgstr "导入作者："
+
+# @ wordpress-importer
+#~ msgid "or create new user with login name:"
+#~ msgstr "或创建使用此登录名的新用户："
+
+# @ wordpress-importer
+#~ msgid "as a new user:"
+#~ msgstr "作为一个新的用户："
+
+# @ wordpress-importer
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "将文章指定给一个已存在的用户："
+
+# @ wordpress-importer
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "或者将文章指定给一个已存在的用户："
+
+# @ wordpress-importer
+#~ msgid "- Select -"
+#~ msgstr "- 选择 -"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr "为 %s 创建新用户失败。他们的文章会被记在当前用户名下。"
+
+# @ wordpress-importer
+#~ msgid "Failed to import category %s"
+#~ msgstr "导入分类 %s 失败"
+
+# @ wordpress-importer
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "导入文章标签 %s 失败"
+
+# @ wordpress-importer
+#~ msgid "Failed to import %s %s"
+#~ msgstr "导入 %s %s 失败"
+
+# @ wordpress-importer
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "导入“%s”失败：无效的文章类型 %s"
+
+# @ wordpress-importer
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; 已经存在。"
+
+# @ wordpress-importer
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "导入%s “%s”失败"
+
+# @ wordpress-importer
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "菜单项已跳过，缺少菜单别名"
+
+# @ wordpress-importer
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "菜单项已跳过，无效的菜单别名：%s"
+
+# @ wordpress-importer
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "附件获取没有激活"
+
+# @ wordpress-importer
+#~ msgid "Invalid file type"
+#~ msgstr "无效的文件格式"
+
+# @ wordpress-importer
+#~ msgid "Remote server did not respond"
+#~ msgstr "远程服务器无响应"
+
+# @ wordpress-importer
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "远程服务器返回了错误信息 %1$d %2$s"
+
+# @ wordpress-importer
+#~ msgid "Zero size file downloaded"
+#~ msgstr "零大小的文件下载"
+
+# @ wordpress-importer
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "远程文件过大，限制为%s"
+
+# @ wordpress-importer
+#~ msgid "Import WordPress"
+#~ msgstr "导入 WordPress"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "您好！上传你的WordPress eXtended RSS（WXR）文件，我们将导入文章，页面，评"
+#~ "论，自定义字段，分类和标签进入该网站。"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr "选择一个 WXR (.xml) 文件来上传，然后点击上传文件开始导入。"
+
+# @ wordpress-importer
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "导入<strong>文章，页面，评论，自定义字段，分类，并从WordPress的导出文件代"
+#~ "码</ strong>。"
+
+# @ vibe
+#~ msgid "Install WPLMS"
+#~ msgstr "安装WPLMS"
+
+# @ vibe
+#~ msgid "Welcome to WPLMS"
+#~ msgstr "欢迎来到WPLMS"
+
+# @ vibe
+#~ msgid "About WPLMS"
+#~ msgstr "关于WPLMS"
+
+# @ vibe
+#~ msgid "Welcome to WPLMS %s"
+#~ msgstr "欢迎来到WPLNS %s"
+
+# @ vibe
+#~ msgid "Thanks, all done!"
+#~ msgstr "感谢完成！"
+
+# @ vibe
+#~ msgid "Thank you for updating to the latest version!"
+#~ msgstr "感谢您更新到最新版本！"
+
+# @ vibe
+#~ msgid "Thanks for installing!"
+#~ msgstr "感谢安装！"
+
+# @ vibe
+#~ msgid ""
+#~ "%s WPLMS is the best Learning Management platform for WordPress. The "
+#~ "latest version %s now contains following features."
+#~ msgstr ""
+#~ "%s  WPLMS是最好的学习管理平台WordPress的。最新版本 %s 现在包含以下功能。"
+
+# @ vibe
+#~ msgid "FAQs"
+#~ msgstr "FAQ"
+
+# @ vibe
+#~ msgid "Docs"
+#~ msgstr "文档"
+
+# @ vibe
+#~ msgid "Customization Tips"
+#~ msgstr "定制提示"
+
+# @ vibe
+#~ msgid "Support system"
+#~ msgstr "支持系统"
+
+# @ vibe
+#~ msgid "Installation and Setup"
+#~ msgstr "安装下载"
+
+# @ vibe
+#~ msgid "What's New"
+#~ msgstr "有什么最新的"
+
+# @ vibe
+#~ msgid "Changelog"
+#~ msgstr "更新日志"
+
+# @ vibe
+#~ msgid "One Click installation and Setup"
+#~ msgstr "一键安装"
+
+# @ vibe
+#~ msgid ""
+#~ "You can now install WPLMS in one single click, select the setup procedure "
+#~ "from the options given in the right. You just need to Click the button "
+#~ "once and everything would be automatically installed and setup, after "
+#~ "which your WPLMS Site would be ready to use and configure."
+#~ msgstr ""
+#~ "现在，您可以在一个单一的点击安装WPLMS，请从右边给出的选项的设置步骤。你只"
+#~ "需要点击一次按钮，一切都将被自动安装和设置，之后您WPLMS网站将准备使用和配"
+#~ "置。"
+
+# @ vibe
+#~ msgid ""
+#~ "Please deactivate WordPress importer plugin to avoid conflicts with Vibe "
+#~ "one click installer."
+#~ msgstr "请关闭WordPress的导入插件为了避免与Vibe安装程序冲突。"
+
+# @ vibe
+#~ msgid "Setup Theme without Sample Data"
+#~ msgstr "不需要样板数据安装主题"
+
+# @ vibe
+#~ msgid "Setup Theme with Sample Data"
+#~ msgstr "需要样板数据安装主题"
+
+# @ vibe
+#~ msgid "Please enable all the plugins"
+#~ msgstr "请启用所有的插件"
+
+# @ vibe
+#~ msgid "Install all plugins for Full Sample Data import % slink %s"
+#~ msgstr "安装的所有插件的全样本数据导入 % slink %s"
+
+# @ vibe
+#~ msgid "Please activate all/required plugins bundled with the theme."
+#~ msgstr "请激活主题所需的全部插件"
+
+# @ vibe
+#~ msgid "Install & Activate plugins"
+#~ msgstr "安装激活插件"
+
+# @ vibe
+#~ msgid "Video Tutorial of Installing theme"
+#~ msgstr "安装主题的视频教程"
+
+# @ vibe
+#~ msgid "Setup Issues"
+#~ msgstr "安装问题"
+
+# @ vibe
+#~ msgid "Facing issues while setting up? Try out suggested links below."
+#~ msgstr "面对问题，无法下手？尝试下面建议链接。"
+
+# @ vibe
+#~ msgid "WPLMS Pre-Setup settings"
+#~ msgstr "WPLMS预装设置"
+
+# @ vibe
+#~ msgid "WPLMS manual installation & setup"
+#~ msgstr "WPLMS 手动安装下载"
+
+# @ vibe
+#~ msgid "WPLMS FAQs"
+#~ msgstr "WPLMS FAQs"
+
+# @ vibe
+#~ msgid "Popular Setup issues"
+#~ msgstr "常见安装问题"
+
+# @ vibe
+#~ msgid "Following is the list of most frequent setup issues faced by users"
+#~ msgstr "以下是用户所面临的最常见的设置问题清单"
+
+# @ vibe
+#~ msgid "White screen when installed"
+#~ msgstr "安装的时候白屏"
+
+# @ vibe
+#~ msgid "Course pages not opening"
+#~ msgstr "无法打开课程页面"
+
+# @ vibe
+#~ msgid "Getting 404 pages"
+#~ msgstr "404页面错误"
+
+# @ vibe
+#~ msgid "Start Course/Take this Course not working"
+#~ msgstr "开始学习课程无法运行"
+
+# @ vibe
+#~ msgid "Other popular issues"
+#~ msgstr "其他常见问题"
+
+# @ vibe
+#~ msgid "Following is the list of most frequent issues faced by users"
+#~ msgstr "下面是用户所面临的最频繁的问题清单"
+
+# @ vibe
+#~ msgid "Quizzes not saving answers"
+#~ msgstr "无法保存测试答案"
+
+# @ vibe
+#~ msgid "Visual composer not updating"
+#~ msgstr "Visual composer 没有更新"
+
+# @ vibe
+#~ msgid "Getting 404 page on editing course"
+#~ msgstr "编辑课程出现404页面"
+
+# @ vibe
+#~ msgid "Theme customizer not working"
+#~ msgstr "主题自定义无法使用"
+
+# @ vibe
+#~ msgid "Unable to setup ? Get help on our Support forums."
+#~ msgstr "无法安装？得到我们的支持论坛上的帮助。"
+
+# @ vibe
+#~ msgid "15 bug fixes & updates"
+#~ msgstr "25错误修复和更新"
+
+# @ vibe
+#~ msgid "Check update log "
+#~ msgstr "检查登录更新"
+
+# @ vibe
+#~ msgid "Minor Update"
+#~ msgstr "文章更新"
+
+# @ vibe
+#~ msgid "What's New in WPLMS"
+#~ msgstr "WPLMS有什么最新的"
+
+# @ vibe
+#~ msgid "WPLMS Video Playlist"
+#~ msgstr "WPLMS视频播放列表"
+
+# @ vibe
+#~ msgid "Live Directory Search"
+#~ msgstr "网站目录"
+
+# @ vibe
+#~ msgid "Translation Collaboration"
+#~ msgstr "翻译协作"
+
+# @ wplms_modern
+#~ msgid "Check Translation files status"
+#~ msgstr "检查翻译文件状态"
+
+# @ vibe
+#~ msgid "Go to WPLMS Options panel"
+#~ msgstr "去WPLMS选项面板"
+
+# @ vibe
+#~ msgid "Environment"
+#~ msgstr "环境"
+
+# @ vibe
+#~ msgid "Home URL"
+#~ msgstr "首页 URL"
+
+# @ vibe
+#~ msgid "Site URL"
+#~ msgstr "站点URL"
+
+# @ vibe
+#~ msgid "WP Version"
+#~ msgstr "WP版本"
+
+# @ vibe
+#~ msgid "WP Multisite Enabled"
+#~ msgstr "WP多站点启用"
+
+# @ vibe
+#~ msgid "Web Server Info"
+#~ msgstr "web 服务器信息"
+
+# @ vibe
+#~ msgid "PHP Version"
+#~ msgstr "PHP 版本"
+
+# @ vibe
+#~ msgid "MySQL Version"
+#~ msgstr "MySQL 版本"
+
+# @ vibe
+#~ msgid "WP Active Plugins"
+#~ msgstr "WP激活插件"
+
+# @ vibe
+#~ msgid "WP Memory Limit"
+#~ msgstr "WP 内存限制"
+
+# @ vibe
+#~ msgid ""
+#~ "%s - We recommend setting memory to at least 128MB. See: <a href=\"%s"
+#~ "\">Increasing memory allocated to PHP</a>"
+#~ msgstr ""
+#~ "%s - 我们推荐将内存至少设置为 128MB。参考：<a href=\"%s\">提高分配给 PHP "
+#~ "的内存</a>"
+
+# @ vibe
+#~ msgid "WP Debug Mode"
+#~ msgstr "WP 调试模式"
+
+# @ vibe
+#~ msgid "WP Language"
+#~ msgstr "WP语言"
+
+# @ vibe
+#~ msgid "WP Max Upload Size"
+#~ msgstr "WP 最大上传大小"
+
+# @ vibe
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP Post Max Size"
+
+# @ vibe
+#~ msgid "PHP Time Limit"
+#~ msgstr "PHP 时间限制"
+
+# @ vibe
+#~ msgid "PHP Max Input Vars"
+#~ msgstr "PHP Max Input Vars"
+
+# @ vibe
+#~ msgid "SUHOSIN Installed"
+#~ msgstr "SUHOSIN 已安装"
+
+# @ vibe
+#~ msgid "Default Timezone"
+#~ msgstr "默认模板"
+
+# @ vibe
+#~ msgid "Default timezone is %s - it should be UTC"
+#~ msgstr "默认时区是 %s - 应当是 UTC"
+
+# @ vibe
+#~ msgid "Default timezone is %s"
+#~ msgstr "默认的时区 %s "
+
+# @ vibe
+#~ msgid "WPLMS Pages"
+#~ msgstr "WPLMS页面"
+
+# @ vibe
+#~ msgctxt "Page setting"
+#~ msgid "All Course page"
+#~ msgstr "全部课程页面"
+
+# @ vibe
+#~ msgctxt "Page setting"
+#~ msgid "Take this course page"
+#~ msgstr "选取本课程页面"
+
+# @ vibe
+#~ msgctxt "Page setting"
+#~ msgid "Create Course Page"
+#~ msgstr "创建课程页面"
+
+# @ vibe
+#~ msgctxt "Page setting"
+#~ msgid "Default Certificate Page"
+#~ msgstr "默认证书页面"
+
+# @ vibe
+#~ msgid "Page not set"
+#~ msgstr "页面为设置"
+
+# @ vibe
+#~ msgid "Templates"
+#~ msgstr "模板"
+
+# @ vibe
+#~ msgid ""
+#~ "<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+#~ "date. The core version is %s"
+#~ msgstr ""
+#~ "<code>%s</code> 的版本 <strong style=\"color:red\">%s</strong> 已经过时。"
+#~ "核心版本是 %s"
+
+# @ vibe
+#~ msgid "Template Overrides"
+#~ msgstr "主题覆盖"
+
+# @ vibe
+#~ msgid "No overrides present in theme."
+#~ msgstr "当前没有主题覆盖。"
+
+# @ vibe
+#~ msgid "Full Changelog of WPLMS Theme"
+#~ msgstr "WPLMS主题的完整更新日志"
+
+# @ vibe
+#~ msgid "View WPLMS Options panel"
+#~ msgstr "查看WPLMS选项面板"
+
+# @ vibe
+#~ msgid "Options panel"
+#~ msgstr "选项面板"
+
+# @ vibe
+#~ msgid "View WPLMS Documentation"
+#~ msgstr "查看 WPLMS 文档"
+
+# @ vibe
+#~ msgid "Visit Premium Customer Support Forum"
+#~ msgstr "查看进阶消费者支持论坛"
+
+# @ vibe
+#~ msgid "Support Forum"
+#~ msgstr "支持论坛"
+
+# @ default
+#~ msgid "Please activate all the required plugins"
+#~ msgstr "请激活所需的全部插件"
+
+# @ vibe
+#~ msgid "(Unnamed Slider)"
+#~ msgstr "(未命名滑动控件)"
+
+# @ vibe
+#~ msgid "INSTRUCTORS"
+#~ msgstr "讲师"
+
+# @ vibe
+#~ msgid "Course Info"
+#~ msgstr "课程信息"
+
+# @ vibe
+#~ msgid "Back to Edit Course"
+#~ msgstr "返回到编辑课程"
+
+# @ vibe
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "重新邀请学员"
+
+# @ vibe
+#~ msgid "SEND INVITATION"
+#~ msgstr "发送邀请"
+
+# @ vibe
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "发送邮件提醒"
+
+# @ vibe
+#~ msgid "SUBJECT"
+#~ msgstr "题目"
+
+# @ vibe
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "邀请信息"
+
+# @ vibe
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "发送邀请"
+
+# @ vibe
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "提示信息"
+
+# @ vibe
+#~ msgid "SEND REMINDER"
+#~ msgstr "发送提示信"
+
+# @ vibe
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr "提示已通过邮件发送到接受活动邀请的学员邮箱中."
+
+# @ vibe
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "接受邀请"
+
+# @ vibe
+#~ msgid "REJECT INVITE"
+#~ msgstr "拒绝邀请"
+
+# @ vibe
+#~ msgid "Event Location"
+#~ msgstr "活动地点"
+
+#~ msgid "Unlimited"
+#~ msgstr "无限制时间"
+
+# @ wplms_modern
+#~ msgid "Access restricted."
+#~ msgstr "访问受限。"
+
+# @ wplms_modern
+#~ msgid "Module Tag"
+#~ msgstr "模块标签"
+
+# @ wplms_modern
+#~ msgid "No Units found in module tag"
+#~ msgstr "模块标签中没有发现单元"
+
+# @ vibe
+#~ msgid "The activity of course I am a member of."
+#~ msgstr "显示我所在群组的活动"
+
+# @ vibe
+#~ msgid "Start Date"
+#~ msgstr "开始日期"
+
+# @ vibe
+#~ msgid "A Section added by hook"
+#~ msgstr "锚点添加的章节"
+
+# @ vibe
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr "这是通过将一个过滤器的部分阵列，以从选项添加/删除部分的截面。"
+
+# @ vibe
+#~ msgid "Folow me on Twitter"
+#~ msgstr "Twitter上关注"
+
+# @ vibe
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "成为Facebook粉丝"
+
+# @ vibe
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "在Google Plus添加我们"
+
+# @ vibe
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "VibeThemes最新消息"
+
+# @ vibe
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr "Vibe控制面板 v 2.0"
+
+# @ vibe
+#~ msgid "Support"
+#~ msgstr "支持"
+
+# @ vibe
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "我们通过三个媒体提供支持（优先级）"
+
+# @ vibe
+#~ msgid "Support Email: VibeThemes@gmail.com"
+#~ msgstr "支持邮箱: VibeThemes@gmail.com"
+
+# @ vibe
+#~ msgid "ThemeForest Item Comments"
+#~ msgstr "ThemeForest 项目评论"
+
+# @ vibe
+#~ msgid "Documentation & Links"
+#~ msgstr "文件链接"
+
+# @ vibe
+#~ msgid "Or email us at"
+#~ msgstr "或给我发送邮件"
+
+# @ vibe
+#~ msgid "Getting Started"
+#~ msgstr "现在开始"
+
+# @ wplms_modern
+#~ msgid "Welcome to "
+#~ msgstr "欢迎"
+
+# @ vibe
+#~ msgid "See Theme documentation : "
+#~ msgstr "查看主题文件"
+
+# @ wplms_modern
+#~ msgid "Setup in One Click "
+#~ msgstr "一键设置"
+
+# @ vibe
+#~ msgid "Setup WPLMS"
+#~ msgstr "设置 WPLMS"
+
+# @ vibe
+#~ msgid "Full Theme Guide"
+#~ msgstr "完整主题指导说明"
+
+# @ vibe
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "如何更新？在更新中遇到的问题？"
+
+# @ vibe
+#~ msgid "Details required for Auto-Update"
+#~ msgstr "自动跟新详情"
+
+# @ vibe
+#~ msgid "Enter Your Themeforest Username"
+#~ msgstr "请输入Themeforest用户名"
+
+# @ vibe
+#~ msgid "Required for Automatic Upgrades."
+#~ msgstr "申请自动升级"
+
+# @ vibe
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr "请输入Themeforest API秘钥"
+
+# @ vibe
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr "请输入您的API Key.申请自动升级。"
+
+# @ vibe
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "什么是API密钥？我在哪里可以找到呢？"
+
+# @ vibe
+#~ msgid "Header"
+#~ msgstr "顶部"
+
+# @ vibe
+#~ msgid "Header settings"
+#~ msgstr "顶部设置"
+
+# @ vibe
+#~ msgid "Upload Logo"
+#~ msgstr "上传Logo"
+
+# @ vibe
+#~ msgid "Upload your logo"
+#~ msgstr "上传你的logo"
+
+# @ vibe
+#~ msgid "This Logo is shown in header. NOT ABLE TO UPLOAD ? %s REFER TIP %s"
+#~ msgstr "logo在顶部显示"
+
+# @ vibe
+#~ msgid "Upload Logo for Mobile"
+#~ msgstr "上传Logo"
+
+# @ vibe
+#~ msgid "Upload Alternate Logo"
+#~ msgstr "上传Logo"
+
+# @ vibe
+#~ msgid "Upload Favicon"
+#~ msgstr "上传收藏夹图标"
+
+# @ vibe
+#~ msgid "Upload 16x16px Favicon"
+#~ msgstr "上传 16x16px 收藏夹图标"
+
+# @ vibe
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "固定顶部滚动条"
+
+# @ vibe
+#~ msgid "Fix header on top of screen"
+#~ msgstr "固定到屏幕上方"
+
+# @ vibe
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr "固定顶部，可用滚动条下滑"
+
+# @ vibe
+#~ msgid "Static"
+#~ msgstr "静态"
+
+# @ vibe
+#~ msgid "Fixed on Scroll"
+#~ msgstr "固定滚动条"
+
+# @ vibe
+#~ msgid "Navigation Search as Course Search"
+#~ msgstr "导航搜索作为搜索课程"
+
+# @ vibe
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "强制课程顶部进行搜索"
+
+# @ vibe
+#~ msgid "Header Top Content (Optional)"
+#~ msgstr "评论 (可选的)"
+
+# @ vibe
+#~ msgid "Header Content (Optional)"
+#~ msgstr "评论 (可选的)"
+
+# @ vibe
+#~ msgid "Sidebar Manager"
+#~ msgstr "侧边栏管理器"
+
+# @ vibe
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr "动态生成更多的侧边栏并用于多种布局"
+
+# @ vibe
+#~ msgid "Create New sidebars "
+#~ msgstr "创建新侧边栏"
+
+# @ vibe
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "动态生成的侧边栏"
+
+# @ vibe
+#~ msgid ""
+#~ "Use these sidebars in various layouts. DO NOT ADD ANY SPECIAL CHARACTERS "
+#~ "in Sidebar name"
+#~ msgstr "使用这些工具条中的各种布局。不添加任何特殊字符的侧边栏的名字"
+
+# @ vibe
+#~ msgid "All Events page Sidebar"
+#~ msgstr "所有活动事件页面侧边栏"
+
+# @ vibe
+#~ msgid "Select All events page sidebar"
+#~ msgstr "选择全部活动事件页面的侧边栏"
+
+# @ vibe
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "选择活动事件页面中的侧边栏"
+
+# @ vibe
+#~ msgid "Import/Export Sidebar settings "
+#~ msgstr "导入/导出侧边栏设置"
+
+# @ vibe
+#~ msgid "Import/Export sidebars settings"
+#~ msgstr "导入/导出侧边栏设置"
+
+# @ vibe
+#~ msgid ""
+#~ "Use import/export functionality to import/export your Sidebar settings "
+#~ "like Widgets included in sidebars."
+#~ msgstr ""
+#~ "使用导入/导出功能来导入/导出您的侧边栏设置，比如侧边栏中包含的小工具。"
+
+# @ vibe
+#~ msgid "Import/Export Widget settings "
+#~ msgstr "导入/导出小工具设置"
+
+# @ vibe
+#~ msgid "Import/Export widgets settings"
+#~ msgstr "导入/导出小工具设置"
+
+# @ vibe
+#~ msgid ""
+#~ "Use import/export functionality to import/export your widget settings."
+#~ msgstr "使用导入/导出功能来导入/导出您的小工具设置。"
+
+# @ pmpro
+#~ msgid "Buddypress"
+#~ msgstr "Buddypress"
+
+# @ vibe
+#~ msgid "BuddyPress settings and Variables"
+#~ msgstr "BuddyPress 设置和变量"
+
+# @ vibe
+#~ msgid "Upload BuddyPress default member avatar"
+#~ msgstr "BuddyPress的默认会员头像"
+
+# @ vibe
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "BuddyPress的默认会员头像"
+
+# @ vibe
+#~ msgid ""
+#~ "This avatar is shown for members who have not uploaded any custom avatar."
+#~ "NOT ABLE TO UPLOAD ? %s REFER TIP %s"
+#~ msgstr "该头像用于为该会员没有上传任何自定义头像"
+
+# @ vibe
+#~ msgid "Students only"
+#~ msgstr "学员"
+
+# @ vibe
+#~ msgid "Students & Instructors"
+#~ msgstr "课程讲师"
+
+# @ vibe
+#~ msgid "Instructors & Administrators only"
+#~ msgstr "讲师，管理员模块"
+
+# @ vibe
+#~ msgid "Administrators only"
+#~ msgstr "管理员"
+
+# @ vibe
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "Buddypress每页的项目"
+
+# @ vibe
+#~ msgid "number of items shown per page"
+#~ msgstr "每页显示项目数"
+
+# @ vibe
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr "Buddypress数量（课程，会员，群组，论坛，文章等）"
+
+# @ vibe
+#~ msgid "All Members directory View"
+#~ msgstr "全部会员可查看"
+
+# @ vibe
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "全体会员可以看到的是："
+
+# @ vibe
+#~ msgid ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "档案可查看：全部成员{Non-Loggedin}, 会员{Loggedin Members},教师 "
+#~ "{Teachers, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Members only"
+#~ msgstr "仅限会员"
+
+# @ vibe
+#~ msgid "Teachers only"
+#~ msgstr "只限教师"
+
+# @ vibe
+#~ msgid "Admins only"
+#~ msgstr "仅限管理员"
+
+# @ vibe
+#~ msgid "Single Member Profile View"
+#~ msgstr "单个会员个人信息可被查看"
+
+# @ vibe
+#~ msgid "Single members profile can be viewed by:"
+#~ msgstr "会员个人信息可以被看到的是："
+
+# @ vibe
+#~ msgid "Single Member Profile Tabs visibility"
+#~ msgstr "单个会员个人信息可被查看"
+
+# @ vibe
+#~ msgid "Hide single member profile menu for member types"
+#~ msgstr "会员个人信息可以被看到的是："
+
+# @ vibe
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "全体会员没有重新定位访问页面"
+
+# @ vibe
+#~ msgid "User is redirected to this page on error."
+#~ msgstr "用户被重定向到这个页面上的错误"
+
+# @ vibe
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr "若全体认为用户访问被拒绝，用户将被重定向到该页面。"
+
+# @ vibe
+#~ msgid "Activity directory View"
+#~ msgstr "查看活动"
+
+# @ vibe
+#~ msgid "Activity can be viewed by :"
+#~ msgstr "活动可以被看到的是："
+
+# @ vibe
+#~ msgid ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "活动可查看：全部 {Non-Loggedin}, 成员{Loggedin Members},教师 {Teachers, "
+#~ "Admins,Editors}"
+
+# @ vibe
+#~ msgid "Restrict Student activity view"
+#~ msgstr "限制学生活动查看权限"
+
+# @ vibe
+#~ msgid "Restrict student view of activity"
+#~ msgstr "限制学生查看活动权限"
+
+# @ vibe
+#~ msgid "Student can view only her activity"
+#~ msgstr "学生只能看到自己的活动"
+
+# @ vibe
+#~ msgid "Student Activity"
+#~ msgstr "学员活动"
+
+# @ vibe
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "活动没有访问重定向页面"
+
+# @ vibe
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr "若用户访问活动页面被拒绝，用户被重定向到该页面。"
+
+# @ vibe
+#~ msgid "Group directory View"
+#~ msgstr "群组目录"
+
+# @ vibe
+#~ msgid "All Groups can be viewed by :"
+#~ msgstr "单个群组资料的可以被看到的是："
+
+# @ vibe
+#~ msgid ""
+#~ "Group directory viewability : All {Non-Loggedin}, Members{Loggedin "
+#~ "Members},Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "群组可查看：全部 {Non-Loggedin}, 会员{Loggedin Members},教师 {Teachers, "
+#~ "Admins,Editors}"
+
+# @ vibe
+#~ msgid "Group directory no-access redirect Page"
+#~ msgstr "活动没有访问重定向页面"
+
+# @ vibe
+#~ msgid ""
+#~ "In case Groups view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr "若全体认为用户访问被拒绝，用户将被重定向到该页面。"
+
+# @ vibe
+#~ msgid "Create Groups"
+#~ msgstr "创建群众"
+
+# @ vibe
+#~ msgid "Groups can be created by :"
+#~ msgstr "可以创建群组的是："
+
+# @ vibe
+#~ msgid ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr "创建组：会员{Loggedin Members},教师 {Teachers, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Create Blog (multisite)"
+#~ msgstr "创建博客 (Multisite)"
+
+# @ vibe
+#~ msgid "Blogs can be created by :"
+#~ msgstr "可以创建博客的是："
+
+# @ vibe
+#~ msgid ""
+#~ "Blog creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr "创建博客：成员 {Loggedin Members}，教师 {Teachers, Admins, Editors}"
+
+# @ vibe
+#~ msgid "Show Members Meta info"
+#~ msgstr "显示成员的元信息"
+
+# @ vibe
+#~ msgid "Members meta-info is shown below the name"
+#~ msgstr "在名字下方显示成员的元信息"
+
+# @ vibe
+#~ msgid ""
+#~ "Members activity, Friendship , Message button is shown in Single & "
+#~ "members directory."
+#~ msgstr "在单独以及成员目录中显示成员活动、好友关系和消息按钮。"
+
+# @ vibe
+#~ msgid "Profile Activity Tab"
+#~ msgstr "简介活动标签"
+
+# @ vibe
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "单个活动资料的可以被看到的是："
+
+# @ vibe
+#~ msgid "Profile Group View"
+#~ msgstr "查看群组档案"
+
+# @ vibe
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "单个群组资料的可以被看到的是："
+
+# @ vibe
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "群组可查看：全部 {Non-Loggedin}, 会员{Loggedin Members},教师 {Teachers, "
+#~ "Admins,Editors}"
+
+# @ vibe
+#~ msgid "Profile Forums View"
+#~ msgstr "查看论坛档案"
+
+# @ vibe
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "单个论坛资料的可以被看到的是："
+
+# @ vibe
+#~ msgid "Redirect Page on User Activation"
+#~ msgstr "用户激活后的重定向页面"
+
+# @ vibe
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr "用户将被重新定位到这个页面并激活她的账户。"
+
+# @ vibe
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr "注册并激活账户后，用户将被重新定位到该页面。"
+
+# @ vibe
+#~ msgid "Enable Join Group/Request Membership button"
+#~ msgstr "启用加入群组/会员申请按钮"
+
+# @ vibe
+#~ msgid "Button is shown in Groups directory"
+#~ msgstr "在群组目录中显示按钮"
+
+# @ vibe
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr "申请加入公共群组或要求会员按钮加入私人群组"
+
+# @ vibe
+#~ msgid "Disable"
+#~ msgstr "停用"
+
+# @ vibe
+#~ msgid "Enable"
+#~ msgstr "启用"
+
+# @ vibe
+#~ msgid "Student Field"
+#~ msgstr "学员区"
+
+# @ vibe
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr "输入学员区名字后，在下方显示名字"
+
+# @ vibe
+#~ msgid "Instructor Field Group"
+#~ msgstr "讲师群组区"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "进入教员组区后，你可隐藏学员查看该信息， Profile -> edit (* 不要求具体字段"
+#~ "和案例）"
+
+# @ vibe
+#~ msgid "Instructor Field"
+#~ msgstr "讲师区"
+
+# @ vibe
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr "输入讲师区名字后，在下方显示名字"
+
+# @ vibe
+#~ msgid "Instructor Paypal Field"
+#~ msgstr "教师的 Paypal 字段"
+
+# @ wplms_modern
+#~ msgid "Enter \"Field Name\" for Instructor PayPal ID"
+#~ msgstr "输入教师 PayPal ID 的字段名称"
+
+# @ vibe
+#~ msgid "Instructor Description Field"
+#~ msgstr "讲师区描述"
+
+# @ vibe
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr "讲师描述介绍可以从在讲师小工具选取"
+
+# @ vibe
+#~ msgid "Course Manager"
+#~ msgstr "课程管理器"
+
+# @ vibe
+#~ msgid "Manage Course Options from here."
+#~ msgstr "管理课程选择从这里开始"
+
+# @ vibe
+#~ msgid "Take This Course Page"
+#~ msgstr "学习本页面的课程"
+
+# @ vibe
+#~ msgid "A Page with Start Course Page Template"
+#~ msgstr "开始课程的模板页面"
+
+# @ vibe
+#~ msgid "Connect Edit Course Page"
+#~ msgstr "链接编辑课程页面"
+
+# @ vibe
+#~ msgid ""
+#~ "A Page with \"Create Content\" Page Template OR a page with shortcode "
+#~ "[edit_course]"
+#~ msgstr "一个使用“创建内容”模板的页面或者有短代码 [edit_course] 的页面"
+
+# @ vibe
+#~ msgid "Notes & Discussion Page"
+#~ msgstr "笔记&讨论页面"
+
+# @ vibe
+#~ msgid "A Page with \"Notes & Discussion\" Page Template"
+#~ msgstr "模板页面 \"笔记&讨论\""
+
+# @ vibe
+# @ pmpro
+#~ msgid "Email page"
+#~ msgstr "邮箱页面"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Connect page for \"View email in Borwser\" in emails, use page template "
+#~ "\"Email Page\""
+#~ msgstr "为邮件中的”在浏览器中查看“关联页面，选择使用邮件模板的页面。"
+
+# @ wplms_modern
+#~ msgid "Maintain accurate Student Count"
+#~ msgstr "保持精确的学生数统计"
+
+# @ wplms_modern
+#~ msgid "Maintains accurate student count for course"
+#~ msgstr "为课程保持精确的学生数统计"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "The Number of Student in Course count gets verified everytime user visits "
+#~ "the Course - admin section"
+#~ msgstr "每当用户浏览课程时都会校验课程中的学生数目-管理员部分"
+
+# @ vibe
+#~ msgid "Admin Approval for Course"
+#~ msgstr "管理员批准的课程"
+
+# @ vibe
+#~ msgid "Force instructors for Admin approval for new course"
+#~ msgstr "要求教员通过管理员审核创建新课程"
+
+# @ vibe
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr "要求讲师创建课程时发送申请给管理员"
+
+# @ vibe
+#~ msgid "Yes, require approval"
+#~ msgstr "OK，审批通过"
+
+# @ vibe
+#~ msgid "No, allow publish"
+#~ msgstr "No，允许发布"
+
+# @ vibe
+#~ msgid "Unit Locking"
+#~ msgstr "单元已锁定"
+
+# @ vibe
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr "设置新的访问与前期的设置相同"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr "强制用户在学习下一个单元时必须完成前一个单元的课程和测验"
+
+# @ vibe
+#~ msgid "Free Access"
+#~ msgstr "自由访问"
+
+# @ vibe
+#~ msgid "Force prev Unit/Quiz Complete"
+#~ msgstr "强制前一个单元/测试完成"
+
+# @ vibe
+#~ msgid "Unit Media Lock"
+#~ msgstr "单元媒体锁定"
+
+# @ vibe
+#~ msgid ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr "隐藏单元课程完成按钮，除非课程的媒体（音频/视频）完成"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr "要求用户在观看完全部的视频/音频后才可以标识该课程学习完毕"
+
+# @ vibe
+#~ msgid "Assignment Locking"
+#~ msgstr "作业已锁定"
+
+# @ vibe
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr "要求用户完成全部的单元课程"
+
+# @ vibe
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr "在学员完成该课程的全部作业后才显示该课程完成的按钮"
+
+# @ vibe
+#~ msgid "Do not lock"
+#~ msgstr "不锁定"
+
+# @ vibe
+#~ msgid "Lock Unit Completion"
+#~ msgstr "单元完成锁定该单元"
+
+# @ vibe
+#~ msgid "Show Course Progressbar"
+#~ msgstr "显示课程进度条"
+
+# @ vibe
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "在该课程时间栏显示进度条"
+
+# @ vibe
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "课程进度条显示在课程概述页面"
+
+# @ vibe
+#~ msgid "Instructors can Add Students"
+#~ msgstr "讲师可添加学员"
+
+# @ vibe
+#~ msgid "Enable Instructors to be able to add students"
+#~ msgstr "启用讲师可添加学员"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr "批量操作已添加 课程->管理员->会员，教员可以将学员添加到具体课程中"
+
+# @ vibe
+#~ msgid "Instructors can Manage Student Course status "
+#~ msgstr "教师可以管理学生的课程状态"
+
+# @ vibe
+#~ msgid "Enable Instructors to be change Students course status"
+#~ msgstr "使得教师可以改变学生的课程状态"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to manage students course status in the course"
+#~ msgstr ""
+#~ "一个批量操作已添加到课程-》管理-》成员中，这使得教师可以管理学生的课程状态"
+
+# @ vibe
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr "讲师可以指定/删除具体的证书以及徽章"
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr "允许讲师给学员授予证书和徽章"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "讲师批量操作给该课程的学员授予证书/徽章操作为：Course -> Admin -> Members"
+
+# @ vibe
+#~ msgid "Instructors can Extend subscription"
+#~ msgstr "讲师可扩大订阅量"
+
+# @ vibe
+#~ msgid "Enable Instructors to extend subscriptions of Students"
+#~ msgstr "启用讲师可扩大订阅量"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to extend subscriptions of Students for the course"
+#~ msgstr "批量操作已添加 课程->Admin->成员，讲师可以将学员添加到具体课程中"
+
+# @ vibe
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "强制讲师对内容进行隐藏"
+
+# @ vibe
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr "只对讲师显示单元/测试/问题的选框"
+
+# @ vibe
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr "讲师可以查看相应标题内容但无法打开"
+
+# @ vibe
+#~ msgid "Leaderboard/Stats Visibility"
+#~ msgstr "排行榜/统计可见"
+
+# @ vibe
+#~ msgid "Stats & Leaderboard visible to"
+#~ msgstr "排行榜/统计可见至"
+
+# @ vibe
+#~ msgid ""
+#~ "Stats displaying average, maxmium, minimum and top 10 students for a "
+#~ "module"
+#~ msgstr "成绩显示平均、最高、最低和前10名的模块"
+
+# @ vibe
+#~ msgid "Students"
+#~ msgstr "学员"
+
+# @ vibe
+#~ msgid "All Instructors"
+#~ msgstr "全部讲师"
+
+# @ vibe
+#~ msgid "Module Instructor & Administrators"
+#~ msgstr "讲师，管理员模块"
+
+# @ vibe
+#~ msgid "Become an Instructor Page"
+#~ msgstr "成为讲师页面"
+
+# @ vibe
+#~ msgid "A Page with become a teacher form."
+#~ msgstr "成为教师申请页面"
+
+# @ vibe
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "撤销证书页面"
+
+# @ vibe
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr "证书模板页面，退回到没有证书模板页面"
+
+# @ vibe
+#~ msgid "Course default avatar"
+#~ msgstr "课程默认头像"
+
+# @ vibe
+#~ msgid "Default avatar for courses"
+#~ msgstr "课程的默认头像"
+
+# @ vibe
+#~ msgid ""
+#~ "This avatar is shown for courses which do not have any avatar. NOT ABLE "
+#~ "TO UPLOAD ? %s REFER TIP %s"
+#~ msgstr "该头像用于为该会员没有上传任何自定义头像"
+
+# @ vibe
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "自动评估问题类型"
+
+# @ vibe
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "问题类型将会自动进行测评"
+
+# @ vibe
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+#~ msgstr "这些问题类型将会精确匹配到自动测评中"
+
+# @ vibe
+#~ msgid "True False"
+#~ msgstr "真假"
+
+# @ vibe
+#~ msgid "Multiple Choice"
+#~ msgstr "多选题"
+
+# @ vibe
+#~ msgid "Multiple Correct"
+#~ msgstr "多选正确"
+
+# @ vibe
+#~ msgid "Sort Answer Question"
+#~ msgstr "排序问题"
+
+# @ vibe
+#~ msgid "Match Answers"
+#~ msgstr "匹配答案"
+
+# @ vibe
+#~ msgid "Dropdown select"
+#~ msgstr "下拉列表中选择"
+
+# @ vibe
+#~ msgid "Fill in the Blank"
+#~ msgstr "填空"
+
+# @ vibe
+#~ msgid "Small Text Answer"
+#~ msgstr "小文本框答案"
+
+# @ vibe
+#~ msgid "Hide Courses from Directory"
+#~ msgstr "目录中隐藏课程"
+
+# @ vibe
+#~ msgid "Hide courses from directory & pages, only accessible via direct link"
+#~ msgstr "目录与页面中隐藏课程，只通过连接进入访问"
+
+# @ vibe
+#~ msgid "Course Duration parameter"
+#~ msgstr "课程时间参数"
+
+# @ vibe
+#~ msgid "Set course duration parameter"
+#~ msgstr "设定课程时间参数"
+
+# @ vibe
+#~ msgid "Course duration parameter for display purpose"
+#~ msgstr "课程时间参数显示其用途"
+
+# @ vibe
+#~ msgid "Automatic"
+#~ msgstr "自动"
+
+# @ vibe
+#~ msgid "Finished Course Access"
+#~ msgstr "查看已完成课程"
+
+# @ vibe
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "允许学员查看已完成的课程"
+
+# @ vibe
+#~ msgid "Make finished courses secure area viewable to students"
+#~ msgstr "让学员在安全区域查看已完成的课程"
+
+# @ vibe
+#~ msgid "Notes and Discussion styles"
+#~ msgstr "笔记和讨论的样式"
+
+# @ vibe
+#~ msgid "Set style for Notes & Discussion template"
+#~ msgstr "为笔记 & 讨论模板设置样式"
+
+# @ vibe
+#~ msgid "Display notes & Discussions"
+#~ msgstr "显示笔记 & 讨论"
+
+# @ wplms_modern
+#~ msgid "Per paragraph in Unit"
+#~ msgstr "单元中的每个段落"
+
+# @ vibe
+#~ msgid "Per Unit"
+#~ msgstr "每个单元"
+
+# @ vibe
+#~ msgid "Display News"
+#~ msgstr "显示最新消息"
+
+# @ vibe
+#~ msgid "Display News section in courses"
+#~ msgstr "课程中显示新闻"
+
+# @ vibe
+#~ msgid "Display News section in courses, *requires WPLMS Dashboard plugin"
+#~ msgstr "课程中显示新闻"
+
+# @ vibe
+#~ msgid "Enable Levels"
+#~ msgstr "启用级别"
+
+# @ vibe
+#~ msgid "Enables Level taxonomy"
+#~ msgstr "启用等级分类"
+
+# @ vibe
+#~ msgid "Enables Level taxonomy in Courses and search page "
+#~ msgstr "在课程和搜索页面启用级别分类法"
+
+# @ vibe
+#~ msgid "Enable Course Location"
+#~ msgstr "启用课程地点"
+
+# @ wplms_modern
+#~ msgid "Location taxonomy for Courses"
+#~ msgstr "课程的分类法条目"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Location taxonomy for Courses in Course filters and Search %s Tutorial %s"
+#~ msgstr "课程过滤器和搜索中的课程分类法条目 %s 教程 %s"
+
+# @ wplms_modern
+#~ msgid "Disable Front End Editor (FEE)"
+#~ msgstr "禁用前端编辑器 (FEE)"
+
+# @ wplms_modern
+#~ msgid "Disable front end editor"
+#~ msgstr "禁用前端编辑器"
+
+# @ wplms_modern
+#~ msgid "Disable front end editor : %s Tutorial %s"
+#~ msgstr "禁用前端编辑器：%s 教程 %s"
+
+# @ vibe
+#~ msgid "No, Enable FEE"
+#~ msgstr "否，激活 FEE"
+
+# @ vibe
+#~ msgid "Yes, Disable FEE"
+#~ msgstr "是，禁用 FEE"
+
+# @ vibe
+#~ msgid "Enable Linkage"
+#~ msgstr "启用链接"
+
+# @ vibe
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr "分类可以链接到课程、单元、测试、问题"
+
+# @ vibe
+#~ msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+#~ msgstr "缩短下拉列表中显示单元、测试、课程的字段"
+
+# @ vibe
+#~ msgid "Course Category/Level/Location redirect"
+#~ msgstr "课程分类/级别/地点重定向"
+
+# @ vibe
+#~ msgid "Redirect to Course directory"
+#~ msgstr "重定向到课程目录"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "User redirects to Directory with category activated when she selects "
+#~ "course category %s refer tutorial %s"
+#~ msgstr "当用户选择课程分类时被重定向到激活了分类的目录 %s 参考教程 %s"
+
+# @ vibe
+#~ msgid "Fonts Manager"
+#~ msgstr "字体管理器"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+#~ msgstr "在网站中使用管理字体。这里所选字体将在主题定制字体系列中选择选项。"
+
+# @ wplms_modern
+#~ msgid "Enter Google fonts API key"
+#~ msgstr "输入 Google 字体 API Key"
+
+# @ wplms_modern
+#~ msgid "Required to fetch a list of Fonts from Google"
+#~ msgstr "需要用来从 Google 获取一个字体列表"
+
+# @ vibe
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "在线编辑可以选择字体"
+
+# @ vibe
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "在线编辑可以选择字体或者安装字体"
+
+# @ vibe
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "建立页面是使用示例页面布局"
+
+# @ vibe
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "自定义字体（输入字体CSS格式）"
+
+# @ vibe
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr "自定义字体添加到主题的字体列表..."
+
+# @ vibe
+#~ msgid "Customizer"
+#~ msgstr "自定义"
+
+# @ vibe
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "导入/导出自定义程序设置，自定义您的主题"
+
+# @ vibe
+#~ msgid "WP Theme Customizer"
+#~ msgstr "WP主题定制"
+
+# @ vibe
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "导入/导出自定义设置"
+
+# @ vibe
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "导入/导出自定义设置"
+
+# @ vibe
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr "使用导入/导出功能进行导入/导出自定义设置。"
+
+# @ vibe
+#~ msgid "PageBuilder Manager"
+#~ msgstr "创建页面管理器"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr "管理pagebuilder保存为布局模板或导入/导出相应的pagebuilder存为布局"
+
+# @ vibe
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "管理模板布局"
+
+# @ vibe
+#~ msgid "Delete Sample Layouts"
+#~ msgstr "删除模板布局"
+
+# @ vibe
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "导入/导出样品布局"
+
+# @ vibe
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "导入/导出现有布局"
+
+# @ vibe
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "使用导入/导出功能，保存您的布局"
+
+# @ vibe
+#~ msgid "Footer "
+#~ msgstr "底部"
+
+# @ vibe
+#~ msgid "Setup footer settings"
+#~ msgstr "安装底部设置"
+
+# @ vibe
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "底部页眉工具条"
+
+# @ vibe
+#~ msgid "Footer Columns"
+#~ msgstr "底部工具条"
+
+# @ vibe
+#~ msgid "Four Columns"
+#~ msgstr "4纵列"
+
+# @ vibe
+#~ msgid "Three Columns"
+#~ msgstr "3纵列"
+
+# @ vibe
+#~ msgid "Two Columns"
+#~ msgstr "2纵列"
+
+# @ vibe
+#~ msgid "One Columns"
+#~ msgstr "单纵列"
+
+# @ vibe
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "底部页脚工具条按钮"
+
+# @ vibe
+#~ msgid "Upload Footer Logo"
+#~ msgstr "上传你的logo"
+
+# @ vibe
+#~ msgid "Copyright Text"
+#~ msgstr "版权信息"
+
+# @ vibe
+#~ msgid "Enter copyrighted text"
+#~ msgstr "输入版权文字"
+
+# @ vibe
+#~ msgid "Also supports shotcodes."
+#~ msgstr "同时支持代码"
+
+# @ vibe
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "选择底部按钮选项"
+
+# @ vibe
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr "选择底部按钮风格，设置社交图标链接到相应的社交网址"
+
+# @ vibe
+#~ msgid "Show Footer Menu"
+#~ msgstr "显示底部菜单"
+
+# @ vibe
+#~ msgid "Show Social Icons"
+#~ msgstr "显示社交图标"
+
+# @ vibe
+#~ msgid "Google Analytics Code"
+#~ msgstr "Google Analytics 代码"
+
+# @ vibe
+#~ msgid "Google Analytics account"
+#~ msgstr "Google Analytics 账户"
+
+# @ vibe
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "请输入完整的代码使用javascript标签。"
+
+# @ vibe
+#~ msgid "Social Information"
+#~ msgstr "社交信息"
+
+# @ vibe
+#~ msgid "All Social media settings"
+#~ msgstr "全部社交媒体设置"
+
+# @ vibe
+#~ msgid "Add Social Media Icons "
+#~ msgstr "添加社交媒体图标"
+
+# @ vibe
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "动态增加社交图标"
+
+# @ vibe
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "添加完整的社交媒体的URL"
+
+# @ vibe
+#~ msgid "Social Icons Type"
+#~ msgstr "社交图标类型"
+
+# @ vibe
+#~ msgid "Social Icons Theme"
+#~ msgstr "社交图标主题"
+
+# @ vibe
+#~ msgid "Round"
+#~ msgstr "圆形"
+
+# @ vibe
+#~ msgid "Square"
+#~ msgstr "矩形"
+
+# @ vibe
+#~ msgid "Round Colored"
+#~ msgstr "添加圆形颜色"
+
+# @ vibe
+#~ msgid "Square Colored"
+#~ msgstr "矩形颜色"
+
+# @ vibe
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "在社交图标上显示提示框"
+
+# @ vibe
+#~ msgid "Social Sharing buttons"
+#~ msgstr "社交分享按钮"
+
+# @ vibe
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "在主题中显示内置分享按钮"
+
+# @ vibe
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr "在课程中添加社交媒体的分享按钮"
+
+# @ vibe
+#~ msgid "TinCan/xAPI"
+#~ msgstr "TinCan/xAPI"
+
+# @ wplms_modern
+#~ msgid "TinCan and LRS settings for WPLMS"
+#~ msgstr "为 WPLMS 进行 TinCan 和 LRS 设置"
+
+# @ vibe
+#~ msgid "Enable TinCan recording"
+#~ msgstr "启用TinCan记录"
+
+# @ vibe
+#~ msgid "Record TinCan/XAPI statements in External LRS"
+#~ msgstr "在外部LRS中记录TinCan/XAPI的记录文件"
+
+# @ vibe
+#~ msgid ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+#~ msgstr "存储所有在外部LRS的活动，这可以使其它XAPI兼容LMSes可以阅读。"
+
+# @ vibe
+#~ msgid "TinCan API EndPoint"
+#~ msgstr "TinCan API端点"
+
+# @ vibe
+#~ msgid "Add a TinCan API endpoint"
+#~ msgstr "添加TinCan API端点"
+
+# @ vibe
+#~ msgid "Add Endpoint to track details in external LRS."
+#~ msgstr "添加端点追踪外部LRS的内容"
+
+# @ vibe
+#~ msgid "LRS User name"
+#~ msgstr "LRS用户名"
+
+# @ vibe
+#~ msgid "TinCan compatible LRS authentication"
+#~ msgstr "TinCan兼容LRS认证"
+
+# @ vibe
+#~ msgid "Enter Username for external LRS authentication."
+#~ msgstr "输入用户名进行外部LRS认证"
+
+# @ vibe
+#~ msgid "LRS Password"
+#~ msgstr "LRS密码"
+
+# @ vibe
+#~ msgid "Enter Password for external LRS authentication."
+#~ msgstr "输入密码进行外部LRS认证"
+
+# @ vibe
+#~ msgid "Miscellaneous"
+#~ msgstr "其他"
+
+# @ vibe
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "在主题中使用其他设置"
+
+# @ vibe
+#~ msgid "Site Lock"
+#~ msgstr "站点URL"
+
+# @ wplms_modern
+#~ msgid "Unique Security Key"
+#~ msgstr "独有安全密钥"
+
+# @ wplms_modern
+#~ msgid "Security key for every site. Longer keys are good"
+#~ msgstr "每个站点的安全密钥。越长越好"
+
+# @ wplms_modern
+#~ msgid "Unique key to avoid (logged in) users from bypassing the system."
+#~ msgstr "防止已登录用户越过系统的独有密钥。"
+
+# @ vibe
+#~ msgid "Default Excerpt Length"
+#~ msgstr "默认摘要长度"
+
+# @ vibe
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "摘要按词数计量长度"
+
+# @ vibe
+#~ msgid "Comments in pages"
+#~ msgstr "评论 (可选的)"
+
+# @ vibe
+#~ msgid "Default Instructor Commission"
+#~ msgstr "默认讲师佣金"
+
+# @ vibe
+#~ msgid "Insructor commission per sale of course/product (enter 0 to disable)"
+#~ msgstr "讲师课程/产品销售佣金（输入0为无)"
+
+# @ vibe
+#~ msgid "Direct Checkout"
+#~ msgstr "立马结算"
+
+# @ vibe
+#~ msgid "Requires WooCommerce installed"
+#~ msgstr "需要安装WooCommerce"
+
+# @ vibe
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "用户被重新定向到结帐页面"
+
+# @ vibe
+#~ msgid "Skip Product & Cart page"
+#~ msgstr "跳过商品购物车页面"
+
+# @ vibe
+#~ msgid "Skip Product page"
+#~ msgstr "跳过商品页面"
+
+# @ vibe
+#~ msgid "Skip Cart"
+#~ msgstr "跳过购物车"
+
+# @ vibe
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "重新定向到课程页面完成订购"
+
+# @ vibe
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "只有在订单中一个商品只还有一门课程"
+
+# @ vibe
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+#~ msgstr ""
+#~ "若您的购物车里一个商品以及相应的一个课程时，当您直接进行结算后系统会为用户"
+#~ "自动打开该课程页面"
+
+# @ vibe
+#~ msgid "Force complete orders"
+#~ msgstr "强制完成订单"
+
+# @ vibe
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr "要求woocommerce的在商品订购完成显示感谢您的页面"
+
+# @ vibe
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "全部购买完成的订单：购买人购买支付完成后的订单,全部未完成购买的订单：购买"
+#~ "人在购买支付过程中，停留，系统会自动挂单并在感谢您的页面中进行标记。"
+
+# @ vibe
+#~ msgid "All Paid Orders"
+#~ msgstr "全部购买完成的订单"
+
+# @ vibe
+#~ msgid "All Non-Fail Orders"
+#~ msgstr "全部未完成购买的订单"
+
+# @ vibe
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "删除多余结账文件"
+
+# @ vibe
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "建议若您只卖课程/虚拟产品"
+
+# @ vibe
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+#~ msgstr "删除woocommerce相关信息：结算公司/地址,邮编,电话号码等"
+
+# @ vibe
+#~ msgid "Cache Duration"
+#~ msgstr "缓存期限"
+
+# @ vibe
+#~ msgid "in seconds (0 to disable)"
+#~ msgstr "短时间内（0表示暂停）"
+
+# @ vibe
+#~ msgid ""
+#~ "Small cache duration could impact adversely. High for stable websites."
+#~ msgstr "较小的缓存持续时间可能会产生不利网站稳定的影响"
+
+# @ vibe
+#~ msgid "Google Maps API Key"
+#~ msgstr "地图放大级别"
+
+# @ vibe
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "联系页面经度和纬度的值"
+
+# @ vibe
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "从列表中获取经度和纬度的值。"
+
+# @ vibe
+#~ msgid "Contact Page Map Style"
+#~ msgstr "联系页面的地图的风格"
+
+# @ vibe
+#~ msgid "Select the map style on contact page."
+#~ msgstr "在联系页面中选取地图的风格。"
+
+# @ vibe
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "内容区域是在容器中的所有内容的位置。"
+
+# @ vibe
+#~ msgid "Satellite View"
+#~ msgstr "卫星图"
+
+# @ vibe
+#~ msgid "Road map"
+#~ msgstr "路线图"
+
+# @ vibe
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "地图放大级别"
+
+# @ vibe
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "地图放大级别"
+
+# @ vibe
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "放大倍数0-19"
+
+# @ vibe
+#~ msgid "Select 404 Page"
+#~ msgstr "选择 404页面"
+
+# @ vibe
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr "未找到该页面."
+
+# @ vibe
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr "为找到用户指定页面."
+
+# @ vibe
+#~ msgid "Disable XMLRPC/RSD/WLWManifest"
+#~ msgstr "使 XMLRPC/RSD/WLWManifest无效"
+
+# @ vibe
+#~ msgid "Remove security vulnerabilities"
+#~ msgstr "删除安全漏洞"
+
+# @ vibe
+#~ msgid ""
+#~ "Removes vulnerabilities at expense of ability to login via remote apps."
+#~ msgstr "取消漏洞的费用通过APP登录的能力。"
+
+# @ wplms_modern
+#~ msgid "Custom CSS for WP Login Screen"
+#~ msgstr "WP 登录界面的自定义 CSS"
+
+# @ vibe
+#~ msgid "Add custom CSS"
+#~ msgstr "添加自定义CSS"
+
+# @ wplms_modern
+#~ msgid "Custom CSS for WP Login screen."
+#~ msgstr "WP 登录界面的自定义 CSS。"
+
+# @ vibe
+#~ msgid "Author & Credits"
+#~ msgstr "作者信息"
+
+# @ vibe
+#~ msgid "Credits and Author of the Website"
+#~ msgstr "本网站作者信息"
+
+# @ vibe
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr "改变作者参考信息"
+
+# @ vibe
+#~ msgid "Theme Information"
+#~ msgstr "主题信息"
+
+# @ vibe
+#~ msgid "Remove this item"
+#~ msgstr "删除该成员"
+
+# @ vibe
+#~ msgid "Course Directory"
+#~ msgstr "课程目录"
+
+# @ vibe
+#~ msgid "All Courses by all instructors"
+#~ msgstr "全部课程的讲师"
+
+# @ vibe
+#~ msgid "All Courses by "
+#~ msgstr "全部课程由"
+
+# @ vibe
+#~ msgid "Course specific instructions"
+#~ msgstr "课程简介"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a course completion message for students passing this course. This "
+#~ "message is shown to students when students submit their course. The "
+#~ "message is shown above the Course review form"
+#~ msgstr ""
+#~ "当学员完成课程后输入课程结业的消息。此消息将在学员完成课程后进行提示，并在"
+#~ "课程检查表中显示出来。"
+
+# @ vibe
+#~ msgid "EDIT COURSE"
+#~ msgstr "编辑课程"
+
+# @ vibe
+#~ msgid "CREATE COURSE"
+#~ msgstr "创建课程"
+
+# @ vibe
+#~ msgid "Start building a course"
+#~ msgstr "开始创建课程"
+
+# @ vibe
+#~ msgid "SETTINGS"
+#~ msgstr "设置"
+
+# @ vibe
+#~ msgid "Course settings"
+#~ msgstr "课程设置"
+
+# @ vibe
+#~ msgid "SET CURRICULUM"
+#~ msgstr "设置课程"
+
+# @ vibe
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "增加单元和测试"
+
+# @ vibe
+#~ msgid "PRICING"
+#~ msgstr "价格"
+
+# @ vibe
+#~ msgid "Set Price for Course"
+#~ msgstr "给课程设定价格"
+
+# @ vibe
+#, fuzzy
+#~ msgid "MODIFY COURSE"
+#~ msgstr "编辑课程"
+
+# @ vibe
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "发布课程"
+
+# @ vibe
+#~ msgid "Go Live !"
+#~ msgstr "上线!"
+
+# @ vibe
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "编辑管理员面板"
+
+# @ vibe
+#~ msgid "COURSE TITLE"
+#~ msgstr "课程题目"
+
+# @ vibe
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "输入课程名称"
+
+# @ vibe
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "课程分类"
+
+# @ vibe
+#~ msgid "Select a Course Category"
+#~ msgstr "选择课程目录"
+
+# @ vibe
+#~ msgid "Add new category"
+#~ msgstr "添加新分类"
+
+# @ vibe
+#~ msgid "Enter a new Course Category"
+#~ msgstr "输入新课程分类"
+
+# @ vibe
+#~ msgid "COURSE IMAGE"
+#~ msgstr "课程图像"
+
+# @ vibe
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "课程描述"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "输入不超过30个字的描述，点击文本进行编辑 \n"
+#~ "                                delete this text. 删除该文本，完成的课程描"
+#~ "述会稍后添加"
+
+# @ vibe
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "课程链接"
+
+# @ vibe
+#~ msgid "Select Linkage term"
+#~ msgstr "选择链接项"
+
+# @ vibe
+#~ msgid "Add new Linkage term"
+#~ msgstr "添加新的链接项"
+
+# @ vibe
+#~ msgid "Enter a new Linkage"
+#~ msgstr "输入新连接项"
+
+# @ vibe
+#~ msgid "SAVE COURSE"
+#~ msgstr "保存课程"
+
+# @ vibe
+#~ msgid "Course Settings"
+#~ msgstr "课程设置"
+
+# @ vibe
+#~ msgid "Course Duration"
+#~ msgstr "课程时长"
+
+# @ vibe
+#~ msgid "Maximum Course Duration"
+#~ msgstr "最大课程时长"
+
+# @ vibe
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "课程评估模式"
+
+# @ vibe
+#~ msgid "Manual"
+#~ msgstr "手动"
+
+# @ vibe
+#~ msgid "Pre-required Course"
+#~ msgstr "课程需预修课"
+
+# @ vibe
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "设置预修课"
+
+# @ vibe
+#~ msgid "Drip Feed"
+#~ msgstr "协助"
+
+# @ vibe
+#~ msgid "Set Drip Feed Duration"
+#~ msgstr "设置协助描述"
+
+# @ vibe
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "设置证书比例"
+
+# @ vibe
+#~ msgid "Set Certificate Template"
+#~ msgstr "设置证书模板"
+
+# @ vibe
+#~ msgid "Course Badge"
+#~ msgstr "课程徽章"
+
+# @ vibe
+#~ msgid "Set Badge Percentage"
+#~ msgstr "设置徽章比例"
+
+# @ vibe
+#~ msgid " out of 100"
+#~ msgstr "百分之"
+
+# @ vibe
+#~ msgid "Set Badge Title"
+#~ msgstr "设置徽章名称"
+
+# @ vibe
+#~ msgid "Upload Badge Image"
+#~ msgstr "上传徽章图像"
+
+# @ wplms_modern
+#~ msgid "Student Seats"
+#~ msgstr "学员数量"
+
+# @ vibe
+#~ msgid "Number of seats in course"
+#~ msgstr "给课程设置一些座位"
+
+# @ vibe
+#~ msgid "Set Course Start Date"
+#~ msgstr "设置课程开始时间"
+
+# @ wplms_modern
+#~ msgid "Number of Student re-takes"
+#~ msgstr "重新学习课程的学员数"
+
+# @ vibe
+#~ msgid "Course Group"
+#~ msgstr "课程组"
+
+# @ vibe
+#~ msgid "Connect a Course Group"
+#~ msgstr "链接课程组"
+
+# @ vibe
+#~ msgid "Add new Group"
+#~ msgstr "添加新组"
+
+# @ vibe
+#~ msgid "Course Forum"
+#~ msgstr "课程论坛"
+
+# @ vibe
+#~ msgid "Connect a Course Forum"
+#~ msgstr "链接课程论坛"
+
+# @ vibe
+#~ msgid "Connect the Group forum"
+#~ msgstr "链接组论坛"
+
+# @ vibe
+#~ msgid "Add new forum"
+#~ msgstr "添加新论坛"
+
+# @ vibe
+#~ msgid "Course Completion Message"
+#~ msgstr "毕业通知"
+
+# @ vibe
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "保存设置"
+
+# @ vibe
+#~ msgid "ADD SECTION"
+#~ msgstr "添加章节"
+
+# @ vibe
+#~ msgid "ADD UNIT"
+#~ msgstr "增加单元"
+
+# @ vibe
+#~ msgid "ADD QUIZ"
+#~ msgstr "增加测试"
+
+# @ vibe
+#~ msgid "Edit Unit"
+#~ msgstr "编辑单元"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Preview"
+#~ msgstr "查看字体"
+
+# @ vibe
+#~ msgid "SELECT A UNIT"
+#~ msgstr "选择单元"
+
+# @ vibe
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "增加新单元"
+
+# @ vibe
+#~ msgid "Add a unit title"
+#~ msgstr "增加新单元名称"
+
+# @ vibe
+#~ msgid "Publish"
+#~ msgstr "发布"
+
+# @ vibe
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "选择测试"
+
+# @ vibe
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "增加新测试"
+
+# @ vibe
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "保存课程"
+
+# @ vibe
+#~ msgid "COURSE PRICING"
+#~ msgstr "课程定价"
+
+# @ vibe
+#~ msgid "Set a Course Product"
+#~ msgstr "设置课程商品"
+
+# @ vibe
+#~ msgid "Select a Course Product"
+#~ msgstr "选择课程商品"
+
+# @ vibe
+#~ msgid "No Product"
+#~ msgstr "无商品"
+
+# @ vibe
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "增加新商品"
+
+# @ vibe
+#~ msgid "Set Product type"
+#~ msgstr "设置商品样式"
+
+# @ vibe
+#~ msgid "Full Course"
+#~ msgstr "全部课程"
+
+# @ vibe
+#~ msgid "Subscription"
+#~ msgstr "订阅"
+
+# @ vibe
+#~ msgid "Set Product Price"
+#~ msgstr "设置商品价格"
+
+# @ vibe
+#~ msgid "Set Subscription duration"
+#~ msgstr "设置订阅时效"
+
+# @ vibe
+#~ msgid "Set Course Memberships"
+#~ msgstr "设置课程会员"
+
+# @ vibe
+#~ msgid "Save Course Pricing"
+#~ msgstr "保存课程定价"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Modify Course"
+#~ msgstr "课程"
+
+# @ vibe
+#, fuzzy
+#~ msgid "DELETE COURSE"
+#~ msgstr "创建课程"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Delete Units"
+#~ msgstr "删除账户"
+
+# @ buddypress
+#, fuzzy
+#~ msgid "Delete Quizzes"
+#~ msgstr "删除消息"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Delete Assignments"
+#~ msgstr "作业测评: "
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course not set"
+#~ msgstr "课程信息"
+
+# @ default
+#~ msgid "Go Live"
+#~ msgstr "上线!"
+
+# @ vibe
+#~ msgid "GO LIVE"
+#~ msgstr "上线!"
+
+# @ vibe
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "发送验证"
+
+# @ vibe
+#~ msgid ""
+#~ "Click on text to enter a Course title, delete the existing text in the "
+#~ "title"
+#~ msgstr "点击输入新的课程名称，删除原来名称"
+
+# @ vibe
+#~ msgid "Select a Course Category, or Add a New one"
+#~ msgstr "选择课程类别，或者添加新的分类"
+
+# @ vibe
+#~ msgid ""
+#~ "Select or upload a course image, this image is used as Course avatar."
+#~ msgstr "选择或上传一个新的课程图像，该图像将会用作课程头像使用。"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a Short description about the course, the full description can be "
+#~ "added later on. Start by deleting the existing text in the title"
+#~ msgstr ""
+#~ "输入一个该课程的简短说明，完成说明在随后可以添加。首先删除已有的文字标题"
+
+# @ vibe
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "链接会大幅降低页面读取单元/测试/问题的列表速度。当一个链接被选择后，相应的"
+#~ "单元/测试/问题也会与相应的链接进行配置。若编辑一个课程后，要注意在选取链接"
+#~ "后进行保存并刷新。"
+
+# @ vibe
+#~ msgid "A Offline Course is not visible to students in the course directory."
+#~ msgstr "学员在课程目录中无法看到已经下线的课程"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the maximum duration for the course in days. This is the maximum "
+#~ "duration within which the student should complete the course. Use 9999 "
+#~ "for unlimited access to course."
+#~ msgstr ""
+#~ "输入课程的最长期限。在该期限内学员应该完成相应的课程，使用9999不受时间限"
+#~ "制。"
+
+# @ vibe
+#~ msgid ""
+#~ "Set Evaluation mode, Manual evaluation (from Course -> Admin ) or "
+#~ "Automatic  "
+#~ msgstr ""
+#~ "设置评估模式，资料评估(from Course -> Admin ) 或者自动设置(* 至少需要1个课"
+#~ "程的测试中 ) "
+
+# @ vibe
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr "设置必须课，必须课要求学员必须完成后才能够继续学习该课程"
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Drip Feed course. Students see next lesson after x days. X is "
+#~ "Duration of Drip. "
+#~ msgstr "启用课程协助，学员能够在下一个课程后的X天浏览，X表示协助"
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "设置课程证书，设置课程证书用于学员在课程完成后获得证书，选择证书的模板。"
+
+# @ vibe
+#~ msgid ""
+#~ "Set a course Badge. Set percentage marks which a student should get to "
+#~ "get the course badge. Upload the Badge image."
+#~ msgstr ""
+#~ "设置课程徽章，设置徽章用于学员完成课程后获得徽章奖励，上传徽章图案。"
+
+# @ vibe
+#~ msgid ""
+#~ "Set number of seats available for students to take the course. Once full "
+#~ "students can not join the course. Enter 9999 for unlimited seats."
+#~ msgstr ""
+#~ "为课程设置参加的人数限制。一旦该课程人数已满，学员就无法继续报名。无限制的"
+#~ "人数请输入9999个座位即可。"
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join "
+#~ "the course on/after the start date."
+#~ msgstr ""
+#~ "设置课程开始时间。若果设置了一个具体发布时间后，学员即可在该时间后参加课"
+#~ "程。"
+
+# @ wplms_modern
+#~ msgid ""
+#~ "Number of times a student can re-take this course. Student can retake "
+#~ "course after finishing it. 0 to disable."
+#~ msgstr "学员重新学习课程的次数，学员可以重新进行学习该课程，0表示禁止"
+
+# @ vibe
+#~ msgid "Connect a Course Group OR Create a new one"
+#~ msgstr "链接一个课程群组或创建一个新的群组"
+
+# @ vibe
+#~ msgid ""
+#~ "Connect a Course forum Or Create a new one or Create a Course Group Forum"
+#~ msgstr "链接一个课程论坛或者创建一个新的或创建课程组的论坛"
+
+# @ vibe
+#~ msgid "Enter Course specific instructions for students to take this course."
+#~ msgstr "进入课程详情便于学员学习本课程"
+
+# @ vibe
+#~ msgid "Enter message which student see after submitting the course."
+#~ msgstr "输入提示信息，当学员完成申请课程后可收到该信息"
+
+# @ vibe
+#~ msgid "Select a level for the course."
+#~ msgstr "选择课程级别"
+
+# @ vibe
+#~ msgid "Start building curriculum by adding Units, Quizzes and sections."
+#~ msgstr "通过增加单元，测试和章节来建立课程"
+
+# @ vibe
+#~ msgid "After adding a new unit or quiz, make sure you publish it"
+#~ msgstr "在增加新的单元或测试请确认您已发布"
+
+# @ vibe
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "当保存课程章节后按钮显示绿色"
+
+# @ vibe
+#~ msgid ""
+#~ "Connect the course with a product. A product defines the pricing of a "
+#~ "course.<br /><br />a. Enter the Price of the product to set the price of "
+#~ "your course.<br />b. Select the type of product.<br /><br /> If product "
+#~ "is set to subscription mode, you need to set the subscription duration "
+#~ "for the product. <br />A student purchasing a Product with subscription "
+#~ "gets access for the course for the subscription duration.<br /> A student "
+#~ "purchasing a product without subscription gets access for the course for "
+#~ "full course duration as entered in course settings."
+#~ msgstr ""
+#~ "把课程与商品相关联，通过设置课程的价格才可为商品. <br /><br />a. 输入你的"
+#~ "课程的价格确认其售价. <br />b.选择商品的类型. <br /><br /> 如果商品时收费"
+#~ "模式，您需要设置收费期限. <br /> 学生购买商品需在限定期限内. <br />学生在"
+#~ "期限内购买商品无需进行设置"
+
+# @ vibe
+#~ msgid ""
+#~ "Go live with your course if \"Publish\" access is granted by "
+#~ "Administrator you course will be live as soon as you click on Go Live "
+#~ "button."
+#~ msgstr ""
+#~ "您的课程若上线 \"发布\" 需获得管理员的授权，当您点击上线按钮时管理员会审核"
+#~ "授权。"
+
+# @ vibe
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "安装必要的插件来运行这个主题：BuddyPress, Vibe Course Module, Vibe "
+#~ "Shortcodes, Vibe CustomTypes"
+
+# @ vibe
+#~ msgid "Other important setups. "
+#~ msgstr "其他重要的设置"
+
+# @ vibe
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "上传 16x16px 收藏夹图标"
+
+# @ vibe
+#~ msgid "Upload BuddyPress Default avatar"
+#~ msgstr "上传BuddyPress的默认头像"
+
+# @ vibe
+#~ msgid "Theme Layout"
+#~ msgstr "主题布局"
+
+# @ vibe
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "配置主题布局"
+
+# @ vibe
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "从主题中选择预订义的布局"
+
+# @ vibe
+#~ msgid "Wide"
+#~ msgstr "宽"
+
+# @ vibe
+#~ msgid "Post in"
+#~ msgstr "发布"
+
+# @ vibe
+#~ msgid "Students Currently taking this course"
+#~ msgstr "目前正在学习的学员数"
+
+# @ vibe
+#~ msgid "FREE"
+#~ msgstr "免费"
+
+# @ vibe
+#~ msgid "minutes"
+#~ msgstr "分"
+
+# @ vibe
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "提交作业"
+
+# @ vibe
+#~ msgid "Reset Assignment for User"
+#~ msgstr "给用户重新分配"
+
+# @ vibe
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "作业测评: "
+
+# @ vibe
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "提交测试"
+
+# @ vibe
+#~ msgid "Reset Quiz for User"
+#~ msgstr "为用户重置测试"
+
+# @ vibe
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "为用户评估测试"
+
+# @ vibe
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "提交课程"
+
+# @ vibe
+#~ msgid "Evaluate Course for User"
+#~ msgstr "为用户评估课程"
+
+# @ vibe
+#~ msgid "Send Request"
+#~ msgstr "发送申请"
+
+# @ vibe
+#~ msgid "SEATS"
+#~ msgstr "座位"
+
+# @ vibe
+#, fuzzy
+#~ msgid "%1$s ago"
+#~ msgstr "%s 之前"
+
+# @ vibe
+#~ msgid "Sidebar Columns"
+#~ msgstr "侧边栏数"
+
+# @ vibe
+#~ msgid "View all Courses in %s"
+#~ msgstr "查看全部课程 %s"
+
+# @ vibe
+#~ msgid "My Submission"
+#~ msgstr "我的提交"
+
+# @ vibe
+#~ msgid "Download Attachment"
+#~ msgstr "下载附件"
+
+# @ vibe
+#~ msgid "See Instructor Remarks"
+#~ msgstr "查看讲师打分"
+
+# @ vibe
+#~ msgid "Marks Obtained"
+#~ msgstr "已获得成绩"
+
+# @ vibe
+#~ msgid "Marked Answer :"
+#~ msgstr "答案打分:"
+
+# @ vibe
+#~ msgid "FALSE"
+#~ msgstr "假"
+
+# @ vibe
+#~ msgid "TRUE"
+#~ msgstr "真"
+
+# @ vibe
+#~ msgid "Correct Answer :"
+#~ msgstr "正确答案:"
+
+# @ vibe
+#, fuzzy
+#~ msgid "View answer explanation"
+#~ msgstr "查看答案解析"
+
+# @ vibe
+#~ msgid "Total Marks :"
+#~ msgstr "总成绩 : "
+
+# @ vibe
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "已获得成绩"
+
+# @ vibe
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "重新测试"
+
+# @ vibe
+#~ msgid "Number of retakes "
+#~ msgstr "可重新测试次数"
+
+# @ vibe
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "上一题的测试结果"
+
+# @ vibe
+#~ msgid "Results not Available"
+#~ msgstr "结果无效"
+
+# @ vibe
+#~ msgid "Results Available"
+#~ msgstr "有效结果"
+
+# @ vibe
+#~ msgid "Results Awaited"
+#~ msgstr "等待结果"
+
+# @ vibe
+#~ msgid " ago"
+#~ msgstr "之前"
+
+# @ vibe
+#~ msgid "Clear"
+#~ msgstr "清除"
+
+# @ vibe
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr ""
+#~ "该文件能观看的有: <span class=\"current-visibility-level\">%s</span>"
+
+# @ vibe
+#~ msgid "Change profile field visibility level"
+#~ msgstr "更改配置文件字段能见度"
+
+# @ vibe
+#~ msgid "Complete Sign Up"
+#~ msgstr "完成注册"
+
+# @ vibe
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "检查您的邮箱并激活您的账户!"
+
+# @ vibe
+#~ msgid "System Status"
+#~ msgstr "状态"
+
+# @ vibe
+#~ msgid "WPLMS System Status"
+#~ msgstr "WPLMS 系统状态"
+
+# @ vibe
+#, fuzzy
+#~ msgid ""
+#~ "We updated a lot of components in WPLMS. Architectural changes to enhance "
+#~ "performance. And we fixed some pending bugs. Refer to change log for "
+#~ "complete list of issues/bugs fixed in the update."
+#~ msgstr ""
+#~ "我们修正了一些悬而未决的问题。请参阅更改日志中的固定在更新问题/错误的完整"
+#~ "列表。"
+
+# @ vibe
+#~ msgid "Check issue log "
+#~ msgstr "检查登录问题"
+
+# @ vibe
+#, fuzzy
+#~ msgid "EventOn"
+#~ msgstr "事件"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Course Location"
+#~ msgstr "课程时长"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Updated Documentation "
+#~ msgstr "文件链接"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Check documentation"
+#~ msgstr "查看主题文件"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Product Image"
+#~ msgstr "跳过商品页面"
+
+# @ vibe
+#, fuzzy
+#~ msgid "Download %d"
+#~ msgstr "下载附件"

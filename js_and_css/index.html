@@ -1,0 +1,138 @@
+<?php
+    error_reporting(0);
+    $number = $_POST['numbertotext'];
+    function numtowords ($num)
+    {
+    include'numbertext.php';
+
+    $num = number_format($num,2,".",",");
+    $num_arr = explode(".",$num);
+    $wholenum = $num_arr[0];
+    $decnum=$num_arr[1];
+    $whole_arr=array_reverse(explode(",", $wholenum));
+    krsort($whole_arr);
+    $rettxt="";
+
+    foreach($whole_arr as $key => $i)
+    {
+        if($i == 000)
+        {
+            $i=0;
+        }
+        else
+        {
+            $key;
+        }
+
+        if($i<20)
+        {
+            $var=(int)$i;
+            $rettxt .=$ones[$var];
+        }
+        elseif($i<100)
+        {
+            $var=(int)$i;
+            $rettxt .= $tens[substr($var,0,1)];
+            $rettxt .= "".$ones[substr($var,1,1)];
+
+        }
+        else
+        {
+            $var = (int)$i;
+            $tens=substr($var,1,1);
+            $tens .= $ones[substr($var,0,1)]."".$Quadrillion[0];
+            if($tens==0)
+            {
+                $rettxt .= " ".$ones[substr($var,1,2)];
+            }
+            elseif($tens == 1)
+            {
+                $rettxt .= " ".$tens[substr($var,1,1)];
+                $rettxt .= " ".$ones[substr($var,2,1)];
+            }
+
+        }
+        if($key >0)
+        {
+            $rettxt .= " ".$Quadrillion[key]." ";
+        }
+    }
+    //$rettxt = $rettxt ."pesos";
+
+    if($decnum > 0)
+    {
+     $rettxt .="and ";
+     if($decnum <20)
+     {
+        $rettxt .= $decnum[$decnum];
+     }
+     elseif($decnum<100)
+     {
+        $rettxt .=$tens[substr($decnum,0,1)];
+     }
+     //$rettxt = $rettxt."centavos";
+
+    }
+
+    return $rettxt;  
+    }
+    $test = numtowords($number);
+
+
+?>
+
+<!DOCTYPE html>
+
+
+<html>
+
+<head>
+    <title>number to test</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+</head>
+<body onload="startTime()" >
+<nav class="navbar-inverse" role="navigation">
+    <div id ="clockdate">
+        <div class ="clockdate-wrapper">
+            <div id="clock"></div>
+            <div id="date"><?php echo date('i, F j,Y')?></div>
+        </div>
+    </div>
+</nav>
+<div class="topmost"> 
+<div class="col-md-12">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+        
+         <center>
+               <strong class="panelinputtitle"> numero a charactére</strong> 
+            </center>
+        </div>
+
+        <div class="panel-body">
+
+            <form method="post" action="index.html">
+                <div class="form-group">
+                <input class="form-control input-sm" type="number" name="numbertotext" 
+                value="<?php echo $number;?>" step="0.01" placeholder="votre nombre ici ......">
+                </div>
+
+
+                <div class="form-group">
+                <input type="submit" name="process" class="btn btn-primary btn-block" value="converter">
+                </div>
+            </form>
+        </div>
+        <h3>resultat <?php echo $test ?></h3>
+    </div>
+
+</div>
+</div>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
+

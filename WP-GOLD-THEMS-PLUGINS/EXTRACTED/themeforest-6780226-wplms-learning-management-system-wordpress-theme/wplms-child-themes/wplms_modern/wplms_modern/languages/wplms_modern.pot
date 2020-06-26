@@ -1,0 +1,1569 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:36+0530\n"
+"PO-Revision-Date: 2016-09-05 19:28+0530\n"
+"Last-Translator: vibethemes@gmail.com <vibethemes@gmail.com>\n"
+"Language-Team: Vibethemes <vibethemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr ""
+
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: activity/entry.php:65
+msgid "View"
+msgstr ""
+
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr ""
+
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr ""
+
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr ""
+
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr ""
+
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr ""
+
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr ""
+
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr ""
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr ""
+
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr ""
+
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr ""
+
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr ""
+
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr ""
+
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr ""
+
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr ""
+
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr ""
+
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr ""
+
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr ""
+
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr ""
+
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr ""
+
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr ""
+
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr ""
+
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr ""
+
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr ""
+
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr ""
+
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr ""
+
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr ""
+
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr ""
+
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr ""
+
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr ""
+
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr ""
+
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr ""
+
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr ""
+
+#: blogs/index.php:120
+msgid "Newest"
+msgstr ""
+
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr ""
+
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr ""
+
+#: certificate.php:64
+msgid "Awarded to"
+msgstr ""
+
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr ""
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr ""
+
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr ""
+
+#: comments.php:29
+msgid "Comment"
+msgstr ""
+
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr ""
+
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr ""
+
+#: course-review.php:35
+msgid "Write a Review"
+msgstr ""
+
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr ""
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr ""
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr ""
+
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr ""
+
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr ""
+
+#: footer.php:19
+msgid "top"
+msgstr ""
+
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr ""
+
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr ""
+
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr ""
+
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr ""
+
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr ""
+
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr ""
+
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr ""
+
+#: forums/index.php:26
+msgid "New Topic"
+msgstr ""
+
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr ""
+
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr ""
+
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr ""
+
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr ""
+
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr ""
+
+#: forums/index.php:107
+msgid "Title:"
+msgstr ""
+
+#: forums/index.php:110
+msgid "Content:"
+msgstr ""
+
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr ""
+
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr ""
+
+#: forums/index.php:119
+msgid "----"
+msgstr ""
+
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr ""
+
+#: forums/index.php:137
+msgid "Cancel"
+msgstr ""
+
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr ""
+
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr ""
+
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr ""
+
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr ""
+
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr ""
+
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr ""
+
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr ""
+
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr ""
+
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr ""
+
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr ""
+
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr ""
+
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr ""
+
+#: groups/create.php:107
+msgid "All group members"
+msgstr ""
+
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr ""
+
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr ""
+
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr ""
+
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr ""
+
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr ""
+
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr ""
+
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr ""
+
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr ""
+
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr ""
+
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr ""
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr ""
+
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr ""
+
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr ""
+
+#: groups/create.php:315
+msgid "Next Step"
+msgstr ""
+
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr ""
+
+#: groups/create.php:329
+msgid "Finish"
+msgstr ""
+
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr ""
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr ""
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr ""
+
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr ""
+
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr ""
+
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr ""
+
+#: registration/activate.php:41
+msgid "Activate"
+msgstr ""
+
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+#: registration/register.php:88
+msgid "Account Details"
+msgstr ""
+
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr ""
+
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr ""
+
+#: registration/register.php:102
+msgid "Email Address"
+msgstr ""
+
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr ""
+
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr ""
+
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr ""
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr ""
+
+#: registration/register.php:211
+msgid "Close"
+msgstr ""
+
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr ""
+
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr ""
+
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr ""
+
+#: registration/register.php:303
+msgid "Site Title"
+msgstr ""
+
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+
+#: registration/register.php:324
+msgid "Yes"
+msgstr ""
+
+#: registration/register.php:325
+msgid "No"
+msgstr ""
+
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr ""
+
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr ""
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+#: single-course.php:38
+msgid "Home"
+msgstr ""
+
+#: single-course.php:39
+msgid "Curriculum"
+msgstr ""
+
+#: single-course.php:40
+msgid "Members"
+msgstr ""
+
+#: single-course.php:48
+msgid "Group"
+msgstr ""
+
+#: single-course.php:55
+msgid "Forum"
+msgstr ""
+
+#: single-course.php:60
+msgid "Admin"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: single-post.php:104
+msgid "Courses"
+msgstr ""
+
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr ""
+
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr ""
+
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr ""
+
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr ""
+
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr ""
+
+#: single-unit.php:112
+msgid "Attachments"
+msgstr ""
+
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr ""
+
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr ""
+
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr ""
+
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr ""
+
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr ""
+
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr ""
+
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+#: start.php:76
+msgid " Hours"
+msgstr ""
+
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr ""
+
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr ""
+
+#: start.php:137
+msgid "Start Course"
+msgstr ""
+
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+#: start.php:157
+msgid "Previous Unit"
+msgstr ""
+
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr ""
+
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr ""
+
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr ""
+
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr ""
+
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr ""
+
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr ""
+
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr ""
+
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr ""
+
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr ""
+
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr ""
+
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr ""
+
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr ""
+
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr ""
+
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr ""
+
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr ""
+
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr ""
+
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr ""
+
+#: views/login_modal.php:6
+msgid "Login"
+msgstr ""
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+#: views/login_modal.php:75
+msgid "Password"
+msgstr ""
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr ""
+
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr ""
+
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr ""
+
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr ""
+
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr ""
+
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr ""
+
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr ""
+
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr ""
+
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr ""
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"

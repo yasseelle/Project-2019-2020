@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add Product</title>
+    <style>
+      body {
+        background-color: cornflowerblue;
+      }
+      h2 {
+        color: rgb(156, 136, 113);
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Insertion des produits</h2>
+    <form action="/vue" method="POST">
+      <p>
+        <input type="text" name="Idproduit" placeholder="id produit" /> <br />
+        <input type="text" name="titreproduit" placeholder="titre du produit" />
+        <br />
+        <input type="number" name="prix" placeholder="prix du produit" /> <br />
+        <input type="submit" value="enregisrer produit" />
+      </p>
+    </form>
+  </body>
+</html>

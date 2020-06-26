@@ -1,0 +1,403 @@
+@import 'elements';
+@import 'buddypress';
+
+body{
+	background:#FFF;
+	.pusher{
+		background:#FFF;
+		#headertop{
+			background:none;
+			position:absolute;
+			top:0;
+			left:0;
+			width:100%;
+			max-height:36px;
+			z-index:9;
+		}
+		header{
+			&.fix:not(.sleek):not(.standard):not(.mooc){
+				width:100%;
+				transition: all 0.2s ease-in-out;
+				#logo{
+					a > span{
+						display:none;
+					    transform: translateY(100%);
+					    transition: all 0.2s ease-in-out;
+					}
+				}
+				&.fixed{
+					top:0 !important;
+					background:#FFF !important;
+					z-index:999;
+				    box-shadow: 0 0 1px rgba(0,0,0,0.4);
+					#logo{
+						a > img{
+							display:none;	
+						}
+						a > span{
+							transition: all 0.2s ease-in-out;
+						    transform: translateY(0%);
+							display:block;
+						}
+					}
+					nav{
+						.menu{
+							& > li > a{
+								color:#444;
+							}
+						}
+					}
+					#searchicon{
+						color:#444;
+					}
+					#trigger{
+						.lines{
+							color:#444;
+							&:before,&:after{
+								color:#444;
+							}
+						}
+					}
+				}
+				&:not(.sleek):not(.standard):not(.mooc){
+					position:fixed;
+					background:none;
+					top:36px;
+					left:0;
+				}
+			}
+		}
+	}
+	&.admin-bar{
+		.pusher{
+			header:not(.sleek):not(.standard):not(.mooc){
+				&.fix{
+					top:66px !important;
+					transition: all 0.2s ease-in-out;
+					&.fixed{
+						top:30px !important;
+					}
+				}
+			}
+		}
+	}
+	footer{
+		margin:0;
+	}
+}
+
+
+
+#buddypress .widget_title,
+.widget .widget_title,	
+h3.heading{
+	background:none;
+    margin: 0;
+	padding: 0;
+    text-align: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom:none;
+	&:after{
+	    content: '';
+	    width: 40px;
+	    height: 3px;
+	    background-color: #70c989;
+	    display: block;
+	    border-radius: 2px;
+	    margin-top: 10px;
+	}
+	&>span.badge{
+	    float: right;
+    	padding: 4px 7px;
+    	background:#70c989;
+	}
+	&.white{
+		color:#FFF;
+		&:after{
+			background:#FFF;
+		}
+	}
+	&.right{
+		text-align:right;
+	}
+	span:after {
+	    content: '';
+	    width: 100%;
+	    display: block;
+	}
+	&.center{
+		text-align:center;
+		&:after{
+			display:inline-block;
+		}
+	}
+}
+h4.widget_title,
+#buddypress h4.widget_title,
+.widget .widget_title{
+	margin-bottom:15px;
+	border-bottom:none !important;
+}
+.widget_title:after{
+	display:block !important;
+}
+
+body{
+	input[type="submit"],.button, #buddypress a.button{
+		background-image:none !important;
+		padding:7px 24px;
+		line-height:1.6;
+		&.border{
+		    margin: 0;
+		    border: 2px solid #FFF;
+		    background: none;
+		    &:hover{
+		    	background:#FFF;
+		    	color:#009dd8;
+		    }
+		}
+	}
+
+}
+
+.page-template-create_content{
+	#create_content{
+	    padding-top: 120px;
+	    background-color: #232b2d;
+	    margin-top: 0;
+	    #create_course h3,
+	    #course_settings h3, 
+	    #course_settings h5{
+	    	font-size:14px;
+	    }
+	}
+	footer{margin:0}
+}
+#buddypress{
+	margin-top:0 !important;
+	.message-search{
+		#messages_search_submit{
+			display:none;
+		}
+	}	
+}
+.page-template-start{
+	#content{
+		padding:120px 30px 30px;
+		background:#232b2d;
+		.unit_content{
+			border-radius:4px;
+			overflow:hidden;
+		}
+		.course_time{
+			color:rgab(255,255,255,0.6);
+			span{
+				color:#FFF;
+			}
+		}
+	}
+	&.elegant,
+	&.minimal{
+		#content{
+			background:none;
+		}
+	}
+}
+
+.modern_theme
+
+#trigger .lines,#trigger .lines:before,#trigger .lines:after{
+	color:#444;
+	background:#444;
+} 
+
+.widget{
+	.vibe_carousel{
+		.woocommerce{
+			.flex-direction-nav a.flex-prev,
+			.flex-direction-nav a.flex-next{
+				top:3px;			
+			}
+		}
+	}
+	&.buddypress{
+		div.item-options{
+			background:none;
+		}
+	} 
+}
+
+.single-post{
+	.breadcrumbs{
+		margin-bottom:15px;
+	 li+li:before{color:#FFF !important;}
+	 }
+}
+#bp_social_connect_google,.bp_social_connect_facebook,
+#create_account_trigger{
+	letter-spacing:1px;
+}
+#create_account_trigger {
+    background-color: #FAFAFA;
+    border-color: #ddd;
+    color: #444;
+}
+
+
+.rtl{
+	#buddypress {
+		.course_header{
+			div#item-header{
+				#item-meta{
+					.modern-star-rating{
+						float:right;
+					}
+				} 
+			} 
+		} 
+	}
+	&.single-course{
+		#content{
+			#buddypress{
+				div.item-list-tabs ul>li{
+					float:right;
+				}
+			} 
+		} 
+		.instructor_course .item-avatar{
+			width:100%;
+		}
+	} 
+	.modern_course .block_content .course_meta span.dashicons-groups{float:left;}
+	#buddypress .widget_title, .widget .widget_title, h3.heading{text-align:right;}
+	.modern_course .block_content .modern_course_instructor{left:15px; right:auto;}
+}
+
+.page-template-notitle header+#content{padding:0;}
+.social_sharing {float: right;margin: 15px 0px 15px 15px;}
+
+@media (max-width:991px){
+	#login-modal {
+    	position: absolute;
+    }
+}
+@media (max-width:768px){
+	#login-modal {
+    	width:80vw;
+    	left:10vw;
+    }
+}
+@media (max-width:460px){
+	#login-modal {
+    	width:90vw;
+    	left:5vw;
+    }
+}
+.open #trigger {z-index: -1 !important;}
+.note-tabs ul li {text-align: center;}
+
+
+.homesearch .three_fifth .column_content{display:inline-block;width:100%;}
+
+.woocart{
+	.widget_shopping_cart_content{padding:15px;}
+}
+
+.modern-theme.single-course:not(.c4){
+	 #buddypress div#item-header ul hr, 
+	 #buddypress div#item-header ul span{
+	 	color:#fff;display:inline;
+	 }
+	#buddypress div#item-header .breadcrumbs li+li:before{color:#fff;}
+}
+
+.single-course.c4 #buddypress #item-header div#item-header-content{padding: 30px 0 !important;}
+.single-course.c4 .widget.pricing{margin-top:30px;border:1px solid #eee;}
+
+.single-item.groups.g2 #content #buddypress .group_header #item-header, 
+.single-item.groups.g3 #content #buddypress .group_header #item-header, 
+.single-item.groups.g4 #content #buddypress .group_header #item-header{
+	padding-top:120px !important;
+}
+.modern-theme.single-item.groups.g3 #item-header-avatar a,
+.modern-theme.bp-user.p3 #item-header-avatar a, 
+.modern-theme.bp-user.p4 #item-header-avatar a{margin-bottom:-60px;width:100%;}
+
+/*===
+MINIMAL THEME BUG FIXES
+====*/
+
+
+.minimal.modern-theme{
+	header.fix:not(.sleek):not(.standard):not(.mooc),
+	#buddypress div#item-header #item-header-content{
+		border:none;
+	}
+	#buddypress ul.activity-list li .activity-meta a{line-height:1.6;padding:0 2px;}
+}
+
+
+
+#buddypress .course_header div#item-header div#item-header-content h3, #buddypress .group_header div#item-header div#item-header-content h3, #buddypress .member_header div#item-header div#item-header-content h3{margin:0 0 10px;display:block;}
+
+.more-title-content{background-size: cover;}
+@media (max-width:768px){  #buddypress .course_header div#item-header div#item-header-content, #buddypress .group_header div#item-header div#item-header-content, #buddypress .member_header div#item-header div#item-header-content {
+   margin: 60px 0;
+}}
+
+
+ .modern-theme .total_students{margin:10px 0;}
+ .modern-theme #buddypress ul.activity-list li .activity-meta a {
+   color: #999;
+}
+.modern-theme section#group_create div.item-list-tabs ul li span {
+color:#FFF;
+}
+.modern-theme #buddypress span.activity {
+   display: block !important;
+   clear:both;
+}
+
+.search,
+.archive,
+.page,
+.single
+{	
+	&.modern-theme{
+		section#title{
+			padding: 120px 0 30px;
+		}
+	} 
+}
+.modern-theme.author .block.modern_course{margin-bottom:30px;}
+.page-template-blog2 #title,
+.page-template-blog3 #title{ padding: 120px 0 30px; }
+.modern-theme.archive #content #buddypress {
+   margin-top: 30px !important;
+}
+body.modern-theme.single-course.c3 header.transparent+section#title,body.modern-theme.single-course.c2 header.transparent+section#title{
+    padding-top : 0px!important;
+}
+.bbpress.modern-theme.reply-edit section#title {padding: 120px 0 30px;}
+.modern-theme header.standard.fix {
+    z-index: 8 !important;
+}
+.modern-theme header.standard.fix.fixed {
+    z-index: 99 !important;
+}
+.modern-theme header.standard.fixed {
+    transform: translateY(0px) !important;
+}
+.modern-theme.admin-bar header.standard.fixed {
+    transform: translateY(30px) !important;
+}
+@media(max-width:781px){
+.modern-theme header.standard.fixed {
+    top: 0 !important;
+    transform: translateY(0px) !important;
+}
+.modern-theme.admin-bar header.standard.fixed {
+    transform: translateY(0px) !important;
+}
+}

@@ -1,0 +1,196 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+#img1,#img12,#img13,#img14
+{
+    position: absolute; 
+    margin: 0px; 
+    padding: 0px; 
+    border: none; 
+    width: 1345px; 
+    height: 700px; 
+    max-height: none; 
+    max-width: none; 
+    z-index: -999999; 
+    top: -91.5px; 
+    left: 0px;
+    filter: blur(4px);
+    animation: animate ease-in-out 90s 0s infinite;
+}
+@keyframes animate {
+    15%{
+        transform: scale(1.5);
+    }
+    30%{
+        transform: scale(1.5);
+    }
+}
+#imglogo{
+    
+    position: absolute;
+    top: 20%;
+    left: 43%;
+    z-index: 2;
+    
+    padding: 20px;
+    text-align: center;
+}
+/*Navigation sans logo*/
+.nav{
+    
+    
+    list-style:none;
+    
+    z-index: 99999; 
+    text-align:center;
+    background-color: #333;  /*Black background color */
+    position:absolute ;
+    width: 100%;
+  
+    margin-top: 550px;
+   /* bottom: 50%;
+    padding-bottom: 200px;*/
+    padding-top: 45px;
+    padding-bottom: 45px;
+    margin-bottom: 550px;
+    visibility: visible;
+    
+    
+}
+.nav li{
+    display:inline;
+    
+}
+.nav a{
+    display:inline-block;
+    padding-left: 2%;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Century Gothic';
+    text-transform: uppercase;
+    padding-right: 2%;
+}
+.nav a:hover
+{
+    color: red;
+}
+/*-------------------------------*/
+/*Navigation avec logo*/
+
+.nav2{
+    
+    
+    list-style:none;
+    
+    z-index: 99999;
+    text-align:center;
+    background-color:white;  /*Black background color */
+    position:absolute ;
+    width: 100%;
+  
+    
+   /* bottom: 50%;
+    padding-bottom: 200px;*/
+    padding-top: 35px;
+    padding-bottom: 45px;
+    top: 0px;
+    visibility: hidden;
+    
+    box-shadow: 20px 20px 50px grey; 
+    
+}
+.nav2.hide{
+    transform: translateY(-100%);
+}
+.nav2 li{
+    display:inline;
+
+    
+}
+.nav2 a{
+    display:block;
+    padding-left: 0%;
+    width: 100px;
+    float: right;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    font-family: 'Century Gothic';
+    text-transform: uppercase;
+    padding-right: 2%;
+}
+
+.nav2 a:hover
+{
+    color: red;
+   
+    
+}
+#imglogoNav
+{
+    display: block;
+    width: 90px;
+    position: absolute;
+    padding-left: 20px;
+    margin-left: 10px;
+    top: 10px;
+    padding-right: 2%;
+    
+}
+#slogon
+{
+    position: absolute;
+    padding-left: 20px;
+    margin-left: 60px;
+    font-size:25px ;
+    font-family: 'Century Gothic';
+    color: darkred;
+    text-transform: uppercase;
+    
+    top: 10px;
+    
+    text-shadow: chartreuse;
+    
+
+}
+.visHide
+{
+    position:fixed ;
+    width: 100%; 
+    top: 0px;
+    visibility: visible;
+    transition: all 1.5s ease;
+}
+.visNav1
+{
+    
+    visibility: hidden;
+    transition: all 0.1s ease;
+}
+.bodydephoto{
+    position: absolute;
+    text-align: center;
+    display: block;
+    width: 500px;
+    height: 600px;
+    margin-top: 850px;
+}
+.bodydephoto .txt
+{
+    
+   /* top: 550px;*/
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+
+
+
+/*-------------------------------*/
+
+

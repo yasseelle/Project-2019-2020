@@ -1,0 +1,15 @@
+ul
+    li 1
+    li 2
+    li 3
+    li 4
+ul
+    each val in[1,2,3,4,5]
+        li=val    
+ol
+    each val in['development','commerce','infographie']
+        li=val        
+- var eleve={nom : 'mousa',age : 23,filer : 'commerce'}   
+ul
+    each val,cel in eleve
+        li=cel+" : "+val

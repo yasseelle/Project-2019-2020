@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="js/jquery-3.2.1.min.js">
+    id="ajout";
+    id="retrait";
+    id="envoi";
+    
+    </script>
+    <title>Document</title>
+</head>
+<body>
+    <form>
+
+        <input type="text" id="ajout" placeholder="ajouter montant" name="ajout"/>
+        <input type="text" id="retrait" placeholder="retrait montant" name="retrait"/>
+        <input type="submit" id="envoi" value="envoi"/>
+
+
+    </form>
+    <script>
+    var a = $('ajout').val();
+    var r = $('retrait').val();
+    var e = $('envoi').val();
+    $('#envoi').click(
+        function(){
+            $.post('operation.php'),{aa:a,rr:r}
+        });
+
+    
+    </script>
+</body>
+</html>

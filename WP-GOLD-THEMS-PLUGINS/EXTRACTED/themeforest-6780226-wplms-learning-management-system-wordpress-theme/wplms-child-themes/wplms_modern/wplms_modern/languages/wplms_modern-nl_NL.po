@@ -1,0 +1,6512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLMS Modern Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-01 14:40+0530\n"
+"PO-Revision-Date: 2017-02-01 14:40+0530\n"
+"Last-Translator: Vibethemes <vibethemes@gmail.com>\n"
+"Language-Team: VibeThemes <vibethemes@gmail.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "In reply to: "
+msgstr "In antwoord op:"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View Thread / Permalink"
+msgstr "Bekijk discussie / Permalink"
+
+# @ vibe
+#: activity/entry.php:65
+msgid "View"
+msgstr "Bekijk"
+
+# @ vibe
+#: activity/entry.php:88
+#, php-format
+msgid "Comment <span>%s</span>"
+msgstr "Commentaar <span>%s</span>"
+
+# @ vibe
+#: activity/entry.php:96
+msgid "Favorite"
+msgstr "Favoriet"
+
+# @ vibe
+#: activity/entry.php:100
+msgid "Remove Favorite"
+msgstr "Verwijder Favoriet"
+
+# @ vibe
+#: activity/entry.php:132 single-unit.php:163 start.php:282
+msgid "Post"
+msgstr "Bericht"
+
+# @ vibe
+#: activity/entry.php:132
+msgid "or press esc to cancel."
+msgstr "of druk esc om te annuleren."
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+msgid "The public activity for everyone on this site."
+msgstr "De publieke activiteit voor iedereen op deze site."
+
+# @ vibe
+#: activity/index.php:53 templates/directory/activity/index.php:58
+#: templates/directory/members/index.php:51
+#, php-format
+msgid "All Members <span>%s</span>"
+msgstr "Alle leden <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+msgid "The activity of my friends only."
+msgstr "Enkel de activiteiten van mijn vrienden"
+
+# @ vibe
+#: activity/index.php:63 templates/directory/activity/index.php:68
+#: templates/directory/members/index.php:55
+#, php-format
+msgid "My Friends <span>%s</span>"
+msgstr "Mijn vrienden <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+msgid "The activity of groups I am a member of."
+msgstr "De groepsactiviteiten waar ik lid van ben."
+
+# @ vibe
+#: activity/index.php:75 templates/directory/activity/index.php:80
+#: templates/directory/groups/index.php:58
+#, php-format
+msgid "My Groups <span>%s</span>"
+msgstr "Mijn groepen <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+msgid "The activity I've marked as a favorite."
+msgstr "De activiteit die ik als favoriet gemarkeerd heb."
+
+# @ vibe
+#: activity/index.php:85 templates/directory/activity/index.php:90
+#, php-format
+msgid "My Favorites <span>%s</span>"
+msgstr "Mijn favorieten <span>%s</span>"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Activity that I have been mentioned in."
+msgstr "Activiteiten waarbij ik vermeld ben."
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+msgid "Mentions"
+msgstr "Vermeldingen"
+
+# @ vibe
+#: activity/index.php:93 templates/directory/activity/index.php:98
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s Nieuw"
+msgstr[1] "%s Nieuw"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+# @ vibe
+#: activity/index.php:130 templates/directory/activity/index.php:135
+msgid "RSS"
+msgstr "RSS"
+
+# @ vibe
+#: activity/index.php:135 templates/directory/activity/index.php:140
+msgid "Show:"
+msgstr "Toon:"
+
+# @ vibe
+#: activity/index.php:137 templates/directory/activity/index.php:142
+msgid "Everything"
+msgstr "Alles"
+
+# @ vibe
+#: activity/index.php:138 templates/directory/activity/index.php:143
+msgid "Updates"
+msgstr "Updates"
+
+# @ vibe
+#: activity/index.php:142 forums/forums-loop.php:39 single-post.php:104
+#: templates/directory/activity/index.php:147
+msgid "Posts"
+msgstr "Berichten"
+
+# @ vibe
+#: activity/index.php:143 templates/directory/activity/index.php:148
+msgid "Comments"
+msgstr "Commentaren"
+
+# @ vibe
+#: activity/index.php:149 templates/directory/activity/index.php:154
+msgid "Forum Topics"
+msgstr "Forum Onderwerpen "
+
+# @ vibe
+#: activity/index.php:150 templates/directory/activity/index.php:155
+msgid "Forum Replies"
+msgstr "Forum Reacties"
+
+# @ vibe
+#: activity/index.php:156 templates/directory/activity/index.php:161
+msgid "New Groups"
+msgstr "Nieuwe groepen"
+
+# @ vibe
+#: activity/index.php:157 templates/directory/activity/index.php:162
+msgid "Group Memberships"
+msgstr "Lidmaatschap in groep"
+
+# @ vibe
+#: activity/index.php:163 templates/directory/activity/index.php:168
+msgid "Friendships"
+msgstr "Vriendschappen"
+
+# @ vibe
+#: activity/index.php:167 templates/directory/activity/index.php:172
+msgid "New Members"
+msgstr "Nieuwe leden"
+
+# @ vibe
+#: allinstructors.php:89
+msgid "Courses by Instructor "
+msgstr "Cursussen van lesgever"
+
+# @ vibe
+#: allinstructors.php:99
+msgid "No Instructors found."
+msgstr "Geen lesgevers gevonden."
+
+# @ wplms_modern
+#: archive.php:3
+msgid "Permission denied"
+msgstr ""
+
+#: author-course.php:43
+msgid "# Students in Courses"
+msgstr ""
+
+#: author-course.php:57
+msgid "Average Rating"
+msgstr ""
+
+# @ vibe
+#: author.php:18
+msgid "All posts by "
+msgstr ""
+
+# @ default
+#: author.php:37
+#, php-format
+msgid "View all posts in %s"
+msgstr "Zie alle berichten in %s"
+
+# @ vibe
+#: author.php:62 search-incourse.php:62
+msgid "Read More"
+msgstr "Lees meer"
+
+# @ vibe
+#: blogs/blogs-loop.php:92
+msgid "Sorry, there were no sites found."
+msgstr "Sorry, er zijn geen sites gevonden."
+
+# @ vibe
+#: blogs/create.php:26
+msgid "Site Directory"
+msgstr "Site Index"
+
+# @ vibe
+#: blogs/create.php:47
+msgid "Site registration is currently disabled"
+msgstr "Site registratie is momenteel uitgeschakeld"
+
+# @ vibe
+#: blogs/index.php:84
+#, php-format
+msgid "All Sites <span>%s</span>"
+msgstr "Alle Sites <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:88
+#, php-format
+msgid "My Sites <span>%s</span>"
+msgstr "Mijn Sites <span>%s</span>"
+
+# @ vibe
+#: blogs/index.php:97
+msgid "Create a Site"
+msgstr "Maak een site"
+
+# @ vibe
+#: blogs/index.php:117 forums/index.php:63
+#: templates/directory/course/index.php:98
+#: templates/directory/groups/index.php:88
+#: templates/directory/members/index.php:86
+msgid "Order By:"
+msgstr "Besteld door:"
+
+# @ vibe
+#: blogs/index.php:119 forums/index.php:65
+#: templates/directory/groups/index.php:90
+#: templates/directory/members/index.php:89
+msgid "Last Active"
+msgstr "Laatst actief"
+
+# @ vibe
+#: blogs/index.php:120
+msgid "Newest"
+msgstr "Nieuwste"
+
+# @ vibe
+#: blogs/index.php:121 templates/directory/course/index.php:104
+#: templates/directory/groups/index.php:93
+#: templates/directory/members/index.php:94
+msgid "Alphabetical"
+msgstr "Alfabetisch"
+
+# @ vibe
+#: certificate.php:11
+msgid "INVALID CERTIFICATE CODE"
+msgstr ""
+
+# @ vibe
+#: certificate.php:62
+msgid "CERTIFICATE OF COMPLETION"
+msgstr "GETUIGSCHRIFT"
+
+# @ vibe
+#: certificate.php:64
+msgid "Awarded to"
+msgstr "Uitgereikt aan"
+
+# @ vibe
+#: certificate.php:74
+msgid "for successful completion of course"
+msgstr "voor een succesvolle afronding van de cursus"
+
+#: comments.php:6
+msgid "No comments, be the first one to comment !"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%d comment"
+msgstr ""
+
+#: comments.php:6
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+# @ vibe
+#: comments.php:26 course-review.php:26
+msgid "Name"
+msgstr "Naam"
+
+# @ vibe
+# @ pmpro
+#: comments.php:27 course-review.php:27 views/login_modal.php:65
+#: views/login_modal.php:110
+msgid "Email"
+msgstr "E-mail"
+
+# @ vibe
+#: comments.php:29
+msgid "Comment"
+msgstr "Commentaar"
+
+# @ vibe
+#: course-review.php:28 single-post.php:110
+msgid "Website"
+msgstr "Website"
+
+# @ vibe
+#: course-review.php:35 course-review.php:117
+msgid "Post Review"
+msgstr "Publiceren"
+
+# @ vibe
+#: course-review.php:35
+msgid "Write a Review"
+msgstr "Schrijf een beoordeling"
+
+# @ vibe
+#: course-review.php:46
+msgid "Course Reviews"
+msgstr "Cursusbeoordelingen"
+
+#: course-review.php:74
+msgid "ratings"
+msgstr ""
+
+#: course-review.php:83
+msgid "stars"
+msgstr ""
+
+# @ vibe
+#: course-review.php:92
+msgid "No Reviews found for this course."
+msgstr "Er zijn nog geen beoordelingen gevonden voor deze cursus."
+
+#: course-review.php:109
+msgid "More Reviews"
+msgstr ""
+
+#: course-review.php:109
+msgid "Less Reviews"
+msgstr ""
+
+# @ vibe
+#: course/single/front.php:41 templates/course/front.php:50
+msgid "READ MORE"
+msgstr "LEES MEER"
+
+# @ vibe
+#: course/single/front.php:53 templates/course/front.php:59
+msgid "LESS"
+msgstr "MINDER"
+
+# @ vibe
+#: course/single/plugins.php:60 single-course.php:116
+#: templates/course/top.php:57
+msgid " STUDENTS ENROLLED"
+msgstr " INGESCHREVEN STUDENTEN"
+
+# @ vibe
+#: footer.php:19
+msgid "top"
+msgstr "top"
+
+# @ vibe
+#: forums/forums-loop.php:38
+msgid "Topic"
+msgstr "Onderwerp"
+
+# @ vibe
+#: forums/forums-loop.php:40
+msgid "Freshness"
+msgstr "Freshness"
+
+# @ vibe
+#: forums/forums-loop.php:53
+msgid "Permanent link to this post"
+msgstr "Permanente link naar dit bericht"
+
+# @ vibe
+#: forums/forums-loop.php:60
+#, php-format
+msgid "Started by %1$s"
+msgstr "Starten bij %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:71
+#, php-format
+msgid "in %1$s"
+msgstr "in %1$s"
+
+# @ vibe
+#: forums/forums-loop.php:121
+msgid "Sorry, there were no forum topics found."
+msgstr "Sorry, er zijn geen forum onderwerpen gevonden."
+
+# @ vibe
+#: forums/index.php:26 title-area.php:17
+msgid "Forums Directory"
+msgstr "Forums Index"
+
+# @ vibe
+#: forums/index.php:26
+msgid "New Topic"
+msgstr "Nieuw onderwerp"
+
+# @ vibe
+#: forums/index.php:43
+#, php-format
+msgid "All Topics <span>%s</span>"
+msgstr "Alle onderwerpen <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:47
+#, php-format
+msgid "My Topics <span>%s</span>"
+msgstr "Mijn onderwerpen <span>%s</span>"
+
+# @ vibe
+#: forums/index.php:66
+msgid "Most Posts"
+msgstr "De meeste berichten"
+
+# @ vibe
+#: forums/index.php:67
+msgid "Unreplied"
+msgstr "Onbeantwoord"
+
+# @ vibe
+#: forums/index.php:103
+msgid "Create New Topic:"
+msgstr "Creër een nieuw onderwerp:"
+
+# @ vibe
+#: forums/index.php:107
+msgid "Title:"
+msgstr "Titel:"
+
+# @ vibe
+#: forums/index.php:110
+msgid "Content:"
+msgstr "Inhoud:"
+
+# @ vibe
+#: forums/index.php:113
+msgid "Tags (comma separated):"
+msgstr "Tags (komma gescheiden):"
+
+# @ vibe
+#: forums/index.php:116
+msgid "Post In Group Forum:"
+msgstr "Post In forum groep"
+
+# @ vibe
+#: forums/index.php:119
+msgid "----"
+msgstr "----"
+
+# @ vibe
+#: forums/index.php:136
+msgid "Post Topic"
+msgstr "Post bericht"
+
+# @ vibe
+# @ pmpro
+#: forums/index.php:137
+msgid "Cancel"
+msgstr "Annuleren"
+
+# @ vibe
+#: forums/index.php:148
+#, php-format
+msgid ""
+"You are not a member of any groups so you don't have any group forums you "
+"can post in. To start posting, first find a group that matches the topic "
+"subject you'd like to start. If this group does not exist, why not <a "
+"href='%s'>create a new group</a>? Once you have joined or created the group "
+"you can post your topic in that group's forum."
+msgstr ""
+"U bent geen lid van een groep, u kan niet in een groep forums berichten "
+"plaatsen. Om berichten te plaatsen, zoek eerst een groep met een onderwerp "
+"die bij uw berichten past. Als deze groep niet bestaat, waarom niet <a "
+"href='%s'> een nieuwe groep maken </a>? Zodra u lid bent van de groep, kunt "
+"uw onderwerp posten in het forum van die groep."
+
+# @ vibe
+#: groups/create.php:14
+msgid "Only Instructors can create groups"
+msgstr "Alleen lesgevers kunnen groepen maken"
+
+# @ vibe
+#: groups/create.php:17
+msgid "Only Admins can create groups"
+msgstr "Alleen Admins kunnen groepen maken"
+
+# @ vibe
+#: groups/create.php:50
+msgid "Group Name (required)"
+msgstr "Groepsnaam (verplicht)"
+
+# @ vibe
+#: groups/create.php:53
+msgid "Group Description (required)"
+msgstr "Groepsbeschrijving (verplicht)"
+
+# @ vibe
+#: groups/create.php:69
+msgid "Privacy Options"
+msgstr "Privacy-opties"
+
+# @ vibe
+#: groups/create.php:73
+msgid "This is a public group"
+msgstr "Dit is een openbare groep"
+
+# @ vibe
+#: groups/create.php:75
+msgid "Any site member can join this group."
+msgstr "Elk site lid kan lid worden van deze groep."
+
+# @ vibe
+#: groups/create.php:76 groups/create.php:85
+msgid ""
+"This group will be listed in the groups directory and in search results."
+msgstr ""
+"Deze groep zal worden opgenomen in de groepsindex en in de zoekresultaten."
+
+# @ vibe
+#: groups/create.php:77
+msgid "Group content and activity will be visible to any site member."
+msgstr ""
+"Groepsinhoud en groepsactiviteiten zullen zichtbaar zijn voor alle leden."
+
+# @ vibe
+#: groups/create.php:82
+msgid "This is a private group"
+msgstr "Dit is een privé-groep"
+
+# @ vibe
+#: groups/create.php:84
+msgid "Only users who request membership and are accepted can join the group."
+msgstr ""
+"Alleen gebruikers die het lidmaatschap aanvragen en geaccepteerd worden, "
+"kunnen lid worden van de groep."
+
+# @ vibe
+#: groups/create.php:86 groups/create.php:95
+msgid ""
+"Group content and activity will only be visible to members of the group."
+msgstr ""
+"Groepsinhoud en groepsactiviteiten zijn alleen toegankelijk voor de "
+"groepsleden."
+
+# @ vibe
+#: groups/create.php:91
+msgid "This is a hidden group"
+msgstr "Dit is een verborgen groep"
+
+# @ vibe
+#: groups/create.php:93
+msgid "Only users who are invited can join the group."
+msgstr ""
+"Alleen gebruikers die uitgenodigd zijn, kunnen lid worden van de groep."
+
+# @ vibe
+#: groups/create.php:94
+msgid ""
+"This group will not be listed in the groups directory or search results."
+msgstr ""
+"Deze groep zal niet worden opgenomen in de groepsindex of in de "
+"zoekresultaten."
+
+# @ vibe
+#: groups/create.php:100
+msgid "Group Invitations"
+msgstr "Groepsuitnodigingen"
+
+# @ vibe
+#: groups/create.php:102
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Welke leden van deze groep mogen anderen uitnodigen?"
+
+# @ vibe
+#: groups/create.php:107
+msgid "All group members"
+msgstr "Alle groepsleden"
+
+# @ vibe
+#: groups/create.php:112
+msgid "Group admins and mods only"
+msgstr "Enkel groepbeheerders en moderators"
+
+# @ vibe
+#: groups/create.php:117
+msgid "Group admins only"
+msgstr "Enkel voor groepbeheerders"
+
+# @ vibe
+#: groups/create.php:123
+msgid "Group Forums"
+msgstr "Groep Forums"
+
+# @ vibe
+#: groups/create.php:127
+msgid "Should this group have a forum?"
+msgstr "Zou deze groep een forum nodig hebben?"
+
+# @ vibe
+#: groups/create.php:130
+msgid "Enable discussion forum"
+msgstr "Discussieforum Inschakelen"
+
+# @ vibe
+#: groups/create.php:134
+#, php-format
+msgid ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+msgstr ""
+"<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s"
+"\">correct setup and configuration</a> of a bbPress installation."
+
+# @ vibe
+#: groups/create.php:160
+msgid ""
+"Upload an image to use as an avatar for this group. The image will be shown "
+"on the main group page, and in search results."
+msgstr ""
+"Upload een om als afbeelding te gebruiken als avatar voor deze groep. Het "
+"beeld wordt weergegeven op de hoofdgroep pagina en in de zoekresultaten."
+
+# @ vibe
+#: groups/create.php:164
+msgid "Upload Image"
+msgstr "Beeld opladen"
+
+# @ vibe
+#: groups/create.php:168
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr ""
+"Om het avatar uploaden over te slaan, druk op de knop \"Volgende stap\"."
+
+# @ vibe
+#: groups/create.php:175
+msgid "Crop Group Avatar"
+msgstr "Snij Groepsavatar bij"
+
+# @ vibe
+#: groups/create.php:177
+msgid "Avatar to crop"
+msgstr "Avatar om bij te snijden"
+
+# @ vibe
+#: groups/create.php:180
+msgid "Avatar preview"
+msgstr "Avatar preview"
+
+# @ vibe
+#: groups/create.php:183
+msgid "Crop Image"
+msgstr "Snij beeld bij"
+
+#: groups/create.php:213
+msgid "The Cover Image will be used to customize the header of your group."
+msgstr ""
+
+# @ vibe
+#: groups/create.php:251
+msgid "Select people to invite from your friends list."
+msgstr "Selecteer de mensen die u wilt uitnodigen uit uw vriendenlijst."
+
+# @ vibe
+#: groups/create.php:269
+msgid "Remove Invite"
+msgstr "Verwijder Genodigde"
+
+# @ vibe
+#: groups/create.php:286
+msgid ""
+"Once you have built up friend connections you will be able to invite others "
+"to your group."
+msgstr ""
+"Zodra u vriendennetwerk hebt aangemaakt,  zal u in staat om anderen uit te "
+"nodigen voor uw groep."
+
+# @ vibe
+#: groups/create.php:308
+msgid "Back to Previous Step"
+msgstr "Terug naar de Vorige Stap"
+
+# @ vibe
+#: groups/create.php:315
+msgid "Next Step"
+msgstr "Volgende Stap"
+
+# @ vibe
+#: groups/create.php:322
+msgid "Create Group and Continue"
+msgstr "Groep Creëren en Doorgaan"
+
+# @ vibe
+#: groups/create.php:329
+msgid "Finish"
+msgstr "Einde"
+
+# @ vibe
+#: groups/single/group-header.php:17
+#, php-format
+msgid "active %s"
+msgstr "actief %s"
+
+# @ vibe
+#: groups/single/group-header.php:47
+msgid "Moderators"
+msgstr "Moderators"
+
+#: header.php:65
+msgid "Login / Signup"
+msgstr ""
+
+# @ vibe
+#: header.php:113
+msgid "Hit enter to search..."
+msgstr "Druk op enter om te zoeken ..."
+
+#: includes/init.php:126
+msgid "Sidebar Displayed on Member profile"
+msgstr ""
+
+#: includes/init.php:135
+msgid "Sidebar Displayed on single Group"
+msgstr ""
+
+#: includes/init.php:158
+msgid "Upload Default Background image"
+msgstr ""
+
+#: includes/init.php:159
+msgid "Upload big default background image"
+msgstr ""
+
+#: includes/init.php:160
+msgid "This image is shown in header."
+msgstr ""
+
+#: includes/init.php:166
+msgid "Upload Alternate Logo [Modern Theme]"
+msgstr ""
+
+#: includes/init.php:167
+msgid "upload alternate logo"
+msgstr ""
+
+#: includes/init.php:173
+msgid "Disable Ajax Registration"
+msgstr ""
+
+#: includes/init.php:174
+msgid "use standard BuddyPress registration"
+msgstr ""
+
+#: includes/init.php:175
+msgid ""
+"Enables standard buddypress registration on clicking Create account in login "
+"popup"
+msgstr ""
+
+#: includes/init.php:177
+msgid "No, keep enabled"
+msgstr ""
+
+#: includes/init.php:177
+msgid "Yes, disable ajax registration"
+msgstr ""
+
+#: includes/init.php:183
+msgid "Registration Code for Ajax"
+msgstr ""
+
+#: includes/init.php:184
+msgid "signup registration code"
+msgstr ""
+
+#: includes/init.php:185
+msgid "Enter a registration code for signup, leave blank for default"
+msgstr ""
+
+#: includes/init.php:204
+msgid "Remove Related courses block"
+msgstr ""
+
+#: includes/init.php:209
+msgid "Related Course style"
+msgstr ""
+
+#: includes/init.php:211
+msgid "related course block in single course page style"
+msgstr ""
+
+#: includes/init.php:236
+#, php-format
+msgid "Course Author %s"
+msgstr ""
+
+#: includes/init.php:275 includes/init.php:306
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/init.php:277 includes/init.php:308
+msgid "(Edit)"
+msgstr ""
+
+# @ vibe
+#: includes/init.php:281 includes/init.php:312
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ vibe
+#: includes/init.php:343 includes/init.php:402
+msgid "Security check Failed. Contact Administrator."
+msgstr ""
+
+#: includes/init.php:367
+msgid "Registration code mismatch"
+msgstr ""
+
+#: includes/init.php:374
+msgid "User email already exists"
+msgstr ""
+
+#: includes/init.php:394
+msgid "Username already exists"
+msgstr ""
+
+#: includes/init.php:419
+msgid "Password reset link has been sent to your email."
+msgstr ""
+
+#: includes/init.php:423
+msgid "Email address is required for password reset."
+msgstr ""
+
+#: includes/init.php:485
+msgid "UNLIMITED"
+msgstr ""
+
+#: includes/init.php:565
+msgid "Course Background image"
+msgstr ""
+
+#: includes/init.php:566
+msgid "Background image"
+msgstr ""
+
+#: includes/init.php:577
+msgid "Registration Code"
+msgstr ""
+
+#: includes/init.php:578
+msgid "Enter Registration code"
+msgstr ""
+
+#: includes/init.php:644
+msgid "Related Courses"
+msgstr ""
+
+#: includes/init.php:688
+msgid "No related courses found"
+msgstr ""
+
+#: includes/init.php:703
+msgid "Access denied"
+msgstr ""
+
+#: includes/init.php:741
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: includes/init.php:745
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/init.php:762
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: includes/init.php:800
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/init.php:826
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/init.php:828
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/init.php:829
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/init.php:830
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/init.php:842
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/init.php:867
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: includes/init.php:867
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:77
+msgid "All Notes & Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:82
+msgid "All Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:87
+msgid "Unit Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:88
+msgid "Unit Discussions"
+msgstr ""
+
+# @ vibe
+#: notes_discussion.php:93
+msgid "My Discussions"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:94
+msgid "My Notes"
+msgstr ""
+
+# @ wplms_modern
+#: notes_discussion.php:112
+msgid "No public comments found !"
+msgstr ""
+
+# @ default
+#: page-members.php:7
+msgid "This Page is only accessible to Members"
+msgstr ""
+
+# @ wplms_modern
+#: page-members.php:7
+msgid ""
+"The page is only accessible to site Users, please register in site to see "
+"this content."
+msgstr ""
+
+# @ vibe
+#: page-members.php:7
+msgid "Members only page"
+msgstr ""
+
+# @ vibe
+#: registration/activate.php:14
+msgid "Account Activated"
+msgstr "Account geactiveerd"
+
+# @ vibe
+#: registration/activate.php:16
+msgid "Activate your Account"
+msgstr "Activeer uw Account"
+
+# @ vibe
+#: registration/activate.php:26
+msgid ""
+"Your account was activated successfully! Your account details have been sent "
+"to you in a separate email."
+msgstr ""
+"Uw account is succesvol geactiveerd! Uw accountgegevens zijn verzonden naar "
+"u in een aparte e-mail."
+
+# @ vibe
+#: registration/activate.php:28
+#, php-format
+msgid ""
+"Your account was activated successfully! You can now <a href=\"%s\">log in</"
+"a> with the username and password you provided when you signed up."
+msgstr ""
+"Uw account is succesvol geactiveerd! U kan nu <a href=\"%s\">inloggen</a> "
+"met de gebruikersnaam en het wachtwoord dat u heeft opgegeven toen u zich "
+"hebt aangemeld."
+
+# @ vibe
+#: registration/activate.php:33
+msgid "Please provide a valid activation key."
+msgstr "Geef een geldige activeringscode in."
+
+# @ vibe
+#: registration/activate.php:37
+msgid "Activation Key:"
+msgstr "Activeringscode:"
+
+# @ vibe
+#: registration/activate.php:41
+msgid "Activate"
+msgstr "Activateer"
+
+# @ vibe
+#: registration/register.php:54
+msgid "User registration is currently not allowed."
+msgstr "Gebruikersregistratie is momenteel niet toegestaan​​."
+
+#: registration/register.php:73
+msgid ""
+"Registering for this site is easy. Just fill in the fields below, and we'll "
+"get a new account set up for you in no time."
+msgstr ""
+
+# @ vibe
+#: registration/register.php:88
+msgid "Account Details"
+msgstr "Account Details"
+
+# @ vibe
+# @ pmpro
+#: registration/register.php:90 views/login_modal.php:53
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+# @ vibe
+#: registration/register.php:90 registration/register.php:102
+#: registration/register.php:114 registration/register.php:127
+#: registration/register.php:287 registration/register.php:303
+msgid "(required)"
+msgstr "(vereist)"
+
+# @ vibe
+#: registration/register.php:102
+msgid "Email Address"
+msgstr "E-mailadres"
+
+# @ vibe
+#: registration/register.php:114
+msgid "Choose a Password"
+msgstr "Kies een Wachtwoord"
+
+# @ pmpro
+# @ vibe
+#: registration/register.php:127
+msgid "Confirm Password"
+msgstr "Bevestig wachtwoord"
+
+# @ vibe
+#: registration/register.php:173
+msgid "Profile Details"
+msgstr "Profiel Details"
+
+#: registration/register.php:197 registration/register.php:218
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: registration/register.php:201
+msgctxt "Change profile field visibility level"
+msgid "Change"
+msgstr ""
+
+# @ vibe
+#: registration/register.php:206
+msgid "Who can see this field?"
+msgstr "Wie kan dit veld zien?"
+
+# @ vibe
+#: registration/register.php:211
+msgid "Close"
+msgstr "Sluit"
+
+# @ vibe
+#: registration/register.php:281
+msgid "Blog Details"
+msgstr "Blog Details"
+
+# @ vibe
+#: registration/register.php:283
+msgid "Yes, I'd like to create a new site"
+msgstr "Ja, ik wil graag een nieuwe site maken"
+
+# @ vibe
+#: registration/register.php:287
+msgid "Blog URL"
+msgstr "Blog URL"
+
+# @ vibe
+#: registration/register.php:303
+msgid "Site Title"
+msgstr "Site Titel"
+
+# @ vibe
+#: registration/register.php:314
+msgid ""
+"I would like my site to appear in search engines, and in public listings "
+"around this network."
+msgstr ""
+"Ik wil mijn site zien verschijnen in zoekmachines en in openbare lijsten "
+"rond dit netwerk."
+
+# @ vibe
+#: registration/register.php:324
+msgid "Yes"
+msgstr "Ja"
+
+# @ vibe
+#: registration/register.php:325
+msgid "No"
+msgstr "Nee"
+
+# @ vibe
+#: registration/register.php:393
+msgid ""
+"You have successfully created your account! To begin using this site you "
+"will need to activate your account via the email we have just sent to your "
+"address."
+msgstr ""
+"Uw account is aangemaakt! Gelieve uw account te activeren via de link in de "
+"e-mail die naar uw e-mailadres verzonden is."
+
+# @ vibe
+#: registration/register.php:395
+msgid ""
+"You have successfully created your account! Please log in using the username "
+"and password you have just created."
+msgstr ""
+"Uw account is aangemaakt! Gelieve in te loggen met uw gebruikersnaam en "
+"wachtwoord."
+
+# @ vibe
+#: search-incourse.php:16 search.php:22
+msgid "Search Results for \""
+msgstr "Zoekresultaten voor \""
+
+# @ vibe
+#: search-incourse.php:17 search.php:23
+msgid " results found"
+msgstr ""
+
+# @ vibe
+#: search-incourse.php:69
+msgid "Sorry, No results found."
+msgstr "Sorry, geen resultaten gevonden."
+
+#: search.php:56
+msgid "No results found"
+msgstr ""
+
+# @ vibe
+#: single-course.php:38
+msgid "Home"
+msgstr "Home"
+
+# @ vibe
+#: single-course.php:39
+msgid "Curriculum"
+msgstr "Overzicht"
+
+# @ vibe
+# @ buddypress
+#: single-course.php:40
+msgid "Members"
+msgstr "Leden"
+
+# @ vibe
+#: single-course.php:48
+msgid "Group"
+msgstr "Groep"
+
+# @ vibe
+#: single-course.php:55
+msgid "Forum"
+msgstr "Forum"
+
+# @ vibe
+#: single-course.php:60
+msgid "Admin"
+msgstr "Admin"
+
+#: single-course.php:103
+msgid "Show Less"
+msgstr ""
+
+#: single-course.php:103
+msgid "Show More"
+msgstr ""
+
+#: single-post.php:36
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+# @ vibe
+#: single-post.php:104
+msgid "Courses"
+msgstr "Cursussen"
+
+# @ vibe
+#: single-quiz.php:33 start.php:172 start.php:189
+msgid "Continue Quiz"
+msgstr "Ga door met de test"
+
+# @ vibe
+#: single-quiz.php:45 single-quiz.php:54
+msgid "Check Quiz Results"
+msgstr "Controleer testresultaten"
+
+# @ vibe
+#: single-quiz.php:48 single-unit.php:40 single-wplms-assignment.php:51
+#: single-wplms-assignment.php:56 single-wplms-assignment.php:59
+msgid "Back to Course"
+msgstr "Terug naar de Cursus"
+
+# @ vibe
+#: single-quiz.php:58 start.php:175
+msgid "Start Quiz"
+msgstr "Start Test"
+
+# @ vibe
+#: single-quiz.php:62
+msgid "Take a Course to Start the Quiz"
+msgstr "Volg een ​​Cursus om de Test te starten"
+
+# @ vibe
+#: single-unit.php:112
+msgid "Attachments"
+msgstr "Bijlages"
+
+# @ vibe
+#: single-unit.php:120
+msgid "Have Questions ? Ask in the Unit Forums"
+msgstr "Vragen ? Vraag het in de forums"
+
+# @ wplms_modern
+#: single-unit.php:124 start.php:243
+msgid "SEE ALL"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:140 start.php:259
+msgid "Edit"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:141 start.php:260
+msgid "Make Public"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:142 start.php:261
+msgid "Make Private"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:143 start.php:262
+msgid "Reply"
+msgstr "Antwoord"
+
+# @ vibe
+#: single-unit.php:144 start.php:263
+msgid "Request Instructor reply"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:145 start.php:264
+msgid "Open in Popup"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:146 single-unit.php:164 start.php:265 start.php:283
+msgid "Remove"
+msgstr "Verwijder"
+
+# @ vibe
+#: single-unit.php:152
+msgid "Add a note"
+msgstr ""
+
+# @ wplms_modern
+#: single-unit.php:155 start.php:274
+msgid "YOU"
+msgstr ""
+
+# @ vibe
+#: single-unit.php:159 start.php:278
+msgid "Add your Comment"
+msgstr ""
+
+# @ default
+#: single-wplms-assignment.php:114
+msgid "All Assignment Submissions"
+msgstr "Alle Opdracht Inzendingen"
+
+# @ vibe
+#: single-wplms-assignment.php:137
+msgid "Maximum Marks"
+msgstr "Maximum cijfer"
+
+# @ vibe
+#: start.php:33
+msgid "INCORRECT COURSE VALUE. CONTACT ADMIN"
+msgstr "FOUTE CURSUS WAARDE. CONTACTEER ADMIN"
+
+# @ vibe
+#: start.php:74
+msgid " Minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:74
+msgid " seconds"
+msgstr ""
+
+# @ vibe
+#: start.php:76
+msgid " Hours"
+msgstr " Uren"
+
+# @ vibe
+#: start.php:76
+msgid " minutes"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " Days"
+msgstr ""
+
+# @ vibe
+#: start.php:78
+msgid " hours"
+msgstr ""
+
+# @ vibe
+#: start.php:109
+msgid "Course Curriculum Not Set."
+msgstr "Cursus Curriculum niet ingesteld"
+
+# @ vibe
+#: start.php:132
+msgid "Course Curriculum Not Set"
+msgstr "Cursus Curriculum is niet ingesteld"
+
+# @ vibe
+#: start.php:137
+msgid "Start Course"
+msgstr "Start cursus"
+
+# @ vibe
+#: start.php:155
+msgid "Previous Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:157
+msgid "Previous Unit"
+msgstr "Vorig Lesonderdeel"
+
+# @ wplms_modern
+#: start.php:170 start.php:187 start.php:192
+msgid "Check Results"
+msgstr "Controleer Resultaten"
+
+# @ vibe
+#: start.php:178
+msgid "Mark this Unit Complete"
+msgstr "Lesonderdeel aanduiden als voltooid"
+
+# @ vibe
+#: start.php:222
+msgid "Next Quiz"
+msgstr ""
+
+# @ vibe
+#: start.php:226 start.php:230
+msgid "Next Unit"
+msgstr "Volgend Lesonderdeel"
+
+# @ vibe
+#: start.php:271
+msgid "Add a Note"
+msgstr ""
+
+# @ vibe
+#: start.php:306
+msgid "BACK TO COURSE"
+msgstr "TERUG NAAR DE CURSUS"
+
+# @ vibe
+#: start.php:312
+msgid "REVIEW COURSE "
+msgstr "CURSUS BEOORDELING"
+
+# @ vibe
+#: start.php:313
+msgid "FINISH COURSE "
+msgstr "BE-EINDIG CURSUS "
+
+# @ vibe
+#: templates/directory/course/index.php:60
+#, php-format
+msgid "All Courses <span>%s</span>"
+msgstr "Alle cursussen <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:64
+#, php-format
+msgid "My Courses <span>%s</span>"
+msgstr "Mijn cursussen <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:67
+#, php-format
+msgid "Instructing Courses <span>%s</span>"
+msgstr "Cursusinstructies <span>%s</span>"
+
+# @ vibe
+#: templates/directory/course/index.php:102
+msgid "Select Order"
+msgstr "Selecteer Bestelling"
+
+# @ vibe
+#: templates/directory/course/index.php:103
+msgid "Newly Published"
+msgstr "Nieuwe publicaties"
+
+# @ vibe
+#: templates/directory/course/index.php:105
+#: templates/directory/groups/index.php:91
+msgid "Most Members"
+msgstr "Meeste leden"
+
+# @ vibe
+#: templates/directory/course/index.php:106
+msgid "Highest Rated"
+msgstr "Hoogste score"
+
+# @ vibe
+#: templates/directory/groups/index.php:54
+#, php-format
+msgid "All Groups <span>%s</span>"
+msgstr "Alle groepen <span>%s</span>"
+
+# @ vibe
+#: templates/directory/groups/index.php:67
+msgid "Create a Group"
+msgstr "Creër een groep"
+
+# @ vibe
+#: templates/directory/groups/index.php:92
+msgid "Newly Created"
+msgstr "Nieuw gecreëerde"
+
+# @ vibe
+#: templates/directory/members/index.php:90
+msgid "Newest Registered"
+msgstr "Laatst geregistreerde"
+
+# @ vibe
+#: views/login_modal.php:6
+msgid "Login"
+msgstr "Login"
+
+#: views/login_modal.php:9
+msgid "USERNAME"
+msgstr ""
+
+#: views/login_modal.php:10
+msgid "Enter Username"
+msgstr ""
+
+#: views/login_modal.php:13
+msgid "PASSWORD"
+msgstr ""
+
+#: views/login_modal.php:14
+msgid "Enter Password"
+msgstr ""
+
+#: views/login_modal.php:17
+msgid "Forgot Password?"
+msgstr ""
+
+#: views/login_modal.php:20
+msgid "Remember me"
+msgstr ""
+
+#: views/login_modal.php:22
+msgid "SIGN IN"
+msgstr ""
+
+#: views/login_modal.php:29
+msgid "Register"
+msgstr ""
+
+#: views/login_modal.php:35 views/login_modal.php:40 views/login_modal.php:96
+msgid "Create an Account"
+msgstr ""
+
+#: views/login_modal.php:54
+msgid "Enter Name"
+msgstr ""
+
+#: views/login_modal.php:66 views/login_modal.php:111
+msgid "Enter email address"
+msgstr ""
+
+# @ vibe
+# @ pmpro
+#: views/login_modal.php:75
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: views/login_modal.php:76
+msgid "Enter password"
+msgstr ""
+
+#: views/login_modal.php:97 views/login_modal.php:129
+msgid "Back to login/register"
+msgstr ""
+
+#: views/login_modal.php:127
+msgid "Retrieve Password"
+msgstr ""
+
+# @ vibe
+#: woocommerce/archive-product.php:31
+#, php-format
+msgid "Search Results: &ldquo;%s&rdquo;"
+msgstr "Zoekresultaten: &ldquo;%s&rdquo;"
+
+# @ vibe
+#: woocommerce/archive-product.php:33
+#, php-format
+msgid "&nbsp;&ndash; Page %s"
+msgstr "&nbsp;&ndash; Pagina %s"
+
+# @ vibe
+#: woocommerce/archive-product.php:98
+msgid "No products found which match your selection."
+msgstr "Geen producten gevonden die overeenkomen met uw selectie."
+
+# @ vibe
+#: woocommerce/single-product/short-description.php:18
+msgid "Courses Included"
+msgstr "Cursussen inbegrepen"
+
+# @ woocommerce
+#: woocommerce/step_checkout/cart-errors.php:14
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"Er zijn wat problemen met de producten in uw winkelwagen (hierboven "
+"afgebeeld). Ga terug naar de winkelwagen pagina en losdeze problemen op "
+"alvorens af te rekenen."
+
+# @ woocommerce
+#: woocommerce/step_checkout/cart-errors.php:18
+msgid "&larr; Return To Cart"
+msgstr "&larr; Terug naar Winkelwagen"
+
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:16
+msgid "Billing &amp; Shipping"
+msgstr "Facturatie &amp; Verzending"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-billing.php:20
+msgid "Billing Address"
+msgstr "Facturatieadres"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "U moet ingelogd zijn om af te rekenen."
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:51
+#: woocommerce/step_checkout/form-login.php:24
+#: woocommerce/step_checkout/form-login.php:112
+#: woocommerce/step_checkout/form-pay.php:119
+#: woocommerce/step_checkout/review-order.php:117
+msgid "Proceed"
+msgstr "Vervolg"
+
+# @ vibe
+#: woocommerce/step_checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "Uw order"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:18
+msgid "Click proceed to continue"
+msgstr "Klik op Vervolg om verder te gaan"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:19
+msgid "Click here to logout and Signin as different user"
+msgstr "Klik hier om uit te loggen en in te loggen als een andere gebruiker"
+
+# @ woocommerce
+#: woocommerce/step_checkout/form-login.php:35
+msgid "Returning customer?"
+msgstr "Terugkerende klant?"
+
+# @ woocommerce
+#: woocommerce/step_checkout/form-login.php:36
+msgid "Click here to login"
+msgstr "Klik hier om in te loggen"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:46
+msgid "Returning Customer"
+msgstr "Terugkerende klanten"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:51
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below."
+msgstr "Bent u reeds klant, vul dan uw gegevens aan."
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:68
+msgid "New Customer"
+msgstr "Nieuwe Klant"
+
+# @ vibe
+#: woocommerce/step_checkout/form-login.php:72
+msgid "Continue as Guest"
+msgstr "Ga verder als Gast"
+
+# @ woocommerce
+#: woocommerce/step_checkout/form-login.php:85
+msgid "Create an account by entering the information below."
+msgstr "Maak een account aan door de onderstaande informatie in te vullen."
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:21
+#: woocommerce/step_checkout/review-order.php:19
+msgid "Product"
+msgstr "Product"
+
+# @ pmpro
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:22
+#: woocommerce/step_checkout/review-order.php:20
+msgid "Total"
+msgstr "Totaal"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:28
+#: woocommerce/step_checkout/review-order.php:26
+msgid "Cart Subtotal"
+msgstr "Winkelwagen Subtotaal"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:34
+#: woocommerce/step_checkout/form-pay.php:74
+#: woocommerce/step_checkout/review-order.php:32
+#: woocommerce/step_checkout/review-order.php:72
+msgid "Coupon:"
+msgstr "Korting:"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:82
+#: woocommerce/step_checkout/review-order.php:80
+msgid "Order Total"
+msgstr "Totaal van uw bestelling"
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:152
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Sorry, het lijkt erop dat er geen beschikbare betaalmethoden zijn voor uw "
+"locatie. Neem contact op als u hulp nodig heeft.."
+
+# @ vibe
+#: woocommerce/step_checkout/form-pay.php:161
+msgid "Pay for order"
+msgstr "Betaal deze bestelling"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr "Levering op een ander adres?"
+
+# @ vibe
+#: woocommerce/step_checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr "Extra informatie"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:157
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Gelieve uw gegevens aan te vullen bovenaan om de beschikbare betaalmethoden "
+"te zien."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:159
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Sorry, het lijkt erop dat er geen beschikbare betaalmethoden zijn voor uw "
+"status. Neem contact op als u hulp nodig heeft."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Aangezien uw browser geen JavaScript ondersteunt, of JavaScript "
+"iuitgeschakeld is, verzeker u ervan dat u klikt op de <em>Update Totalen</"
+"em> knop alvorens uw order te plaatsen. Het te betalen bedrag kan hoger zijn "
+"dan oorspronkelijk aangeduid is, indien u dit niet uitvoert."
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:169
+msgid "Update totals"
+msgstr "Update totals"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:176
+msgid "Place order"
+msgstr "Plaats order"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "I have read and accept the"
+msgstr "Gelezen en geaccepteerd"
+
+# @ vibe
+#: woocommerce/step_checkout/review-order.php:185
+msgid "terms &amp; conditions"
+msgstr "voorwaarden &amp; condities"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:20
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Helaas kan uw bestelling niet verwerkt worden, de bank heeft uw transactie "
+"geweigerd."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:24
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Gelieve uw aankoop te herhalen of ga naar uw account pagina."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:26
+msgid "Please attempt your purchase again."
+msgstr "Gelieve uw aankoop te herhalen."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:30
+msgid "Pay"
+msgstr "Betalen"
+
+# @ pmpro
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:32
+msgid "My Account"
+msgstr "Mijn Account"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:38
+#: woocommerce/step_checkout/thankyou.php:128
+msgid "Thank you. Your order has been received."
+msgstr "Bedankt. Wij hebben uw bestelling goed ontvangen."
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:42
+msgid "Order:"
+msgstr "Bestelling:"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:46
+msgid "Date:"
+msgstr "Datum:"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:50
+msgid "Total:"
+msgstr "Totaal:"
+
+# @ woocommerce
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:55
+msgid "Payment method:"
+msgstr "Betaalmogelijkheden:"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:74
+msgid "COURSE SUBSCRIBED FOR "
+msgstr "INGESCHREVEN VOOR CURSUS"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:76
+msgid "SUSBSCRIBED FOR FULL COURSE"
+msgstr "AANGEMELD VOOR VOLLEDIGE CURSUS"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:81
+msgid "Courses Subscribed"
+msgstr "Aangemelde cursussen"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:83
+msgid "COURSE"
+msgstr "CURSUS"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:84
+msgid "SUBSCRIPTION"
+msgstr "INSCHRIJVING"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:88
+msgid "START COURSE"
+msgstr "START CURSUS"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:91
+msgid "WAITING FOR ORDER CONFIRMATION TO START COURSE"
+msgstr "WACHTEN OP ORDERBEVESTIGING ALVORENS DE CURSUS TE STARTEN"
+
+# @ vibe
+#: woocommerce/step_checkout/thankyou.php:93
+msgid "WAITING FOR ADMIN APPROVAL"
+msgstr "WACHTEN OP GOEDKEURING VAN ADMIN"
+
+# @ vibe
+#~ msgid "My Activity"
+#~ msgstr "Mine Activity"
+
+# @ vibe
+#~ msgid "Save Answer"
+#~ msgstr "Bewaar Antwoord"
+
+# @ vibe
+#~ msgid "Answer"
+#~ msgstr "Antwoord"
+
+# @ vibe
+#~ msgid "Previous Answers to this Question"
+#~ msgstr "Vorige antwoorden op deze vraag"
+
+# @ vibe
+#~ msgid "Clear Answer"
+#~ msgstr "Wis Antwoord"
+
+# @ vibe
+#~ msgid "Clear saved Answer"
+#~ msgstr "Wis bewaard Antwoord"
+
+# @ vibe
+#~ msgid "Course Directory"
+#~ msgstr "Cursus index"
+
+# @ vibe
+#~ msgid "All Courses by all instructors"
+#~ msgstr "Alle Cursussen door alle lesgevers "
+
+# @ vibe
+#~ msgid "You have not subscribed to any courses."
+#~ msgstr "U bent niet ingeschreven voor een cursus"
+
+# @ vibe
+#~ msgid "All Events in "
+#~ msgstr "Alle praktijksessies in "
+
+# @ default
+#~ msgid "Answer Assignment"
+#~ msgstr "Antwoord Opdracht"
+
+# @ default
+# @ vibe
+#~ msgid "Upload Assignment"
+#~ msgstr "Opdracht doorsturen"
+
+# @ vibe
+#~ msgid "All Courses by "
+#~ msgstr "Alle cursussen door "
+
+# @ vibe
+#~ msgid " Responses on "
+#~ msgstr " Reacties op"
+
+# @ vibe
+#~ msgid "Leave a Message"
+#~ msgstr "Laat een bericht na"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a course completion message for students passing this course. This "
+#~ "message is shown to students when students submit their course. The "
+#~ "message is shown above the Course review form"
+#~ msgstr ""
+#~ "Voeg een boodschap toe voor de studenten die de cursus voltooid hebben. "
+#~ "Deze boodschap wordt getoond aan studenten die hun cursus indienen. Deze "
+#~ "boodschap wordt getoond boven het beoordelingsformulier."
+
+# @ vibe
+#~ msgid "EDIT COURSE"
+#~ msgstr "BEWERK CURSUS"
+
+# @ vibe
+#~ msgid "CREATE COURSE"
+#~ msgstr "CREEER CURSUS"
+
+# @ vibe
+#~ msgid "Start building a course"
+#~ msgstr "Start met cursus te maken"
+
+# @ vibe
+#~ msgid "SETTINGS"
+#~ msgstr "INSTELLINGEN"
+
+# @ vibe
+#~ msgid "Course settings"
+#~ msgstr "Cursus instellingen"
+
+# @ vibe
+#~ msgid "SET CURRICULUM"
+#~ msgstr "STEL OVERZICHT IN"
+
+# @ vibe
+#~ msgid "Add Units and Quizzes"
+#~ msgstr "Voeg lesonderdelen en Testen toe"
+
+# @ vibe
+#~ msgid "PRICING"
+#~ msgstr "PRIJZEN"
+
+# @ vibe
+#~ msgid "Set Price for Course"
+#~ msgstr "Stel prijs in voor Cursus"
+
+# @ vibe
+#~ msgid "PUBLISH COURSE"
+#~ msgstr "PUBLICEER CURSUS"
+
+# @ vibe
+#~ msgid "Go Live !"
+#~ msgstr "Go Live !"
+
+# @ vibe
+#~ msgid "Edit in Admin Panel"
+#~ msgstr "Bewerk in Admin Panel"
+
+# @ vibe
+#~ msgid "COURSE TITLE"
+#~ msgstr "CURSUS TITEL"
+
+# @ vibe
+#~ msgid "ENTER A COURSE TITLE"
+#~ msgstr "VUL EEN CURSUSTITEL IN"
+
+# @ vibe
+#~ msgid "COURSE CATEGORY"
+#~ msgstr "CURSUS CATEGORIE"
+
+# @ vibe
+#~ msgid "Select a Course Category"
+#~ msgstr "Kies een Cursuscategorie"
+
+# @ vibe
+#~ msgid "Add new category"
+#~ msgstr "Voeg een nieuwe categorie toe"
+
+# @ vibe
+#~ msgid "Enter a new Course Category"
+#~ msgstr "Vul een Cursuscategorie in"
+
+# @ vibe
+#~ msgid "COURSE IMAGE"
+#~ msgstr "CURSUS BEELD"
+
+# @ vibe
+#~ msgid "COURSE DESCRIPTION"
+#~ msgstr "CURSUS BESCHRIJVING"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a short description of the course, in less than 30 words. Click on "
+#~ "text to edit it and \n"
+#~ "                                delete this text. Full course description "
+#~ "will be added later on."
+#~ msgstr ""
+#~ "Vul een korte beschrijving van de cursus in, in minder dan 30 woorden. "
+#~ "Klik op de tekst om te bewerken e \n"
+#~ "                                wis de tekst. De volledige "
+#~ "cursusbeschrijving zal later toegevoegd worden."
+
+# @ vibe
+#~ msgid "COURSE LINKAGE"
+#~ msgstr "CURSUS LINKEN"
+
+# @ vibe
+#~ msgid "Select Linkage term"
+#~ msgstr "Select Linkage term"
+
+# @ vibe
+#~ msgid "Add new Linkage term"
+#~ msgstr "Add new Linkage term"
+
+# @ vibe
+#~ msgid "Enter a new Linkage"
+#~ msgstr "Enter a new Linkage"
+
+# @ vibe
+#~ msgid "Change Course Status"
+#~ msgstr "Verander Cursus status"
+
+# @ vibe
+#~ msgid "Online"
+#~ msgstr "Online"
+
+# @ vibe
+#~ msgid "Offline"
+#~ msgstr "Offline"
+
+# @ vibe
+#~ msgid "SAVE COURSE"
+#~ msgstr "BEWAAR CURSUS"
+
+# @ vibe
+#~ msgid "Course Settings"
+#~ msgstr "Cursus Instellingen"
+
+# @ vibe
+#~ msgid "Course Duration"
+#~ msgstr "Cursusduur"
+
+# @ vibe
+#~ msgid "Maximum Course Duration"
+#~ msgstr "Maximum Cursusduur"
+
+# @ vibe
+#~ msgid "Course Evaluation"
+#~ msgstr "Cursusevaluatie"
+
+# @ vibe
+#~ msgid "Course Evaluation Mode"
+#~ msgstr "Cursusevaluatie Mode"
+
+# @ vibe
+#~ msgid "Manual"
+#~ msgstr "Handleiding"
+
+# @ vibe
+#~ msgid "Automatic"
+#~ msgstr "Automatisch"
+
+# @ vibe
+#~ msgid "Pre-required Course"
+#~ msgstr "Pre-required Course"
+
+# @ vibe
+#~ msgid "Set a Pre-required Course"
+#~ msgstr "Set a Pre-required Course"
+
+# @ vibe
+#~ msgid "None"
+#~ msgstr "Geen"
+
+# @ vibe
+#~ msgid "Drip Feed"
+#~ msgstr "Drip Feed"
+
+# @ vibe
+#~ msgid "Disable"
+#~ msgstr "Schakel uit"
+
+# @ vibe
+#~ msgid "Enable"
+#~ msgstr "Inschakelen"
+
+# @ vibe
+#~ msgid "Set Drip Feed Duration"
+#~ msgstr "Stel Drip Feed tijd in"
+
+# @ vibe
+#~ msgid "Course Certificate"
+#~ msgstr "Cursuscertificaat"
+
+# @ vibe
+#~ msgid "Set Certificate Percentage"
+#~ msgstr "Stel Certificaatpercentage in"
+
+# @ vibe
+#~ msgid "out of 100"
+#~ msgstr "op 100"
+
+# @ vibe
+#~ msgid "Set Certificate Template"
+#~ msgstr "Stel Certificaattemplate in"
+
+# @ vibe
+#~ msgid "Default Template"
+#~ msgstr "Standaartemplate"
+
+# @ vibe
+#~ msgid "Course Badge"
+#~ msgstr "Cursus Badge"
+
+# @ vibe
+#~ msgid "Set Badge Percentage"
+#~ msgstr "Stel Badgepercentage in"
+
+# @ vibe
+#~ msgid " out of 100"
+#~ msgstr " op 100"
+
+# @ vibe
+#~ msgid "Set Badge Title"
+#~ msgstr "Vul Bagde Titel in"
+
+# @ vibe
+#~ msgid "Upload Badge Image"
+#~ msgstr "Laad een Badge Beeld op"
+
+# @ vibe
+#~ msgid "Number of seats in course"
+#~ msgstr "Aantal beschikbare plaatsen in cursus"
+
+# @ vibe
+#~ msgid "Course Start Date"
+#~ msgstr "Startdatum Cursus"
+
+# @ vibe
+#~ msgid "Set Course Start Date"
+#~ msgstr "Stel startdatum Cursus in"
+
+# @ vibe
+#~ msgid "Course Group"
+#~ msgstr "Cursus Groep"
+
+# @ vibe
+#~ msgid "Connect a Course Group"
+#~ msgstr "Cursusgroep koppelen"
+
+# @ vibe
+#~ msgid "Add new Group"
+#~ msgstr "Voeg nieuwe Groep toe"
+
+# @ vibe
+#~ msgid "Course Forum"
+#~ msgstr "Cursus Forum"
+
+# @ vibe
+#~ msgid "Connect a Course Forum"
+#~ msgstr "Koppel een Cursus Forum"
+
+# @ vibe
+#~ msgid "Connect the Group forum"
+#~ msgstr "Koppel de Cursus Forum"
+
+# @ vibe
+#~ msgid "Add new forum"
+#~ msgstr "Voeg nieuw forum toe"
+
+# @ vibe
+#~ msgid "Course Completion Message"
+#~ msgstr "Bericht na het beëindigen van de Cursus"
+
+# @ vibe
+#~ msgid "SAVE SETTINGS"
+#~ msgstr "BEWAAR INSTELLINGEN"
+
+# @ vibe
+#~ msgid "Course Curriculum"
+#~ msgstr "Cursus Overzicht"
+
+# @ vibe
+#~ msgid "ADD SECTION"
+#~ msgstr "VOEG SECTIE TOE"
+
+# @ vibe
+#~ msgid "ADD UNIT"
+#~ msgstr "VOEG LESONDERDEEL TOE"
+
+# @ vibe
+#~ msgid "ADD QUIZ"
+#~ msgstr "VOEG TEST TOE"
+
+# @ vibe
+#~ msgid "Edit Unit"
+#~ msgstr "Bewerk Lesonderdeel"
+
+# @ vibe
+#~ msgid "Delete"
+#~ msgstr "Verwijder"
+
+# @ vibe
+#~ msgid "Edit Quiz"
+#~ msgstr "Bewerk Test"
+
+# @ vibe
+#~ msgid "SELECT A UNIT"
+#~ msgstr "SELECTEER EEN LESONDERDEEL"
+
+# @ vibe
+#~ msgid "ADD NEW UNIT"
+#~ msgstr "VOEG NIEUW LESONDERDEEL TOE"
+
+# @ vibe
+#~ msgid "Add a unit title"
+#~ msgstr "Voeg een lesonderdeeltitel toe"
+
+# @ vibe
+#~ msgid "Publish"
+#~ msgstr "Publiceer"
+
+# @ vibe
+#~ msgid "SELECT A QUIZ"
+#~ msgstr "SELECTEER EEN TEST"
+
+# @ vibe
+#~ msgid "ADD NEW QUIZ"
+#~ msgstr "VOEG EEN NIEUWE TEST TOE"
+
+# @ vibe
+#~ msgid "SAVE CURRICULUM"
+#~ msgstr "BEWAAR CURRICULUM"
+
+# @ vibe
+#~ msgid "COURSE PRICING"
+#~ msgstr "CURSUSPRIJZEN"
+
+# @ vibe
+#~ msgid "Free Course"
+#~ msgstr "Gratis Cursus"
+
+# @ vibe
+#~ msgid "Set a Course Product"
+#~ msgstr "Stel een Cursusprodukt in"
+
+# @ vibe
+#~ msgid "Select a Course Product"
+#~ msgstr "Kies een Cursusproduct"
+
+# @ vibe
+#~ msgid "No Product"
+#~ msgstr "Geen Product"
+
+# @ vibe
+#~ msgid "ADD NEW PRODUCT"
+#~ msgstr "VOEG NIEUW PRODUCT TOE"
+
+# @ vibe
+#~ msgid "Set Product type"
+#~ msgstr "Stel Cursusproduct in"
+
+# @ vibe
+#~ msgid "Full Course"
+#~ msgstr "Volledige Cursus"
+
+# @ vibe
+#~ msgid "Subscription"
+#~ msgstr "Inschrijving"
+
+# @ vibe
+#~ msgid "Set Product Price"
+#~ msgstr "Stel Productprijs in"
+
+# @ vibe
+#~ msgid "Set Subscription duration"
+#~ msgstr "Stel Inschrijvingsduur in"
+
+# @ vibe
+#~ msgid "Set Course Memberships"
+#~ msgstr "Stel Cursuslidmaatschap in"
+
+# @ vibe
+#~ msgid "Save Course Pricing"
+#~ msgstr "Bewaar Cursusprijzen"
+
+# @ default
+#~ msgid "Go Live"
+#~ msgstr "Go Live"
+
+# @ vibe
+#~ msgid "GO LIVE"
+#~ msgstr "GO LIVE"
+
+# @ vibe
+#~ msgid "SEND FOR APPROVAL"
+#~ msgstr "VERSTUUR VOOR GOEDKEURING"
+
+# @ vibe
+#~ msgid ""
+#~ "Click on text to enter a Course title, delete the existing text in the "
+#~ "title"
+#~ msgstr ""
+#~ "Klik op de tekst om een cursus titel in te voeren, U verwijdert de "
+#~ "bestaande tekst in de titel"
+
+# @ vibe
+#~ msgid "Select a Course Category, or Add a New one"
+#~ msgstr "Selecteer een cursus categorie, of voeg een nieuwe toe"
+
+# @ vibe
+#~ msgid ""
+#~ "Select or upload a course image, this image is used as Course avatar."
+#~ msgstr ""
+#~ "Selecteer of laad een cursusbeeld op, dit beeld gebruikt als Cursus "
+#~ "avatar."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter a Short description about the course, the full description can be "
+#~ "added later on. Start by deleting the existing text in the title"
+#~ msgstr ""
+#~ "Voer een korte beschrijving in over de cursus, de volledige beschrijving "
+#~ "later worden toegevoegd. Begin met de bestaande tekst in de titel te "
+#~ "verwijderen"
+
+# @ vibe
+#~ msgid ""
+#~ "Linkage greatly reduces the unit/quiz/question lists loaded on the page. "
+#~ "Once a Linkage term is selected, the lists will only units/quizzes/"
+#~ "questions connected to the same linkage term. If editing a course , save "
+#~ "and refresh after selecting a Linkage term."
+#~ msgstr ""
+#~ "Door de koppelingen wordt de oplaadtijd van een lesonderdeel/test/vraag "
+#~ "verminderd. Als de koppeling is geselecteerd, zullen de lijsten enkel een "
+#~ "lesonderdeel/test/vraag koppelen aan dezelfde link. Bij het bewerken van "
+#~ "een cursus, bewaar en vernieuw na het selecteren van een koppeling."
+
+# @ vibe
+#~ msgid "A Offline Course is not visible to students in the course directory."
+#~ msgstr ""
+#~ "Een Offline cursus is niet zichtbaar voor de studenten in het "
+#~ "Cursusoverzicht."
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the maximum duration for the course in days. This is the maximum "
+#~ "duration within which the student should complete the course. Use 9999 "
+#~ "for unlimited access to course."
+#~ msgstr ""
+#~ "Voer de maximale duur van de cursus in dagen in. Dit is de maximale duur "
+#~ "waarbinnen de student de opleiding moet voltooien. Gebruik 9999 voor "
+#~ "onbeperkte toegang tot de cursus."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a pre-required course. A Pre Course should be completeted before a "
+#~ "student can access this course"
+#~ msgstr ""
+#~ "Stel een pre-verplichte cursus in. Een Pre-Cursus moet gevolgd worden "
+#~ "voordat een student heeft toegang tot deze cursus."
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Drip Feed course. Students see next lesson after x days. X is "
+#~ "Duration of Drip. "
+#~ msgstr ""
+#~ "Stel Drip Feed van de cursus in. Leerlingen zien volgende les na x dagen. "
+#~ "X is Duur van Drip."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Certificate. Set certificate percentage marks which a "
+#~ "student should achieve to get the course certificate. Select a "
+#~ "certificate template."
+#~ msgstr ""
+#~ "Stel een cursus Certificaat in. Stel het Certificaat percentage in die "
+#~ "een student moet bereiken om het cursus certificaat krijgen. Selecteer "
+#~ "een certificaat sjabloon."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a course Badge. Set percentage marks which a student should get to "
+#~ "get the course badge. Upload the Badge image."
+#~ msgstr ""
+#~ "Zet CursusB adge in. Stel een Badgepercentage die een student moeten "
+#~ "hebben om de cursus badge krijgen. Upload de Badge afbeelding."
+
+# @ vibe
+#~ msgid ""
+#~ "Set number of seats available for students to take the course. Once full "
+#~ "students can not join the course. Enter 9999 for unlimited seats."
+#~ msgstr ""
+#~ "Stel het aantal plaatsen beschikbaar voor studenten om de cursus te "
+#~ "volgen. Eenmaal vol kunnen  studenten niet deelnemen aan de cursus. Voer "
+#~ "9999 voor onbeperkt aantal plaatsen."
+
+# @ vibe
+#~ msgid ""
+#~ "Set a Course Start date. If set to a post date, students can only join "
+#~ "the course on/after the start date."
+#~ msgstr ""
+#~ "Stel een cursus Start datum in. Indien ingesteld op een datum kunnen "
+#~ "studenten alleen lid worden van de cursus op/na de startdatum."
+
+# @ vibe
+#~ msgid "Connect a Course Group OR Create a new one"
+#~ msgstr "Koppel een Cursusgroep of maak een nieuwe groep"
+
+# @ vibe
+#~ msgid ""
+#~ "Connect a Course forum Or Create a new one or Create a Course Group Forum"
+#~ msgstr "Koppel een Cursusforum of maak een nieuw forum"
+
+# @ vibe
+#~ msgid "Enter message which student see after submitting the course."
+#~ msgstr "Voer boodschap in die een student te zien krijgt na inschrijving."
+
+# @ vibe
+#~ msgid "Start building curriculum by adding Units, Quizzes and sections."
+#~ msgstr ""
+#~ "Start het maken van een curriculum door het toevoegen van leseenheden, "
+#~ "testen en secties."
+
+# @ vibe
+#~ msgid "After adding a new unit or quiz, make sure you publish it"
+#~ msgstr ""
+#~ "Na het toevoegen van een nieuwe leseenheid of een test, zorg ervoor dat "
+#~ "je deze publiceert"
+
+# @ vibe
+#~ msgid "Save the curriculum only when the button is green."
+#~ msgstr "Sla het curriculum alleen op wanneer de knop groen is."
+
+# @ vibe
+#~ msgid ""
+#~ "Connect the course with a product. A product defines the pricing of a "
+#~ "course.<br /><br />a. Enter the Price of the product to set the price of "
+#~ "your course.<br />b. Select the type of product.<br /><br /> If product "
+#~ "is set to subscription mode, you need to set the subscription duration "
+#~ "for the product. <br />A student purchasing a Product with subscription "
+#~ "gets access for the course for the subscription duration.<br /> A student "
+#~ "purchasing a product without subscription gets access for the course for "
+#~ "full course duration as entered in course settings."
+#~ msgstr ""
+#~ "Koppel de cursus met een product. Een product bepaalt de prijs van een "
+#~ "cursus.<br /><br />a. Voer de prijs van het product in om de prijs van uw "
+#~ "cursus in te stellen.<br />b. Selecteer het type product.<br /><br /> Als "
+#~ "het product is ingesteld op abonnement modus, moet u het abonnementsduur "
+#~ "voor het product instellen.<br />A Een student die een product koopt met "
+#~ "een abonnementstoegang krijgt toegang tot de cursus voor de duur van het "
+#~ "abonnement..<br /> A Een student die een product koopt zonder "
+#~ "abonnementstoegang krijgt toegang tot de cursus voor de volledige "
+#~ "cursusduur zoals deze is ingesteld in de cursusinstellingen."
+
+# @ vibe
+#~ msgid ""
+#~ "Go live with your course if \"Publish\" access is granted by "
+#~ "Administrator you course will be live as soon as you click on Go Live "
+#~ "button."
+#~ msgstr ""
+#~ "Live gaan met je cursus als \"Publiceren \" de toegang wordt door "
+#~ "Administrator zul je natuurlijk live gevolgd worden zodra u klikt op Go "
+#~ "Live knop verleend."
+
+# @ wplms_modern
+#~ msgid "Create an account"
+#~ msgstr "Creëer een account"
+
+# @ vibe
+#~ msgid "Sign Up"
+#~ msgstr "Aanmelden"
+
+# @ wplms_modern
+#~ msgid "<a href=\"%s\" class=\"vbpregister\" title=\""
+#~ msgstr "<a href=\"%s\" class=\"vbpregister\" title=\""
+
+# @ vibe
+#~ msgid "INSTRUCTORS"
+#~ msgstr "LESGEVERS"
+
+# @ vibe
+#~ msgid "Course Info"
+#~ msgstr "Cursus Info"
+
+# @ vibe
+#~ msgid "RE-INVITE STUDENTS"
+#~ msgstr "NODIG DE STUDENTEN OPNIEUW UIT"
+
+# @ vibe
+#~ msgid "SEND INVITATION"
+#~ msgstr "ZEND UITNODIGING"
+
+# @ vibe
+#~ msgid "SEND EMAIL REMINDER"
+#~ msgstr "ZEND HERINNERINGSEMAIL"
+
+# @ vibe
+#~ msgid "SUBJECT"
+#~ msgstr "ONDERWERP"
+
+# @ vibe
+#~ msgid "INVITATION MESSAGE"
+#~ msgstr "UITNODIGING"
+
+# @ vibe
+#~ msgid "SEND INVITATIONS"
+#~ msgstr "ZEND UITNODIGING"
+
+# @ vibe
+#~ msgid "REMINDER MESSAGE"
+#~ msgstr "HERINNERING"
+
+# @ vibe
+#~ msgid "SEND REMINDER"
+#~ msgstr "ZEND HERINNERING"
+
+# @ vibe
+#~ msgid ""
+#~ "Reminders are emails sent to Students who have accepted the Event "
+#~ "invitation."
+#~ msgstr ""
+#~ "Herinneringen zijn e-mails die naar studenten gestuurd zijn die de "
+#~ "evenement uitnodiging aanvaard hebben"
+
+# @ vibe
+#~ msgid "ACCEPT INVITE"
+#~ msgstr "ACCEPTEER UITNODIGING"
+
+# @ vibe
+#~ msgid "REJECT INVITE"
+#~ msgstr "WEIGER UITNODIGING"
+
+# @ vibe
+#~ msgid "Event Location"
+#~ msgstr "Evenement Locatie"
+
+# @ vibe
+#~ msgid "Course"
+#~ msgstr "Cursus"
+
+# @ vibe
+#~ msgid "A Section added by hook"
+#~ msgstr "A Section added by hook"
+
+# @ vibe
+#~ msgid ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+#~ msgstr ""
+#~ "This is a section created by adding a filter to the sections array, great "
+#~ "to allow child themes, to add/remove sections from the options."
+
+# @ vibe
+#~ msgid "Folow me on Twitter"
+#~ msgstr "Follow me on Twitter"
+
+# @ vibe
+#~ msgid "Be our Fan on Facebook"
+#~ msgstr "Be our Fan on Facebook"
+
+# @ vibe
+#~ msgid "Follow us on Google Plus"
+#~ msgstr "Follow us on Google Plus"
+
+# @ vibe
+#~ msgid "Latest News from VibeThemes"
+#~ msgstr "Latest News from VibeThemes"
+
+# @ vibe
+#~ msgid "Vibe Options Panel v 2.0"
+#~ msgstr "Vibe Options Panel v 2.0"
+
+# @ vibe
+#~ msgid "Support"
+#~ msgstr "Support"
+
+# @ vibe
+#~ msgid "We provide support via three mediums (in priority)"
+#~ msgstr "We provide support via three mediums (in priority)"
+
+# @ vibe
+#~ msgid "Support Email: VibeThemes@gmail.com"
+#~ msgstr "Support Email: VibeThemes@gmail.com"
+
+# @ vibe
+#~ msgid "ThemeForest Item Comments"
+#~ msgstr "ThemeForest Item Comments"
+
+# @ vibe
+#~ msgid "Documentation & Links"
+#~ msgstr "Documentatie & Links"
+
+# @ vibe
+#~ msgid "Or email us at"
+#~ msgstr "Of zend ons een e-mail "
+
+# @ vibe
+#~ msgid "Getting Started"
+#~ msgstr "Aan de slag"
+
+# @ wplms_modern
+#~ msgid "Welcome to "
+#~ msgstr "Welkom bij "
+
+# @ vibe
+#~ msgid "See Theme documentation : "
+#~ msgstr "See Theme documentation : "
+
+# @ vibe
+#~ msgid ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+#~ msgstr ""
+#~ "Install the necessary plugins to run this theme : BuddyPress, Vibe Course "
+#~ "Module, Vibe Shortcodes, Vibe CustomTypes."
+
+# @ vibe
+#~ msgid "Other important setups. "
+#~ msgstr "Other important setups."
+
+# @ vibe
+#~ msgid "Full Theme Guide"
+#~ msgstr "Full Theme Guide"
+
+# @ vibe
+#~ msgid "How to Update? Facing Issues while updating?"
+#~ msgstr "How to Update? Facing Issues while updating?"
+
+# @ vibe
+#~ msgid "Details required for Auto-Update"
+#~ msgstr "Details required for Auto-Update"
+
+# @ vibe
+#~ msgid "Enter Your Themeforest Username"
+#~ msgstr "Enter Your Themeforest Username"
+
+# @ vibe
+#~ msgid "Required for Automatic Upgrades."
+#~ msgstr "Required for Automatic Upgrades."
+
+# @ vibe
+#~ msgid "Enter Your Themeforest API KEY"
+#~ msgstr "Enter Your Themeforest API KEY"
+
+# @ vibe
+#~ msgid "Please Enter your API Key.Required for Automatic Upgrades."
+#~ msgstr "Please Enter your API Key.Required for Automatic Upgrades."
+
+# @ vibe
+#~ msgid "Whats an API KEY? Where can I find one?"
+#~ msgstr "Whats an API KEY? Where can I find one?"
+
+# @ vibe
+#~ msgid "Header"
+#~ msgstr "Header"
+
+# @ vibe
+#~ msgid "Header settings"
+#~ msgstr "Header instellingen"
+
+# @ vibe
+#~ msgid "Upload Logo"
+#~ msgstr "Upload Logo"
+
+# @ vibe
+#~ msgid "Upload your logo"
+#~ msgstr "Upload uw logo"
+
+# @ vibe
+#~ msgid "This Logo is shown in header."
+#~ msgstr "Dit logo wordt getoond in header."
+
+# @ vibe
+#~ msgid "Upload Favicon"
+#~ msgstr "Upload Favicon"
+
+# @ vibe
+#~ msgid "Upload 16x16px Favicon"
+#~ msgstr "Upload 16x16px Favicon"
+
+# @ vibe
+#~ msgid "Upload 16x16px Favicon."
+#~ msgstr "Upload 16x16px Favicon."
+
+# @ vibe
+#~ msgid "Fix Top Header on Scroll"
+#~ msgstr "Houdt header bovenaan vast bij scrollen"
+
+# @ vibe
+#~ msgid "Fix header on top of screen"
+#~ msgstr "Houdt header bovenaan vast op het scherm"
+
+# @ vibe
+#~ msgid "header is fixed to top as user scrolls down."
+#~ msgstr "Header ligt vast aan de top als de gebruiker naar beneden scrollt"
+
+# @ vibe
+#~ msgid "Static"
+#~ msgstr "Statisch"
+
+# @ vibe
+#~ msgid "Fixed on Scroll"
+#~ msgstr "Vast op Scrollen"
+
+# @ vibe
+#~ msgid "Navigation Search as Course Search"
+#~ msgstr "Navigatie Zoeken als Cursus zoeken"
+
+# @ vibe
+#~ msgid "Force the header search to search only in courses"
+#~ msgstr "Forceer header search enkel in cursussen te zoeken"
+
+# @ vibe
+#~ msgid "Sidebar Manager"
+#~ msgstr "Sidebar Manager"
+
+# @ vibe
+#~ msgid "Generate more sidebars dynamically and use them in various layouts"
+#~ msgstr ""
+#~ "Genereer meer sidebars dynamisch en gebruik ze in verschillende lay-outs"
+
+# @ vibe
+#~ msgid "Create New sidebars "
+#~ msgstr "Maak nieuwe sidebars"
+
+# @ vibe
+#~ msgid "Dynamically generate sidebars"
+#~ msgstr "Dynamisch genereren sidebars"
+
+# @ vibe
+#~ msgid "All Events page Sidebar"
+#~ msgstr "Alle praktijksessies pagina Sidebar"
+
+# @ vibe
+#~ msgid "Select All events page sidebar"
+#~ msgstr "Selecteer Alle praktijksessies pagina zijbalk"
+
+# @ vibe
+#~ msgid "Select a sidebar for all events page"
+#~ msgstr "Selecteer een zijbalk voor alle praktijksessies pagina"
+
+# @ vibe
+#~ msgid "Buddypress"
+#~ msgstr "Buddypress"
+
+# @ vibe
+#~ msgid "BuddyPress settings and Variables"
+#~ msgstr "BuddyPress instellingen en variabelen"
+
+# @ vibe
+#~ msgid "Upload BuddyPress Default avatar"
+#~ msgstr "Upload BuddyPress Standaard avatar"
+
+# @ vibe
+#~ msgid "BuddyPress default members avatar"
+#~ msgstr "BuddyPress standaard leden avatar"
+
+# @ vibe
+#~ msgid ""
+#~ "This avatar is shown for members who have not uploaded any custom avatar."
+#~ msgstr ""
+#~ "Deze avatar wordt getoond voor leden die geen aangepaste avatar hebben "
+#~ "geüpload."
+
+# @ vibe
+#~ msgid "Buddypress Items Per Page"
+#~ msgstr "Buddypress Artikelen per pagina"
+
+# @ vibe
+#~ msgid "number of items shown per page"
+#~ msgstr "aantal items per pagina"
+
+# @ vibe
+#~ msgid ""
+#~ "Number of Buddypress items (Courses,Members,Groups,Forums,Blogs etc..)"
+#~ msgstr ""
+#~ "Aantal Buddypress artikelen (Cursussen,Leden,Groepen,Forums,Blogs etc...)"
+
+# @ vibe
+#~ msgid "All Members View"
+#~ msgstr "Alle Leden Weergave"
+
+# @ vibe
+#~ msgid "All members pages can be viewed by:"
+#~ msgstr "Alle leden pagina's kunnen worden bekeken door:"
+
+# @ vibe
+#~ msgid ""
+#~ "Profile viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Profile weergave : Alle {niet-ingelogde}, Members{ingelogde Leden},"
+#~ "Leerkrachten {Leerkrachten, Admins,Editors}"
+
+# @ vibe
+#~ msgid "All"
+#~ msgstr "Alles"
+
+# @ vibe
+#~ msgid "Members only"
+#~ msgstr "Alleen voor Leden"
+
+# @ vibe
+#~ msgid "Teachers only"
+#~ msgstr "Alleen voor leerkrachten"
+
+# @ vibe
+#~ msgid "Admins only"
+#~ msgstr "Alleen Admins"
+
+# @ vibe
+#~ msgid "Single Member Profile View"
+#~ msgstr "Single Leden Profiel Weergave"
+
+# @ vibe
+#~ msgid "Single members profile can be viewed by:"
+#~ msgstr "Single ledenprofiel kan worden bekeken door:"
+
+# @ vibe
+#~ msgid "All Members no-access redirect Page"
+#~ msgstr "Redirect pagina voor alle leden die geen toegang hebben "
+
+# @ vibe
+#~ msgid "User is redirected to this page on error."
+#~ msgstr ""
+#~ "Gebruiker wordt doorgestuurd naar deze pagina in het geval van een fout."
+
+# @ vibe
+#~ msgid ""
+#~ "In case Members view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "Als de Ledenweergave niet toegelaten is voor de gebruiker, wordt de "
+#~ "gebruiker doorgestuurd naar deze pagina."
+
+# @ vibe
+#~ msgid "Activity View"
+#~ msgstr "Activiteitenweergave"
+
+# @ vibe
+#~ msgid "Activity can be viewed by :"
+#~ msgstr "Activiteit kan worden bekeken door:"
+
+# @ vibe
+#~ msgid ""
+#~ "Activity viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Activiteit bekijken : Alle {niet-ingelogde}, Members{ingelogde Leden},"
+#~ "Leerkrachten {Leerkrachten, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Activity no-access redirect Page"
+#~ msgstr "Geen toegang tot Activiteit redirect pagina"
+
+# @ vibe
+#~ msgid ""
+#~ "In case Activity view access is denied to the user, user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "Als de gebruiker geen toegang heeft tot de activiteit, wordt de gebruiker "
+#~ "doorgestuurd naar deze pagina."
+
+# @ vibe
+#~ msgid "Create Groups"
+#~ msgstr "Groepen maken"
+
+# @ vibe
+#~ msgid "Groups can be created by :"
+#~ msgstr "Groepen kunnen worden gemaakt door:"
+
+# @ vibe
+#~ msgid ""
+#~ "Group creation : Members{Loggedin Members},Teachers {Teachers, Admins,"
+#~ "Editors}"
+#~ msgstr ""
+#~ "Creatie Groep: Leden {ingelogde Leden}, Leraren {Leraren, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Profile Activity Tab"
+#~ msgstr "Profiel Activiteit Tab"
+
+# @ vibe
+#~ msgid "Single Profile activity can be viewed by :"
+#~ msgstr "Single Profiel activiteit kan worden bekeken door:"
+
+# @ vibe
+#~ msgid "Profile Group View"
+#~ msgstr "Weergave Groepsprofiel"
+
+# @ vibe
+#~ msgid "Single Profile Groups can be viewed by :"
+#~ msgstr "Single Profiel Groepen kunnen worden bekeken door:"
+
+# @ vibe
+#~ msgid ""
+#~ "Group viewability : All {Non-Loggedin}, Members{Loggedin Members},"
+#~ "Teachers {Teachers, Admins,Editors}"
+#~ msgstr ""
+#~ "Groep weergave : Alle {niet-ingelogde}, Members{ingelogde Leden},"
+#~ "Leerkrachten {Leerkrachten, Admins,Editors}"
+
+# @ vibe
+#~ msgid "Profile Forums View"
+#~ msgstr "Weergave Profiel Forums"
+
+# @ vibe
+#~ msgid "Single Profile Forums can be viewed by :"
+#~ msgstr "Single Profiel Forums kunnen worden bekeken door:"
+
+# @ vibe
+#~ msgid "User is redirected to this page on activating her account."
+#~ msgstr ""
+#~ "Gebruiker wordt doorgestuurd naar deze pagina na het activeren van het "
+#~ "account."
+
+# @ vibe
+#~ msgid ""
+#~ "After registering and activating the account the user is redirected to "
+#~ "this page."
+#~ msgstr ""
+#~ "Na het registreren en activeren van het account van de gebruiker wordt de "
+#~ "gebruiker doorgestuurd naar deze pagina."
+
+# @ vibe
+#~ msgid "Enable Join Group/Request Membership button"
+#~ msgstr "Stel wordt lid van Groep/Aanvraag Lidmaatschap knop"
+
+# @ vibe
+#~ msgid "Button is shown in Groups directory"
+#~ msgstr "Knop wordt weergegeven in groepen directory"
+
+# @ vibe
+#~ msgid ""
+#~ "Join Group for Public groups and Request Membership button for private "
+#~ "groups"
+#~ msgstr ""
+#~ "Lid worden van openbare groepen en Verzoek tot lidmaatschap knop voor "
+#~ "prive-groepen"
+
+# @ vibe
+#~ msgid "Restrict Student activity view"
+#~ msgstr "Weergave Beperk rechten van Student op activiteiten"
+
+# @ vibe
+#~ msgid "Restrict student view of activity"
+#~ msgstr "Beperk rechten van Student op weergave activiteiten"
+
+# @ vibe
+#~ msgid "Student can view only her activity"
+#~ msgstr "Student kan slechts eigen activiteit bekijken"
+
+# @ vibe
+#~ msgid "All Activity"
+#~ msgstr "Alle Activiteit"
+
+# @ vibe
+#~ msgid "Student Activity"
+#~ msgstr "Student Activiteit"
+
+# @ vibe
+#~ msgid "Student Field"
+#~ msgstr "Student Veld"
+
+# @ vibe
+#~ msgid "Enter the name of the Student Field to show below the name."
+#~ msgstr ""
+#~ "Voer de naam in van de Student Veld die getoond wordt onder de naam."
+
+# @ vibe
+#~ msgid "Instructor Field Group"
+#~ msgstr "Instructor Field Group"
+
+# @ vibe
+#~ msgid ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+#~ msgstr ""
+#~ "Enter the name of the Instructor Field Group you want to hide from "
+#~ "Students from viewing in Profile -> edit (* No Required fields & Case "
+#~ "senstitive)."
+
+# @ vibe
+#~ msgid "Instructor Field"
+#~ msgstr "Lesgever Veld"
+
+# @ vibe
+#~ msgid "Enter the name of the Instructor Field to show below the name."
+#~ msgstr ""
+#~ "Voer de naam in van de Lesgever Veld die getoond wordt onder de naam."
+
+# @ vibe
+#~ msgid "Instructor Description Field"
+#~ msgstr "Instructor Description Field"
+
+# @ vibe
+#~ msgid ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+#~ msgstr ""
+#~ "Instructor Description is picked from this field in the Instructor Widget"
+
+# @ vibe
+#~ msgid "Course Manager"
+#~ msgstr "Cursus Beheerder"
+
+# @ vibe
+#~ msgid "Manage Course Options from here."
+#~ msgstr "Beheer Cursus Opties hier."
+
+# @ vibe
+#~ msgid "Take This Course Page"
+#~ msgstr "Volg deze Cursus Pagina"
+
+# @ vibe
+#~ msgid "A Page with Start Course Page Template"
+#~ msgstr "Een pagina met Start Cursus Pagina Template"
+
+# @ vibe
+#~ msgid "Admin Approval for Course"
+#~ msgstr "Admin goedkeuring voor Cursus"
+
+# @ vibe
+#~ msgid "Force instructors for Admin approval for new course"
+#~ msgstr "Forceer Lesgevers voor Admin goedkeuring voor nieuwe cursus"
+
+# @ vibe
+#~ msgid ""
+#~ "Force Courses created by Instructors are first sent to Administrator for "
+#~ "Approval."
+#~ msgstr ""
+#~ "Forceer Cursussen die aangemaakt zijn door Lesgevers eerst naar Admin te "
+#~ "sturen voor Goedkeuring"
+
+# @ vibe
+#~ msgid "Yes, require approval"
+#~ msgstr "Ja, vraag toestemming"
+
+# @ vibe
+#~ msgid "No, allow publish"
+#~ msgstr "Nee, sta publicatie toe"
+
+# @ vibe
+#~ msgid "Unit Locking"
+#~ msgstr "Lesonderdeel blokkeren"
+
+# @ vibe
+#~ msgid "Set access to next units based on previous unit status"
+#~ msgstr ""
+#~ "Stel de toegang tot volgende lesonderdelen in op basis van eerdere status "
+#~ "van een lesonderdeel"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to complete previous units and quiz evalution before viewing "
+#~ "the next units"
+#~ msgstr ""
+#~ "Forceer gebruikers om de vorige lesonderdelen en testevalutie te "
+#~ "voltooien alvorens ze de volgende lesonderdelen kunnen bekijken"
+
+# @ vibe
+#~ msgid "Free Access"
+#~ msgstr "Vrije toegang"
+
+# @ vibe
+#~ msgid "Force prev Unit/Quiz Complete"
+#~ msgstr "Forceer vorige Lesonderdeel/Test voltooid"
+
+# @ vibe
+#~ msgid "Unit Media Lock"
+#~ msgstr "Leseenheid Media blokkeren"
+
+# @ vibe
+#~ msgid ""
+#~ "Hide unit completion button unless the Media(Audio/Video) is complete"
+#~ msgstr ""
+#~ "Verberg Lesonderdeel voltooiingsknop, tenzij de Media (Audio/Video) is "
+#~ "voltooid"
+
+# @ vibe
+#~ msgid ""
+#~ "Force users to view/listen the Media, Audio/Video in units before marking "
+#~ "the unit as complete"
+#~ msgstr ""
+#~ "Dwing gebruikers om te kijken/luisteren naar Media, Audio/Video in de "
+#~ "lesonderdelen vooraleer ze het lesonderdeel als voltooid kunnen aanduiden"
+
+# @ vibe
+#~ msgid "Assignment Locking"
+#~ msgstr "Opdracht blokkeren"
+
+# @ vibe
+#~ msgid "Force users to finish assignments to complete units"
+#~ msgstr ""
+#~ "Gebruikers dwingen om opdrachten af te werken alvorens het lesonderdeel "
+#~ "volledig af is"
+
+# @ vibe
+#~ msgid ""
+#~ "Mark complete button for a unit will appear only after student has "
+#~ "finished the unit assignment"
+#~ msgstr ""
+#~ "De Duid aan als volledig afgerond lesonderdeelknop zal alleen verschijnen "
+#~ "als de student de opdracht heeft afgewerkt"
+
+# @ vibe
+#~ msgid "Do not lock"
+#~ msgstr "Niet blokkeren"
+
+# @ vibe
+#~ msgid "Lock Unit Completion"
+#~ msgstr "Blokkeer Lesonderdeel Afgerond"
+
+# @ vibe
+#~ msgid "Show Course Progressbar"
+#~ msgstr "Toon cursusprogressiebalk"
+
+# @ vibe
+#~ msgid "Show course progress bar above course timeline"
+#~ msgstr "Toon cursusprogressiebalk boven de cursustijdslijn"
+
+# @ vibe
+#~ msgid "Course Progress bar is shown in Course curriculum page"
+#~ msgstr "Cursusprogressiebalk wordt getoond in cursusoverzichtspagina"
+
+# @ vibe
+#~ msgid "Instructors can Add Students"
+#~ msgstr "Lesgevers kunnen studenten toevoegen"
+
+# @ vibe
+#~ msgid "Enable Instructors to be able to add students"
+#~ msgstr "Toestaan om Lesgevers Studenten toe te voegen"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to add students to the course"
+#~ msgstr ""
+#~ "Een bulkactie is toegevoegd in Cursus -> Admin -> Leden waardoor "
+#~ "Lesgevers Studenten kunnen toevoegen aan cursus"
+
+# @ vibe
+#~ msgid "Instructors can Assign/Remove Certificates & Badges"
+#~ msgstr "Lesgevers kunnen Certificaten & Badges toewijzen/verwijderen"
+
+# @ vibe
+#~ msgid ""
+#~ "Enable Instructors to be able to assign Certificates & Badges to Students"
+#~ msgstr ""
+#~ "Toestaan van Lesgevers om Certificaten & Badges toe te wijzen aan "
+#~ "Studenten"
+
+# @ vibe
+#~ msgid ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+#~ msgstr ""
+#~ "A Bulk Action is added in Course -> Admin -> Members which enables "
+#~ "Instructos to assign Certificates & Badges to Students for the course"
+
+# @ vibe
+#~ msgid "Force Instructor Content Privacy"
+#~ msgstr "Force Instructor Content Privacy"
+
+# @ vibe
+#~ msgid "Select boxes show only instructor units/quizzes/questions"
+#~ msgstr ""
+#~ "Selecteer velden die alleen aan lesgevers leseenheden/testen/vragen "
+#~ "getoond worden"
+
+# @ vibe
+#~ msgid "Instructors can view titles but can not open content"
+#~ msgstr ""
+#~ "Lesgevers kunnen de titels te zien, maar kunnen de inhoud niet openen"
+
+# @ vibe
+#~ msgid "A Page with become a teacher form."
+#~ msgstr "A Page with become a teacher form."
+
+# @ vibe
+#~ msgid "Fallback Certificate Page"
+#~ msgstr "Fallback Certificaat Pagina"
+
+# @ vibe
+#~ msgid ""
+#~ "A Page with certificate page template, Fallback to courses with no "
+#~ "Certificate Templates."
+#~ msgstr ""
+#~ "Een pagina met certificaat sjabloon, fallback naar cursussen zonder "
+#~ "Certificaatsjablonen."
+
+# @ vibe
+#~ msgid "Auto-Evaluation Question Types"
+#~ msgstr "Auto-Evaluatie Vraagtypen"
+
+# @ vibe
+#~ msgid "Question types which will be evaluated by Auto-Evaluation"
+#~ msgstr "Type vragen die zullen geëvalueerd worden door Auto-Evaluatie"
+
+# @ vibe
+#~ msgid ""
+#~ "These question types will be evaluated by auto quiz evaluation process "
+#~ "for exact match."
+#~ msgstr ""
+#~ "Deze soorten vragen zullen worden geëvalueerd door het auto test "
+#~ "evaluatieproces voor de precieze antwoorden."
+
+# @ vibe
+#~ msgid "True False"
+#~ msgstr "Juist Fout"
+
+# @ vibe
+#~ msgid "Multiple Choice"
+#~ msgstr "Meerkeuze"
+
+# @ vibe
+#~ msgid "Multiple Correct"
+#~ msgstr "Meerdere Correct"
+
+# @ vibe
+#~ msgid "Sort Answer Question"
+#~ msgstr "Sorteer Antwoord Vraag"
+
+# @ vibe
+#~ msgid "Match Answers"
+#~ msgstr "Vergelijk Antwoorden"
+
+# @ vibe
+#~ msgid "Dropdown select"
+#~ msgstr "Selecteer Dropdown"
+
+# @ vibe
+#~ msgid "Fill in the Blank"
+#~ msgstr "Vul in de vrije ruimte"
+
+# @ vibe
+#~ msgid "Small Text Answer"
+#~ msgstr "Kort Antwoord"
+
+# @ wplms_modern
+#~ msgid "Course Duration parameter"
+#~ msgstr "Cursusduur parameter"
+
+# @ wplms_modern
+#~ msgid "Set course duration parameter"
+#~ msgstr "Stel cursusduur parameter in"
+
+# @ wplms_modern
+#~ msgid "Course duration parameter for display purpose"
+#~ msgstr "Cursusduur parameter voor weergave doeleinden"
+
+# @ vibe
+#~ msgid "Seconds"
+#~ msgstr "Seconden"
+
+# @ vibe
+#~ msgid "Minutes"
+#~ msgstr "Minuten"
+
+# @ vibe
+#~ msgid "Hours"
+#~ msgstr "Uren"
+
+# @ vibe
+#~ msgid "Days"
+#~ msgstr "Dagen"
+
+# @ vibe
+#~ msgid "Weeks"
+#~ msgstr "Weken"
+
+# @ vibe
+#~ msgid "Months"
+#~ msgstr "Maanden"
+
+# @ vibe
+#~ msgid "Years"
+#~ msgstr "Jaren"
+
+# @ vibe
+#~ msgid "Finished Course Access"
+#~ msgstr "Toegang tot afgewerkte Cursussen"
+
+# @ vibe
+#~ msgid "Allow students to view Finished courses"
+#~ msgstr "Stel Studenten in staat Afgewerkte cursussen te bekijken"
+
+# @ vibe
+#~ msgid "Make finished courses secure area viewable to students"
+#~ msgstr ""
+#~ "Maak een afgewerkte cursussen beveiligde zone zichtbaar voor studenten"
+
+# @ vibe
+#~ msgid "Enable Levels"
+#~ msgstr "Stelt niveau in"
+
+# @ vibe
+#~ msgid "Enables Level taxonomy"
+#~ msgstr "Stelt niveau van taxonomie in"
+
+# @ vibe
+#~ msgid "Enable Linkage"
+#~ msgstr "Schakel links in"
+
+# @ vibe
+#~ msgid "Connect Course, Units, Quiz, Questions with linkage taxonomy"
+#~ msgstr ""
+#~ "Connecteer Cursus, leseenheden, test, vragen met verbonden taxonomie"
+
+# @ vibe
+#~ msgid "Shorten the list of units, quizzes, courses shown in dropdowns"
+#~ msgstr ""
+#~ "Inkorten van de lijsten van de leseenheden, testen, cursussen getoond in "
+#~ "dropdowns"
+
+# @ vibe
+#~ msgid "Fonts Manager"
+#~ msgstr "Fonts Manager"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+#~ msgstr ""
+#~ "Manage Fonts to be used in the Site. Fonts selected here will be "
+#~ "available in Theme customizer font family select options."
+
+# @ vibe
+#~ msgid "Select Fonts for Live Theme Editor "
+#~ msgstr "Select Fonts for Live Theme Editor "
+
+# @ vibe
+#~ msgid "Select Fonts and setup fonts in Live Editor"
+#~ msgstr "Select Fonts and setup fonts in Live Editor"
+
+# @ vibe
+#~ msgid "Use these sample layouts in PageBuilder."
+#~ msgstr "Use these sample layouts in PageBuilder."
+
+# @ vibe
+#~ msgid "Custom Fonts (Enter CSS Font Family name)"
+#~ msgstr "Custom Fonts (Enter CSS Font Family name)"
+
+# @ vibe
+#~ msgid " Custom Fonts are added to Theme Customizer Font List.. "
+#~ msgstr " Custom Fonts are added to Theme Customizer Font List.. "
+
+# @ vibe
+#~ msgid "Customizer"
+#~ msgstr "Customizer"
+
+# @ vibe
+#~ msgid "Import/Export customizer settings. Customize your theme using "
+#~ msgstr "Import/Export customizer settings. Customize your theme using "
+
+# @ vibe
+#~ msgid "Import/Export Customizer settings "
+#~ msgstr "Import/Export Customizer settings "
+
+# @ vibe
+#~ msgid "Import/Export customizer settings"
+#~ msgstr "Import/Export customizer settings"
+
+# @ vibe
+#~ msgid ""
+#~ "Use import/export functionality to import/export your customizer settings."
+#~ msgstr ""
+#~ "Gebruik de import/export functies om uw aangepaste instellingen te "
+#~ "importen/exporteren"
+
+# @ vibe
+#~ msgid "PageBuilder Manager"
+#~ msgstr "PageBuilder Manager"
+
+# @ vibe
+#~ msgid ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+#~ msgstr ""
+#~ "Manage PageBuilder saved layouts and Import/Export pagebuilder Saved "
+#~ "layouts"
+
+# @ vibe
+#~ msgid "Manage Sample Layouts "
+#~ msgstr "Manage Sample Layouts "
+
+# @ vibe
+#~ msgid "Delete Sample Layouts"
+#~ msgstr "Delete Sample Layouts"
+
+# @ vibe
+#~ msgid "Import/Export Sample Layouts "
+#~ msgstr "Import/Export Sample Layouts "
+
+# @ vibe
+#~ msgid "Import/Export existing Layouts"
+#~ msgstr "Import/Export existing Layouts"
+
+# @ vibe
+#~ msgid "Use import/export functionality to save your layouts."
+#~ msgstr "Use import/export functionality to save your layouts."
+
+# @ vibe
+#~ msgid "Footer "
+#~ msgstr "Footer "
+
+# @ vibe
+#~ msgid "Setup footer settings"
+#~ msgstr "Setup footer settings"
+
+# @ vibe
+#~ msgid "Top Footer Sidebar Columns"
+#~ msgstr "Top Footer Sidebar Columns"
+
+# @ vibe
+#~ msgid "Footer Columns"
+#~ msgstr "Footer Columns"
+
+# @ vibe
+#~ msgid "Bottom Footer Sidebar Columns"
+#~ msgstr "Bottom Footer Sidebar Columns"
+
+# @ vibe
+#~ msgid "Copyright Text"
+#~ msgstr "Copyright Tekst"
+
+# @ vibe
+#~ msgid "Enter copyrighted text"
+#~ msgstr "Voeg copyrighted tekst toe"
+
+# @ vibe
+#~ msgid "Also supports shotcodes."
+#~ msgstr "Also supports shortcodes."
+
+# @ vibe
+#~ msgid "Footer Bottom"
+#~ msgstr "Footer Bottom"
+
+# @ vibe
+#~ msgid "Select an option for FooterBottom"
+#~ msgstr "Select an option for FooterBottom"
+
+# @ vibe
+#~ msgid "Select Footer Bottom style, set Social icon links in Social tab"
+#~ msgstr "Select Footer Bottom style, set Social icon links in Social tab"
+
+# @ vibe
+#~ msgid "Google Analytics Code"
+#~ msgstr "Google Analytics Code"
+
+# @ vibe
+#~ msgid "Google Analytics account"
+#~ msgstr "Google Analytics account"
+
+# @ vibe
+#~ msgid "Please enter full code with javascript tags."
+#~ msgstr "Vul de volledige code in met javascript-tags."
+
+# @ vibe
+#~ msgid "Social Information"
+#~ msgstr "Sociale informatie"
+
+# @ vibe
+#~ msgid "All Social media settings"
+#~ msgstr "Alle social media instellingen"
+
+# @ vibe
+#~ msgid "Add Social Media Icons "
+#~ msgstr "Voeg Social Media Pictogrammen toe"
+
+# @ vibe
+#~ msgid "Dynamically add social media icons"
+#~ msgstr "Dynamisch toevoegen van sociale media pictogrammen"
+
+# @ vibe
+#~ msgid "Add your Full URL in social media."
+#~ msgstr "Vul uw volledige URL in in de sociale media."
+
+# @ vibe
+#~ msgid "Social Icons Type"
+#~ msgstr "Social Pictogrammen Soort"
+
+# @ vibe
+#~ msgid "Social Icons Theme"
+#~ msgstr "Sociale Pictogrammen Thema"
+
+# @ vibe
+#~ msgid "Show Tooltip on Social Icons"
+#~ msgstr "Toon Tooltip op Sociale Pictogrammen"
+
+# @ vibe
+#~ msgid "Social Sharing buttons"
+#~ msgstr "Social Sharing knoppen"
+
+# @ vibe
+#~ msgid "Show in-built sharing buttons in the theme"
+#~ msgstr "Toon ingebouwde deelknoppen in het thema"
+
+# @ vibe
+#~ msgid "Adds Social media sharing buttons in single Courses etc."
+#~ msgstr "Voegt Social media sharing knoppen in enkelvoudige cursussen etc."
+
+# @ vibe
+#~ msgid "Enable TinCan recording"
+#~ msgstr "Enable TinCan recording"
+
+# @ vibe
+#~ msgid "Record TinCan/XAPI statements in External LRS"
+#~ msgstr "Record TinCan/XAPI statements in External LRS"
+
+# @ vibe
+#~ msgid ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+#~ msgstr ""
+#~ "Store all activity in an External LRS, which other XAPI compatible LMSes "
+#~ "can read."
+
+# @ vibe
+#~ msgid "TinCan API EndPoint"
+#~ msgstr "TinCan API EndPoint"
+
+# @ vibe
+#~ msgid "Add a TinCan API endpoint"
+#~ msgstr "Add a TinCan API endpoint"
+
+# @ vibe
+#~ msgid "Add Endpoint to track details in external LRS."
+#~ msgstr "Add Endpoint to track details in external LRS."
+
+# @ vibe
+#~ msgid "LRS User name"
+#~ msgstr "LRS Gebruikersnaam"
+
+# @ vibe
+#~ msgid "TinCan compatible LRS authentication"
+#~ msgstr "Tincan compatibel LRS authenticatie"
+
+# @ vibe
+#~ msgid "Enter Username for external LRS authentication."
+#~ msgstr "Vul een gebruikersnaam in voor externe LRS authenticatie."
+
+# @ vibe
+#~ msgid "LRS Password"
+#~ msgstr "LRS Wachtwoord"
+
+# @ vibe
+#~ msgid "Enter Password for external LRS authentication."
+#~ msgstr "Vul Wachtwoord in voor externe LRS authenticatie."
+
+# @ vibe
+#~ msgid "Miscellaneous"
+#~ msgstr "Diverse"
+
+# @ vibe
+#~ msgid "Miscellaneous settings used in the theme."
+#~ msgstr "Diverse instellingen die worden gebruikt in het thema."
+
+# @ vibe
+#~ msgid "Theme Layout"
+#~ msgstr "Thema Layout"
+
+# @ vibe
+#~ msgid "Configure Layout of the theme"
+#~ msgstr "Configureren lay-out van het thema"
+
+# @ vibe
+#~ msgid "Select out of predefined layouts for the theme"
+#~ msgstr "Kies uit voorgedefinieerde lay-outs voor het thema"
+
+# @ vibe
+#~ msgid "Default Excerpt Length"
+#~ msgstr "Standaard Fragment Lengte"
+
+# @ vibe
+#~ msgid "Excerpt length in number of Words."
+#~ msgstr "Fragment lengte in aantal woorden"
+
+# @ vibe
+#~ msgid "Direct Checkout"
+#~ msgstr "Direct Checkout"
+
+# @ vibe
+#~ msgid "Requires WooCommerce installed"
+#~ msgstr "Requires WooCommerce installed"
+
+# @ vibe
+#~ msgid "User is redirected to the checkout page."
+#~ msgstr "User is redirected to the checkout page."
+
+# @ vibe
+#~ msgid "Skip Product & Cart page"
+#~ msgstr "Skip Product & Cart page"
+
+# @ vibe
+#~ msgid "Skip Product page"
+#~ msgstr "Skip Product page"
+
+# @ vibe
+#~ msgid "Skip Cart"
+#~ msgstr "Skip Cart"
+
+# @ vibe
+#~ msgid "Redirect to Course Page on Order completion"
+#~ msgstr "Redirect to Course Page on Order completion"
+
+# @ vibe
+#~ msgid "Only if the order contains one product with one course"
+#~ msgstr "Only if the order contains one product with one course"
+
+# @ vibe
+#~ msgid ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+#~ msgstr ""
+#~ "If you're forcing the direct checkout, and your products have one course "
+#~ "per product then switching this on would send users directly to the "
+#~ "course page."
+
+# @ vibe
+#~ msgid "Force complete orders"
+#~ msgstr "Force complete orders"
+
+# @ vibe
+#~ msgid ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+#~ msgstr ""
+#~ "Force all WooCommerce virtual products orders complete on thank you page."
+
+# @ vibe
+#~ msgid ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+#~ msgstr ""
+#~ "All Paid Orders : All Orders with only Virtual products and payment "
+#~ "complete orders, All Non-Fail Orders : All Orders in Processing, on Hold, "
+#~ "Pending orders will be marked complete on Thank you page."
+
+# @ vibe
+#~ msgid "All Paid Orders"
+#~ msgstr "Alle Betaalde Bestellingen"
+
+# @ vibe
+#~ msgid "All Non-Fail Orders"
+#~ msgstr "Alle Niet-Mislukte Bestellingen"
+
+# @ vibe
+#~ msgid "Remove Extra Checkout Fields"
+#~ msgstr "Verwijder Extra Afrekenvelden"
+
+# @ vibe
+#~ msgid "Recommended if you're only selling courses/virtual products"
+#~ msgstr "Aanbevolen als u alleen cursussen / virtuele producten verkoopt"
+
+# @ vibe
+#~ msgid ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+#~ msgstr ""
+#~ "Removes following fields in WooCommerce Checkout : Billing Company/"
+#~ "Address,State/Town, Pincode, Phone etc."
+
+# @ vibe
+#~ msgid "Contact Page Latitude and Longitude values"
+#~ msgstr "Contact Pagina lengte-en breedtegraad waarden"
+
+# @ vibe
+#~ msgid "Grab the latitude and Longitude values from ."
+#~ msgstr "Vul de lengte-en breedtegraad waarden in van ."
+
+# @ vibe
+#~ msgid "Link"
+#~ msgstr "Link"
+
+# @ vibe
+#~ msgid "Contact Page Map Style"
+#~ msgstr "Contactpagina Kaart Stijl"
+
+# @ vibe
+#~ msgid "Select the map style on contact page."
+#~ msgstr "Selecteer de map stijl op de contact pagina."
+
+# @ vibe
+#~ msgid "Content area is the container in which all content is located."
+#~ msgstr "Inhoudsgedeelte is the container waar alle inhoud zich bevindt."
+
+# @ vibe
+#~ msgid "Road map"
+#~ msgstr "Wegenkaart"
+
+# @ vibe
+#~ msgid "Google Map Zoom Level"
+#~ msgstr "Google Map Zoom Niveau"
+
+# @ vibe
+#~ msgid "Enter the zoom level in Google maps"
+#~ msgstr "Voer het zoomniveau in  in Google maps"
+
+# @ vibe
+#~ msgid "Zoom Levels 0 - 19"
+#~ msgstr "Zoomniveaus 0 - 19"
+
+# @ vibe
+#~ msgid "Select 404 Page"
+#~ msgstr "Selecteer 404 Pagina"
+
+# @ vibe
+#~ msgid "This page is shown when page not found on your site."
+#~ msgstr ""
+#~ "Deze pagina wordt weergegeven wanneer een pagina niet gevonden wordt op "
+#~ "uw site."
+
+# @ vibe
+#~ msgid "User redirected to this page when page not found."
+#~ msgstr ""
+#~ "Gebruiker wordt doorgestuurd naar deze pagina als pagina niet gevonden "
+#~ "wordt."
+
+# @ vibe
+#~ msgid "Author & Credits"
+#~ msgstr "Auteur & Credits"
+
+# @ vibe
+#~ msgid "Credits and Author of the Website"
+#~ msgstr "Credits en auteur van de Website"
+
+# @ vibe
+#~ msgid "Changes the reference to Author {VibeThemes}"
+#~ msgstr "Verandert de verwijzing naar de auteur {VibeThemes}"
+
+# @ vibe
+#~ msgid "Theme Information"
+#~ msgstr "Thema informatie"
+
+# @ vibe
+#~ msgid "Please enter some content to post."
+#~ msgstr "Voeg inhoud toe om te posten."
+
+# @ vibe
+#~ msgid "There was a problem posting your update, please try again."
+#~ msgstr ""
+#~ "Er was een probleem bij het versturen van de update, probeer het opnieuw."
+
+# @ vibe
+#~ msgid "Please do not leave the comment area blank."
+#~ msgstr "Deze commentaar ruimte niet leeg laten aub."
+
+# @ vibe
+#~ msgid "There was an error posting that reply, please try again."
+#~ msgstr ""
+#~ "Er is een fout opgetreden bij posten van het antwoord, probeer het "
+#~ "opnieuw."
+
+# @ vibe
+#~ msgid "There was a problem when deleting. Please try again."
+#~ msgstr "Er was een probleem bij het wissen. Probeer het opnieuw."
+
+# @ vibe
+#~ msgid ""
+#~ "%s has previously requested to join this group. Sending an invitation "
+#~ "will automatically add the member to the group."
+#~ msgstr ""
+#~ "%s heeft eerder verzocht om bij deze groep aan te sluiten. Door het "
+#~ "versturen van een uitnodiging zal het lid automatisch toegevoegd worden "
+#~ "aan de groep."
+
+# @ vibe
+#~ msgid "Friendship could not be canceled."
+#~ msgstr "Vriendschap kan niet geannuleerd worden."
+
+# @ vibe
+#~ msgid "Add Friend"
+#~ msgstr "Vriend toevoegen"
+
+# @ vibe
+#~ msgid " Friendship could not be requested."
+#~ msgstr "Het vriendschapsverzoek kan niet worden aangevraagd."
+
+# @ vibe
+#~ msgid "Cancel Friendship Request"
+#~ msgstr "Het vriendschapsverzoek is geannuleerd."
+
+# @ vibe
+#~ msgid "Friendship request could not be cancelled."
+#~ msgstr "Het vriendschapsverzoek kan niet geannuleerd worden."
+
+# @ vibe
+#~ msgid "Request Pending"
+#~ msgstr "De aanvraag is nog onbeslist"
+
+# @ vibe
+#~ msgid "There was a problem accepting that request. Please try again."
+#~ msgstr ""
+#~ "Er was een probleem bij de bevestiging van de aanvraag. Probeer het "
+#~ "opnieuw."
+
+# @ vibe
+#~ msgid "There was a problem rejecting that request. Please try again."
+#~ msgstr ""
+#~ "Er was een probleem bij het afwijzen van de aanvraag. Probeer het opnieuw."
+
+# @ vibe
+#~ msgid "Error joining group"
+#~ msgstr "Foutmelding aansluiting groep"
+
+# @ vibe
+#~ msgid "Leave Group"
+#~ msgstr "Uitloggen Groep"
+
+# @ vibe
+#~ msgid "Error requesting membership"
+#~ msgstr "Aanvraag lidmaatschap"
+
+# @ vibe
+#~ msgid "Membership Requested"
+#~ msgstr "Lidmaatschap aangevraagd"
+
+# @ vibe
+#~ msgid "Error leaving group"
+#~ msgstr "Foutmelding uitloggen groep"
+
+# @ vibe
+#~ msgid "Join Group"
+#~ msgstr "Lid worden van de groep"
+
+# @ vibe
+#~ msgid "Request Membership"
+#~ msgstr "Aanvraag lidmaatschap"
+
+# @ vibe
+#~ msgid "There was a problem closing the notice."
+#~ msgstr "Er was een probleem bij het sluiten van het bericht."
+
+# @ vibe
+#~ msgid "Sent %s"
+#~ msgstr "Verzenden %s"
+
+# @ vibe
+#~ msgid "There was a problem sending that reply. Please try again."
+#~ msgstr ""
+#~ "Er was een probleem verzenden van het antwoord. Probeer het opnieuw."
+
+# @ vibe
+#~ msgid "There was a problem marking messages as unread."
+#~ msgstr "Er was een probleem om de berichten als ongelezen te markeren."
+
+# @ vibe
+#~ msgid "There was a problem marking messages as read."
+#~ msgstr "Er was een probleem om de berichten als gelezen te markeren."
+
+# @ vibe
+#~ msgid "There was a problem deleting messages."
+#~ msgstr "Er was een probleem bij het verwijderen van de berichten."
+
+# @ vibe
+#~ msgid "Messages deleted."
+#~ msgstr "Verwijder berichten."
+
+# @ vibe
+#~ msgid "Sorry, there was no activity found. Please try a different filter."
+#~ msgstr "Sorry, er is geen activiteit gevonden. Probeer een andere filter."
+
+# @ vibe
+#~ msgid ""
+#~ "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+#~ "since\"><span class=\"time-since\">%4$s</span></a>"
+#~ msgstr ""
+#~ "<a href=\"%1$s\">%2$s</a> antwoordde <a href=\"%3$s\" klas=\"activiteit-"
+#~ "tijd-sinds\"><span klas=\"tijd-sinds\">%4$s</span></a>"
+
+# @ vibe
+#~ msgid "What's new in %s, %s?"
+#~ msgstr "Wat is nieuw in %s, %s?"
+
+# @ vibe
+#~ msgid "What's new, %s?"
+#~ msgstr "Wat is nieuw %s?"
+
+# @ vibe
+#~ msgid "Post Update"
+#~ msgstr "Bericht bijwerken"
+
+# @ vibe
+#~ msgid "Post in"
+#~ msgstr "Post in"
+
+# @ vibe
+#~ msgid "My Profile"
+#~ msgstr "Mijn Profiel"
+
+# @ vibe
+#~ msgid "You have not created any Course."
+#~ msgstr "U heeft nog geen cursus aangemaakt"
+
+# @ vibe
+#~ msgid "Submissions"
+#~ msgstr "Inschrijvingen"
+
+# @ vibe
+#~ msgid "Activity"
+#~ msgstr "Activiteit"
+
+# @ vibe
+#~ msgid "Stats"
+#~ msgstr "Statistieken"
+
+# @ vibe
+#~ msgid "Total number of Students in course"
+#~ msgstr "Totaal aantal studenten in de cursus "
+
+# @ vibe
+#~ msgid "Students Currently taking this course"
+#~ msgstr "Studenten die deze cursus momenteel volgen"
+
+# @ vibe
+#~ msgid "Reset Course for User"
+#~ msgstr "Stel de cursus opnieuw in voor de gebruiker"
+
+# @ vibe
+#~ msgid "See Course stats for User"
+#~ msgstr "Bekijk de gebruikersstatistieken"
+
+# @ vibe
+#~ msgid "See User Activity in Course"
+#~ msgstr "Gebruikersactiviteit bekijken in deze cursus"
+
+# @ vibe
+#~ msgid "Remove User from this Course"
+#~ msgstr "Verwijder deze gebruiker uit deze cursus"
+
+# @ wplms_modern
+#~ msgid "No Students found."
+#~ msgstr "Geen Studenten gevonden."
+
+# @ vibe
+#~ msgid "BULK ACTIONS"
+#~ msgstr "BULKACTIES"
+
+# @ vibe
+#~ msgid "Instructors"
+#~ msgstr "Legevers"
+
+# @ vibe
+#~ msgid "FREE"
+#~ msgstr "GRATIS"
+
+# @ vibe
+#~ msgid "minutes"
+#~ msgstr "minuten"
+
+# @ vibe
+#~ msgid "Total Number of Students who took this course"
+#~ msgstr "Aantal studenten die deze cursus gevolgd heeft"
+
+# @ vibe
+#~ msgid "Average Percentage obtained by Students"
+#~ msgstr "Gemiddeld percentage die behaald is door de studenten"
+
+# @ vibe
+#~ msgid "Number of Students who got a Badge"
+#~ msgstr "Aantal studenten die een badge gekregen hebben"
+
+# @ vibe
+#~ msgid "Number of Passed Students"
+#~ msgstr "Aantal studenten die geslaagd zijn"
+
+# @ vibe
+#~ msgid "Average Marks obtained by Students"
+#~ msgstr "Gemiddeld behaald cijfer door de studenten"
+
+# @ vibe
+#~ msgid "Average Marks in Quiz "
+#~ msgstr "Gemiddeld behaald cijfer in de test"
+
+# @ vibe
+#~ msgid "Calculate :"
+#~ msgstr "Bereken :"
+
+# @ vibe
+#~ msgid "Calculate Statistics for Course"
+#~ msgstr "Bereken de statistieken voor de cursus"
+
+# @ vibe
+#~ msgid "ASSIGNMENTS SUBMISSIONS"
+#~ msgstr "INGEDIENDE OPDRACHTEN"
+
+# @ vibe
+#~ msgid "Reset Assignment for User"
+#~ msgstr "Stel de opdracht opnieuw in voor de gebruiker"
+
+# @ vibe
+#~ msgid "Evaluate Assignment : "
+#~ msgstr "Evalueer opdracht : "
+
+# @ vibe
+#~ msgid "QUIZ SUBMISSIONS"
+#~ msgstr "INGEDIENDE TESTEN"
+
+# @ vibe
+#~ msgid "Reset Quiz for User"
+#~ msgstr "Stel de test opnieuw in voor de student"
+
+# @ vibe
+#~ msgid "Evaluate Quiz for User"
+#~ msgstr "Evalueer de test voor de student"
+
+# @ vibe
+#~ msgid "COURSE SUBMISSIONS"
+#~ msgstr "INGEDIENDE CURSUSSEN"
+
+# @ vibe
+#~ msgid "Evaluate Course for User"
+#~ msgstr "Evalueer de cursus voor de gebruiker"
+
+# @ vibe
+#~ msgid "Groups Directory"
+#~ msgstr "Groepsindex"
+
+# @ vibe
+#~ msgid "There were no groups found."
+#~ msgstr "Er zijn geen groepen gevonden."
+
+# @ vibe
+#~ msgid "Notify group members of these changes via email"
+#~ msgstr "Verwittig de groepsleden van deze wijzigingen via e-mail"
+
+# @ vibe
+#~ msgid "Save Changes"
+#~ msgstr "Bewaar wijzigingen"
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to remove the existing avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Indien u graag de bestaande avatar wil verwijderen, maar geen nieuwe wil "
+#~ "uploaden, gebruik dan de verwijder avatar knop."
+
+# @ vibe
+#~ msgid "Delete Avatar"
+#~ msgstr "Verwijder Avatar"
+
+# @ vibe
+#~ msgid "Crop Avatar"
+#~ msgstr "Snij Avatar bij"
+
+# @ vibe
+#~ msgid "Administrators"
+#~ msgstr "Administrators"
+
+# @ vibe
+#~ msgid "Profile picture of %s"
+#~ msgstr "Profielafbeelding van %s"
+
+# @ vibe
+#~ msgid "Demote to Member"
+#~ msgstr "Degraderen tot Lid"
+
+# @ vibe
+#~ msgid "Promote to Admin"
+#~ msgstr "Promoveer tot beheerder"
+
+# @ vibe
+#~ msgid "(banned)"
+#~ msgstr "(verboden)"
+
+# @ vibe
+#~ msgid "Unban this member"
+#~ msgstr "Unban dit lid"
+
+# @ vibe
+#~ msgid "Remove Ban"
+#~ msgstr "Verwijder verbod"
+
+# @ vibe
+#~ msgid "Kick and ban this member"
+#~ msgstr "Kick en ban dit lid"
+
+# @ vibe
+#~ msgid "Kick &amp; Ban"
+#~ msgstr "Kick &amp; Ban"
+
+# @ vibe
+#~ msgid "Promote to Mod"
+#~ msgstr "Promoveer tot Mod"
+
+# @ vibe
+#~ msgid "Remove this member"
+#~ msgstr "Verwijder dit lid"
+
+# @ vibe
+#~ msgid "Remove from group"
+#~ msgstr "Verwijder uit de groep"
+
+# @ vibe
+#~ msgid "This group has no members."
+#~ msgstr "Deze groep heeft geen leden"
+
+# @ vibe
+#~ msgid "Accept"
+#~ msgstr "Accepteren"
+
+# @ vibe
+#~ msgid "Reject"
+#~ msgstr "Afwijzen"
+
+# @ vibe
+#~ msgid "There are no pending membership requests."
+#~ msgstr "U hebt geen openstaande lidmaatschapsverzoeken."
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING: Deleting this group will completely remove ALL content "
+#~ "associated with it. There is no way back, please be careful with this "
+#~ "option."
+#~ msgstr ""
+#~ "WAARSCHUWING: indien u deze groep verwijdert, wordt alle inhoud die ermee "
+#~ "verbonden is, volledig gewist. Er is geen weg terug, wees voorzichtig met "
+#~ "deze optie."
+
+# @ vibe
+#~ msgid "I understand the consequences of deleting this group."
+#~ msgstr "Ik begrijp de gevolgen van het schrappen van deze groep."
+
+# @ vibe
+#~ msgid "Delete Group"
+#~ msgstr "Verwijder groep"
+
+# @ vibe
+#~ msgid "Forum Directory"
+#~ msgstr "Forum Index"
+
+# @ vibe
+#~ msgid "You will auto join this group when you start a new topic."
+#~ msgstr ""
+#~ "U wordt automatisch lid van deze groep als u een nieuw onderwerp start."
+
+# @ vibe
+#~ msgid "Post a New Topic:"
+#~ msgstr "Plaats een nieuw onderwerp:"
+
+# @ buddypress
+#~ msgid "You are requesting to become a member of the group '%s'."
+#~ msgstr "U vraagt ​​om een lid van de groep '%s' te worden."
+
+# @ vibe
+#~ msgid "Comments (optional)"
+#~ msgstr "Opmerkingen (optioneel)"
+
+# @ vibe
+#~ msgid "Send Request"
+#~ msgstr "Verstuur aanvraag"
+
+# @ vibe
+#~ msgid "Send Invites"
+#~ msgstr "Uitnodigingen verzenden"
+
+# @ vibe
+#~ msgid "Edit:"
+#~ msgstr "Bewerk:"
+
+# @ vibe
+#~ msgid "This topic does not exist."
+#~ msgstr "Dit onderwerp bestaat niet."
+
+# @ vibe
+#~ msgid "New Reply"
+#~ msgstr "Nieuwe reactie"
+
+# @ vibe
+#~ msgid "Topic tags:"
+#~ msgstr "Onderwerp tags:"
+
+# @ vibe
+#~ msgid "%1$s said %2$s:"
+#~ msgstr "%1$s zei %2$s:"
+
+# @ vibe
+#~ msgid "There are no posts for this topic."
+#~ msgstr "Er zijn geen berichten voor dit onderwerp."
+
+# @ vibe
+#~ msgid "You will auto join this group when you reply to this topic."
+#~ msgstr ""
+#~ "U wordt automatisch lid van deze groep als u antwoordt op dit onderwerp."
+
+# @ vibe
+#~ msgid "Add a reply:"
+#~ msgstr "Voeg een reactie toe:"
+
+# @ vibe
+#~ msgid "Post Reply"
+#~ msgstr "Antwoord"
+
+# @ vibe
+#~ msgid "This topic is closed, replies are no longer accepted."
+#~ msgstr ""
+#~ "Dit onderwerp is gesloten, antwoorden worden niet meer geaccepteerd."
+
+# @ vibe
+#~ msgid "Badges"
+#~ msgstr "Badges"
+
+# @ vibe
+#~ msgid "Certifications"
+#~ msgstr "Certificaten"
+
+# @ vibe
+#~ msgid "Check all Courses created by "
+#~ msgstr "Controleer alle cursussen die gecreëerd zijn door "
+
+# @ vibe
+#~ msgid "Course "
+#~ msgstr "Cursus"
+
+# @ vibe
+#~ msgid "Author Social profile information"
+#~ msgstr "Sociale profielgegevens van de auteru"
+
+# @ vibe
+#~ msgid "Add Social Information"
+#~ msgstr "Voeg social media gegevens toe"
+
+# @ vibe
+#~ msgid "Enter URL for social icon."
+#~ msgstr "URL invoeren voor social media icoon."
+
+# @ vibe
+#~ msgid "Share on "
+#~ msgstr "Deel"
+
+# @ vibe
+#~ msgid "Status"
+#~ msgstr "Status"
+
+# @ vibe
+#~ msgid "Course Categories"
+#~ msgstr "Cursus categorieën"
+
+# @ pmpro
+#~ msgid "Level"
+#~ msgstr "Niveeau"
+
+# @ default
+#~ msgid "COURSE STARTS IN "
+#~ msgstr "CURSUS START IN "
+
+# @ vibe
+#~ msgid "UNLIMITED ACCESS"
+#~ msgstr "ONBEPERKT TOEGANG"
+
+# @ vibe
+#~ msgid "Become an Instructor"
+#~ msgstr "Word lesgever"
+
+# @ vibe
+#~ msgid "UNLIMITED TIME"
+#~ msgstr "ONBEPERKTE TIJD"
+
+# @ default
+#~ msgid "COURSE : "
+#~ msgstr "CURSUS : "
+
+# @ vibe
+#~ msgid "FINISH ASSIGNMENT TO MARK UNIT COMPLETE"
+#~ msgstr ""
+#~ "VOER DE OPDRACHT UIT ALVORENS HET LESONDERDEEL ALS  VOLTOOID AAN TE DUIDEN"
+
+# @ vibe
+#~ msgid "Finish Video/Audio to mark this unit complete"
+#~ msgstr ""
+#~ "Bekijk/Beluister Video/Audio alvorens dit lesonderdeel als voltooid te "
+#~ "markeren"
+
+# @ vibe
+#~ msgid "Setup Menus"
+#~ msgstr "Setup Menus"
+
+# @ vibe
+#~ msgid "SOME ISSUE OCCURED WHILE REMOVING STUDENT FROM COURSES"
+#~ msgstr ""
+#~ "ER ZIJN PROBLEMEN MET HET VERWIJDEREN VAN DE STUDENTEN UIT DE CURSUS"
+
+# @ vibe
+#~ msgid "Page"
+#~ msgstr "Pagina"
+
+# @ vibe
+#~ msgid "of"
+#~ msgstr "van"
+
+# @ vibe
+#~ msgid "First"
+#~ msgstr "Eerst"
+
+# @ vibe
+#~ msgid "Previous"
+#~ msgstr "Vorige"
+
+# @ vibe
+#~ msgid "Next"
+#~ msgstr "Volgende"
+
+# @ vibe
+#~ msgid "Last"
+#~ msgstr "Laatste"
+
+# @ vibe
+#~ msgid "Attachment"
+#~ msgstr "Bijlage"
+
+# @ vibe
+#~ msgid "Requires completion of course : "
+#~ msgstr "Vereist de voltooiing van de cursus: "
+
+# @ vibe
+#~ msgid " LOGIN"
+#~ msgstr "LOGIN"
+
+# @ vibe
+#~ msgid " REGISTER NOW"
+#~ msgstr "REGISTREER NU"
+
+# @ vibe
+#~ msgid "You must be logged in to take this course "
+#~ msgstr "Je moet ingelogd zijn om deze cursus te volgen"
+
+# @ vibe
+#~ msgid "Page %s"
+#~ msgstr "Pagina %s"
+
+# @ vibe
+#~ msgid ""
+#~ "LearnDash Active. You may disable following plugins to avoid duplicate "
+#~ "functionality in the setup"
+#~ msgstr ""
+#~ "LearnDash Actief. U kunt volgende plugins uitschakelen om dubbele "
+#~ "functionaliteit in de setup te voorkomen"
+
+# @ vibe
+#~ msgid "Go to WP Admin -> Plugins -> Installed Plugins"
+#~ msgstr "Go to WP Admin -> Plugins -> Installed Plugins"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Custom Types"
+#~ msgstr "Deactivate Vibe Custom Types"
+
+# @ vibe
+#~ msgid "Deactivate Vibe Course Module"
+#~ msgstr "Deactivate Vibe Course Module"
+
+# @ vibe
+#~ msgid "Setup Menus in Admin Panel"
+#~ msgstr "Stel Menus in in het Admin Paneel"
+
+# @ vibe
+#~ msgid "Install Required Plugins"
+#~ msgstr "Install Required Plugins"
+
+# @ vibe
+#~ msgid "Install Plugins"
+#~ msgstr "Install Plugins"
+
+# @ vibe
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Installing Plugin: %s"
+
+# @ vibe
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Something went wrong with the plugin API."
+
+# @ vibe
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgid_plural "This theme requires the following plugins: %1$s."
+#~ msgstr[0] "This theme requires the following plugin: %1$s."
+#~ msgstr[1] "This theme requires the following plugins: %1$s."
+
+# @ vibe
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgid_plural "This theme recommends the following plugins: %1$s."
+#~ msgstr[0] "This theme recommends the following plugin: %1$s."
+#~ msgstr[1] "This theme recommends the following plugins: %1$s."
+
+# @ vibe
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin installed."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins installed."
+#~ msgstr[0] ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin installed."
+#~ msgstr[1] ""
+#~ "Sorry, but you do not have the correct permissions to install the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins installed."
+
+# @ vibe
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgid_plural "The following required plugins are currently inactive: %1$s."
+#~ msgstr[0] "The following required plugin is currently inactive: %1$s."
+#~ msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+# @ vibe
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgid_plural ""
+#~ "The following recommended plugins are currently inactive: %1$s."
+#~ msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+#~ msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+# @ vibe
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin activated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins activated."
+#~ msgstr[0] ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin activated."
+#~ msgstr[1] ""
+#~ "Sorry, but you do not have the correct permissions to activate the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins activated."
+
+# @ vibe
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgid_plural ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgstr[0] ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgstr[1] ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+
+# @ vibe
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin updated."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins updated."
+#~ msgstr[0] ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugin. Contact the administrator of this site for help on getting the "
+#~ "plugin updated."
+#~ msgstr[1] ""
+#~ "Sorry, but you do not have the correct permissions to update the %s "
+#~ "plugins. Contact the administrator of this site for help on getting the "
+#~ "plugins updated."
+
+# @ vibe
+#~ msgid "Begin installing plugin"
+#~ msgid_plural "Begin installing plugins"
+#~ msgstr[0] "Begin installing plugin"
+#~ msgstr[1] "Begin installing plugins"
+
+# @ vibe
+#~ msgid "Activate installed plugin"
+#~ msgid_plural "Activate installed plugins"
+#~ msgstr[0] "Activate installed plugin"
+#~ msgstr[1] "Activate installed plugins"
+
+# @ vibe
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Return to Required Plugins Installer"
+
+# @ vibe
+#~ msgid "Plugin activated successfully."
+#~ msgstr "Plugin activated successfully."
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "All plugins installed and activated successfully. %s"
+
+# @ vibe
+#~ msgid "Something went wrong."
+#~ msgstr "Something went wrong."
+
+# @ vibe
+#~ msgid "The following plugin was activated successfully:"
+#~ msgid_plural "The following plugins were activated successfully:"
+#~ msgstr[0] "The following plugin was activated successfully:"
+#~ msgstr[1] "The following plugins were activated successfully:"
+
+# @ vibe
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "All plugins installed and activated successfully. %1$s"
+
+# @ vibe
+#~ msgid "Dismiss this notice"
+#~ msgstr "Dismiss this notice"
+
+# @ vibe
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Return to the Dashboard"
+
+# @ vibe
+#~ msgid "Private Repository"
+#~ msgstr "Private Repository"
+
+# @ vibe
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pre-Packaged"
+
+# @ vibe
+#~ msgid "WordPress Repository"
+#~ msgstr "WordPress Repository"
+
+# @ vibe
+#~ msgid "Required"
+#~ msgstr "Vereist"
+
+# @ vibe
+#~ msgid "Recommended"
+#~ msgstr "Aanbevolen"
+
+# @ vibe
+#~ msgid "Not Installed"
+#~ msgstr "Niet geïnstalleerd"
+
+# @ vibe
+#~ msgid "Installed But Not Activated"
+#~ msgstr "Geïnstalleerd maar niet geactiveerd"
+
+# @ vibe
+#~ msgid "Install"
+#~ msgstr "Installeer"
+
+# @ vibe
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+
+# @ vibe
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+# @ vibe
+#~ msgid "Source"
+#~ msgstr "Source"
+
+# @ vibe
+#~ msgid "Type"
+#~ msgstr "Type"
+
+# @ vibe
+#~ msgid "Install package not available."
+#~ msgstr "Install package not available."
+
+# @ vibe
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+# @ vibe
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Unpacking the package&#8230;"
+
+# @ vibe
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Installing the plugin&#8230;"
+
+# @ vibe
+#~ msgid "Plugin install failed."
+#~ msgstr "Plugin install failed."
+
+# @ vibe
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin installed successfully."
+
+# @ vibe
+#~ msgid "Plugin activation failed."
+#~ msgstr "Plugin activation failed."
+
+# @ vibe
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+
+# @ vibe
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s installed and activated successfully."
+
+# @ vibe
+#~ msgid "Show Details"
+#~ msgstr "Toon Details"
+
+# @ vibe
+#~ msgid "Hide Details"
+#~ msgstr "Verberg Details"
+
+# @ vibe
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "All installations and activations have been completed."
+
+# @ vibe
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+# @ vibe
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+
+# @ vibe
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+# @ vibe
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "The installation of %1$s failed."
+
+# @ vibe
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s installed successfully."
+
+# @ vibe
+#~ msgid "All installations have been completed."
+#~ msgstr "All installations have been completed."
+
+# @ vibe
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+# @ vibe
+#~ msgid "Review Title"
+#~ msgstr "Titel beoordeling"
+
+# @ vibe
+#~ msgid "Review Rating"
+#~ msgstr "Beoordeling cijfer"
+
+# @ vibe
+#~ msgid "Review Details"
+#~ msgstr "Details beoordeling"
+
+# @ vibe
+#~ msgid "Rating "
+#~ msgstr "Beoordeling"
+
+# @ vibe
+#~ msgid "Student"
+#~ msgstr "Student"
+
+# @ vibe
+#~ msgid "Instructor"
+#~ msgstr "Instructor"
+
+# @ vibe
+#~ msgid "Please fill in all the required fields (indicated by *)"
+#~ msgstr "Gelieve alle verplichte velden in te vullen (aangeduid met *)"
+
+# @ vibe
+#~ msgid "Top Menu"
+#~ msgstr "Top Menu"
+
+# @ vibe
+#~ msgid "Main Menu"
+#~ msgstr "Main Menu"
+
+# @ vibe
+#~ msgid "Mobile Menu"
+#~ msgstr "Mobile Menu"
+
+# @ vibe
+#~ msgid "Footer Menu"
+#~ msgstr "Footer Menu"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+#~ msgstr ""
+#~ "This is the global default widget area/sidebar for pages, posts, "
+#~ "categories, tags and archive pages"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in course pages and free "
+#~ "units"
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in search results page."
+#~ msgstr "This is the widget area/sidebar shown in search results page."
+
+# @ vibe
+#~ msgid "This is the widget area/sidebar shown in the shop page "
+#~ msgstr "This is the widget area/sidebar shown in the shop page "
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in single product pages and "
+#~ "product categories"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in buddypress pages like : "
+#~ "All Activity, All Groups, All members, All courses, All blogs"
+
+# @ vibe
+#~ msgid ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+#~ msgstr ""
+#~ "This is the default widget area/sidebar shown in Checkout pages below "
+#~ "coupons."
+
+# @ vibe
+#~ msgid "Top Footer widget area / sidebar"
+#~ msgstr "Top Footer widget area / sidebar"
+
+# @ vibe
+#~ msgid "Bottom Footer widget area / sidebar"
+#~ msgstr "Bottom Footer widget area / sidebar"
+
+# @ vibe
+#~ msgid "Custom sidebar, created from Sidebar Manager"
+#~ msgstr "Custom sidebar, created from Sidebar Manager"
+
+# @ vibe
+#~ msgid "Student "
+#~ msgstr "Student "
+
+# @ vibe
+#~ msgid " in "
+#~ msgstr " in "
+
+# @ vibe
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (Ongeldig)"
+
+# @ vibe
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (In afwachting van)"
+
+# @ default
+# @ vibe
+#~ msgid "Edit Menu Item"
+#~ msgstr "Menu item bewerken"
+
+# @ vibe
+#~ msgid "URL"
+#~ msgstr "URL"
+
+# @ vibe
+#~ msgid "Navigation Label"
+#~ msgstr "Navigatie label"
+
+# @ vibe
+#~ msgid "Title Attribute"
+#~ msgstr "Titel Kenmerken"
+
+# @ vibe
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "Open link in een nieuw venster/tab"
+
+# @ vibe
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "CSS Classes (optional)"
+
+# @ vibe
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "Link Relationship (XFN)"
+
+# @ vibe
+#~ msgid "Description"
+#~ msgstr "Beschrijving"
+
+# @ default
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+
+# @ vibe
+#~ msgid "Enable Widgetized Mega Menu"
+#~ msgstr "Enable Widgetized Mega Menu"
+
+# @ vibe
+#~ msgid "Select Sidebar"
+#~ msgstr "Select Sidebar"
+
+# @ vibe
+#~ msgid "Sidebar Columns"
+#~ msgstr "Sidebar Columns"
+
+# @ vibe
+#~ msgid "Original: %s"
+#~ msgstr "Original: %s"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+#~ msgstr ""
+#~ "Shows a custom attribute in a widget which lets you narrow down the list "
+#~ "of products when viewing product categories."
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav"
+#~ msgstr "Vibe Advanced Layered Nav"
+
+# @ vibe
+#~ msgid "Attribute:"
+#~ msgstr "Attribute:"
+
+# @ vibe
+#~ msgid "Query Type:"
+#~ msgstr "Query Type:"
+
+# @ vibe
+#~ msgid "AND"
+#~ msgstr "EN"
+
+# @ vibe
+#~ msgid "OR"
+#~ msgstr "OF"
+
+# @ vibe
+#~ msgid ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+#~ msgstr ""
+#~ "Shows active layered nav filters so users can see and deactivate them."
+
+# @ vibe
+#~ msgid "Vibe Advanced Layered Nav Filters"
+#~ msgstr "Vibe Advanced Layered Nav Filters"
+
+# @ vibe
+#~ msgid "Active filters"
+#~ msgstr "Active filters"
+
+# @ vibe
+#~ msgid "Remove filter"
+#~ msgstr "Remove filter"
+
+# @ vibe
+#~ msgid "Greater than"
+#~ msgstr "Greater than"
+
+# @ vibe
+#~ msgid "Less than"
+#~ msgstr "Less than"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels "
+#~ msgstr "Vibe WooCommerce Carousels "
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Carousels"
+#~ msgstr "Vibe WooCommerce Carousels"
+
+# @ vibe
+#~ msgid "WooCommerce Function "
+#~ msgstr "WooCommerce Function "
+
+# @ vibe
+#~ msgid "Product Columns"
+#~ msgstr "Product Columns"
+
+# @ vibe
+#~ msgid "Number of Products in Carousel:"
+#~ msgstr "Number of Products in Carousel:"
+
+# @ vibe
+#~ msgid "Carousel Controls"
+#~ msgstr "Carousel Controls"
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel "
+#~ msgstr "Vibe WooCommerce Mega Carousel "
+
+# @ vibe
+#~ msgid "Vibe WooCommerce Mega Carousel"
+#~ msgstr "Vibe WooCommerce Mega Carousel"
+
+# @ vibe
+#~ msgid "Above selected WooCommerce Functions Titles (comma seperated)"
+#~ msgstr "Above selected WooCommerce Functions Titles (comma seperated)"
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login"
+#~ msgstr "Vibe BuddyPress Login"
+
+# @ vibe
+#~ msgid "Vibe BuddyPress Login Widget"
+#~ msgstr "Vibe BuddyPress Login Widget"
+
+# @ vibe
+#~ msgid "View profile"
+#~ msgstr "Bekijk profiel"
+
+# @ vibe
+#~ msgid "Log Out"
+#~ msgstr "Log Out"
+
+# @ vibe
+#~ msgid "LOGOUT"
+#~ msgstr "LOGOUT"
+
+# @ vibe
+#~ msgid "Access admin panel"
+#~ msgstr "Admin toegangspaneel"
+
+# @ vibe
+#~ msgid "Inbox"
+#~ msgstr "Inbox"
+
+# @ vibe
+#~ msgid "Notifications"
+#~ msgstr "Aankondigingen"
+
+# @ vibe
+#~ msgid "Groups"
+#~ msgstr "Groepen"
+
+# @ vibe
+#~ msgid "Forgot Password"
+#~ msgstr "Wachtwoord Vergeten"
+
+# @ vibe
+#~ msgid "Remember Me"
+#~ msgstr "Onthoud mij"
+
+# @ vibe
+#~ msgid "Log In"
+#~ msgstr "Log In"
+
+# @ vibe
+#~ msgid "Course Categories "
+#~ msgstr "Cursus categorieën"
+
+# @ vibe
+#~ msgid "View all Courses in %s"
+#~ msgstr "Bekijk alle cursussen in %s"
+
+# @ vibe
+#~ msgid "Order by"
+#~ msgstr "Bestellen via"
+
+# @ vibe
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+# @ vibe
+#~ msgid "Course Count"
+#~ msgstr "Totaal aantal cursussen"
+
+# @ vibe
+#~ msgid "Hierarchial"
+#~ msgstr "Hiërachisch"
+
+# @ vibe
+#~ msgid "Sort Order "
+#~ msgstr "Sorteervolgorde"
+
+# @ vibe
+#~ msgid "Ascending"
+#~ msgstr "Oplopend"
+
+# @ vibe
+#~ msgid "Descending"
+#~ msgstr "Aflopend"
+
+# @ vibe
+#~ msgid "Vibe Certificate Code validator"
+#~ msgstr "Vibe Certificate Code validator"
+
+# @ vibe
+#~ msgid "Enter Certificate Code"
+#~ msgstr "Voer Certificaatcode in"
+
+# @ vibe
+#~ msgid "Validate"
+#~ msgstr "Valideer"
+
+# @ vibe
+#~ msgid "Vibe Tabs"
+#~ msgstr "Vibe Tabs"
+
+# @ vibe
+#~ msgid "Recent Posts"
+#~ msgstr "Recente berichten"
+
+# @ vibe
+#~ msgid "thumbnail"
+#~ msgstr "Miniatuurafbeelding"
+
+# @ vibe
+#~ msgid "Theme:"
+#~ msgstr "Thema:"
+
+# @ vibe
+#~ msgid "Light"
+#~ msgstr "Helder"
+
+# @ vibe
+#~ msgid "Dark"
+#~ msgstr "Donker"
+
+# @ vibe
+#~ msgid "Show Tab"
+#~ msgstr "Toon tab"
+
+# @ vibe
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+# @ vibe
+#~ msgid "Content & Style"
+#~ msgstr "Inhoud & Stijl"
+
+# @ vibe
+#~ msgid "Thumbnail Posts"
+#~ msgstr "Miniatuurweergave berichten"
+
+# @ vibe
+#~ msgid "Number of items"
+#~ msgstr "Aantal artikelen"
+
+# @ vibe
+#~ msgid "Posts Carousel "
+#~ msgstr "Berichten Carousel"
+
+# @ vibe
+#~ msgid "Vibe Carousel"
+#~ msgstr "Vibe Carousel"
+
+# @ vibe
+#~ msgid "Theme"
+#~ msgstr "Thema"
+
+# @ vibe
+#~ msgid "Post Type"
+#~ msgstr "Berichtstijl"
+
+# @ vibe
+#~ msgid "Recent"
+#~ msgstr "Recent"
+
+# @ vibe
+#~ msgid "Popular"
+#~ msgstr "Populair"
+
+# @ vibe
+#~ msgid "Style"
+#~ msgstr "Stijl"
+
+# @ vibe
+#~ msgid "Excerpt length"
+#~ msgstr "Fragmentlengte"
+
+# @ vibe
+#~ msgid "Auto Start"
+#~ msgstr "Auto Start"
+
+# @ vibe
+#~ msgid "Loop back, after completion"
+#~ msgstr "Herbegin na voltooiing"
+
+# @ vibe
+#~ msgid "Number of Posts"
+#~ msgstr "Aantal berichten"
+
+# @ vibe
+#~ msgid "Posts Widget "
+#~ msgstr "Berichten Widget "
+
+# @ vibe
+#~ msgid "Vibe Posts"
+#~ msgstr "Vibe Berichten"
+
+# @ vibe
+#~ msgid " Title"
+#~ msgstr " Titel"
+
+# @ vibe
+#~ msgid "Sort"
+#~ msgstr "Sorteer"
+
+# @ vibe
+#~ msgid " Image Size"
+#~ msgstr " Beeldgrootte"
+
+# @ vibe
+#~ msgid "Big"
+#~ msgstr "Groot"
+
+# @ vibe
+#~ msgid "Small"
+#~ msgstr "Klein"
+
+# @ vibe
+#~ msgid "Image with Title"
+#~ msgstr "Beeld met titel"
+
+# @ vibe
+#~ msgid "Image Only"
+#~ msgstr "Enkel beeld"
+
+# @ vibe
+#~ msgid "Number of Characters in Excerpt [Post Style]"
+#~ msgstr "Aantal karakters in fragment [berichtstijl]"
+
+# @ vibe
+#~ msgid "Vibe Gallery"
+#~ msgstr "Vibe Gallery"
+
+# @ vibe
+#~ msgid "Size "
+#~ msgstr "Grootte "
+
+# @ vibe
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+# @ vibe
+#~ msgid " Small"
+#~ msgstr " Klein"
+
+# @ vibe
+#~ msgid "Mini"
+#~ msgstr "Mini"
+
+# @ vibe
+#~ msgid "Enter Attachment Ids "
+#~ msgstr "Voer attachement Ids in"
+
+# @ vibe
+#~ msgid "Vibe Testimonials "
+#~ msgstr "Vibe Testimonials "
+
+# @ vibe
+#~ msgid "Vibe Testimonials"
+#~ msgstr "Vibe Testimonials"
+
+# @ vibe
+#~ msgid "Testimonial Id "
+#~ msgstr "Testimonial Id "
+
+# @ vibe
+#~ msgid "Random"
+#~ msgstr "Willekeurig"
+
+# @ vibe
+#~ msgid "Length of excerpt:"
+#~ msgstr "Lengte van het fragment:"
+
+# @ vibe
+#~ msgid "Username or RSS:"
+#~ msgstr "Gebruikersnaam of RSS:"
+
+# @ vibe
+#~ msgid "Tags:"
+#~ msgstr "Tags:"
+
+# @ vibe
+#~ msgid "Count:"
+#~ msgstr "Som:"
+
+# @ vibe
+#~ msgid "Instagram AccessToken:"
+#~ msgstr "Instagram toegangstoken:"
+
+# @ vibe
+#~ msgid "Instagram Client ID:"
+#~ msgstr "Instagram klant ID:"
+
+# @ vibe
+#~ msgid ""
+#~ "Instagram Username (<small>If blank then Instagram popular images are "
+#~ "shown</small>):"
+#~ msgstr ""
+#~ "Instagram Gebruikersnaam (<small>Indien leeg dan worden populaire "
+#~ "Instagram beelden getoond</small>):"
+
+# @ vibe
+#~ msgid "Size:"
+#~ msgstr "Grootte:"
+
+# @ vibe
+#~ msgid "Select Twitter Style"
+#~ msgstr "Selecteer Twitter Stijl"
+
+# @ vibe
+#~ msgid "Link above Title with Twitter user"
+#~ msgstr "Link boven titel met Twitter gebruiker"
+
+# @ vibe
+#~ msgid "Consumer Key"
+#~ msgstr "Code consument"
+
+# @ vibe
+#~ msgid "Create your Twitter Application"
+#~ msgstr "Maak je Twitter-applicatie"
+
+# @ vibe
+#~ msgid "here"
+#~ msgstr "hier"
+
+# @ vibe
+#~ msgid "Consumer Secret"
+#~ msgstr "Klantgeheim"
+
+# @ vibe
+#~ msgid "Access Token"
+#~ msgstr "Toegangstoken"
+
+# @ vibe
+#~ msgid "Access Token Secret"
+#~ msgstr "Beveiligd toegangstoken"
+
+# @ vibe
+#~ msgid "Twitter Username"
+#~ msgstr "Twitter Gebruikersnaam"
+
+# @ vibe
+#~ msgid "Show # of Tweets"
+#~ msgstr "Toon # Tweets"
+
+# @ vibe
+#~ msgid "Show timestamps"
+#~ msgstr "Toon tijdstempel"
+
+# @ vibe
+#~ msgid "Find and show hyperlinks"
+#~ msgstr "Zoek en toon hyperlinks"
+
+# @ vibe
+#~ msgid "Find Replies in Tweets"
+#~ msgstr "Vind reacties in Tweets"
+
+# @ vibe
+#~ msgid "Create links on new window / tab"
+#~ msgstr "Maak links in een nieuw venster / tab"
+
+# @ vibe
+#~ msgid "Twitter username is not configured"
+#~ msgstr "Twitter gebruikersnaam is niet geconfigureerd"
+
+# @ vibe
+#~ msgid "Number of tweets is not valid"
+#~ msgstr "Aantal tweets is niet geldig"
+
+# @ vibe
+#~ msgid "Twitter Authentication data is incomplete"
+#~ msgstr "Twitter Authenticatie gegevens zijn onvolledig"
+
+# @ default
+#~ msgid "Fetching data from Twitter"
+#~ msgstr "Data ophalen van Twitter"
+
+# @ default
+#~ msgid "Erase cached data option enabled"
+#~ msgstr "Wis cached data optie ingeschakeld"
+
+# @ vibe
+#~ msgid "Error retrieving tweets"
+#~ msgstr "Fout bij het ophalen tweets"
+
+# @ vibe
+#~ msgid "Twitter data error:"
+#~ msgstr "Twitter gegevensfout:"
+
+# @ vibe
+#~ msgid "Error retrieving twitter rate limit"
+#~ msgstr "Fout bij het ophalen van twitterlimiet"
+
+# @ default
+#~ msgid "Requested items"
+#~ msgstr "Gevraagde items"
+
+# @ default
+#~ msgid "API calls left"
+#~ msgstr "API calls left"
+
+# @ default
+#~ msgid "Seconds until reset"
+#~ msgstr "Seconden tot reset"
+
+# @ default
+#~ msgid "Using cached Twitter data"
+#~ msgstr "Cached Twitter data gebruikt"
+
+# @ vibe
+#~ msgid "Twitter cache error:"
+#~ msgstr "Twitter cache fout:"
+
+# @ vibe
+#~ msgid "No public tweets"
+#~ msgstr "Geen openbare tweets"
+
+# @ vibe
+#~ msgid "Unable to get tweets"
+#~ msgstr "Niet in staat om tweets te krijgen"
+
+# @ vibe
+#~ msgid "%s ago"
+#~ msgstr "%s geleden"
+
+# @ vibe
+#~ msgid "M d"
+#~ msgstr "M d"
+
+# @ vibe
+#~ msgid "Y/m/d H:i"
+#~ msgstr "J/m/d H:i"
+
+# @ vibe
+#~ msgid "Last Tweets"
+#~ msgstr "Laatste tweets"
+
+# @ vibe
+#~ msgid "Sorry, no members were found."
+#~ msgstr "Sorry, geen leden gevonden."
+
+# @ vibe
+#~ msgid "Invalid Results"
+#~ msgstr "Ongeldige resultaten"
+
+# @ vibe
+#~ msgid "My Submission"
+#~ msgstr "Mijn inzending"
+
+# @ vibe
+#~ msgid "Download Attachment"
+#~ msgstr "Download bijlage"
+
+# @ vibe
+#~ msgid "See Instructor Remarks"
+#~ msgstr "Zie opmerkingen van de leraar"
+
+# @ vibe
+#~ msgid "Marks Obtained"
+#~ msgstr "Behaalde punten"
+
+# @ vibe
+#~ msgid "Marked Answer :"
+#~ msgstr "Aangeduid Antwoord :"
+
+# @ vibe
+#~ msgid "FALSE"
+#~ msgstr "FOUT"
+
+# @ vibe
+#~ msgid "TRUE"
+#~ msgstr "JUIST"
+
+# @ vibe
+#~ msgid "Correct Answer :"
+#~ msgstr "Juist Antwoord :"
+
+# @ vibe
+#~ msgid "Total Marks :"
+#~ msgstr "Totaal cijferresultaat :"
+
+# @ vibe
+#~ msgid "MARKS OBTAINED"
+#~ msgstr "BEHAALD CIJFERRESULTAAT"
+
+# @ vibe
+#~ msgid "Total Marks"
+#~ msgstr "Totaal cijferresultaat"
+
+# @ vibe
+#~ msgid "RETAKE QUIZ"
+#~ msgstr "HERHAAL TEST"
+
+# @ vibe
+#~ msgid " out of "
+#~ msgstr " op "
+
+# @ vibe
+#~ msgid "Previous Results for Quiz "
+#~ msgstr "Vorige resultaten voor test "
+
+# @ vibe
+#~ msgid "Results not Available"
+#~ msgstr "Resultaten niet beschikbaar"
+
+# @ vibe
+#~ msgid "Quiz Results"
+#~ msgstr "Testresultaten"
+
+# @ vibe
+#~ msgid "Results Available"
+#~ msgstr "Resultaten beschikbaar"
+
+# @ vibe
+#~ msgid "Results Awaited"
+#~ msgstr "Resultaten afwachten"
+
+# @ vibe
+#~ msgid "Submitted "
+#~ msgstr "Doorgestuurd "
+
+# @ vibe
+#~ msgid "Assignment Results"
+#~ msgstr "Opdracht resultaten"
+
+# @ vibe
+#~ msgid "AVERAGE PERCENTAGE : "
+#~ msgstr "GEMIDDELD PERCENTAGE : "
+
+# @ vibe
+#~ msgid "TAKING"
+#~ msgstr "DEELNEMEN"
+
+# @ vibe
+#~ msgid "Average Marks in"
+#~ msgstr "Gemiddeld Puntenaantal in"
+
+# @ vibe
+#~ msgid "My Marks"
+#~ msgstr "Mijn Punten"
+
+# @ vibe
+#~ msgid "Course Expired"
+#~ msgstr "Cursus is afgelopen"
+
+# @ vibe
+#~ msgid "You have no pending friendship requests."
+#~ msgstr "U hebt geen openstaande vriendschapsverzoeken."
+
+# @ vibe
+#~ msgid "1 member"
+#~ msgid_plural "%d members"
+#~ msgstr[0] "1 lid"
+#~ msgstr[1] "%d leden"
+
+# @ vibe
+#~ msgid "You have no outstanding group invites."
+#~ msgstr "U hebt geen openstaande groepsverzoeken."
+
+# @ vibe
+#~ msgid "Send To (Username or Friend's Name)"
+#~ msgstr "Verzenden naar (Gebruikersnaam of naam van een vriend)"
+
+# @ vibe
+#~ msgid "This is a notice to all users."
+#~ msgstr "Dit is een bericht voor alle gebruikers."
+
+# @ vibe
+#~ msgid "Subject"
+#~ msgstr "Onderwerp"
+
+# @ vibe
+#~ msgid "Message"
+#~ msgstr "Bericht"
+
+# @ vibe
+#~ msgid "Send Message"
+#~ msgstr "Versturen"
+
+# @ buddypress
+#~ msgid "Actions"
+#~ msgstr "Acties"
+
+# @ vibe
+#~ msgid "From:"
+#~ msgstr "Van:"
+
+# @ vibe
+#~ msgid "To:"
+#~ msgstr "Aan:"
+
+# @ buddypress
+#~ msgid "View Message"
+#~ msgstr "Bekijk Bericht"
+
+# @ buddypress
+#~ msgid "Delete Message"
+#~ msgstr "Verwijder Bericht"
+
+# @ vibe
+#~ msgid "Sorry, no messages were found."
+#~ msgstr "Sorry, geen berichten gevonden."
+
+# @ vibe
+#~ msgid "Sent:"
+#~ msgstr "Verzonden:"
+
+# @ vibe
+#~ msgid "Sorry, no notices were found."
+#~ msgstr "Sorry, geen meldingen gevonden."
+
+# @ vibe
+#~ msgid "You are alone in this conversation."
+#~ msgstr "U bent de enige persoon in dit gesprek."
+
+# @ vibe
+#~ msgid "Conversation between %s and you."
+#~ msgstr "Gesprek tussen %s en u."
+
+# @ vibe
+#~ msgid "Send a Reply"
+#~ msgstr "Verstuur een reactie"
+
+# @ vibe
+#~ msgid "Send Reply"
+#~ msgstr "Reactie versturen"
+
+# @ vibe
+#~ msgid "You have no unread notifications."
+#~ msgstr "U hebt geen ongelezen berichten."
+
+# @ vibe
+#~ msgid "This member has no unread notifications."
+#~ msgstr "Dit lid heeft geen ongelezen berichten."
+
+# @ vibe
+#~ msgid "You have no notifications."
+#~ msgstr "U hebt geen berichten."
+
+# @ vibe
+#~ msgid "This member has no notifications."
+#~ msgstr "Dit lid heeft geen berichten."
+
+# @ vibe
+#~ msgid "Notification"
+#~ msgstr "Bericht"
+
+# @ vibe
+#~ msgid "Date Received"
+#~ msgstr "Datum ontvangen"
+
+# @ vibe
+#~ msgid "Change Avatar"
+#~ msgstr "Avatar wijzigen"
+
+# @ vibe
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. If "
+#~ "there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with "
+#~ "your account email we will use that, or you can upload an image from your "
+#~ "computer."
+#~ msgstr ""
+#~ "Uw avatar zal worden gebruikt op uw profiel en op de hele site. IAls er "
+#~ "een <a href=\"http://gravatar.com\">Gravatar</a> verbonden is met uw e-"
+#~ "mail account zullen we deze gebruiken of u kan een foto opladen van op uw "
+#~ "computer."
+
+# @ vibe
+#~ msgid ""
+#~ "Click below to select a JPG, GIF or PNG format photo from your computer "
+#~ "and then click 'Upload Image' to proceed."
+#~ msgstr ""
+#~ "Klik hieronder om een JPG, GIF of PNG foto te selecteren van uw computer "
+#~ "en klik dan 'beeld opladen' om verder te gaan."
+
+# @ vibe
+#~ msgid ""
+#~ "If you'd like to delete your current avatar but not upload a new one, "
+#~ "please use the delete avatar button."
+#~ msgstr ""
+#~ "Indien u graag uw huidige avatar wil verwijderen, maar geen nieuwe avatar "
+#~ "wil uploaden, gebruik dan de verwijder avatarknop."
+
+# @ vibe
+#~ msgid "Delete My Avatar"
+#~ msgstr "Verwijder mijn Avatar"
+
+# @ vibe
+#~ msgid "Crop Your New Avatar"
+#~ msgstr "Snij uw Avatar bij"
+
+# @ vibe
+#~ msgid ""
+#~ "Your avatar will be used on your profile and throughout the site. To "
+#~ "change your avatar, please create an account with <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> using the same email address as you used to "
+#~ "register with this site."
+#~ msgstr ""
+#~ "Uw avatar zal worden gebruikt op uw profiel en op de hele site. Om uw "
+#~ "avatar aan te passen, maakt u een account aan met <a href=\"http://"
+#~ "gravatar.com\">Gravatar</a> met hetzelfde e-mailadres dat u gebruikt hebt "
+#~ "om te registreren op deze site."
+
+# @ buddypress
+#~ msgid "Editing '%s' Profile Group"
+#~ msgstr "Editeer '%s' Groepsprofiel"
+
+# @ vibe
+#~ msgid "Clear"
+#~ msgstr "Wis"
+
+# @ vibe
+#~ msgid ""
+#~ "This field can be seen by: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+#~ msgstr ""
+#~ "Dit veld is zichtbaar voor: <span class=\"current-visibility-level\">%s</"
+#~ "span>"
+
+# @ vibe
+#~ msgid "Change"
+#~ msgstr "Aanpassen"
+
+# @ vibe
+#~ msgid "%s's Profile"
+#~ msgstr "%s's Profiel"
+
+# @ vibe
+#~ msgid "About Me"
+#~ msgstr "Over mezelf"
+
+# @ vibe
+#~ msgid "Jabber"
+#~ msgstr "Jabber"
+
+# @ vibe
+#~ msgid "AOL Messenger"
+#~ msgstr "AOL Messenger"
+
+# @ vibe
+#~ msgid "Yahoo Messenger"
+#~ msgstr "Yahoo Messenger"
+
+# @ vibe
+#~ msgid "Capabilities"
+#~ msgstr "Mogelijkheden"
+
+# @ vibe
+#~ msgid "This user is a spammer."
+#~ msgstr "Deze gebruiker is een spammer."
+
+# @ vibe
+#~ msgid "Save"
+#~ msgstr "Bewaar"
+
+# @ vibe
+#~ msgid "Delete Account"
+#~ msgstr "Account verwijderen"
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting your account will delete all of the content you have created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Bij het verwijderen van uw account worden alle gegevens verwijderd. Deze "
+#~ "bewerking kan niet ongedaan gemaakt worden."
+
+# @ vibe
+#~ msgid ""
+#~ "Deleting this account will delete all of the content it has created. It "
+#~ "will be completely irrecoverable."
+#~ msgstr ""
+#~ "Bij het verwijderen van dit account worden alle gegevens verwijderd. Deze "
+#~ "bewerking kan niet ongedaan gemaakt worden."
+
+# @ vibe
+#~ msgid "I understand the consequences."
+#~ msgstr "Ik begrijp de gevolgen."
+
+# @ vibe
+#~ msgid "General Settings"
+#~ msgstr "Algemene instellingen"
+
+# @ vibe
+#~ msgid ""
+#~ "Current Password <span>(required to update email or change current "
+#~ "password)</span>"
+#~ msgstr ""
+#~ "Huidig wachtwoord <span>(vereist om e-mail bij te werken of wachtwoord te "
+#~ "wijzigen)</span>"
+
+# @ vibe
+#~ msgid "Password Lost and Found"
+#~ msgstr "Wachtwoord verloren en gevonden"
+
+# @ vibe
+#~ msgid "Lost your password?"
+#~ msgstr "Wachtwoord verloren?"
+
+# @ vibe
+#~ msgid "Account Email"
+#~ msgstr "E-mail Account"
+
+# @ vibe
+#~ msgid "Change Password <span>(leave blank for no change)</span>"
+#~ msgstr ""
+#~ "Wachtwoord wijzigen <span>(leeg laten als u geen verandering wenst)</span>"
+
+# @ vibe
+#~ msgid "New Password"
+#~ msgstr "Nieuw wachtwoord"
+
+# @ vibe
+#~ msgid "Repeat New Password"
+#~ msgstr "Herhaal nieuw wachtwoord"
+
+# @ vibe
+#~ msgid "Email Notification"
+#~ msgstr "E-mail Notificatie"
+
+# @ vibe
+#~ msgid "Send an email notice when:"
+#~ msgstr "Stuur een e-mail wanneer:"
+
+# @ buddypress
+#~ msgid "Visibility"
+#~ msgstr "Zichtbaarheid"
+
+# @ vibe
+#~ msgid "Options"
+#~ msgstr "Instellingen"
+
+# @ vibe
+#~ msgid "Options Panel created using"
+#~ msgstr "Instellingenbord gemaakt met behulp van"
+
+# @ vibe
+#~ msgid "Import / Export"
+#~ msgstr "Importeer / Exporteer"
+
+# @ vibe
+#~ msgid "Dev Mode Info"
+#~ msgstr "Dev Mode Info"
+
+# @ vibe
+#~ msgid "Are you sure? Resetting will loose all custom values."
+#~ msgstr "Bent u zeker? Aangepaste instellingen zullen verwijderd worden."
+
+# @ vibe
+#~ msgid "<strong>Settings Imported!</strong>"
+#~ msgstr "<strong>Geïmporteerde instellingen!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings Saved!</strong>"
+#~ msgstr "<strong>Instellingen bewaard!!</strong>"
+
+# @ vibe
+#~ msgid "<strong>Settings have changed!, you should save them!</strong>"
+#~ msgstr ""
+#~ "<strong>De instellingen zijn gewijzigd, gelieve deze te bewaren!</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> error(s) were found!</strong>"
+#~ msgstr "<strong><span></span> fout(en) gevonden!</strong>"
+
+# @ vibe
+#~ msgid "<strong><span></span> warning(s) were found!</strong>"
+#~ msgstr "<strong><span></span> waarschuwing(en) gevonden!</strong>"
+
+# @ vibe
+#~ msgid "Import / Export Options"
+#~ msgstr "Importeer / Exporteer Opties"
+
+# @ vibe
+#~ msgid "Import Options"
+#~ msgstr "Importeer Opties"
+
+# @ vibe
+#~ msgid ""
+#~ "Input your backup file below and hit Import to restore your sites options "
+#~ "from a backup."
+#~ msgstr ""
+#~ "Voeg uw backup file hieronder in en druk op Importeer om de instellingen "
+#~ "van uw site te herstellen"
+
+# @ vibe
+#~ msgid ""
+#~ "Input the URL to another sites options set and hit Import to load the "
+#~ "options from that site."
+#~ msgstr ""
+#~ "Importeer de URL naar een andere siteinstellingenset en druk op Importeer "
+#~ "om de instellingen van deze site te laden."
+
+# @ vibe
+#~ msgid "Import"
+#~ msgstr "Importeer"
+
+# @ vibe
+#~ msgid ""
+#~ "WARNING! This will overwrite any existing options, please proceed with "
+#~ "caution!"
+#~ msgstr ""
+#~ "WAARSCHUWING! Alle bestaande instellingen zullen overschreven worden, "
+#~ "wees voorzichtig!"
+
+# @ vibe
+#~ msgid "Export Options"
+#~ msgstr "Exporteer opties"
+
+# @ vibe
+#~ msgid ""
+#~ "Here you can copy/download your themes current option settings. Keep this "
+#~ "safe as you can use it as a backup should anything go wrong. Or you can "
+#~ "use it to restore your settings on this site (or any other site). You "
+#~ "also have the handy option to copy the link to yours sites settings. "
+#~ "Which you can then use to duplicate on another site"
+#~ msgstr ""
+#~ "Hier kan u uw huidige instellingen kopiëren/downloaden. Bewaar deze "
+#~ "gegevens op een veilige plaats, u kan ze gebruiken als back-up. Of u kan "
+#~ "ze gebruiken om uw instellingen op deze site te herstellen (of een andere "
+#~ "site). U heeft tevens de handige optie om de link te kopiëren naar uw "
+#~ "instellingen. Deze kan u vervolgens gebruiken om deze te dupliceren op "
+#~ "een andere site."
+
+# @ vibe
+#~ msgid "Reset to Defaults"
+#~ msgstr "Herstel standaardinstellingen"
+
+# @ vibe
+#~ msgid " To:"
+#~ msgstr " Aan:"
+
+# @ vibe
+#~ msgid "Add New List Field"
+#~ msgstr "Voeg nieuw veld toe"
+
+# @ vibe
+#~ msgid "Add More"
+#~ msgstr "Meer toevoegen"
+
+# @ vibe
+#~ msgid "Add New Listing Taxonomy"
+#~ msgstr "Nieuwe taxonomielijst toevoegen"
+
+# @ vibe
+#~ msgid "Upload Font"
+#~ msgstr "Lettertype opladen"
+
+# @ vibe
+#~ msgid "Font Preview"
+#~ msgstr "Voorvertoning lettertypes"
+
+# @ vibe
+#~ msgid "Browse"
+#~ msgstr "Bladeren"
+
+# @ vibe
+#~ msgid "Remove Upload"
+#~ msgstr "Verwijder upload"
+
+# @ vibe
+#~ msgid "Add Custom Posts"
+#~ msgstr "Voeg aangepaste berichten toe"
+
+# @ vibe
+#~ msgid "Enter Full URL of the page"
+#~ msgstr "Geef de volledige URL van de pagina in"
+
+# @ vibe
+#~ msgid "Add Social Icons"
+#~ msgstr "Voeg Social Pictogrammen toe"
+
+# @ vibe
+#~ msgid " Plugin is Inactive"
+#~ msgstr " Plugin is Inactief"
+
+# @ vibe
+#~ msgid "This field must be a valid color value."
+#~ msgstr "Gelieve in dit veld een geldige kleurwaarde in te geven"
+
+# @ vibe
+#~ msgid ""
+#~ "You must provide a comma seperated list of numerical values for this "
+#~ "option."
+#~ msgstr "Gelieve een komma gescheiden numerieke lijst in te geven"
+
+# @ vibe
+#~ msgid "This field must be a valid date."
+#~ msgstr "Gelieve een geldige datum in te geven"
+
+# @ vibe
+#~ msgid "You must provide a valid email for this option."
+#~ msgstr "Gelieve een geldig e-mailadres in te geven."
+
+# @ vibe
+#~ msgid "You must provide a valid API key for this option."
+#~ msgstr "Gelieve een geldige API code in te geven."
+
+# @ vibe
+#~ msgid "Unable to upload font."
+#~ msgstr "Kan het lettertype niet opladen"
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any HTML in this field, all HTML tags have been "
+#~ "removed."
+#~ msgstr ""
+#~ "U mag geen HTML ingeven in dit veld, alle HTML tags zijn verwijderd."
+
+# @ vibe
+#~ msgid ""
+#~ "You must not enter any special characters in this field, all special "
+#~ "characters have been removed."
+#~ msgstr ""
+#~ "U mag geen speciale tekens ingeven in dit veld, alle speciale tekens zijn "
+#~ "verwijderd."
+
+# @ vibe
+#~ msgid "You must provide a numerical value for this option."
+#~ msgstr "Gelieve een numeriek getal in te geven."
+
+# @ vibe
+#~ msgid "Please enter your Envato Marketplace Username."
+#~ msgstr "Gelieve uw Envato Marketplace Gebruikersnaam in te geven."
+
+# @ vibe
+#~ msgid "Please enter your Envato Marketplace API Key."
+#~ msgstr "Gelieve de Envato Marketplace API Code in te geven"
+
+# @ vibe
+#~ msgid "The API \"set\" is a required parameter."
+#~ msgstr "De API \"set\" is een verplichte parameter."
+
+# @ vibe
+#~ msgid "The Envato Marketplace \"item ID\" is a required parameter."
+#~ msgstr "De Envato Marketplace \"item ID\" is vereist"
+
+# @ vibe
+#~ msgid "You must provide a valid URL for this option."
+#~ msgstr "U moet een geldige URL toevoegen voor deze optie."
+
+# @ pmpro
+#~ msgid "Your membership is <strong>active</strong>."
+#~ msgstr "Uw lidmaatschap is <strong>actief</strong>."
+
+# @ pmpro
+#~ msgid "Membership Fee"
+#~ msgstr "Lidmaatschap Gratis"
+
+# @ pmpro
+#~ msgctxt ""
+#~ "Recurring payment in cost text generation. E.g., $5 every 2 months."
+#~ msgid "%s every %d %s."
+#~ msgstr "%s iedere %d %s."
+
+# @ pmpro
+#~ msgctxt "Recurring payment in cost text generation. E.g. $5 every month."
+#~ msgid "%s per %s."
+#~ msgstr "%s per %s."
+
+# @ pmpro
+#~ msgid "Duration"
+#~ msgstr "Duur"
+
+# @ pmpro
+#~ msgid "Membership Expires"
+#~ msgstr "Lidmaatschap is verlopen"
+
+# @ pmpro
+#~ msgid "Your first payment will cost %s."
+#~ msgstr "Uw eerste betaling zal %s bedragen"
+
+# @ pmpro
+#~ msgid "Your first %d payments will cost %s."
+#~ msgstr "Uw eerste %d betaling zal %s bedragen."
+
+# @ pmpro
+#~ msgid "Billing Information"
+#~ msgstr "Facturatiegegevens"
+
+# @ pmpro
+#~ msgid "Payment Method"
+#~ msgstr "Betalingswijze"
+
+# @ pmpro
+#~ msgid "Edit Billing Information"
+#~ msgstr "Editeer facturatiegegevens"
+
+# @ pmpro
+#~ msgid "Past Invoices"
+#~ msgstr "Vorige facturen"
+
+# @ pmpro
+#~ msgid "View All Invoices"
+#~ msgstr "ZIe alle facturen"
+
+# @ pmpro
+#~ msgid "Member Links"
+#~ msgstr "Ledenlinks"
+
+# @ pmpro
+#~ msgid "Update Billing Information"
+#~ msgstr "Update facturatiegegevens"
+
+# @ pmpro
+#~ msgid "Change Membership Level"
+#~ msgstr "Verander Lidmaatschapniveau"
+
+# @ pmpro
+#~ msgid "Cancel Membership"
+#~ msgstr "Verwijder lidmaatschap"
+
+# @ pmpro
+#~ msgid "Logged in as <strong>%s</strong>."
+#~ msgstr "Ingelogd als <strong>%s</strong>."
+
+# @ pmpro
+#~ msgid "logout"
+#~ msgstr "Log out"
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment subscription is managed by PayPal. Please <a href=\"http://"
+#~ "www.paypal.com\">login to PayPal here</a> to update your billing "
+#~ "information."
+#~ msgstr ""
+#~ "Uw betaling wordt beheerd door PayPal. Gelieve <a href=\"http://www."
+#~ "paypal.com\">hier in te loggen bij PayPal</a> om uw facturatiegegevens "
+#~ "bij te werken."
+
+# @ pmpro
+#~ msgid "First Name"
+#~ msgstr "Voornaam"
+
+# @ pmpro
+#~ msgid "Last Name"
+#~ msgstr "Familienaam"
+
+# @ pmpro
+#~ msgid "Address 1"
+#~ msgstr "Adres 1"
+
+# @ pmpro
+#~ msgid "Address 2"
+#~ msgstr "Adres 2"
+
+# @ pmpro
+#~ msgid "optional"
+#~ msgstr "Optioneel"
+
+# @ pmpro
+#~ msgid "City"
+#~ msgstr "Stad"
+
+# @ pmpro
+#~ msgid "State"
+#~ msgstr "Staat"
+
+# @ pmpro
+#~ msgid "Postal Code"
+#~ msgstr "Postcode"
+
+# @ pmpro
+#~ msgid "City, State Zip"
+#~ msgstr "Stad"
+
+# @ pmpro
+#~ msgid "Country"
+#~ msgstr "Land"
+
+# @ pmpro
+#~ msgid "Phone"
+#~ msgstr "Telefoon"
+
+# @ pmpro
+#~ msgid "E-mail Address"
+#~ msgstr "E-mailadres"
+
+# @ pmpro
+#~ msgid "Confirm E-mail"
+#~ msgstr "Bevestigingse-mail"
+
+# @ pmpro
+#~ msgid "We accept %s"
+#~ msgstr "We accepteren %s"
+
+# @ pmpro
+#~ msgid "Credit Card Information"
+#~ msgstr "Kredietkaart informatie"
+
+# @ pmpro
+#~ msgid "Card Type"
+#~ msgstr "Kaarttype"
+
+# @ pmpro
+#~ msgid "Card Number"
+#~ msgstr "Kaartnummer"
+
+# @ pmpro
+#~ msgid "Expiration Date"
+#~ msgstr "Vervaldatum"
+
+# @ pmpro
+#~ msgctxt "Credit card security code, CVV/CCV/CVV2"
+#~ msgid "CVV"
+#~ msgstr "CCV"
+
+# @ pmpro
+#~ msgctxt "link to CVV help"
+#~ msgid "what's this?"
+#~ msgstr "Wat is dit?"
+
+# @ pmpro
+#~ msgid "Update"
+#~ msgstr "Update"
+
+# @ pmpro
+#~ msgid ""
+#~ "This subscription is not recurring. So you don't need to update your "
+#~ "billing information."
+#~ msgstr ""
+#~ "De inschrijving is geen abonnement. U hoeft uw facturatiegegevens niet "
+#~ "bij te werken."
+
+# @ pmpro
+#~ msgid "Are you sure you want to cancel your membership?"
+#~ msgstr "Ben je zeker dat je het lidmaatschap wil verwijderen?"
+
+# @ pmpro
+#~ msgid "Yes, cancel my account"
+#~ msgstr "Ja, verwijder mijn account"
+
+# @ pmpro
+#~ msgid "No, keep my account"
+#~ msgstr "Nee, hou mijn account"
+
+# @ pmpro
+#~ msgid "Click here to go to the home page."
+#~ msgstr "Klik hier om naar de home pagina te gaan."
+
+# @ pmpro
+#~ msgid ""
+#~ "Almost done. Review the membership information and pricing below then "
+#~ "<strong>click the \"Complete Payment\" button</strong> to finish your "
+#~ "order."
+#~ msgstr ""
+#~ "Bijna klaar. Bekijk de lidmaatschapinfo en de prijs en klik de "
+#~ "\"Vervolledig Betaling\" knop</strong> om uw order af te ronden."
+
+# @ pmpro
+#~ msgctxt "change membership level link"
+#~ msgid "change"
+#~ msgstr "Aanpassen"
+
+# @ pmpro
+#~ msgid "Membership Level"
+#~ msgstr "Lidmaatschapniveau"
+
+# @ pmpro
+#~ msgid "You have selected the <strong>%s</strong> membership level."
+#~ msgstr "U heeft het <strong>%s</strong> lidmaatschap niveau."
+
+# @ pmpro
+#~ msgid ""
+#~ "<p class=\"pmpro_level_discount_applied\">The <strong>%s</strong> code "
+#~ "has been applied to your order.</p>"
+#~ msgstr ""
+#~ "<p class=\"pmpro_level_discount_applied\">De <strong>%s</strong> code is "
+#~ "toegepast op uw order.</p>"
+
+# @ pmpro
+#~ msgid "Click here to change your discount code"
+#~ msgstr "Klik hier om uw kortingscode te wijzigen"
+
+# @ pmpro
+#~ msgid "Do you have a discount code?"
+#~ msgstr "Heeft u een kortingscode?"
+
+# @ pmpro
+#~ msgid "Click here to enter your discount code"
+#~ msgstr "Klik hier om uw kortingscode in te voeren"
+
+# @ pmpro
+#~ msgid "Discount Code"
+#~ msgstr "Kortingscode"
+
+# @ pmpro
+#~ msgid "Apply"
+#~ msgstr "Toepassen"
+
+# @ pmpro
+#~ msgid "Already have an account?"
+#~ msgstr "Heeft u al een account?"
+
+# @ pmpro
+#~ msgid "Log in here"
+#~ msgstr "Inloggen"
+
+# @ pmpro
+#~ msgid "Account Information"
+#~ msgstr "Account Informatie"
+
+# @ pmpro
+#~ msgid "Confirm E-mail Address"
+#~ msgstr "Bevestig E-mailadres"
+
+# @ pmpro
+#~ msgid "Full Name"
+#~ msgstr "Naam"
+
+# @ pmpro
+#~ msgid "LEAVE THIS BLANK"
+#~ msgstr "LAAT DEZE RUIMTE LEEG"
+
+# @ pmpro
+#~ msgid ""
+#~ "You are logged in as <strong>%s</strong>. If you would like to use a "
+#~ "different account for this membership, <a href=\"%s\">log out now</a>."
+#~ msgstr ""
+#~ "Je bent ingelogd als <strong>%s</strong>. Als u een ander account wenst "
+#~ "te gebruiken voor dit lidmaatschap, <a href=\"%s\">log dan nu uit</a>."
+
+# @ pmpro
+#~ msgid "Choose your Payment Method"
+#~ msgstr "Kies uw Betaalmethode"
+
+# @ pmpro
+#~ msgid "Check Out with a Credit Card Here"
+#~ msgstr "Betalen met een Credit Card Hier"
+
+# @ pmpro
+#~ msgid "Check Out with PayPal"
+#~ msgstr "Betalen met PayPal"
+
+# @ pmpro
+#~ msgid "We Accept %s"
+#~ msgstr "We Accepteren %s"
+
+# @ pmpro
+#~ msgid "Payment Information"
+#~ msgstr "Informatie ivm de betaling"
+
+# @ pmpro
+#~ msgid "I agree to the %s"
+#~ msgstr "Ik ga akkoord met de % s"
+
+# @ pmpro
+#~ msgid "Complete Payment"
+#~ msgstr "Vervolledig Betaling"
+
+# @ pmpro
+#~ msgid "Submit and Pay with 2CheckOut"
+#~ msgstr "Verzenden en Betalen met 2CheckOut"
+
+# @ pmpro
+#~ msgid "Submit and Check Out"
+#~ msgstr "Verzenden en uitchecken"
+
+# @ pmpro
+#~ msgid "Submit and Confirm"
+#~ msgstr "Verzenden en bevestigen"
+
+# @ pmpro
+#~ msgid "Processing..."
+#~ msgstr "Verwerking..."
+
+# @ pmpro
+#~ msgid ""
+#~ "Your payment has been submitted. Your membership will be activated "
+#~ "shortly."
+#~ msgstr ""
+#~ "Uw betaling is verzonden. Uw lidmaatschap zal binnenkort worden "
+#~ "geactiveerd."
+
+# @ pmpro
+#~ msgid ""
+#~ "Thank you for your membership to %s. Your %s membership is now active."
+#~ msgstr ""
+#~ "Dank u voor uw lidmaatschap naar % s. Uw %s lidmaatschap is nu actief."
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account and a receipt for your "
+#~ "initial membership invoice. A welcome email with a copy of your initial "
+#~ "membership invoice has been sent to %s."
+#~ msgstr ""
+#~ "Hieronder vindt u informatie over uw lidmaatschap en een ontvangstbewijs "
+#~ "voor uw eerste factuur. Een welkom e-mail met een kopie van uw eerste "
+#~ "factuur is verzonden aan %s."
+
+# @ pmpro
+#~ msgctxt "Invoice # header. E.g. Invoice #ABCDEF on 2013-01-01."
+#~ msgid "Invoice #%s on %s"
+#~ msgstr "Factuur #%s op %s"
+
+# @ pmpro
+#~ msgid "Print"
+#~ msgstr "Afdrukken"
+
+# @ pmpro
+#~ msgid "Account"
+#~ msgstr "Account"
+
+# @ pmpro
+#~ msgid "Total Billed"
+#~ msgstr "Totaalbedrag"
+
+# @ pmpro
+#~ msgctxt "credit card type {ending in} xxxx"
+#~ msgid "ending in"
+#~ msgstr "eindigend op"
+
+# @ pmpro
+#~ msgid "Expiration"
+#~ msgstr "Beëindiging"
+
+# @ pmpro
+#~ msgid ""
+#~ "Below are details about your membership account. A welcome email with has "
+#~ "been sent to %s."
+#~ msgstr ""
+#~ "Hierbij de details van uw lidmaatschap. Een welkomste-mail is verzonden "
+#~ "naar %s."
+
+# @ pmpro
+#~ msgctxt "User without membership is in {pending} status."
+#~ msgid "Pending"
+#~ msgstr "Uw gegevens worden verwerkt"
+
+# @ pmpro
+#~ msgid "View Your Membership Account &rarr;"
+#~ msgstr "Bekijk uw Lidmaatschap Account &rarr;"
+
+# @ pmpro
+#~ msgid ""
+#~ "If your account is not activated within a few minutes, please contact the "
+#~ "site owner."
+#~ msgstr ""
+#~ "Als uw account niet geactiveerd is binnen een paar minuten, contacteer "
+#~ "Admin."
+
+# @ pmpro
+#~ msgid "Subtotal"
+#~ msgstr "Subtotaal"
+
+# @ pmpro
+#~ msgid "Tax"
+#~ msgstr "BTW"
+
+# @ pmpro
+#~ msgid "Coupon"
+#~ msgstr "Korting"
+
+# @ pmpro
+#~ msgid "Date"
+#~ msgstr "Datum"
+
+# @ pmpro
+#~ msgid "Invoice #"
+#~ msgstr "Factuur #"
+
+# @ pmpro
+#~ msgid "View Invoice"
+#~ msgstr "Bekijk Factuur"
+
+# @ pmpro
+#~ msgid "No invoices found."
+#~ msgstr "Geen facturen gevonden."
+
+# @ pmpro
+#~ msgid "&larr; View All Invoices"
+#~ msgstr "&larr; Bekijk alle Facturen"
+
+# @ pmpro
+#~ msgid "Price"
+#~ msgstr "Prijs"
+
+# @ pmpro
+#~ msgctxt "Choose a level from levels page"
+#~ msgid "Select"
+#~ msgstr "Kies"
+
+# @ pmpro
+#~ msgctxt "Clicking to renew from levels page"
+#~ msgid "Renew"
+#~ msgstr "Vernieuw"
+
+# @ pmpro
+#~ msgid "Your&nbsp;Level"
+#~ msgstr "Uw&nbsp;Niveau"
+
+# @ pmpro
+#~ msgid "&larr; Return to Your Account"
+#~ msgstr "&larr; Terug naar uw Account"
+
+# @ pmpro
+#~ msgid "&larr; Return to Home"
+#~ msgstr "&larr; Terug naar Home"
+
+# @ vibe
+#~ msgid "Change profile field visibility level"
+#~ msgstr "Wijzig profielveld zichtbaarheidsniveau"
+
+# @ vibe
+#~ msgid "Complete Sign Up"
+#~ msgstr "Vervolledig uw aanmelding"
+
+# @ vibe
+#~ msgid "Check Your Email To Activate Your Account!"
+#~ msgstr "Controleer uw e-mail om uw account te activeren!"
+
+# @ vibe
+#~ msgid "Import Complete !"
+#~ msgstr "Import is volledig!"
+
+# @ vibe
+#~ msgid "Unable to locate Sample Data file."
+#~ msgstr "Het bestand met de voorbeelden kan niet teruggevonden worden."
+
+# @ vibe
+#~ msgid ""
+#~ "Couldn't install the test demo data as we were unable to use the "
+#~ "WP_Import class."
+#~ msgstr ""
+#~ "De test demo gegevens zijn niet geïnstalleerd omdat de WP_Import "
+#~ "categorie niet gebruikt kon worden."

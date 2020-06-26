@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>cars M.S.T.E Moussaouate</title>
+ <!-- <script src="script1.js" ></script>-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="ADMINBORD.css">
+
+
+
+
+      
+</head>
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-heder">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-main">
+            <span class="sr-only"> toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- replace the default logo by the new logo in the next <a> tag -->
+          <a class="navbar-brand" href="#"><img src="img/w3newbie.png"></a>
+        </div>
+        <div class= "collapse navbar-collapse" id="navbar-collapse-main">
+          <ul class="nav navbar-nav navbar-right">
+            <li> <a href="index.html" >Home </a></li> 
+            <li> <a href="cars.html" >cars and reservation </a></li> 
+            <li> <a href="contact.html" >Contact </a></li> 
+            
+            <li> <a class="active" href="loginpage.html" >login </a></li>
+    
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div id="homme">
+    <div id="sidebar">
+        <div class="toggle-btn" onclick="document.getElementById('sidebar').classList.toggle('active');">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <ul>
+            <li onclick="document.getElementById('archive-res').style.display='none'; document.getElementById('user-account').style.display='none'; document.getElementById('current-res').style.display='block';">reservations en cours</li>
+            <li onclick="document.getElementById('archive-res').style.display='block'; document.getElementById('user-account').style.display='none'; document.getElementById('current-res').style.display='none';">archive des  reservations</li>
+            <li onclick="document.getElementById('current-res').style.display='none'; document.getElementById('user-account').style.display='block'; document.getElementById('archive-res').style.display='none';">utilisateurs</li>
+           
+
+        </ul>
+
+    </div>
+    <div id="current-res"> 
+    <h1>reservations en cours</h1>
+    <div class="res-tab">
+    <table>
+        <tbody>
+            <tr>
+                <th>first name</th>
+                <th>Last name</th>
+                <th>Email</th>
+                <th>Mobile Phone</th>
+                <th>Car name</th>
+                <th>Start date</th>
+                <th>return date</th>
+                <th>car Photo</th>
+                <th>confermation</th>
+            </tr>
+            <tr>
+                <td>ilyass</td>
+                <td>jabbari</td>
+                <td>yasseelle8@gmail.com</td>
+                <td>066666666</td>
+                <td>ford</td>
+                <td>12-12-2019</td>
+                <td>02-01-2020</td>
+                <td>img</td>
+                <td><input class='myclass' type='button' value='Confirm'/></td>
+            </tr>
+            <tr>
+                    <td>ilyass</td>
+                    <td>jabbari</td>
+                    <td>yasseelle8@gmail.com</td>
+                    <td>066666666</td>
+                    <td>ford</td>
+                    <td>12-12-2019</td>
+                    <td>02-01-2020</td>
+                    <td>img</td>
+                    <td><input class='myclass' type='button' value='Confirm'/></td>
+                </tr>
+                <tr>
+                        <td>ilyass</td>
+                        <td>jabbari</td>
+                        <td>yasseelle8@gmail.com</td>
+                        <td>066666666</td>
+                        <td>ford</td>
+                        <td>12-12-2019</td>
+                        <td>02-01-2020</td>
+                        <td>img</td>
+                        <td><input class='myclass' type='button' value='Confirm'/></td>
+                    </tr>
+                    <tr>
+                            <td>ilyass</td>
+                            <td>jabbari</td>
+                            <td>yasseelle8@gmail.com</td>
+                            <td>066666666</td>
+                            <td>ford</td>
+                            <td>12-12-2019</td>
+                            <td>02-01-2020</td>
+                            <td>img</td>
+                            <td><input class='myclass' type='button' value='Confirm'/></td>
+                        </tr>
+                        <tr>
+                                <td>ilyass</td>
+                                <td>jabbari</td>
+                                <td>yasseelle8@gmail.com</td>
+                                <td>066666666</td>
+                                <td>ford</td>
+                                <td>12-12-2019</td>
+                                <td>02-01-2020</td>
+                                <td>img</td>
+                                <td><input class='myclass' type='button' value='Confirm'/></td>
+                            </tr>
+        </tbody>
+    </table>
+</div>
+</div>
+<!-- table arechive -->
+<div id="archive-res" hidden>
+<h1>archive reservations</h1>
+    <div class="res-tab">
+    <table>
+        <tbody>
+            <tr>
+                <th>first name</th>
+                <th>Last name</th>
+                <th>Email</th>
+                <th>Mobile Phone</th>
+                <th>Car name</th>
+                <th>Start date</th>
+                <th>return date</th>
+                <th>car Photo</th>
+            
+            </tr>
+            <tr>
+                <td>ilyass</td>
+                <td>jabbari</td>
+                <td>yasseelle8@gmail.com</td>
+                <td>066666666</td>
+                <td>ford</td>
+                <td>12-12-2019</td>
+                <td>02-01-2020</td>
+                <td>img</td>
+             
+            </tr>
+            <tr>
+                    <td>ilyass</td>
+                    <td>jabbari</td>
+                    <td>yasseelle8@gmail.com</td>
+                    <td>066666666</td>
+                    <td>ford</td>
+                    <td>12-12-2019</td>
+                    <td>02-01-2020</td>
+                    <td>img</td>
+                    
+                </tr>
+                <tr>
+                        <td>ilyass</td>
+                        <td>jabbari</td>
+                        <td>yasseelle8@gmail.com</td>
+                        <td>066666666</td>
+                        <td>ford</td>
+                        <td>12-12-2019</td>
+                        <td>02-01-2020</td>
+                        <td>img</td>
+                       
+                    </tr>
+                    <tr>
+                            <td>ilyass</td>
+                            <td>jabbari</td>
+                            <td>yasseelle8@gmail.com</td>
+                            <td>066666666</td>
+                            <td>ford</td>
+                            <td>12-12-2019</td>
+                            <td>02-01-2020</td>
+                            <td>img</td>
+                         
+                        </tr>
+                        <tr>
+                                <td>ilyass</td>
+                                <td>jabbari</td>
+                                <td>yasseelle8@gmail.com</td>
+                                <td>066666666</td>
+                                <td>ford</td>
+                                <td>12-12-2019</td>
+                                <td>02-01-2020</td>
+                                <td>img</td>
+                              
+                            </tr>
+        </tbody>
+    </table>
+</div>
+</div>
+<!-- table utiisateures -->
+<div id="user-account" hidden>
+<h1>users</h1>
+    <div class="res-tab">
+    <table>
+        <tbody>
+            <tr>
+                <th>first name</th>
+                <th>Last name</th>
+                <th>Email</th>
+                <th>Mobile Phone</th>
+                <th>cin</th>
+                <th>id</th>
+                <th>Role</th>
+                <th>action</th>
+               
+            </tr>
+            <tr>
+                    <td><input class='myclass' type='text' value='ilyass' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='jabbari' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='yasseelle8@gmail.com' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='066666666'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='ford'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='12-12-2019'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='02-01-2020'style="background: #000000"/></td>
+                
+                <td><input class='myclass' type='button' value='modifier'/> <input class='myclass' type='button' value='supprimer'/> </td>
+            </tr>
+            <tr>
+                    <td><input class='myclass' type='text' value='ilyass' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='jabbari' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='yasseelle8@gmail.com' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='066666666'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='ford'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='12-12-2019'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='02-01-2020'style="background: #000000"/></td>
+                
+                <td><input class='myclass' type='button' value='modifier'/> <input class='myclass' type='button' value='supprimer'/> </td>
+            </tr>
+            <tr>
+                    <td><input class='myclass' type='text' value='ilyass' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='jabbari' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='yasseelle8@gmail.com' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='066666666'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='ford'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='12-12-2019'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='02-01-2020'style="background: #000000"/></td>
+                
+                <td><input class='myclass' type='button' value='modifier'/> <input class='myclass' type='button' value='supprimer'/> </td>
+            </tr>
+            <tr>
+                    <td><input class='myclass' type='text' value='ilyass' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='jabbari' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='yasseelle8@gmail.com' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='066666666'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='ford'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='12-12-2019'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='02-01-2020'style="background: #000000"/></td>
+                
+                <td><input class='myclass' type='button' value='modifier'/> <input class='myclass' type='button' value='supprimer'/> </td>
+            </tr>
+            <tr>
+                    <td><input class='myclass' type='text' value='ilyass' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='jabbari' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='yasseelle8@gmail.com' style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='066666666'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='ford'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='12-12-2019'style="background: #000000"/></td>
+                    <td><input class='myclass' type='text' value='02-01-2020'style="background: #000000"/></td>
+                
+                <td><input class='myclass' type='button' value='modifier'/> <input class='myclass' type='button' value='supprimer'/> </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+</div>
+    </div>
+   
+    
+
+    <footer class="container-fluid text-center">
+        <div class="row">
+          <div class="col-sm-4">
+            <h3>Contact Us</h3>
+            <br>
+            <h4>+212 64 03 66 80</h4>
+            <h4>joneslowie4988@gmail.com</h4>
+          </div>
+            <div class="col-sm-4">
+            <h3>Connect</h3>
+            <a href="facebook.com" class="fa fa-facebook"></a>
+             <a href="twitter.com" class="fa fa-twitter"></a>
+              <a href="google.com" class="fa fa-google"></a>
+               <a href="instagram.com" class="fa fa-instagram"></a>
+          </div>
+            <div class="col-sm-4">
+              <!-- replace logo image here in img tag-->
+              <img src="img/w3newbie.png">
+          </div>
+        </div>
+        
+      </footer>
+      
+      </body>
+      </html>

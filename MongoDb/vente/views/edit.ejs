@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add Product</title>
+    <style>
+      body {
+        background-color: cornflowerblue;
+      }
+      h2 {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Modifier les donnees</h2>
+    <form action="/editer/:<%=produits.id %>" method="POST">
+      <p>
+        <input
+          type="hidden"
+          name="id"
+          placeholder="id produit"
+          value="<%=produits.id %>"
+        />
+        <br />
+        <input
+          type="text"
+          name="titre"
+          placeholder="titre produit"
+          value="<%=produits.titre %>"
+        />
+        <br />
+        <input
+          type="text"
+          name="categorie"
+          placeholder="categorie produit"
+          value="<%=produits.categorie %>"
+        />
+        <br />
+        <input
+          type="number"
+          name="prix"
+          placeholder="prix du produit"
+          value="<%=produits.prix %>"
+        />
+        <br />
+
+        <input type="submit" value="enregisrer produit" />
+      </p>
+    </form>
+  </body>
+</html>
