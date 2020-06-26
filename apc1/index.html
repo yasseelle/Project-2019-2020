@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" method="POST">
+
+        <input type="email" id="eml" name="email" placeholder="taper votre email" required autocomplete="off"/>
+        <input type="button" name="envoi" value="envoi" onclick="check()"/>
+
+
+
+    </form>
+
+    <script>
+        var email= document.getElementById('eml');
+        function check()
+        {
+            if(/A[a-z][0-9][0-9]_[A-Z][A-Z]@gmail.com/.test(email))
+            {
+                alert("oui");
+            }
+            else
+            {
+                alert("non");
+            }
+        }
+
+
+    </script>
+
+</body>
+</html>

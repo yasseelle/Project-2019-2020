@@ -1,0 +1,10 @@
+body{
+    background: rosybrown;
+    font-size: 22px;
+}
+#inscription{
+    position:absolute;
+    top:-20%;
+    left:200%;
+    transition:all 2s;
+}
