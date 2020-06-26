@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ajout Product</title>
+    <style>
+      body {
+        background-color: cornflowerblue;
+      }
+      h2 {
+        color: rgb(156, 136, 113);
+      }
+    </style>
+  </head>
+  <body>
+    <h2>details du produit</h2>
+    <form action="/nouveau" method="POST">
+      <p>
+        <input type="text" name="titre" placeholder="titre du produit" /> <br />
+        <input type="number" name="prix" placeholder="prix du produit" /> <br />
+        <select name="categorie">
+          <option value="pc portable">PC Portable</option>
+          <option value="pc bureau">PC Bureau</option>
+          <option value="accessoires">Accessoirs</option> </select
+        ><br />
+        <input type="submit" value="enregisrer produit" />
+      </p>
+    </form>
+  </body>
+</html>
