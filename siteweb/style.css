@@ -1,0 +1,72 @@
+﻿html,body{
+	height: 100%;
+	width: 100%;
+}
+.navbar {
+	/* navigation bar  */
+	background-color: #8B0000;
+	padding: 1% 0;
+	font-size: 1.2em;
+}
+.navbar-brand{
+
+	min-height: 55px;
+	padding: 0 50px 5px;
+
+}
+.navbar-default .navbar-nav li a {
+/* menu color*/
+	color: #ffffff;
+
+}
+.navbar-default .navbar-nav li a:hover {
+
+	color: #000000;
+	background-color: #ffffff;
+
+}
+#Home{
+	background: url(img/bgcars2.png) no-repeat center center fixed;
+	display: table;
+	height: 100%;
+	position: relative;
+	width: 100%;
+	background-size: cover;
+}
+.lunding-text{
+	display: table-cell;
+	text-align:center;
+	vertical-align: middle;
+}
+.lunding-text h1{
+	font-size: 500%;
+	font-weight: 700;
+	color: red;
+}
+ 	
+ .lunding-text h3{
+	
+	color: darkred;
+}
+.padding{
+	padding: 80px;
+}
+.padding img{
+	width: 100%;
+
+}
+footer{
+	width: 100%;
+	background-color: #8B0000;
+	padding: 5% 5px 10px 5px;
+	color: #ffffff;
+}
+.fa{
+	padding: 15px;
+	font-size: 25px;
+	color: #ffffff;
+}
+.fa:hover{
+	color: #D5D5D5;
+	text-decoration: none;
+}
