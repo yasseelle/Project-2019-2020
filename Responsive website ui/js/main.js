@@ -52,9 +52,42 @@ $(document).ready(function () {
       },
     });
   }
+
   $("#work").magnificPopup({
     delegate: "a",
     type: "image",
     gallery: { enabled: true },
+  });
+
+  $("#news-slider").owlCarousel({
+    items: 3,
+    itemsDesktop: [1199, 3],
+    itemsDesktopSmall: [100, 2],
+    itemsMobile: [599, 1],
+    pagination: false,
+    navigationText: false,
+    autoPlay: true,
+  });
+  $(".count").counterUp({
+    delay: 10,
+    time: 500,
+  });
+});
+$(function () {
+  $("#clients-list").owlCarousel({
+    items: 6,
+    autoPlay: false,
+    smartSpeed: 700,
+    loop: true,
+    autoPlayHoverPause: true,
+    nav: false,
+    dots: false,
+    responsive: {
+      0: {
+        items: 2,
+      },
+      400: { items: 3 },
+      768: { items: 3 },
+    },
   });
 });
