@@ -63,7 +63,7 @@ $(document).ready(function () {
     items: 3,
     itemsDesktop: [1199, 3],
     itemsDesktopSmall: [100, 2],
-    itemsMobile: [599, 1],
+    itemsMobile: [599, 2],
     pagination: false,
     navigationText: false,
     autoPlay: true,
@@ -88,6 +88,7 @@ $(function () {
       },
       400: { items: 3 },
       768: { items: 3 },
+      1200: { items: 3 },
     },
   });
 });

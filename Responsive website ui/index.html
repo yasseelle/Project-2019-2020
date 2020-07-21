@@ -2,15 +2,20 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restau</title>
 
     <!--link to css-->
     <link rel="stylesheet" href="css/style.css" />
     <!--bootsrap cdn-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <!--google foont -->
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" />
@@ -37,86 +42,49 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
     <link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 </head>
 
 <body>
-    <!--headr start here -->
-    <header class="header">
 
-        <ul class="bxslider">
-            <li>
-                <div class="bg-video">
-                    <video playsinline="playsinline" autoplay="autoplay" muted="autoplay" loop="loop" id="herovideo">
-                        <source src="Ressources/videos/Shots of Different Food.mp4">
-                    </video>
-                    <div class="container">
-                        <div class="vidcontent">
-                            <h1 class="text-left">WELCOME TO THE RESTAU</h1>
-                            <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
-                                temporibus autem saepe, vitae voluptatem iure voluptas reprehenderit natus labore</br>
-                                exercitationem nulla excepturi assumenda aliquid deserunt enim sunt inventore nesciunt
-                                quis.</p>
-                            <a href="" id="vidbtn">Click Here</a>
-                        </div>
-                    </div>
-                    <ul class="social-icons list-inline">
-                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                        <li><a href=""><i class="fa fa-instagram"></i></a></li>
-                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-
-                    </ul>
-                </div>
-            </li>
-            <li>
-                <div class="bg-video">
-                    <video playsinline="playsinline" autoplay="autoplay" muted="autoplay" loop="loop" id="herovideo">
-                        <source src="Ressources/videos/Cup Of Coffee On Top Of Coffee Beans.mp4">
-                    </video>
-                    <div class="container">
-                        <div class="vidcontent">
-                            <h1 class="text-left">WELCOME TO THE RESTAU</h1>
-                            <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
-                                temporibus autem saepe, vitae voluptatem iure voluptas reprehenderit natus labore</br>
-                                exercitationem nulla excepturi assumenda aliquid deserunt enim sunt inventore nesciunt
-                                quis.</p>
-                            <a href="" id="vidbtn">Click Here</a>
-                        </div>
-                    </div>
-                    <ul class="social-icons list-inline">
-                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                        <li><a href=""><i class="fa fa-instagram"></i></a></li>
-                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </li>
-            <li>
-                <div class="bg-video">
-                    <video playsinline="playsinline" autoplay="autoplay" muted="autoplay" loop="loop" id="herovideo">
-                        <source src="Ressources/videos/video.mp4">
-                    </video>
-                    <div class="container">
-                        <div class="vidcontent">
-                            <h1 class="text-left">WELCOME TO THE RESTAU</h1>
-                            <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
-                                temporibus autem saepe, vitae voluptatem iure voluptas reprehenderit natus labore</br>
-                                exercitationem nulla excepturi assumenda aliquid deserunt enim sunt inventore nesciunt
-                                quis.</p>
-                            <a href="" id="vidbtn">Click Here</a>
-                        </div>
-                    </div>
-                    <ul class="social-icons list-inline">
-                        <li><a href=""><i class="fa fa-facebook"></i></a></li>
-                        <li><a href=""><i class="fa fa-twitter"></i></a></li>
-                        <li><a href=""><i class="fa fa-instagram"></i></a></li>
-                        <li><a href=""><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </li>
+    <!-- <nav>
+        <input type="checkbox" id="check">
+        <label for="check">
+            <i class="fas fa-bars" id="btns2"></i>
+            <i class="fas fa-times" id="cancel"></i>
+        </label>
+        <img src="Ressources/images/logo.png" />
+        <ul>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#about-us">AWESOME SERVICES</a></li>
+            <li><a href="#work">SOME Of OUR PLATS</a></li>
+            <li><a href="#team">MEET OUR CHEFS</a></li>
+            <li><a href="#news-slider">NEWS</a></li>
+            <li><a href="#testimonials">OUR TEAM</a></li>
+            <li><a href="#clients-list">CLIENTS LIST</a></li>
+            <li><a href="#contact-info">CONTACT</a></li>
         </ul>
-
-        <nav class="nav">
+    </nav>-->
+    <!--headr start here -->
+    <header>
+        <a href="/"><img class="logo" src="/Ressources/images/logotwo.png" alt=""></a>
+        <div class="menu-toggle"></div>
+        <nav>
+            <ul>
+                <li><a href="#">HOME</a></li>
+                <li><a href="#about-us">AWESOME SERVICES</a></li>
+                <li><a href="#work">SOME Of OUR PLATS</a></li>
+                <li><a href="#team">MEET OUR CHEFS</a></li>
+                <li><a href="#news-slider">NEWS</a></li>
+                <li><a href="#testimonials">OUR TEAM</a></li>
+                <li><a href="#clients-list">CLIENTS LIST</a></li>
+                <li><a href="#contact-info">CONTACT</a></li>
+            </ul>
+        </nav>
+        <div class="clearfix"></div>
+        <!-- <nav class="nav">
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">features</a></li>
@@ -132,15 +100,72 @@
                 <li><a href="">Contact</a></li>
             </ul>
             <a href="javascript:void(0)" class="nav-icon"><span></span><span></span><span></span></a>
-        </nav>
+        </nav>-->
     </header>
 
+    <ul class="bxslider">
+        <li>
+            <div class="bg-video">
+                <video playsinline="playsinline" autoplay="autoplay" muted="autoplay" loop="loop" id="herovideo">
+                    <source src="Ressources/videos/Shots of Different Food.mp4">
+                </video>
+                <div class="container">
+                    <div class="vidcontent">
+                        <h1 class="text-left">WELCOME TO THE RESTAU</h1>
+                        <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
+                            temporibus autem saepe, vitae voluptatem iure voluptas reprehenderit natus labore</br>
+                            exercitationem nulla excepturi assumenda aliquid deserunt enim sunt inventore nesciunt
+                            quis.</p>
+                        <a href="" id="vidbtn">Click Here</a>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li>
+            <div class="bg-video">
+                <video playsinline="playsinline" autoplay="autoplay" muted="autoplay" loop="loop" id="herovideo">
+                    <source src="Ressources/videos/Cup Of Coffee On Top Of Coffee Beans.mp4">
+                </video>
+                <div class="container">
+                    <div class="vidcontent">
+                        <h1 class="text-left">WELCOME TO THE RESTAU</h1>
+                        <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
+                            temporibus autem saepe, vitae voluptatem iure voluptas reprehenderit natus labore</br>
+                            exercitationem nulla excepturi assumenda aliquid deserunt enim sunt inventore nesciunt
+                            quis.</p>
+                        <a href="" id="vidbtn">Click Here</a>
+                    </div>
+                </div>
+
+            </div>
+        </li>
+        <li>
+            <div class="bg-video">
+                <video playsinline="playsinline" autoplay="autoplay" muted="autoplay" loop="loop" id="herovideo">
+                    <source src="Ressources/videos/video.mp4">
+                </video>
+                <div class="container">
+                    <div class="vidcontent">
+                        <h1 class="text-left">WELCOME TO THE RESTAU</h1>
+                        <p class="text-left">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse
+                            temporibus autem saepe, vitae voluptatem iure voluptas reprehenderit natus labore</br>
+                            exercitationem nulla excepturi assumenda aliquid deserunt enim sunt inventore nesciunt
+                            quis.</p>
+                        <a href="" id="vidbtn">Click Here</a>
+                    </div>
+                </div>
+
+            </div>
+        </li>
+    </ul>
+
+
     <div style="height: 500px;"></div>
-    <div class="full-nav">
+    <!-- <div class="full-nav">
         <div class="logo">
             <a href=""> <img src="Ressources/images/logotwo.png" alt="" /></a>
         </div>
-        <nav class="nav2">
+      <nav class="nav2">
             <ul>
                 <li>
                     <a href=""><span>01.</span>Home</a>
@@ -186,7 +211,7 @@
         <div class="corner-circle">
             <a href="javascript:void(0);" class="nav-close"><span></span><span></span></a>
         </div>
-    </div>
+    </div>-->
 
     <main id="contents" role="main">
         <section id="about-us">
@@ -202,7 +227,7 @@
                                     <div class="row">
                                         <div class="col-md px-md-5">
                                             <div class="text-dark pb-3">
-                                                <i class="fa fa-shield fa-5x"></i>
+                                                <i class="fas fa-shield-alt fa-5x"></i>
                                             </div>
                                             <h4 class="text-dark">QUALITY AND HELTH</h4>
                                             </br>
@@ -261,7 +286,7 @@
 
                                         <div class="col-md px-md-5">
                                             <div class="text-dark pb-3">
-                                                <i class="fa fa-credit-card-alt fa-5x"></i>
+                                                <i class="	fas fa-credit-card fa-5x"></i>
                                             </div>
                                             <h4 class="text-dark">PAYMENT BY CASH OR CREDIT CARD </h4>
                                             </br>
@@ -316,9 +341,9 @@
                 <h3 class="text-center mt-5">SOME Of OUR PLATS</h3>
                 </br> </br>
             </div>
-            <div class="container-fluid">
+            <div class="container">
                 <div class="row no-gutter">
-                    <div class="col-md-3 col-sm-4">
+                    <div class="col-md-3 col-sm-6">
                         <div class="img-wrapper">
                             <a href="/Ressources/images/h1.jpg">
                                 <img src="/Ressources/images/h1.jpg" alt="">
@@ -749,7 +774,7 @@
                 <h3 class="color-aaa">TABLES</h3>
             </div>
             <div class="col-md-3 cols-sm-7">
-                <i class="fa fa-cutlery"></i>
+                <i class="fas fa-utensils fa-5x"></i>
                 <p class="count fs-35 color-fff fw-700">150</p>
                 <h3 class="color-aaa">recipes</h3>
             </div>
@@ -837,15 +862,15 @@
 
                             <ul class="social-list">
                                 <li><a href="" class="social-icon icon-white">
-                                        <i class="fa fa-facebook"></i>
+                                        <i class="fab fa-facebook"></i>
                                     </a>
                                 </li>
                                 <li><a href="" class="social-icon icon-white">
-                                        <i class="fa fa-twitter"></i>
+                                        <i class="fab fa-twitter"></i>
                                     </a>
                                 </li>
                                 <li><a href="" class="social-icon icon-white">
-                                        <i class="fa fa-instagram"></i>
+                                        <i class="fab fa-instagram"></i>
                                     </a>
                                 </li>
                             </ul>
@@ -884,12 +909,14 @@
                     <div class="col-md-6">
                         <div id="footer-menu">
                             <ul>
-                                <li><a href="">HOME</a></li>
-                                <li><a href="">PLATS</a></li>
-                                <li><a href="">CHEFS</a></li>
-                                <li><a href="">NEWS</a></li>
-                                <li><a href="">PLACE</a></li>
-                                <li><a href="">CLIENTS</a></li>
+                                <li><a href="#">HOME</a></li>
+                                <li><a href="#about-us">AWESOME SERVICES</a></li>
+                                <li><a href="#work">SOME Of OUR PLATS</a></li>
+                                <li><a href="#team">MEET OUR CHEFS</a></li>
+                                <li><a href="#news-slider">NEWS</a></li>
+                                <li><a href="#testimonials">OUR TEAM</a></li>
+                                <li><a href="#clients-list">CLIENTS LIST</a></li>
+                                <li><a href="#contact-info">CONTACT</a></li>
                             </ul>
                         </div>
                     </div>
@@ -897,6 +924,8 @@
             </div>
         </div>
     </footer>
+
+
 
     <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
     <script src="js/main.js"></script>
@@ -910,7 +939,15 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
     <script src="js/jquery.waypoints.min.js"></script>
     <script src="js/jquery.counterup.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('.menu-toggle').click(function () {
+                $('.menu-toggle').toggleClass('active')
+                $('nav').toggleClass('active')
 
+            })
+        })
+    </script>
 </body>
 
 </html>
