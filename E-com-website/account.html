@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fashions Store | Products</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="/images/logo.png" width="125px" alt="">
+                </div>
+                <nav>
+                    <ul id="menu-items">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                        <li><a href="account.html">Account</a></li>
+                    </ul>
+                </nav>
+                <a href="cart.html"><img src="images/cart-white.png" width="30px" height="50px" alt=""></a>
+                <img src="images/menu.png" class="menu-icon" onclick="menutoggle()">
+
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <!------------------------------account page --------------------------------- -->
+
+    <div class="account-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-2">
+                    <img src="images/image1.png" alt="">
+                </div>
+                <div class="col-2">
+                    <div class="form-container">
+                        <div class="form-btn">
+                            <span onclick="login()">Login</span>
+                            <span onclick="register()">Register</span>
+                            <hr id="indicator">
+                        </div>
+                        <form action="" id="logform">
+                            <input type="text" name="" id="" placeholder="USERNAME">
+                            <input type="password" name="" id="" placeholder="PASSWORD">
+                            <button type="submit" class="btn">Login</button>
+                            <a href="">Forget Password</a>
+                        </form>
+                        <form action="" id="regform">
+                            <input type="text" name="" id="" placeholder="USERNAME">
+                            <input type="email" name="" id="" placeholder="EMAIL">
+                            <input type="date" name="" id="" min="1950-01-01" max="2015-01-01">
+                            <select name="" id="">
+                                <option disabled selected value="">SEXE</option>
+                                <option value="">Male</option>
+                                <option value="">FeMale</option>
+                            </select>
+                            <input type="password" name="" id="" placeholder="PASSWORD">
+                            <input type="password" name="" id="" placeholder="CONFIRM PASSWORD">
+                            <button type="submit" class="btn">Register</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!------------------------------footer-------------------------------->
+
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Download Our App For Android and IOS Devices </p>
+
+                    <div class="app-logo">
+                        <img src="images/play-store.png" alt="">
+                        <img src="images/app-store.png" alt="">
+
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src="/images/logo-white.png" alt="">
+                    <p>give your lifea new look you can start on a journey to change who you are</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>Blog Post</li>
+                        <li>Return Policy</li>
+                        <li>Join Affiliate</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Twitter</li>
+                        <li>Instagram</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyrights">COPYRIGHTS © 2020 ALL RIGHTS RESERVED BY FASHIONS STORE INC.</p>
+
+        </div>
+    </div>
+
+
+    <!--js for close navbar menu-->
+
+    <script>
+        var menuitems = document.getElementById("menu-items")
+        menuitems.style.maxHeight = "0px"
+        function menutoggle() {
+            if (menuitems.style.maxHeight == "0px") {
+                menuitems.style.maxHeight = "200px"
+            }
+            else {
+                menuitems.style.maxHeight = "0px"
+            }
+        }
+
+    </script>
+
+    <!--js for login and register menu-->
+    <script>
+        var loginform = document.getElementById("logform")
+        var registerform = document.getElementById("regform")
+        var indicator = document.getElementById("indicator")
+        function register() {
+            registerform.style.transform = "translateX(0px)"
+            loginform.style.transform = "translateX(0px)"
+            indicator.style.transform = "translateX(100px)"
+        }
+        function login() {
+            registerform.style.transform = "translateX(300px)"
+            loginform.style.transform = "translateX(300px)"
+            indicator.style.transform = "translateX(0px)"
+        }
+    </script>
+
+</body>
+
+</html>
